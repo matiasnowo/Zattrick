@@ -106,7 +106,7 @@
                                   
                      <DynamicMenuItemStyle CssClass="MenuItem" />
                      <Items>
-                         <asp:MenuItem NavigateUrl="~/Equipo.aspx" Text="Plantilla" Value="Plantilla"></asp:MenuItem>
+                         <asp:MenuItem Text="Plantilla" Value="Plantilla" NavigateUrl="~/Equipo.aspx"></asp:MenuItem>
                          <asp:MenuItem Text="Tacticas" Value="Tacticas" NavigateUrl="~/Tactica.aspx"></asp:MenuItem>
                          <asp:MenuItem Text="Finanzas" Value="Finanzas" NavigateUrl="~/Finanzas.aspx"></asp:MenuItem>
                          <asp:MenuItem Text="Estadio" Value="Estadio" NavigateUrl="~/Estadio.aspx"></asp:MenuItem>
@@ -151,7 +151,7 @@
 
                 <DynamicMenuItemStyle CssClass="MenuItem" />
                 <Items>
-                    <asp:MenuItem NavigateUrl="~/Equipo.aspx" Text="Plantilla" Value="Plantilla"></asp:MenuItem>
+                    <asp:MenuItem Text="Plantilla" Value="Plantilla" NavigateUrl="~/Equipo.aspx" ></asp:MenuItem>
                     <asp:MenuItem Text="Tacticas" Value="Tacticas" NavigateUrl="~/Tactica.aspx"></asp:MenuItem>
                     <asp:MenuItem Text="Finanzas" Value="Finanzas" NavigateUrl="~/Finanzas.aspx"></asp:MenuItem>
                     <asp:MenuItem Text="Estadio" Value="Estadio" NavigateUrl="~/Estadio.aspx"></asp:MenuItem>
