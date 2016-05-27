@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------
+:) Ya se como hacer esto :)
+Funcionalidad Tacticas:
+
+- La parte de "Cambio Tactica"
+- Comprobar que no se repitan jugadores teniendo en cuenta Suplentes
+- Recuperar Ultima Tactica Guardada
+
+-----------------------------------------------------------------------------------------------

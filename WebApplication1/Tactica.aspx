@@ -55,7 +55,7 @@
             <asp:ListItem Value="GK">Portero</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-        <asp:DropDownList ID="DropDownList156" runat="server" DataSourceID="SqlDataSource2" AutoPostBack = "true"   DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList24_SelectedIndexChanged" style="height: 22px">
+        <asp:DropDownList ID="DropDownList156" runat="server" DataSourceID="SqlDataSource2" AutoPostBack = "true"   DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList156_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
         <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT [Name] FROM [Jugadores] WHERE ([Equipo] = ?)" OnSelecting="SqlDataSource2_Selecting">
             <SelectParameters>
@@ -151,8 +151,8 @@
     <p>
         Jugador6
         <asp:DropDownList ID="DropDownList124" runat="server">
-            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="MF">Volante</asp:ListItem>
+            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="AM">Volante Ofe</asp:ListItem>
             <asp:ListItem Value="DF">Defensor</asp:ListItem>
         </asp:DropDownList>
@@ -168,8 +168,8 @@
     <p>
         Jugador7
         <asp:DropDownList ID="DropDownList125" runat="server">
-            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="MF">Volante</asp:ListItem>
+            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="AM">Volante Ofe</asp:ListItem>
             <asp:ListItem Value="DF">Defensor</asp:ListItem>
             <asp:ListItem Value="FW">Delantero</asp:ListItem>
@@ -186,8 +186,8 @@
     <p>
         Jugador8
         <asp:DropDownList ID="DropDownList126" runat="server">
-            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="MF">Volante</asp:ListItem>
+            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="AM">Volante Ofe</asp:ListItem>
             <asp:ListItem Value="FW">Delantero</asp:ListItem>
         </asp:DropDownList>
@@ -203,8 +203,8 @@
     <p>
         Jugador9
         <asp:DropDownList ID="DropDownList130" runat="server">
-            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="MF">Volante</asp:ListItem>
+            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="AM">Volante Ofe</asp:ListItem>
             <asp:ListItem Value="FW">Delantero</asp:ListItem>
         </asp:DropDownList>
@@ -268,10 +268,11 @@
             <asp:ListItem Value="CambiarTactica">Cambiar Tactica</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-        <asp:DropDownList ID="DropDownList63" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource4" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList63_SelectedIndexChanged">
+        <asp:DropDownList ID="DropDownList63" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource5" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList63_SelectedIndexChanged">
+            <asp:ListItem></asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-        <asp:DropDownList ID="DropDownList64" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource4" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList64_SelectedIndexChanged">
+        <asp:DropDownList ID="DropDownList64" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource6" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList64_SelectedIndexChanged">
         </asp:DropDownList>
     &nbsp;-&nbsp;<asp:DropDownList AutoPostBack = "true" Enabled="false" ID="DropDownList260" runat="server" OnSelectedIndexChanged="DropDownList260_SelectedIndexChanged">
             <asp:ListItem Value="GK">Portero</asp:ListItem>
@@ -295,8 +296,8 @@
             <br />
         SI
         <asp:DropDownList ID="DropDownList174" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList174_SelectedIndexChanged">
-            <asp:ListItem>Minuto</asp:ListItem>
-            <asp:ListItem>Resultado</asp:ListItem>
+            <asp:ListItem Value="MIN">Minuto</asp:ListItem>
+            <asp:ListItem Value="SCORE">Resultado</asp:ListItem>
             <asp:ListItem Selected="True"></asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
@@ -340,8 +341,8 @@
         &nbsp;Y SI
         <asp:DropDownList ID="DropDownList261" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList261_SelectedIndexChanged">
             <asp:ListItem Selected="True"></asp:ListItem>
-            <asp:ListItem Enabled="False">Minuto</asp:ListItem>
-            <asp:ListItem>Resultado</asp:ListItem>
+            <asp:ListItem Value="MIN">Minuto</asp:ListItem>
+            <asp:ListItem Value="SCORE">Resultado</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
         <asp:DropDownList ID="DropDownList262" AutoPostBack = "true" Enabled="false" runat="server">
@@ -381,19 +382,21 @@
             <asp:ListItem>90</asp:ListItem>
             <asp:ListItem Selected="True"></asp:ListItem>
         </asp:DropDownList>
+            &nbsp;
+            <asp:CheckBox ID="Orden1Boolean" runat="server"  />
         </asp:Panel>                
         <asp:Panel ID="Panel2" runat="server" Height="80px" BackColor="#BBDDFF" CssClass="float-right" HorizontalAlign="Center" Width="501px">2)
-        <asp:DropDownList ID="DropDownList65" AutoPostBack = "true" runat="server">
+        <asp:DropDownList ID="DropDownList65" AutoPostBack = "true" runat="server" OnSelectedIndexChanged="DropDownList65_SelectedIndexChanged">
             <asp:ListItem Selected="True"></asp:ListItem>
             <asp:ListItem Value="CambiarJugador">Cambiar Jugador</asp:ListItem>
             <asp:ListItem Value="CambiarPosicion">Cambiar Posicion</asp:ListItem>
             <asp:ListItem Value="CambiarTactica">Cambiar Tactica</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-    <asp:DropDownList ID="DropDownList66" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource4" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList66_SelectedIndexChanged">
+    <asp:DropDownList ID="DropDownList66" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource5" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList66_SelectedIndexChanged">
         </asp:DropDownList>
     &nbsp;-
-       <asp:DropDownList ID="DropDownList67" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource4" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList67_SelectedIndexChanged">
+       <asp:DropDownList ID="DropDownList67" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource6" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList67_SelectedIndexChanged">
         </asp:DropDownList>
             &nbsp;-
             
@@ -417,8 +420,8 @@
                 <asp:ListItem Selected="True"></asp:ListItem>
             </asp:DropDownList><br />
             &nbsp;SI&nbsp;<asp:DropDownList ID="DropDownList179" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList179_SelectedIndexChanged">
-            <asp:ListItem>Minuto</asp:ListItem>
-            <asp:ListItem>Resultado</asp:ListItem>
+            <asp:ListItem Value="MIN">Minuto</asp:ListItem>
+            <asp:ListItem Value="SCORE">Resultado</asp:ListItem>
             <asp:ListItem Selected="True"></asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
@@ -462,8 +465,8 @@
               &nbsp;Y SI
         <asp:DropDownList ID="DropDownList300" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList300_SelectedIndexChanged">
             <asp:ListItem Selected="True"></asp:ListItem>
-            <asp:ListItem Enabled="False">Minuto</asp:ListItem>
-            <asp:ListItem>Resultado</asp:ListItem>
+            <asp:ListItem Enabled="False" Value="MIN">Minuto</asp:ListItem>
+            <asp:ListItem Value="SCORE">Resultado</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
         <asp:DropDownList ID="DropDownList301" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList301_SelectedIndexChanged">
@@ -503,6 +506,7 @@
             <asp:ListItem>90</asp:ListItem>
             <asp:ListItem Selected="True"></asp:ListItem>
         </asp:DropDownList>
+            &nbsp;<asp:CheckBox ID="Orden2Boolean" runat="server" />
 </asp:Panel>
     
      
@@ -515,10 +519,10 @@
             <asp:ListItem Value="CambiarTactica">Cambiar Tactica</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-    <asp:DropDownList ID="DropDownList304" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource4" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList304_SelectedIndexChanged">
+    <asp:DropDownList ID="DropDownList304" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource5" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList304_SelectedIndexChanged">
         </asp:DropDownList>
     &nbsp;-
-       <asp:DropDownList ID="DropDownList305" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource4" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList305_SelectedIndexChanged">
+       <asp:DropDownList ID="DropDownList305" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource6" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList305_SelectedIndexChanged">
         </asp:DropDownList>
             &nbsp;-
             
@@ -542,8 +546,8 @@
                 <asp:ListItem Selected="True"></asp:ListItem>
             </asp:DropDownList><br />
             &nbsp;SI&nbsp;<asp:DropDownList ID="DropDownList307" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList307_SelectedIndexChanged">
-            <asp:ListItem>Minuto</asp:ListItem>
-            <asp:ListItem>Resultado</asp:ListItem>
+            <asp:ListItem Value="MIN">Minuto</asp:ListItem>
+            <asp:ListItem Value="SCORE">Resultado</asp:ListItem>
             <asp:ListItem Selected="True"></asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
@@ -587,8 +591,8 @@
               &nbsp;Y SI
         <asp:DropDownList ID="DropDownList310" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList310_SelectedIndexChanged">
             <asp:ListItem Selected="True"></asp:ListItem>
-            <asp:ListItem Enabled="False">Minuto</asp:ListItem>
-            <asp:ListItem>Resultado</asp:ListItem>
+            <asp:ListItem Enabled="False" Value="MIN">Minuto</asp:ListItem>
+            <asp:ListItem Value="SCORE">Resultado</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
         <asp:DropDownList ID="DropDownList311" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList311_SelectedIndexChanged">
@@ -628,6 +632,7 @@
             <asp:ListItem>90</asp:ListItem>
             <asp:ListItem Selected="True"></asp:ListItem>
         </asp:DropDownList>
+            &nbsp;<asp:CheckBox ID="Orden3Boolean" runat="server" />
 </asp:Panel>
     
      
@@ -640,10 +645,10 @@
             <asp:ListItem Value="CambiarTactica">Cambiar Tactica</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-    <asp:DropDownList ID="DropDownList314" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource4" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList314_SelectedIndexChanged">
+    <asp:DropDownList ID="DropDownList314" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource5" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList314_SelectedIndexChanged">
         </asp:DropDownList>
     &nbsp;-
-       <asp:DropDownList ID="DropDownList315" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource4" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList315_SelectedIndexChanged">
+       <asp:DropDownList ID="DropDownList315" runat="server" Enabled="false" AutoPostBack = "true" DataSourceID="SqlDataSource6" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList315_SelectedIndexChanged">
         </asp:DropDownList>
             &nbsp;-
             
@@ -667,8 +672,8 @@
                 <asp:ListItem Selected="True"></asp:ListItem>
             </asp:DropDownList><br />
             &nbsp;SI&nbsp;<asp:DropDownList ID="DropDownList317" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList317_SelectedIndexChanged">
-            <asp:ListItem>Minuto</asp:ListItem>
-            <asp:ListItem>Resultado</asp:ListItem>
+            <asp:ListItem Value="MIN">Minuto</asp:ListItem>
+            <asp:ListItem Value="SCORE">Resultado</asp:ListItem>
             <asp:ListItem Selected="True"></asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
@@ -712,8 +717,8 @@
               &nbsp;Y SI
         <asp:DropDownList ID="DropDownList320" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList320_SelectedIndexChanged">
             <asp:ListItem Selected="True"></asp:ListItem>
-            <asp:ListItem Enabled="False">Minuto</asp:ListItem>
-            <asp:ListItem>Resultado</asp:ListItem>
+            <asp:ListItem Enabled="False" Value="MIN">Minuto</asp:ListItem>
+            <asp:ListItem Value="SCORE">Resultado</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
         <asp:DropDownList ID="DropDownList321" AutoPostBack = "true" Enabled="false" runat="server" OnSelectedIndexChanged="DropDownList321_SelectedIndexChanged">
@@ -753,6 +758,7 @@
             <asp:ListItem>90</asp:ListItem>
             <asp:ListItem Selected="True"></asp:ListItem>
         </asp:DropDownList>
+            &nbsp;<asp:CheckBox ID="Orden4Boolean" runat="server" />
 </asp:Panel>
     
      
@@ -776,13 +782,25 @@
                 <asp:ControlParameter ControlID="DropDownList165" Name="Name11" PropertyName="SelectedValue" Type="String" />
             </SelectParameters>
         </asp:SqlDataSource>
+        <asp:SqlDataSource ID="SqlDataSource6" runat="server"   ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT [Name] FROM [Jugadores] WHERE (([Equipo] = ?) AND ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?))">
+            <SelectParameters>
+                <asp:SessionParameter Name="Equipo" SessionField="Equipo" Type="String" />
+                <asp:ControlParameter ControlID="DropDownList167" Name="Name" PropertyName="SelectedValue" Type="String" />
+                <asp:ControlParameter ControlID="DropDownList168" Name="Name2" PropertyName="SelectedValue" Type="String" />
+                <asp:ControlParameter ControlID="DropDownList169" Name="Name3" PropertyName="SelectedValue" Type="String" />
+                <asp:ControlParameter ControlID="DropDownList170" Name="Name4" PropertyName="SelectedValue" Type="String" />
+                <asp:ControlParameter ControlID="DropDownList171" Name="Name5" PropertyName="SelectedValue" Type="String" />
+                <asp:ControlParameter ControlID="DropDownList172" Name="Name6" PropertyName="SelectedValue" Type="String" />
+                <asp:ControlParameter ControlID="DropDownList173" Name="Name7" PropertyName="SelectedValue" Type="String" />
+            </SelectParameters>
+        </asp:SqlDataSource>
     <p>
         Suplente1
         <asp:DropDownList ID="DropDownList132" runat="server">
             <asp:ListItem Value="GK">Portero</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-        <asp:DropDownList ID="DropDownList167" runat="server" DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList167_SelectedIndexChanged" style="height: 22px">
+        <asp:DropDownList ID="DropDownList167" runat="server"  AutoPostBack = "true"  DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList167_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
     <p>
         Suplente2 <asp:DropDownList ID="DropDownList133" runat="server">
@@ -799,7 +817,7 @@
             <asp:ListItem Value="R">Derecha</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-        <asp:DropDownList ID="DropDownList168" runat="server" DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList168_SelectedIndexChanged" style="height: 22px">
+        <asp:DropDownList ID="DropDownList168" runat="server"  AutoPostBack = "true"   DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList168_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
     <p>
         Suplente3
@@ -817,7 +835,7 @@
             <asp:ListItem Value="R">Derecha</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-        <asp:DropDownList ID="DropDownList169" runat="server" DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList169_SelectedIndexChanged" style="height: 22px">
+        <asp:DropDownList ID="DropDownList169" runat="server"  AutoPostBack = "true"   DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList169_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
     <p>
         Suplente4 <asp:DropDownList ID="DropDownList135" runat="server">
@@ -834,7 +852,7 @@
             <asp:ListItem Value="R">Derecha</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-        <asp:DropDownList ID="DropDownList170" runat="server"  DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList170_SelectedIndexChanged" style="height: 22px">
+        <asp:DropDownList ID="DropDownList170" runat="server"  AutoPostBack = "true"    DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList170_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
     <p>
         Suplente5
@@ -852,7 +870,7 @@
             <asp:ListItem Value="R">Derecha</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-        <asp:DropDownList ID="DropDownList171" runat="server" DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList171_SelectedIndexChanged" style="height: 22px">
+        <asp:DropDownList ID="DropDownList171" runat="server"  AutoPostBack = "true"   DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList171_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
     <p>
         Suplente6 <asp:DropDownList ID="DropDownList137" runat="server">
@@ -869,7 +887,7 @@
             <asp:ListItem Value="R">Derecha</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-        <asp:DropDownList ID="DropDownList172" runat="server" DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList172_SelectedIndexChanged" style="height: 22px">
+        <asp:DropDownList ID="DropDownList172" runat="server"  AutoPostBack = "true"   DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList172_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
         <p>
         Suplente7
@@ -887,7 +905,7 @@
             <asp:ListItem Value="R">Derecha</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
-        <asp:DropDownList ID="DropDownList173" runat="server" DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList173_SelectedIndexChanged" style="height: 22px">
+        <asp:DropDownList ID="DropDownList173" runat="server"  AutoPostBack = "true"   DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList173_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
     <asp:Panel ID="Panel6" runat="server" BorderStyle="None" HorizontalAlign="Center" Width="500px">
         <br />

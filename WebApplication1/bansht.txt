@@ -1,21 +1,21 @@
 ban
-
-
-GK B_Leyenda
-DFL B_Leyenda
-DFC B_Leyenda
-DFC B_Leyenda
-DFR B_Leyenda
-DML B_Leyenda
-DMC B_Leyenda
-DMC B_Leyenda
-DMR B_Leyenda
-FWC A_Chari
-FWC B_Leyenda
+L
 
 GK B_Leyenda
+DFL G_Lux_Jr
+DFC S_Ochacle
+DFC M_Materazzi
+DFR F_Noguera
+MFL M_Bustamante
+MFC M_Dos_Santos
+MFC M_Galarza
+MFR H_Bracamonte
+FWC L_Álvarez
+FWC Edgar_Davids
+
+GK B_Leyenda
 DFC B_Leyenda
-DFC B_Leyenda
+DFC S_Fukube
 MFC B_Leyenda
 MFC B_Leyenda
 FWC B_Leyenda

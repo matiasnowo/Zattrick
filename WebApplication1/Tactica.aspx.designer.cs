@@ -472,6 +472,15 @@ namespace AppWeb {
         protected global::System.Web.UI.WebControls.DropDownList DropDownList263;
         
         /// <summary>
+        /// Control Orden1Boolean.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox Orden1Boolean;
+        
+        /// <summary>
         /// Control Panel2.
         /// </summary>
         /// <remarks>
@@ -569,6 +578,15 @@ namespace AppWeb {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList DropDownList302;
+        
+        /// <summary>
+        /// Control Orden2Boolean.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox Orden2Boolean;
         
         /// <summary>
         /// Control Panel3.
@@ -670,6 +688,15 @@ namespace AppWeb {
         protected global::System.Web.UI.WebControls.DropDownList DropDownList312;
         
         /// <summary>
+        /// Control Orden3Boolean.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox Orden3Boolean;
+        
+        /// <summary>
         /// Control Panel4.
         /// </summary>
         /// <remarks>
@@ -769,6 +796,15 @@ namespace AppWeb {
         protected global::System.Web.UI.WebControls.DropDownList DropDownList322;
         
         /// <summary>
+        /// Control Orden4Boolean.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox Orden4Boolean;
+        
+        /// <summary>
         /// Control DropDownList166.
         /// </summary>
         /// <remarks>
@@ -785,6 +821,15 @@ namespace AppWeb {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource5;
+        
+        /// <summary>
+        /// Control SqlDataSource6.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource6;
         
         /// <summary>
         /// Control DropDownList132.
