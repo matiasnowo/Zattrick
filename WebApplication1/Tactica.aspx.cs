@@ -90,9 +90,20 @@ namespace AppWeb
                
                 DropDownList64.Enabled = true;
 
+              
 
             }
 
+
+            if (DropDownList62.SelectedValue == "CambiarPosicion")
+            {
+
+
+                DropDownList64.Enabled = true;
+
+
+
+            }
 
         }
 
@@ -404,6 +415,17 @@ namespace AppWeb
             TacticaAEnviar.Player9 = DropDownList130.SelectedValue + DropDownList146.SelectedValue + " " + DropDownList163.SelectedItem.Text;
             TacticaAEnviar.Player10 = DropDownList131.SelectedValue + DropDownList147.SelectedValue + " " + DropDownList164.SelectedItem.Text;
             TacticaAEnviar.Player11 = DropDownList129.SelectedValue + DropDownList148.SelectedValue + " " + DropDownList165.SelectedItem.Text;
+            TacticaAEnviar.PK = "PK: " + DropDownList166.SelectedItem.Text;
+            TacticaAEnviar.Sustitute1 = "GK " + DropDownList167.SelectedItem.Text;
+            TacticaAEnviar.Sustitute2 = DropDownList133.SelectedValue + DropDownList254.SelectedValue + " " + DropDownList168.SelectedItem.Text;
+            TacticaAEnviar.Sustitute3 = DropDownList134.SelectedValue + DropDownList255.SelectedValue + " " + DropDownList169.SelectedItem.Text;
+            TacticaAEnviar.Sustitute4 = DropDownList135.SelectedValue + DropDownList256.SelectedValue + " " + DropDownList170.SelectedItem.Text;
+            TacticaAEnviar.Sustitute5 = DropDownList136.SelectedValue + DropDownList257.SelectedValue + " " + DropDownList171.SelectedItem.Text;
+            TacticaAEnviar.Sustitute6 = DropDownList137.SelectedValue + DropDownList258.SelectedValue + " " + DropDownList172.SelectedItem.Text;
+            TacticaAEnviar.Sustitute7 = DropDownList138.SelectedValue + DropDownList259.SelectedValue + " " + DropDownList173.SelectedItem.Text;
+
+
+
 
 
 
