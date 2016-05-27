@@ -78,19 +78,21 @@ namespace DataAcces
             for (int h = 0; h < ListaFINALdeLineas.Count; h++)
             {
                 lines[h] = ListaFINALdeLineas.ElementAt(h);
-
-
-                System.IO.File.WriteAllLines("C:\\Users\\matia\\Dropbox\\3. Zattrick\\5. C# - Zattrick\\Solution1\\WebApplication1\\" + Tactic.Equipo + "sht.txt", lines, System.Text.Encoding.Default);
-
-
-
             }
+
+
+      
+
+               //  System.IO.File.WriteAllLines("C:\\Users\\matia\\Dropbox\\3. Zattrick\\5. C# - Zattrick\\Solution1\\WebApplication1\\" + Tactic.Equipo + "sht.txt", lines, System.Text.Encoding.Default);
+            System.IO.File.WriteAllLines(System.AppDomain.CurrentDomain.BaseDirectory + Tactic.Equipo + "sht.txt", lines, System.Text.Encoding.Default);
+
 
 
 
         }
+
+
     }
+
+
 }
-
-
-

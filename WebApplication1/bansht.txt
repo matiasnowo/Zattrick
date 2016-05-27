@@ -10,18 +10,18 @@ DML B_Leyenda
 DMC B_Leyenda
 DMC B_Leyenda
 DMR B_Leyenda
+FWC A_Chari
+FWC B_Leyenda
+
+GK B_Leyenda
+DFC B_Leyenda
+DFC B_Leyenda
+MFC B_Leyenda
+MFC B_Leyenda
 FWC B_Leyenda
 FWC B_Leyenda
 
-
-
-
-
-
-
-
-
-
+PK: B_Leyenda
 
 
 

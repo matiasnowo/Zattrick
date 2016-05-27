@@ -160,7 +160,7 @@ namespace DataAcces
            //  System.IO.StreamReader file = new System.IO.StreamReader("C:\\Users\\matias.nowogrodzki\\Dropbox\\3. Zattrick\\5. C# - Zattrick\\Solution1\\WebApplication1\\" + teams.ElementAt(i).Archivo, System.Text.Encoding.Default, false);
                                                                    
              // Casa PC //  
-             System.IO.StreamReader file = new System.IO.StreamReader("C:\\Users\\matia\\Dropbox\\3. Zattrick\\5. C# - Zattrick\\Solution1\\WebApplication1\\" + teams.ElementAt(i).Archivo, System.Text.Encoding.Default, false);
+             System.IO.StreamReader file = new System.IO.StreamReader(System.AppDomain.CurrentDomain.BaseDirectory + teams.ElementAt(i).Archivo, System.Text.Encoding.Default, false);
                                                                        
                 DataAcces.JugadorDAO cnd = new DataAcces.JugadorDAO();
 
@@ -267,7 +267,7 @@ namespace DataAcces
                 //Notebook //
              //   System.IO.File.WriteAllLines("C:\\Users\\matias.nowogrodzki\\Dropbox\\3. Zattrick\\5. C# - Zattrick\\Solution1\\WebApplication1\\" + teams[j].Archivo, lines, System.Text.Encoding.Default);
                 // Casa PC //  
-              System.IO.File.WriteAllLines("C:\\Users\\matia\\Dropbox\\3. Zattrick\\5. C# - Zattrick\\Solution1\\WebApplication1\\" + teams[j].Archivo, lines, System.Text.Encoding.Default);
+              System.IO.File.WriteAllLines(System.AppDomain.CurrentDomain.BaseDirectory + teams[j].Archivo, lines, System.Text.Encoding.Default);
               
   
             }
@@ -309,7 +309,7 @@ namespace DataAcces
                 //Notebook //
               // System.IO.File.WriteAllLines("C:\\Users\\matias.nowogrodzki\\Dropbox\\3. Zattrick\\5. C# - Zattrick\\Solution1\\WebApplication1\\" + TEAM.Archivo, lines, System.Text.Encoding.Default);
             // Casa PC // 
-            System.IO.File.WriteAllLines("C:\\Users\\matia\\Dropbox\\3. Zattrick\\5. C# - Zattrick\\Solution1\\WebApplication1\\" + TEAM.Archivo, lines, System.Text.Encoding.Default);
+            System.IO.File.WriteAllLines(System.AppDomain.CurrentDomain.BaseDirectory + TEAM.Archivo, lines, System.Text.Encoding.Default);
 
 
 
