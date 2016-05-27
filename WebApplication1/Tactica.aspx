@@ -135,9 +135,9 @@
         Jugador5
         <asp:DropDownList ID="DropDownList5" runat="server">
             <asp:ListItem Value="DF">Defensor</asp:ListItem>
-            <asp:ListItem>Volante Def</asp:ListItem>
+            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="MF">Volante</asp:ListItem>
-            <asp:ListItem>Volante Ofe</asp:ListItem>
+            <asp:ListItem Value="AM">Volante Ofe</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
         <asp:DropDownList ID="DropDownList142" runat="server">
@@ -151,9 +151,9 @@
     <p>
         Jugador6
         <asp:DropDownList ID="DropDownList124" runat="server">
-            <asp:ListItem>Volante Def</asp:ListItem>
+            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="MF">Volante</asp:ListItem>
-            <asp:ListItem>Volante Ofe</asp:ListItem>
+            <asp:ListItem Value="AM">Volante Ofe</asp:ListItem>
             <asp:ListItem Value="DF">Defensor</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
@@ -168,9 +168,9 @@
     <p>
         Jugador7
         <asp:DropDownList ID="DropDownList125" runat="server">
-            <asp:ListItem>Volante Def</asp:ListItem>
+            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="MF">Volante</asp:ListItem>
-            <asp:ListItem>Volante Ofe</asp:ListItem>
+            <asp:ListItem Value="AM">Volante Ofe</asp:ListItem>
             <asp:ListItem Value="DF">Defensor</asp:ListItem>
             <asp:ListItem Value="FW">Delantero</asp:ListItem>
         </asp:DropDownList>
@@ -186,9 +186,9 @@
     <p>
         Jugador8
         <asp:DropDownList ID="DropDownList126" runat="server">
-            <asp:ListItem>Volante Def</asp:ListItem>
+            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="MF">Volante</asp:ListItem>
-            <asp:ListItem>Volante Ofe</asp:ListItem>
+            <asp:ListItem Value="AM">Volante Ofe</asp:ListItem>
             <asp:ListItem Value="FW">Delantero</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
@@ -203,9 +203,9 @@
     <p>
         Jugador9
         <asp:DropDownList ID="DropDownList130" runat="server">
-            <asp:ListItem>Volante Def</asp:ListItem>
+            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="MF">Volante</asp:ListItem>
-            <asp:ListItem>Volante Ofe</asp:ListItem>
+            <asp:ListItem Value="AM">Volante Ofe</asp:ListItem>
             <asp:ListItem Value="FW">Delantero</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
@@ -221,9 +221,9 @@
         Jugador10
         <asp:DropDownList ID="DropDownList131" runat="server">
             <asp:ListItem Value="FW">Delantero</asp:ListItem>
-            <asp:ListItem>Volante Def</asp:ListItem>
+            <asp:ListItem Value="DM">Volante Def</asp:ListItem>
             <asp:ListItem Value="MF">Volante</asp:ListItem>
-            <asp:ListItem>Volante Ofe</asp:ListItem>
+            <asp:ListItem Value="AM">Volante Ofe</asp:ListItem>
         </asp:DropDownList>
     &nbsp;-
         <asp:DropDownList ID="DropDownList147" runat="server">
@@ -884,7 +884,8 @@
         <asp:DropDownList ID="DropDownList173" runat="server" DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList173_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
     <asp:Panel ID="Panel6" runat="server" BorderStyle="None" HorizontalAlign="Center" Width="500px">
-        <asp:Button ID="Guardar" runat="server" Text="Guardar Tactica" BorderStyle="Solid" BorderWidth="7px" BorderColor="Black" Font-Underline="False" />
+        <br />
+        <asp:Button ID="Guardar" runat="server" Text="Guardar Tactica" BorderStyle="Solid" BorderWidth="7px" BorderColor="Black" Font-Underline="False" OnClick="Guardar_Click" />
     </asp:Panel>
 </asp:Content>
 

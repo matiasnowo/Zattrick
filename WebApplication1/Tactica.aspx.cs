@@ -373,6 +373,55 @@ namespace AppWeb
         {
 
         }
+
+        protected void Guardar_Click(object sender, EventArgs e)
+        {
+
+
+
+
+
+
+
+
+
+            TacticasDAO TD = new TacticasDAO();
+            EquipoDAO ED = new EquipoDAO();
+
+            Model.Tactica TacticaAEnviar = new Model.Tactica();
+            string Archivo = ED.GetNombreArchivoDeEquipo(Titulo.Text);
+
+            TacticaAEnviar.Equipo = Archivo.Replace(".txt" , "");
+            TacticaAEnviar.Tactic = DropTactic.SelectedValue;
+            TacticaAEnviar.Player1 = "GK " + DropDownList156.SelectedItem.Text;
+            TacticaAEnviar.Player2 = "DF" + DropDownList13.SelectedValue + " " + DropDownList24.SelectedItem.Text;
+            TacticaAEnviar.Player3 = "DF" + DropDownList140.SelectedValue + " " + DropDownList157.SelectedItem.Text;
+            TacticaAEnviar.Player4 = "DF" + DropDownList141.SelectedValue + " " + DropDownList158.SelectedItem.Text;
+            TacticaAEnviar.Player5 = DropDownList5.SelectedValue + DropDownList142.SelectedValue + " " + DropDownList159.SelectedItem.Text;
+            TacticaAEnviar.Player6 = DropDownList124.SelectedValue + DropDownList143.SelectedValue + " " + DropDownList160.SelectedItem.Text;
+            TacticaAEnviar.Player7 = DropDownList125.SelectedValue + DropDownList144.SelectedValue + " " + DropDownList161.SelectedItem.Text;
+            TacticaAEnviar.Player8 = DropDownList126.SelectedValue + DropDownList145.SelectedValue + " " + DropDownList162.SelectedItem.Text;
+            TacticaAEnviar.Player9 = DropDownList130.SelectedValue + DropDownList146.SelectedValue + " " + DropDownList163.SelectedItem.Text;
+            TacticaAEnviar.Player10 = DropDownList131.SelectedValue + DropDownList147.SelectedValue + " " + DropDownList164.SelectedItem.Text;
+            TacticaAEnviar.Player11 = DropDownList129.SelectedValue + DropDownList148.SelectedValue + " " + DropDownList165.SelectedItem.Text;
+
+
+
+            TD.ActualizarTxtdeTactica(TacticaAEnviar);
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
     }
 }
         

@@ -12,16 +12,34 @@ namespace DataAcces
    public class EquipoDAO
     {
 
-       public List<Equipo> GetEquipos()
-       {
-           string query = "SELECT * FROM Equipos";
-           List<Equipo> equipos = tratarResultadoEquipo(query);
+        public List<Equipo> GetEquipos()
+        {
+            string query = "SELECT * FROM Equipos";
+            List<Equipo> equipos = tratarResultadoEquipo(query);
 
-           return equipos;
-       }
+            return equipos;
+        }
+
+        public string GetNombreArchivoDeEquipo(string Nombre)
+        {
+            string archivote = "";
+            string query = "SELECT Archivo FROM Equipos WHERE Nombre = '" + Nombre + "'";
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
+
+            while (dr.Read())
+            {
+
+                archivote = (string)dr["Archivo"];
 
 
-       public List<Equipo> tratarResultadoEquipo(string query)
+            }
+            dr.Close();
+
+            return archivote;
+        }
+
+
+        public List<Equipo> tratarResultadoEquipo(string query)
         {
             List<Equipo> equipos = new List<Equipo>();
             OleDbDataReader dr = new ConnectionDAO().consulta(query);
@@ -34,8 +52,7 @@ namespace DataAcces
             return equipos;
         }
 
-
-       
+        
 
 
 
