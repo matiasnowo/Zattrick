@@ -867,7 +867,7 @@
     &nbsp;-
         <asp:DropDownList ID="DropDownList172" runat="server" DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList172_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
-    <p>
+        <p>
         Suplente7
         <asp:DropDownList ID="DropDownList138" runat="server">
             <asp:ListItem Value="DF">Defensor</asp:ListItem>
@@ -883,7 +883,10 @@
     &nbsp;-
         <asp:DropDownList ID="DropDownList173" runat="server" DataSourceID="SqlDataSource2" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList173_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
-    </asp:Content>
+    <asp:Panel ID="Panel6" runat="server" BorderStyle="None" HorizontalAlign="Center" Width="500px">
+        <asp:Button ID="Guardar" runat="server" Text="Guardar Tactica" BorderStyle="Solid" BorderWidth="7px" BorderColor="Black" Font-Underline="False" />
+    </asp:Panel>
+</asp:Content>
 
         
 <asp:Content ID="Content1" runat="server" contentplaceholderid="HeadContent">
