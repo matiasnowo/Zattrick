@@ -1,0 +1,42 @@
+FASE 1 (23,3%):
+
+Interfaz Grafica y Funcionalidad Basica:
+
+Plantilla/Equipo -> 70%
+Jugador -> 50%
+Tacticas -> 20%
+Partidos -> 0%
+Inferiores -> 60%
+Instalaciones de Entrenamiento -> 0%
+Contratos -> 0%
+Estadio -> 80%
+Primera Division -> 0%
+Copa -> 0%
+Pantalla de Inicio -> 0%
+jugadores Libres -> 0%
+
+Fase 2 (0%):
+
+Funcionalidad Compleja:
+
+Realizacion de Partidos.
+Auto-entrenamiento.
+Generar Cronograma.
+Historial de Jugadores.
+Programacion de Sueldos.
+Profundizar en Inferiores.
+Subastas automaticas.
+Notificaciones. (Via mail opcionalmente)
+Auto-Actualizacion Post-Temporada.
+Capacidad de Ojeo.
+
+Fase 3 (0%):
+
+Funcionalidad Intermedia, posponible:
+
+Nacionalizar jugadores.
+Ventas de jugadores al extranjero.
+Capacidad de pedido de prestamo a Bancos
+Declaracion en Banca Rota
+Equilibrio de jugadores (Limite de habilidad por temporada)
+Conversion de jugador a Entrenador.

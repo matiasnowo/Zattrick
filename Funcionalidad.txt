@@ -1,0 +1,121 @@
+--Login--
+Realizar Login
+
+--Registracion--
+Registrar Usuario Full
+Registrar Usuario Medio
+
+--Menu Inicial--
+Entrar al Menu Inicial (Se ven algunos datos de importancia a convenir)
+
+	--Subasta Semanal--
+	Entrar a Subasta Semanal
+	Ofertar en Subasta Semanal
+
+	--Eleccion de Equipo-- (Solo Usuarios Full sin equipo)
+	Entrar a Eleccion de Equipos
+	Realizar Eleccion de Equipo
+
+	--Liga--
+	Entrar a Liga (Se ve el proximo partido, tabla de posiciones y el resultado del partido anterior(Acceso al detalle del partido anterior))
+	
+		--Fixture Completo--
+		Entrar a Fixture Completo
+		
+			-Partido-
+			Entrar al detalle del partido
+
+	--Copa--
+	Entrar a Liga (Mismo que Liga)
+	
+		--Fixture Completo--
+		Entrar a Fixture Completo
+		
+			-Partido-
+			Entrar al detalle del partido
+
+	--Equipo--
+	Entrar a Equipo (Se ven datos basico del equipo)
+
+		--Entrenador--
+		Entrar a Entrenador
+		Modificar Entrenador
+
+		--Plantilla--
+		Entrar a Plantilla
+		Modificar Plantilla
+
+			--Tacticas--
+			Entrar a Tacticas
+			Modificar Tacticas
+
+			--Jugador--
+			Entrar a Detalle del Jugador
+
+				--Carrera--
+				Entrar a Carrera del Jugador
+
+		--Entrenamiento--
+		Entrar a Entrenamiento
+		Modificar Tipo de Entrenamiento
+
+		--Juveniles--
+		Entrar a Juveniles
+		Modificar Inversion en Juveniles
+		Promover Juvenil
+
+		--Contratos--
+		Entrar a Contratos
+		Renovar Contrato (Durante el periodo de fichajes: En la primer semana al ofertar se va de aca, durante la segunda si no se oferta ya no esta)
+		Despedir Jugador
+
+		--Finanzas--
+		Entrar a Finanzas (Lee Las transacciones)
+		
+
+	--Otros Equipos-- 
+	Entrar a Otros Equipos (Se ve un listado de los equipos con algunos datos basicos)
+
+		--Jugador--
+		Entrar a Detalle del Jugador (Vision Limitada)
+			--Carrera--
+			Entrar a Carrera del Jugador
+		Realizar Oferta por un Jugador (Acceso directo Mercado de Pases-> Jugadores Libres o Con contratos a finalizar)
+
+	--Mercado de pases--
+	Entrar a Mercado de Pases (Algunos datos a ver)
+
+		--Jugadores en Disputa--
+		Entrar en Jugadores en Disputa(Tienen que remarcarse los propios en disputa)
+		Realizar Oferta jugador en Disputa
+
+		--Jugadores Libres o Con contratos a finalizar--
+		Entrar en Jugadores libres o Con contratos a finalizar
+		Realizar Oferta jugador Libre (Pasa a en Disputa)
+
+		--Compra de Jugadores--(Solo en periodo de fichajes)
+		Entrar a Compra de Jugadores(Poder ver los jugadores de los equipos)
+			--Ofertas--
+			Entrar a Ofertas
+			Aceptar Oferta
+
+	--Administración--
+	Entrar a Administracion
+	Aceptar Usuarios Medio
+	<<Ver que agregar aca>>
+
+--Scripts--
+Por Dia:
+Control de ofertas con 1 año (Solo durante la Liga)
+Control de ofertas con 0 años perido de fichajes (Solo en periodo de fichaje)
+
+Por Semana:
+Generar Juveniles
+Generar Partidos Liga
+Generar Partidos Copa
+Realizar Entrenamiento
+
+Especiales:
+Comienzo de Fichajes (Calcula sueldos pretendidos,baja años de contrato, rellena historial del jugador)
+
+--Bitacora de Transacciones--
