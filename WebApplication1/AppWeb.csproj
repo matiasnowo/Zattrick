@@ -135,6 +135,7 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="alb.txt" />
+    <Content Include="App_Data\Zattrick.mdb" />
     <Content Include="Content\basket_full.png" />
     <Content Include="Content\earning_money_coins_cash_statements.png" />
     <Content Include="Content\football.png" />
@@ -382,9 +383,7 @@
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Account\Web.config" />
     <Content Include="Site.Master" />

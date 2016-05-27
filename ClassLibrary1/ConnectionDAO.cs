@@ -13,10 +13,10 @@ namespace DataAcces
 
         public OleDbConnection getConnectionSQL()
         {
+
             
-            string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=~\ClassLibrary1\Zattrick.mdb;";
-          //    string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matia\Dropbox\3. Zattrick\5. C# - Zattrick\Solution1\WebApplication1\Zattrick.mdb;";
-          //   string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matias.nowogrodzki\Dropbox\3. Zattrick\5. C# - Zattrick\Solution1\WebApplication1\Zattrick.mdb;";
+          string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\Zattrick.mdb;";
+          //   string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matia\Dropbox\3. Zattrick\5. C# - Zattrick\Solution1\ClassLibrary1\Zattrick.mdb;";
 
             OleDbConnection conn = new OleDbConnection(connectionString);
            

@@ -52,7 +52,7 @@
             
        
         </asp:GridView>
-        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT [Name], [Age], [Nat], [Prs], [St], [Tk], [Ps], [Sh], [Sm], [Ag], [Kab], [Tab], [Pab], [Sab], [Gam], [Sav], [Ktk], [Kps], [Sht], [Gls], [Ass], [DP], [Inj], [Sus], [Fit] FROM [Jugadores] WHERE ([Equipo] = ?)">
+               <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>"  ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT [Name], [Age], [Nat], [Prs], [St], [Tk], [Ps], [Sh], [Sm], [Ag], [Kab], [Tab], [Pab], [Sab], [Gam], [Sav], [Ktk], [Kps], [Sht], [Gls], [Ass], [DP], [Inj], [Sus], [Fit] FROM [Jugadores] WHERE ([Equipo] = ?)">
           
         </asp:SqlDataSource>
 

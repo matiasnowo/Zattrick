@@ -53,11 +53,6 @@
     <Compile Include="JugadorDAO.cs" />
     <Compile Include="ConnectionDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ZattrickDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ZattrickDataSet.xsd</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ClassLibrary2\Session.csproj">
@@ -75,22 +70,6 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
-    <None Include="ZattrickDataSet.xsc">
-      <DependentUpon>ZattrickDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="ZattrickDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>ZattrickDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="ZattrickDataSet.xss">
-      <DependentUpon>ZattrickDataSet.xsd</DependentUpon>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Zattrick.mdb">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
