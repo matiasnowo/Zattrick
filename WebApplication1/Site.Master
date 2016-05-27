@@ -1,0 +1,206 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="AppWeb.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="es">
+<head runat="server">
+   
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <title>Zattrick</title>
+    <asp:PlaceHolder runat="server">     
+          <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>  
+    <webopt:BundleReference runat="server" Path="~/Content/css" /> 
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+    <style type="text/css">
+        .probando {
+            margin-bottom: 0px;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+    <asp:ScriptManager runat="server">
+        <Scripts>
+            <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=272931&clcid=0x409 --%>
+            <%--Framework Scripts--%>
+            
+            <asp:ScriptReference Name="MsAjaxBundle" />
+            <asp:ScriptReference Name="jquery" />
+            <asp:ScriptReference Name="jquery.ui.combined" />
+            <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+            <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+            <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+            <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+            <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+            <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+            <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+            <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+            <asp:ScriptReference Name="WebFormsBundle" />
+            <%--Site Scripts--%>
+
+        </Scripts>
+    </asp:ScriptManager>
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title">
+                    <a runat="server" href="~/">Zattrick</a>
+                </p>
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    <asp:LoginView runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <ul>
+                                <li><a id="registerLink" runat="server" href="~/Account/Register">Registrarse</a></li>
+                                <li><a id="loginLink" runat="server" href="~/Account/Login">Iniciar sesión</a></li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <p>
+                                Hello, <a runat="server" class="username" href="~/Account/CambiarPassword" title="Cambia tu contraseña">
+                                    <asp:LoginName runat="server" CssClass="username" /></a>!
+                                <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Cerrar sesión" LogoutPageUrl="~/Account/Logout.aspx" />
+                            </p>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </section>
+                <nav>
+                    <asp:Menu ID="MenuConectado" runat="server" Visible="False">
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/Inicio.aspx" Text="Inicio" Value="Inicio"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Actualizacion.aspx" Text="Actualizacion" Value="Actualizacion"></asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+
+                    <asp:Menu ID="MenuNoConectado" runat="server" Visible="False">
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/Inicio.aspx" Text="Inicio" Value="Inicio"></asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                    
+                   
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div id="body">
+ 
+        <section class="featured">
+        <div class="content-wrapper">
+           
+            
+                
+            <hgroup>
+                 </hgroup>
+           
+            
+                      
+               
+                      
+               
+                 <asp:Menu ID="MenuPrincipal" runat="server" Orientation="Horizontal" Font-Bold="False" Font-Size="Large" Font-Strikeout="False" style="font-family: Helvetica" CssClass="MenuItem" Visible="False">
+                                  
+                     <DynamicMenuItemStyle CssClass="MenuItem" />
+                     <Items>
+                         <asp:MenuItem NavigateUrl="~/Equipo.aspx" Text="Plantilla" Value="Plantilla"></asp:MenuItem>
+                         <asp:MenuItem Text="Tacticas" Value="Tacticas" NavigateUrl="~/Tactica.aspx"></asp:MenuItem>
+                         <asp:MenuItem Text="Finanzas" Value="Finanzas" NavigateUrl="~/Finanzas.aspx"></asp:MenuItem>
+                         <asp:MenuItem Text="Estadio" Value="Estadio" NavigateUrl="~/Estadio.aspx"></asp:MenuItem>
+                         <asp:MenuItem Text="Partidos" Value="Partidos"></asp:MenuItem>
+                         <asp:MenuItem Text="Contratos" Value="Partidos"></asp:MenuItem>
+                         <asp:MenuItem Text="Inferiores" Value="Partidos" NavigateUrl="~/Inferiores.aspx"></asp:MenuItem>
+                         <asp:MenuItem Text="Instalaciones" Value="Partidos"></asp:MenuItem>
+                     </Items>
+            </asp:Menu>
+                   
+           
+            <asp:Label ID="PedirEquipo" runat="server" Text="Tienes que pedir un equipo para acceder." Visible="False"></asp:Label>
+                   
+           
+            <hgroup>
+            </hgroup>
+           
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </section>
+       
+        
+                 <section class="content-wrapper" style="position:static; margin: auto; max-width: 1000px;"> 
+              <div class="probando" style="float: left; margin-right:10px; margin-top: -1px; margin-left:-41px; height: 800px; background-color: #7AC0DA; width: 105px; ">
+                 
+
+
+            <asp:Menu ID="MenudePrueba"  runat="server" Font-Bold="False" Font-Size="Large" Font-Strikeout="False" Style=" font: Helvetica" CssClass="MenuItem">
+
+                <DynamicMenuItemStyle CssClass="MenuItem" />
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/Equipo.aspx" Text="Plantilla" Value="Plantilla"></asp:MenuItem>
+                    <asp:MenuItem Text="Tacticas" Value="Tacticas" NavigateUrl="~/Tactica.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Finanzas" Value="Finanzas" NavigateUrl="~/Finanzas.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Estadio" Value="Estadio" NavigateUrl="~/Estadio.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Partidos" Value="Partidos"></asp:MenuItem>
+                    <asp:MenuItem Text="Contratos" Value="Partidos"></asp:MenuItem>
+                    <asp:MenuItem Text="Inferiores" Value="Partidos" NavigateUrl="~/Inferiores.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Instalaciones" Value="Partidos"></asp:MenuItem>
+                </Items>
+                <StaticHoverStyle BackColor="#99CCFF" />
+                <StaticMenuItemStyle Font-Size="Medium" Height="25px" Font-Bold="True" ForeColor="Black" />
+                <StaticSelectedStyle Font-Size="Small" />
+            </asp:Menu>
+
+
+        </div>
+
+
+                     <div style="width: 1000px;">
+
+
+
+         <asp:ContentPlaceHolder runat="server" ID="MainContent"  >
+               
+               
+                    MainContent
+
+             
+              
+                </asp:ContentPlaceHolder>
+
+         </div>
+        </section>
+
+
+        
+
+
+        
+            
+     
+    </div>
+    
+    </form>
+    
+</body>
+    <footer>
+        <div class="content-wrapper">
+
+            FOOTER
+            
+            </div></footer>
+</html>
