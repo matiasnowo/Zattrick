@@ -7,3 +7,18 @@ Funcionalidad Tacticas:
 - Recuperar Ultima Tactica Guardada
 
 -----------------------------------------------------------------------------------------------
+Si tenes ganas/queres, me vendria bien que agarres lo que habiamos hablado de Registracion, Pedido de equipos etc.
+- Si tienen el string clave para elegir equipo de una, que les vaya a una pantalla de elegir y arrancan a jugar
+- Si no la tienen, que pidan un equipo dentro de los disponibles y esperen que yo acepte.
+
+Despues charlame si tenes dudas de como lo quiero, pero creo q esta claro. 
+
+
+Por otro lado no se que te parece la idea.....
+Y lo estuve pensando y creo que voy a poner 2 opciones:
+
+a) Elegir equipo existente (desplegaria una lista de los 30 equipos de primera (x ahora)) y elegiria de ahi
+b) Crear nuevo equipo (que eliga colores, imagen, nombre y nombres de jugadores (si!)
+
+Seria innovador en Zattrick, siempre se usaron equipos existentes..
+Pero esta bueno cambiar la logica un poco por las dudas
