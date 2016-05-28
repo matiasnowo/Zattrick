@@ -67,6 +67,8 @@ namespace AppWeb
                 DropDownList64.Enabled = true;
 
                 DropDownList64.Visible = true;
+                DropDownList63.DataSourceID = "SqlDataSource5";
+                DropDownList260.Visible = true;
 
             }
             else
@@ -92,6 +94,36 @@ namespace AppWeb
                 DropDownList63.Enabled = true;
                 DropDownList64.Visible = false;
                 DropDownList260.Enabled = true;
+                DropDownList63.DataSourceID = "SqlDataSource5";
+                DropDownList260.Visible = true;
+
+            }
+
+
+            if (DropDownList62.SelectedValue == "CambiarTactica")
+            {
+
+
+                DropDownList63.Enabled = true;
+                DropDownList64.Visible = false;
+                DropDownList260.Enabled = true;
+                DropDownList260.Visible = false;
+                DropDownList174.Enabled = true;
+                DropDownList175.Enabled = true;
+                DropDownList176.Enabled = true;
+
+
+                DropDownList63.Items.Clear();
+                DropDownList63.Items.Add(DropTactic.Items.FindByValue("A"));
+                DropDownList63.Items.Add(DropTactic.Items.FindByValue("D"));
+                DropDownList63.Items.Add(DropTactic.Items.FindByValue("P"));
+                DropDownList63.Items.Add(DropTactic.Items.FindByValue("L"));
+                DropDownList63.Items.Add(DropTactic.Items.FindByValue("C"));
+                DropDownList63.Items.Add(DropTactic.Items.FindByValue(""));
+                
+
+
+
 
 
             }
@@ -109,6 +141,8 @@ namespace AppWeb
                 DropDownList67.Enabled = true;
 
                 DropDownList67.Visible = true;
+                DropDownList66.DataSourceID = "SqlDataSource5";
+                DropDownList178.Visible = true;
 
             }
             else
@@ -133,6 +167,36 @@ namespace AppWeb
 
                 DropDownList66.Enabled = true;
                 DropDownList67.Visible = false;
+                DropDownList66.DataSourceID = "SqlDataSource5";
+                DropDownList178.Enabled = true;
+                DropDownList178.Visible = true;
+
+
+            }
+
+            if (DropDownList65.SelectedValue == "CambiarTactica")
+            {
+
+
+                DropDownList66.Enabled = true;
+                DropDownList67.Visible = false;
+                DropDownList178.Enabled = true;
+                DropDownList178.Visible = false;
+                DropDownList179.Enabled = true;
+                DropDownList180.Enabled = true;
+                DropDownList181.Enabled = true;
+
+
+                DropDownList66.Items.Clear();
+                DropDownList66.Items.Add(DropTactic.Items.FindByValue("A"));
+                DropDownList66.Items.Add(DropTactic.Items.FindByValue("D"));
+                DropDownList66.Items.Add(DropTactic.Items.FindByValue("P"));
+                DropDownList66.Items.Add(DropTactic.Items.FindByValue("L"));
+                DropDownList66.Items.Add(DropTactic.Items.FindByValue("C"));
+                DropDownList66.Items.Add(DropTactic.Items.FindByValue(""));
+
+
+
 
 
             }
@@ -151,6 +215,8 @@ namespace AppWeb
                 DropDownList305.Enabled = true;
 
                 DropDownList305.Visible = true;
+                DropDownList304.DataSourceID = "SqlDataSource5";
+                DropDownList306.Visible = true;
 
             }
             else
@@ -175,6 +241,37 @@ namespace AppWeb
 
                 DropDownList304.Enabled = true;
                 DropDownList305.Visible = false;
+                DropDownList304.DataSourceID = "SqlDataSource5";
+                DropDownList306.Enabled = true;
+                DropDownList306.Visible = true;
+
+
+            }
+
+
+            if (DropDownList303.SelectedValue == "CambiarTactica")
+            {
+
+
+                DropDownList304.Enabled = true;
+                DropDownList305.Visible = false;
+                DropDownList306.Enabled = true;
+                DropDownList306.Visible = false;
+                DropDownList307.Enabled = true;
+                DropDownList308.Enabled = true;
+                DropDownList309.Enabled = true;
+
+
+                DropDownList304.Items.Clear();
+                DropDownList304.Items.Add(DropTactic.Items.FindByValue("A"));
+                DropDownList304.Items.Add(DropTactic.Items.FindByValue("D"));
+                DropDownList304.Items.Add(DropTactic.Items.FindByValue("P"));
+                DropDownList304.Items.Add(DropTactic.Items.FindByValue("L"));
+                DropDownList304.Items.Add(DropTactic.Items.FindByValue("C"));
+                DropDownList304.Items.Add(DropTactic.Items.FindByValue(""));
+
+
+
 
 
             }
@@ -192,7 +289,9 @@ namespace AppWeb
                 DropDownList315.Enabled = true;
 
                 DropDownList315.Visible = true;
+                DropDownList314.DataSourceID = "SqlDataSource5";
 
+                DropDownList316.Visible = true;
             }
             else
             {
@@ -215,6 +314,38 @@ namespace AppWeb
 
                 DropDownList314.Enabled = true;
                 DropDownList315.Visible = false;
+                DropDownList314.DataSourceID = "SqlDataSource5";
+                DropDownList316.Enabled = true;
+
+                DropDownList316.Visible = true;
+
+            }
+
+            if (DropDownList313.SelectedValue == "CambiarTactica")
+            {
+
+
+                DropDownList314.Enabled = true;
+                DropDownList315.Visible = false;
+                DropDownList316.Enabled = true;
+                DropDownList316.Visible = false;
+                DropDownList317.Enabled = true;
+                DropDownList318.Enabled = true;
+                DropDownList319.Enabled = true;
+
+                DropDownList314.Items.Clear();
+                DropDownList314.Items.Add(DropTactic.Items.FindByValue("A"));
+                DropDownList314.Items.Add(DropTactic.Items.FindByValue("D"));
+                DropDownList314.Items.Add(DropTactic.Items.FindByValue("P"));
+                DropDownList314.Items.Add(DropTactic.Items.FindByValue("L"));
+                DropDownList314.Items.Add(DropTactic.Items.FindByValue("C"));
+                DropDownList314.Items.Add(DropTactic.Items.FindByValue(""));
+
+                
+
+
+
+
 
             }
         }
@@ -262,6 +393,103 @@ namespace AppWeb
                 DropDownList261.Items.FindByText("Minuto").Enabled = false;
 
             }
+
+            if (DropDownList174.SelectedValue == "SCORE")
+            {
+                ListItem Item1 = new ListItem();
+                Item1.Text = "-4";
+                ListItem Item2 = new ListItem();
+                Item2.Text = "-3";
+                ListItem Item3 = new ListItem();
+                Item3.Text = "-2";
+                ListItem Item4 = new ListItem();
+                Item4.Text = "-1";
+                ListItem Item5 = new ListItem();
+                Item5.Text = "0";
+                ListItem Item6 = new ListItem();
+                Item6.Text = "1";
+                ListItem Item7 = new ListItem();
+                Item7.Text = "2";
+                ListItem Item8 = new ListItem();
+                Item8.Text = "3";
+                ListItem Item9 = new ListItem();
+                Item9.Text = "4";
+
+                DropDownList176.Items.Clear();
+
+                DropDownList176.Items.Add(Item1);
+                DropDownList176.Items.Add(Item2);
+                DropDownList176.Items.Add(Item3);
+                DropDownList176.Items.Add(Item4);
+                DropDownList176.Items.Add(Item5);
+                DropDownList176.Items.Add(Item6);
+                DropDownList176.Items.Add(Item7);
+                DropDownList176.Items.Add(Item8);
+                DropDownList176.Items.Add(Item9);
+
+            }
+
+            if (DropDownList174.SelectedValue == "MIN")
+            {
+                ListItem Item1 = new ListItem();
+                Item1.Text = "5";
+                ListItem Item2 = new ListItem();
+                Item2.Text = "10";
+                ListItem Item3 = new ListItem();
+                Item3.Text = "15";
+                ListItem Item4 = new ListItem();
+                Item4.Text = "20";
+                ListItem Item5 = new ListItem();
+                Item5.Text = "25";
+                ListItem Item6 = new ListItem();
+                Item6.Text = "30";
+                ListItem Item7 = new ListItem();
+                Item7.Text = "35";
+                ListItem Item8 = new ListItem();
+                Item8.Text = "40";
+                ListItem Item9 = new ListItem();
+                Item9.Text = "45";
+                ListItem Item10 = new ListItem();
+                Item10.Text = "50";
+                ListItem Item11 = new ListItem();
+                Item11.Text = "55";
+                ListItem Item12 = new ListItem();
+                Item12.Text = "60";
+                ListItem Item13 = new ListItem();
+                Item13.Text = "65";
+                ListItem Item14 = new ListItem();
+                Item14.Text = "70";
+                ListItem Item15 = new ListItem();
+                Item15.Text = "75";
+                ListItem Item16 = new ListItem();
+                Item16.Text = "80";
+                ListItem Item17 = new ListItem();
+                Item17.Text = "85";
+                ListItem Item18 = new ListItem();
+                Item18.Text = "90";
+
+                DropDownList176.Items.Clear();
+
+                DropDownList176.Items.Add(Item1);
+                DropDownList176.Items.Add(Item2);
+                DropDownList176.Items.Add(Item3);
+                DropDownList176.Items.Add(Item4);
+                DropDownList176.Items.Add(Item5);
+                DropDownList176.Items.Add(Item6);
+                DropDownList176.Items.Add(Item7);
+                DropDownList176.Items.Add(Item8);
+                DropDownList176.Items.Add(Item9);
+                DropDownList176.Items.Add(Item10);
+                DropDownList176.Items.Add(Item11);
+                DropDownList176.Items.Add(Item12);
+                DropDownList176.Items.Add(Item13);
+                DropDownList176.Items.Add(Item14);
+                DropDownList176.Items.Add(Item15);
+                DropDownList176.Items.Add(Item16);
+                DropDownList176.Items.Add(Item17);
+                DropDownList176.Items.Add(Item18);
+
+            }
         }
 
         protected void DropDownList175_SelectedIndexChanged(object sender, EventArgs e)
@@ -287,6 +515,8 @@ namespace AppWeb
             DropDownList262.Enabled = true;
 
             DropDownList263.Enabled = true;
+
+            
         }
 
         protected void DropDownList24_SelectedIndexChanged(object sender, EventArgs e)
@@ -421,6 +651,103 @@ namespace AppWeb
                 DropDownList310.Items.FindByText("Minuto").Enabled = false;
 
             }
+
+            if (DropDownList307.SelectedValue == "SCORE")
+            {
+                ListItem Item1 = new ListItem();
+                Item1.Text = "-4";
+                ListItem Item2 = new ListItem();
+                Item2.Text = "-3";
+                ListItem Item3 = new ListItem();
+                Item3.Text = "-2";
+                ListItem Item4 = new ListItem();
+                Item4.Text = "-1";
+                ListItem Item5 = new ListItem();
+                Item5.Text = "0";
+                ListItem Item6 = new ListItem();
+                Item6.Text = "1";
+                ListItem Item7 = new ListItem();
+                Item7.Text = "2";
+                ListItem Item8 = new ListItem();
+                Item8.Text = "3";
+                ListItem Item9 = new ListItem();
+                Item9.Text = "4";
+
+                DropDownList309.Items.Clear();
+
+                DropDownList309.Items.Add(Item1);
+                DropDownList309.Items.Add(Item2);
+                DropDownList309.Items.Add(Item3);
+                DropDownList309.Items.Add(Item4);
+                DropDownList309.Items.Add(Item5);
+                DropDownList309.Items.Add(Item6);
+                DropDownList309.Items.Add(Item7);
+                DropDownList309.Items.Add(Item8);
+                DropDownList309.Items.Add(Item9);
+
+            }
+
+            if (DropDownList307.SelectedValue == "MIN")
+            {
+                ListItem Item1 = new ListItem();
+                Item1.Text = "5";
+                ListItem Item2 = new ListItem();
+                Item2.Text = "10";
+                ListItem Item3 = new ListItem();
+                Item3.Text = "15";
+                ListItem Item4 = new ListItem();
+                Item4.Text = "20";
+                ListItem Item5 = new ListItem();
+                Item5.Text = "25";
+                ListItem Item6 = new ListItem();
+                Item6.Text = "30";
+                ListItem Item7 = new ListItem();
+                Item7.Text = "35";
+                ListItem Item8 = new ListItem();
+                Item8.Text = "40";
+                ListItem Item9 = new ListItem();
+                Item9.Text = "45";
+                ListItem Item10 = new ListItem();
+                Item10.Text = "50";
+                ListItem Item11 = new ListItem();
+                Item11.Text = "55";
+                ListItem Item12 = new ListItem();
+                Item12.Text = "60";
+                ListItem Item13 = new ListItem();
+                Item13.Text = "65";
+                ListItem Item14 = new ListItem();
+                Item14.Text = "70";
+                ListItem Item15 = new ListItem();
+                Item15.Text = "75";
+                ListItem Item16 = new ListItem();
+                Item16.Text = "80";
+                ListItem Item17 = new ListItem();
+                Item17.Text = "85";
+                ListItem Item18 = new ListItem();
+                Item18.Text = "90";
+
+                DropDownList309.Items.Clear();
+
+                DropDownList309.Items.Add(Item1);
+                DropDownList309.Items.Add(Item2);
+                DropDownList309.Items.Add(Item3);
+                DropDownList309.Items.Add(Item4);
+                DropDownList309.Items.Add(Item5);
+                DropDownList309.Items.Add(Item6);
+                DropDownList309.Items.Add(Item7);
+                DropDownList309.Items.Add(Item8);
+                DropDownList309.Items.Add(Item9);
+                DropDownList309.Items.Add(Item10);
+                DropDownList309.Items.Add(Item11);
+                DropDownList309.Items.Add(Item12);
+                DropDownList309.Items.Add(Item13);
+                DropDownList309.Items.Add(Item14);
+                DropDownList309.Items.Add(Item15);
+                DropDownList309.Items.Add(Item16);
+                DropDownList309.Items.Add(Item17);
+                DropDownList309.Items.Add(Item18);
+
+            }
         }
 
         protected void DropDownList308_SelectedIndexChanged(object sender, EventArgs e)
@@ -433,6 +760,8 @@ namespace AppWeb
             DropDownList310.Enabled = true;
             DropDownList311.Enabled = true;
             DropDownList312.Enabled = true;
+
+           
         }
 
         protected void DropDownList310_SelectedIndexChanged(object sender, EventArgs e)
@@ -476,6 +805,103 @@ namespace AppWeb
 
                 DropDownList320.Items.FindByText("Resultado").Enabled = true;
                 DropDownList320.Items.FindByText("Minuto").Enabled = false;
+
+            }
+
+            if (DropDownList317.SelectedValue == "SCORE")
+            {
+                ListItem Item1 = new ListItem();
+                Item1.Text = "-4";
+                ListItem Item2 = new ListItem();
+                Item2.Text = "-3";
+                ListItem Item3 = new ListItem();
+                Item3.Text = "-2";
+                ListItem Item4 = new ListItem();
+                Item4.Text = "-1";
+                ListItem Item5 = new ListItem();
+                Item5.Text = "0";
+                ListItem Item6 = new ListItem();
+                Item6.Text = "1";
+                ListItem Item7 = new ListItem();
+                Item7.Text = "2";
+                ListItem Item8 = new ListItem();
+                Item8.Text = "3";
+                ListItem Item9 = new ListItem();
+                Item9.Text = "4";
+
+                DropDownList319.Items.Clear();
+
+                DropDownList319.Items.Add(Item1);
+                DropDownList319.Items.Add(Item2);
+                DropDownList319.Items.Add(Item3);
+                DropDownList319.Items.Add(Item4);
+                DropDownList319.Items.Add(Item5);
+                DropDownList319.Items.Add(Item6);
+                DropDownList319.Items.Add(Item7);
+                DropDownList319.Items.Add(Item8);
+                DropDownList319.Items.Add(Item9);
+
+            }
+
+            if (DropDownList317.SelectedValue == "MIN")
+            {
+                ListItem Item1 = new ListItem();
+                Item1.Text = "5";
+                ListItem Item2 = new ListItem();
+                Item2.Text = "10";
+                ListItem Item3 = new ListItem();
+                Item3.Text = "15";
+                ListItem Item4 = new ListItem();
+                Item4.Text = "20";
+                ListItem Item5 = new ListItem();
+                Item5.Text = "25";
+                ListItem Item6 = new ListItem();
+                Item6.Text = "30";
+                ListItem Item7 = new ListItem();
+                Item7.Text = "35";
+                ListItem Item8 = new ListItem();
+                Item8.Text = "40";
+                ListItem Item9 = new ListItem();
+                Item9.Text = "45";
+                ListItem Item10 = new ListItem();
+                Item10.Text = "50";
+                ListItem Item11 = new ListItem();
+                Item11.Text = "55";
+                ListItem Item12 = new ListItem();
+                Item12.Text = "60";
+                ListItem Item13 = new ListItem();
+                Item13.Text = "65";
+                ListItem Item14 = new ListItem();
+                Item14.Text = "70";
+                ListItem Item15 = new ListItem();
+                Item15.Text = "75";
+                ListItem Item16 = new ListItem();
+                Item16.Text = "80";
+                ListItem Item17 = new ListItem();
+                Item17.Text = "85";
+                ListItem Item18 = new ListItem();
+                Item18.Text = "90";
+
+                DropDownList319.Items.Clear();
+
+                DropDownList319.Items.Add(Item1);
+                DropDownList319.Items.Add(Item2);
+                DropDownList319.Items.Add(Item3);
+                DropDownList319.Items.Add(Item4);
+                DropDownList319.Items.Add(Item5);
+                DropDownList319.Items.Add(Item6);
+                DropDownList319.Items.Add(Item7);
+                DropDownList319.Items.Add(Item8);
+                DropDownList319.Items.Add(Item9);
+                DropDownList319.Items.Add(Item10);
+                DropDownList319.Items.Add(Item11);
+                DropDownList319.Items.Add(Item12);
+                DropDownList319.Items.Add(Item13);
+                DropDownList319.Items.Add(Item14);
+                DropDownList319.Items.Add(Item15);
+                DropDownList319.Items.Add(Item16);
+                DropDownList319.Items.Add(Item17);
+                DropDownList319.Items.Add(Item18);
 
             }
         }
@@ -542,6 +968,103 @@ namespace AppWeb
                 DropDownList300.Items.FindByText("Minuto").Enabled = false;
 
             }
+
+            if (DropDownList179.SelectedValue == "SCORE")
+            {
+                ListItem Item1 = new ListItem();
+                Item1.Text = "-4";
+                ListItem Item2 = new ListItem();
+                Item2.Text = "-3";
+                ListItem Item3 = new ListItem();
+                Item3.Text = "-2";
+                ListItem Item4 = new ListItem();
+                Item4.Text = "-1";
+                ListItem Item5 = new ListItem();
+                Item5.Text = "0";
+                ListItem Item6 = new ListItem();
+                Item6.Text = "1";
+                ListItem Item7 = new ListItem();
+                Item7.Text = "2";
+                ListItem Item8 = new ListItem();
+                Item8.Text = "3";
+                ListItem Item9 = new ListItem();
+                Item9.Text = "4";
+
+                DropDownList181.Items.Clear();
+
+                DropDownList181.Items.Add(Item1);
+                DropDownList181.Items.Add(Item2);
+                DropDownList181.Items.Add(Item3);
+                DropDownList181.Items.Add(Item4);
+                DropDownList181.Items.Add(Item5);
+                DropDownList181.Items.Add(Item6);
+                DropDownList181.Items.Add(Item7);
+                DropDownList181.Items.Add(Item8);
+                DropDownList181.Items.Add(Item9);
+
+            }
+
+            if (DropDownList179.SelectedValue == "MIN")
+            {
+                ListItem Item1 = new ListItem();
+                Item1.Text = "5";
+                ListItem Item2 = new ListItem();
+                Item2.Text = "10";
+                ListItem Item3 = new ListItem();
+                Item3.Text = "15";
+                ListItem Item4 = new ListItem();
+                Item4.Text = "20";
+                ListItem Item5 = new ListItem();
+                Item5.Text = "25";
+                ListItem Item6 = new ListItem();
+                Item6.Text = "30";
+                ListItem Item7 = new ListItem();
+                Item7.Text = "35";
+                ListItem Item8 = new ListItem();
+                Item8.Text = "40";
+                ListItem Item9 = new ListItem();
+                Item9.Text = "45";
+                ListItem Item10 = new ListItem();
+                Item10.Text = "50";
+                ListItem Item11 = new ListItem();
+                Item11.Text = "55";
+                ListItem Item12 = new ListItem();
+                Item12.Text = "60";
+                ListItem Item13 = new ListItem();
+                Item13.Text = "65";
+                ListItem Item14 = new ListItem();
+                Item14.Text = "70";
+                ListItem Item15 = new ListItem();
+                Item15.Text = "75";
+                ListItem Item16 = new ListItem();
+                Item16.Text = "80";
+                ListItem Item17 = new ListItem();
+                Item17.Text = "85";
+                ListItem Item18 = new ListItem();
+                Item18.Text = "90";
+
+                DropDownList181.Items.Clear();
+
+                DropDownList181.Items.Add(Item1);
+                DropDownList181.Items.Add(Item2);
+                DropDownList181.Items.Add(Item3);
+                DropDownList181.Items.Add(Item4);
+                DropDownList181.Items.Add(Item5);
+                DropDownList181.Items.Add(Item6);
+                DropDownList181.Items.Add(Item7);
+                DropDownList181.Items.Add(Item8);
+                DropDownList181.Items.Add(Item9);
+                DropDownList181.Items.Add(Item10);
+                DropDownList181.Items.Add(Item11);
+                DropDownList181.Items.Add(Item12);
+                DropDownList181.Items.Add(Item13);
+                DropDownList181.Items.Add(Item14);
+                DropDownList181.Items.Add(Item15);
+                DropDownList181.Items.Add(Item16);
+                DropDownList181.Items.Add(Item17);
+                DropDownList181.Items.Add(Item18);
+
+            }
         }
 
         protected void DropDownList180_SelectedIndexChanged(object sender, EventArgs e)
@@ -555,6 +1078,8 @@ namespace AppWeb
             DropDownList300.Enabled = true;
             DropDownList301.Enabled = true;
             DropDownList302.Enabled = true;
+
+           
         }
 
 
@@ -637,8 +1162,11 @@ namespace AppWeb
                 }
                 if (DropDownList174.SelectedValue == "")
                 {
-                    DeboActualizar1 = 0;
+                    if (DropDownList260.SelectedValue != "CambiarTactica")
+                    {
+                        DeboActualizar1 = 0;
                     MessageBox.Show("Verifica el Condicional 1 de la Orden 1 (Campo 1)");
+                    }
                 }
                 if (DropDownList175.SelectedValue == "")
                 {
@@ -700,6 +1228,18 @@ namespace AppWeb
                         TacticaAEnviar.Order1 = "CHANGEPOS " + DropDownList63.SelectedItem.Text + " " + DropDownList260.SelectedValue + " IF " + DropDownList174.SelectedValue + " " + DropDownList175.SelectedValue + " " + DropDownList176.SelectedValue;
                     }
                 }
+
+                if (DropDownList62.SelectedValue == "CambiarTactica")
+                {
+                    if (DropDownList261.SelectedValue != "")
+                    {
+                        TacticaAEnviar.Order1 = "TACTIC " + DropDownList63.SelectedValue + " IF " + DropDownList174.SelectedValue + " " + DropDownList175.SelectedValue + " " + DropDownList176.SelectedValue + ", " + DropDownList261.SelectedValue + " " + DropDownList262.SelectedValue + " " + DropDownList263.SelectedValue;
+                    }
+                    if (DropDownList261.SelectedValue == "")
+                    {
+                        TacticaAEnviar.Order1 = "TACTIC " + DropDownList63.SelectedValue + " IF " + DropDownList174.SelectedValue + " " + DropDownList175.SelectedValue + " " + DropDownList176.SelectedValue;
+                    }
+                }
             }
 
 
@@ -709,14 +1249,17 @@ namespace AppWeb
             {
                 if (DropDownList65.SelectedValue == "")
                 {
-                    MessageBox.Show("Tienes que seleccionar algun Tipo de Orden en la Orden 1");
+                    MessageBox.Show("Tienes que seleccionar algun Tipo de Orden en la Orden 2");
                     DeboActualizar2 = 0;
                 }
 
                 if (DropDownList178.SelectedValue == "")
                 {
-                    MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 1");
+                    if (DropDownList65.SelectedValue != "CambiarTactica")
+                    {
+                        MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 2");
                     DeboActualizar2 = 0;
+                    }
                 }
                 if (DropDownList179.SelectedValue == "")
                 {
@@ -780,6 +1323,18 @@ namespace AppWeb
                         TacticaAEnviar.Order2 = "CHANGEPOS " + DropDownList66.SelectedItem.Text + " " + DropDownList178.SelectedValue + " IF " + DropDownList179.SelectedValue + " " + DropDownList180.SelectedValue + " " + DropDownList181.SelectedValue;
                     }
                 }
+
+                if (DropDownList65.SelectedValue == "CambiarTactica")
+                {
+                    if (DropDownList300.SelectedValue != "")
+                    {
+                        TacticaAEnviar.Order2 = "TACTIC " + DropDownList66.SelectedValue + " IF " + DropDownList179.SelectedValue + " " + DropDownList180.SelectedValue + " " + DropDownList181.SelectedValue + ", " + DropDownList300.SelectedValue + " " + DropDownList301.SelectedValue + " " + DropDownList302.SelectedValue;
+                    }
+                    if (DropDownList300.SelectedValue == "")
+                    {
+                        TacticaAEnviar.Order2 = "TACTIC " + DropDownList66.SelectedValue + " IF " + DropDownList179.SelectedValue + " " + DropDownList180.SelectedValue + " " + DropDownList181.SelectedValue;
+                    }
+                }
             }
 
 
@@ -789,14 +1344,17 @@ namespace AppWeb
             {
                 if (DropDownList303.SelectedValue == "")
                 {
-                    MessageBox.Show("Tienes que seleccionar algun Tipo de Orden en la Orden 1");
+                    MessageBox.Show("Tienes que seleccionar algun Tipo de Orden en la Orden 3");
                     DeboActualizar3 = 0;
                 }
 
                 if (DropDownList306.SelectedValue == "")
                 {
-                    MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 1");
+                    if (DropDownList303.SelectedValue != "CambiarTactica")
+                    {
+                        MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 3");
                     DeboActualizar3 = 0;
+                    }
                 }
                 if (DropDownList307.SelectedValue == "")
                 {
@@ -862,6 +1420,18 @@ namespace AppWeb
                     }
                 }
 
+                if (DropDownList303.SelectedValue == "CambiarTactica")
+                {
+                    if (DropDownList310.SelectedValue != "")
+                    {
+                        TacticaAEnviar.Order3 = "TACTIC " + DropDownList304.SelectedValue + " IF " + DropDownList307.SelectedValue + " " + DropDownList308.SelectedValue + " " + DropDownList309.SelectedValue + ", " + DropDownList310.SelectedValue + " " + DropDownList311.SelectedValue + " " + DropDownList312.SelectedValue;
+                    }
+                    if (DropDownList310.SelectedValue == "")
+                    {
+                        TacticaAEnviar.Order3 = "TACTIC " + DropDownList304.SelectedValue + " IF " + DropDownList307.SelectedValue + " " + DropDownList308.SelectedValue + " " + DropDownList309.SelectedValue;
+                    }
+                }
+
 
             }
 
@@ -869,14 +1439,16 @@ namespace AppWeb
             {
                 if (DropDownList313.SelectedValue == "")
                 {
-                    MessageBox.Show("Tienes que seleccionar algun Tipo de Orden en la Orden 1");
+                    MessageBox.Show("Tienes que seleccionar algun Tipo de Orden en la Orden 4");
                     DeboActualizar4 = 0;
                 }
 
                 if (DropDownList316.SelectedValue == "")
                 {
-                    MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 1");
+                    if (DropDownList313.SelectedValue != "CambiarTactica") { 
+                    MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 4");
                     DeboActualizar4 = 0;
+                    }
                 }
                 if (DropDownList317.SelectedValue == "")
                 {
@@ -942,6 +1514,18 @@ namespace AppWeb
                             TacticaAEnviar.Order4 = "CHANGEPOS " + DropDownList314.SelectedItem.Text + " " + DropDownList316.SelectedValue + " IF " + DropDownList317.SelectedValue + " " + DropDownList318.SelectedValue + " " + DropDownList319.SelectedValue;
                         }
                     }
+
+                    if (DropDownList313.SelectedValue == "CambiarTactica")
+                    {
+                        if (DropDownList320.SelectedValue != "")
+                        {
+                            TacticaAEnviar.Order4 = "TACTIC " + DropDownList314.SelectedValue + " IF " + DropDownList317.SelectedValue + " " + DropDownList318.SelectedValue + " " + DropDownList319.SelectedValue + ", " + DropDownList320.SelectedValue + " " + DropDownList321.SelectedValue + " " + DropDownList322.SelectedValue;
+                        }
+                        if (DropDownList320.SelectedValue == "")
+                        {
+                            TacticaAEnviar.Order4 = "TACTIC " + DropDownList314.SelectedValue + " IF " + DropDownList317.SelectedValue + " " + DropDownList318.SelectedValue + " " + DropDownList319.SelectedValue;
+                        }
+                    }
                 }
 
             }
@@ -950,36 +1534,43 @@ namespace AppWeb
 // Verifico Que no se repitan jugadores entre los Titulares
 
 
-            List<string> Titulares = new List<string>();
-            Titulares.Add(DropDownList156.SelectedItem.Text);
-            Titulares.Add(DropDownList24.SelectedItem.Text);
-            Titulares.Add(DropDownList157.SelectedItem.Text);
-            Titulares.Add(DropDownList158.SelectedItem.Text);
-            Titulares.Add(DropDownList159.SelectedItem.Text);
-            Titulares.Add(DropDownList160.SelectedItem.Text);
-            Titulares.Add(DropDownList161.SelectedItem.Text);
-            Titulares.Add(DropDownList162.SelectedItem.Text);
-            Titulares.Add(DropDownList163.SelectedItem.Text);
-            Titulares.Add(DropDownList164.SelectedItem.Text);
-            Titulares.Add(DropDownList165.SelectedItem.Text);
+            List<string> Convocados = new List<string>();
+            Convocados.Add(DropDownList156.SelectedItem.Text);
+            Convocados.Add(DropDownList24.SelectedItem.Text);
+            Convocados.Add(DropDownList157.SelectedItem.Text);
+            Convocados.Add(DropDownList158.SelectedItem.Text);
+            Convocados.Add(DropDownList159.SelectedItem.Text);
+            Convocados.Add(DropDownList160.SelectedItem.Text);
+            Convocados.Add(DropDownList161.SelectedItem.Text);
+            Convocados.Add(DropDownList162.SelectedItem.Text);
+            Convocados.Add(DropDownList163.SelectedItem.Text);
+            Convocados.Add(DropDownList164.SelectedItem.Text);
+            Convocados.Add(DropDownList165.SelectedItem.Text);
+            Convocados.Add(DropDownList167.SelectedItem.Text);
+            Convocados.Add(DropDownList168.SelectedItem.Text);
+            Convocados.Add(DropDownList169.SelectedItem.Text);
+            Convocados.Add(DropDownList170.SelectedItem.Text);
+            Convocados.Add(DropDownList171.SelectedItem.Text);
+            Convocados.Add(DropDownList172.SelectedItem.Text);
+            Convocados.Add(DropDownList173.SelectedItem.Text);
 
-            for (int v = 0; v < Titulares.Count-1; v++)
+            for (int v = 0; v < Convocados.Count; v++)
             {
 
-                for (int p = 0; p < Titulares.Count-1; p++)
+                for (int p = 0; p < Convocados.Count; p++)
                 {
                     if (v != p) {
-                        if (Titulares.ElementAt(v) == Titulares.ElementAt(p)){
+                        if (Convocados.ElementAt(v) == Convocados.ElementAt(p)){
 
 
 
-                            MessageBox.Show("El jugador titular numero " + Titulares.ElementAt(v) + ", no puede estar dos veces de titular");
+                            MessageBox.Show("El jugador " + Convocados.ElementAt(v) + ", no puede estar dos veces convocado");
 
 
                             DeboActualizar1 = 0;
 
-                            v = Titulares.Count - 1;
-                            p = Titulares.Count - 1;
+                            v = Convocados.Count;
+                            p = Convocados.Count;
                         }
 
 

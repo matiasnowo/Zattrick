@@ -1,29 +1,29 @@
 ban
-L
+A
+
+GK S_Ochacle
+DFL M_Dos_Santos
+DFC F_Costanzo
+DFC G_Lux_Jr
+DFR S_Lopez
+MFL J_Bosingwa
+MFC A_Chari
+MFC M_Materazzi
+MFR R_Trotta
+FWC Arruabarrena
+FWC J_Sanguinetti
 
 GK B_Leyenda
-DFL G_Lux_Jr
-DFC S_Ochacle
-DFC M_Materazzi
-DFR F_Noguera
-MFL M_Bustamante
-MFC M_Dos_Santos
-MFC M_Galarza
-MFR H_Bracamonte
-FWC L_Álvarez
-FWC Edgar_Davids
-
-GK B_Leyenda
-DFC B_Leyenda
+DFC Kuma
 DFC S_Fukube
-MFC B_Leyenda
-MFC B_Leyenda
-FWC B_Leyenda
-FWC B_Leyenda
+MFC M_Galarza
+MFC M_Mea_Vitali
+FWC Adrian_Reta
+FWC L_Álvarez
 
-PK: B_Leyenda
+PK: A_Chari
 
-
+TACTIC A IF SCORE = -2, MIN = 70
 
 
 

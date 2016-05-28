@@ -2,9 +2,10 @@
 :) Ya se como hacer esto :)
 Funcionalidad Tacticas:
 
-- La parte de "Cambio Tactica"
-- Comprobar que no se repitan jugadores teniendo en cuenta Suplentes
+- La parte de "Cambio Tactica" ---------------------------------------------------------------------------> Terminado
+- Comprobar que no se repitan jugadores teniendo en cuenta Suplentes--------------------------------------> Terminado
 - Recuperar Ultima Tactica Guardada
+- Testear bien la seccion
 
 -----------------------------------------------------------------------------------------------
 Si tenes ganas/queres, me vendria bien que agarres lo que habiamos hablado de Registracion, Pedido de equipos etc.
