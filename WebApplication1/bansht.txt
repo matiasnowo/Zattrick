@@ -3,27 +3,27 @@ A
 
 GK S_Ochacle
 DFL M_Dos_Santos
-DFC F_Costanzo
-DFC G_Lux_Jr
-DFR S_Lopez
-MFL J_Bosingwa
-MFC A_Chari
-MFC M_Materazzi
-MFR R_Trotta
-FWC Arruabarrena
+DFC Rocko
+DFR G_Lux_Jr
+DMC S_Lopez
+DMC J_Bosingwa
+MFL A_Chari
+MFR M_Materazzi
+AMC R_Trotta
+AMC Arruabarrena
 FWC J_Sanguinetti
 
-GK B_Leyenda
+GK F_Costanzo
 DFC Kuma
-DFC S_Fukube
-MFC M_Galarza
+DFL S_Fukube
+DFR M_Galarza
 MFC M_Mea_Vitali
-FWC Adrian_Reta
+AMR Adrian_Reta
 FWC L_Álvarez
 
 PK: A_Chari
 
-TACTIC A IF SCORE = -2, MIN = 70
+CHANGEPOS G_Lux_Jr MFR IF SCORE >= -1, MIN = 0
 
 
 

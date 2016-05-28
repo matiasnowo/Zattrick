@@ -4,8 +4,8 @@ Funcionalidad Tacticas:
 
 - La parte de "Cambio Tactica" ---------------------------------------------------------------------------> Terminado
 - Comprobar que no se repitan jugadores teniendo en cuenta Suplentes--------------------------------------> Terminado
-- Recuperar Ultima Tactica Guardada
-- Testear bien la seccion
+- Recuperar Ultima Tactica Guardada-----------------------------------------------------------------------> 70%, ya trae todo menos las ordenes 2, 3 y 4
+- Testear bien la seccion entera y mejorar interfaz
 
 -----------------------------------------------------------------------------------------------
 Si tenes ganas/queres, me vendria bien que agarres lo que habiamos hablado de Registracion, Pedido de equipos etc.

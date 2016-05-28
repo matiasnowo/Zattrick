@@ -764,7 +764,7 @@
      
 
     <p>
-        Tiros Libres: <asp:DropDownList ID="DropDownList166" Enabled ="false" runat="server" DataSourceID="SqlDataSource5" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList166_SelectedIndexChanged" style="height: 22px">
+        Tiros Libres: <asp:DropDownList ID="DropDownList166" runat="server" DataSourceID="SqlDataSource5" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="DropDownList166_SelectedIndexChanged" style="height: 22px">
         </asp:DropDownList>
         <asp:SqlDataSource ID="SqlDataSource5" runat="server"   ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT [Name] FROM [Jugadores] WHERE (([Equipo] = ?) AND ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?) OR ([Name] = ?))">
             <SelectParameters>
@@ -909,6 +909,7 @@
         </asp:DropDownList>
     <asp:Panel ID="Panel6" runat="server" BorderStyle="None" HorizontalAlign="Center" Width="500px">
         <br />
+        <asp:Button ID="Cargar" runat="server" BorderColor="Black" BorderStyle="Solid" BorderWidth="7px" Font-Underline="False" OnClick="Cargar_Click" Text="Cargar Tactica" />
         <asp:Button ID="Guardar" runat="server" Text="Guardar Tactica" BorderStyle="Solid" BorderWidth="7px" BorderColor="Black" Font-Underline="False" OnClick="Guardar_Click" />
     </asp:Panel>
 </asp:Content>

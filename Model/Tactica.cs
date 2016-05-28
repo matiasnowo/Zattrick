@@ -52,7 +52,50 @@ namespace Model
         public string Order18 { get; set; }
         public string Order19 { get; set; }
         public string Order20 { get; set; }
+
+
+
+
+
+
+        public string PositionPlayer1 { get; set; }
+        public string PositionPlayer2 { get; set; }
+        public string BandPlayer2 { get; set; }
+        public string PositionPlayer3 { get; set; }
+        public string BandPlayer3 { get; set; }
+        public string PositionPlayer4 { get; set; }
+        public string BandPlayer4 { get; set; }
+        public string PositionPlayer5 { get; set; }
+        public string BandPlayer5 { get; set; }
+        public string PositionPlayer6 { get; set; }
+        public string BandPlayer6 { get; set; }
+        public string PositionPlayer7 { get; set; }
+        public string BandPlayer7 { get; set; }
+        public string PositionPlayer8 { get; set; }
+        public string BandPlayer8 { get; set; }
+        public string PositionPlayer9 { get; set; }
+        public string BandPlayer9 { get; set; }
+        public string PositionPlayer10 { get; set; }
+        public string BandPlayer10 { get; set; }
+        public string PositionPlayer11 { get; set; }
+         public string BandPlayer11 { get; set; }
+
         
+
+
+        public string PositionSustitute1 { get; set; }
+        public string PositionSustitute2 { get; set; }
+        public string BandSustitute2 { get; set; }
+        public string PositionSustitute3 { get; set; }
+        public string BandSustitute3 { get; set; }
+        public string PositionSustitute4 { get; set; }
+        public string BandSustitute4 { get; set; }
+        public string PositionSustitute5 { get; set; }
+        public string BandSustitute5 { get; set; }
+        public string PositionSustitute6 { get; set; }
+        public string BandSustitute6 { get; set; }
+        public string PositionSustitute7 { get; set; }
+        public string BandSustitute7 { get; set; }
 
     }
 }
