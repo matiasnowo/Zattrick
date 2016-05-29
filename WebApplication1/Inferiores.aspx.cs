@@ -15,7 +15,11 @@ namespace AppWeb
         protected void Page_Load(object sender, EventArgs e)
         {
 
+            if (Session["Equipo"] == null)
+            {
 
+                Response.Redirect("/Inicio.aspx");
+            }
 
             Titulo.Text = Convert.ToString(Session["Equipo"]);
 

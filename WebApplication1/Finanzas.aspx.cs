@@ -14,7 +14,11 @@ namespace AppWeb
         protected void Page_Load(object sender, EventArgs e)
         {
             Titulo.Text = Convert.ToString(Session["Equipo"]);
+            if (Session["Equipo"] == null)
+            {
 
+                Response.Redirect("/Inicio.aspx");
+            }
 
             FinanzasDAO FD = new FinanzasDAO();
 

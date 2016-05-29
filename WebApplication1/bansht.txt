@@ -24,9 +24,9 @@ FWC L_Álvarez
 PK: A_Chari
 
 CHANGEPOS G_Lux_Jr MFR IF SCORE >= -1, MIN = 0
-
-
-
+TACTIC A IF SCORE = -2
+SUB M_Dos_Santos M_Mea_Vitali DMC IF SCORE <= 0
+TACTIC A IF SCORE >= 1
 
 
 

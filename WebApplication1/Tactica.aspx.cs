@@ -20,10 +20,14 @@ namespace AppWeb
 
             Titulo.Text = Convert.ToString(Session["Equipo"]);
 
+            if (Session["Equipo"] == null)
+            {
+
+                Response.Redirect("/Inicio.aspx");
+            }
 
 
 
-            
         }
 
 
@@ -101,7 +105,7 @@ namespace AppWeb
                 DropDownList260.Visible = true;
                 if (DropDownList260.SelectedValue != "")
                 {
-                    
+
                     DropDownList174.Enabled = true;
                     DropDownList175.Enabled = true;
                     DropDownList176.Enabled = true;
@@ -131,7 +135,7 @@ namespace AppWeb
                 DropDownList63.Items.Add(DropTactic.Items.FindByValue("L"));
                 DropDownList63.Items.Add(DropTactic.Items.FindByValue("C"));
                 DropDownList63.Items.Add(DropTactic.Items.FindByValue(""));
-                
+
 
 
 
@@ -375,7 +379,7 @@ namespace AppWeb
                 DropDownList314.Items.Add(DropTactic.Items.FindByValue("C"));
                 DropDownList314.Items.Add(DropTactic.Items.FindByValue(""));
 
-                
+
 
 
 
@@ -656,7 +660,7 @@ namespace AppWeb
 
             DropDownList263.Enabled = true;
 
-            
+
         }
 
         protected void DropDownList24_SelectedIndexChanged(object sender, EventArgs e)
@@ -901,7 +905,7 @@ namespace AppWeb
             DropDownList311.Enabled = true;
             DropDownList312.Enabled = true;
 
-           
+
         }
 
         protected void DropDownList310_SelectedIndexChanged(object sender, EventArgs e)
@@ -1415,7 +1419,7 @@ namespace AppWeb
             DropDownList301.Enabled = true;
             DropDownList302.Enabled = true;
 
-           
+
         }
 
 
@@ -1592,15 +1596,15 @@ namespace AppWeb
                     if (DropDownList62.SelectedValue != "CambiarTactica")
                     {
                         MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 1");
-                    DeboActualizar1 = 0;
+                        DeboActualizar1 = 0;
                     }
                 }
                 if (DropDownList174.SelectedValue == "")
                 {
-                    
-                        DeboActualizar1 = 0;
+
+                    DeboActualizar1 = 0;
                     MessageBox.Show("Verifica el Condicional 1 de la Orden 1 (Campo 1)");
-                    
+
                 }
                 if (DropDownList175.SelectedValue == "")
                 {
@@ -1692,7 +1696,7 @@ namespace AppWeb
                     if (DropDownList65.SelectedValue != "CambiarTactica")
                     {
                         MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 2");
-                    DeboActualizar2 = 0;
+                        DeboActualizar2 = 0;
                     }
                 }
                 if (DropDownList179.SelectedValue == "")
@@ -1787,7 +1791,7 @@ namespace AppWeb
                     if (DropDownList303.SelectedValue != "CambiarTactica")
                     {
                         MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 3");
-                    DeboActualizar3 = 0;
+                        DeboActualizar3 = 0;
                     }
                 }
                 if (DropDownList307.SelectedValue == "")
@@ -1879,9 +1883,10 @@ namespace AppWeb
 
                 if (DropDownList316.SelectedValue == "")
                 {
-                    if (DropDownList313.SelectedValue != "CambiarTactica") { 
-                    MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 4");
-                    DeboActualizar4 = 0;
+                    if (DropDownList313.SelectedValue != "CambiarTactica")
+                    {
+                        MessageBox.Show("Verifica la Posicion a Cambiar de la Orden 4");
+                        DeboActualizar4 = 0;
                     }
                 }
                 if (DropDownList317.SelectedValue == "")
@@ -1965,7 +1970,7 @@ namespace AppWeb
             }
 
 
-// Verifico Que no se repitan jugadores entre los Titulares
+            // Verifico Que no se repitan jugadores entre los Titulares
 
 
             List<string> Convocados = new List<string>();
@@ -1993,8 +1998,10 @@ namespace AppWeb
 
                 for (int p = 0; p < Convocados.Count; p++)
                 {
-                    if (v != p) {
-                        if (Convocados.ElementAt(v) == Convocados.ElementAt(p)){
+                    if (v != p)
+                    {
+                        if (Convocados.ElementAt(v) == Convocados.ElementAt(p))
+                        {
 
 
 
@@ -2016,19 +2023,21 @@ namespace AppWeb
 
 
 
-                if (DeboActualizar1 == 1 && DeboActualizar2 == 1 && DeboActualizar3 == 1 && DeboActualizar4 == 1) {
+                if (DeboActualizar1 == 1 && DeboActualizar2 == 1 && DeboActualizar3 == 1 && DeboActualizar4 == 1)
+                {
                     TD.ActualizarTxtdeTactica(TacticaAEnviar);
 
                 }
 
-            } } 
+            }
+        }
 
-                //  MessageBox.Show("El nombre de usuario no existe o la contraseña es incorrecta!");
+        //  MessageBox.Show("El nombre de usuario no existe o la contraseña es incorrecta!");
 
 
-         
 
-       
+
+
 
 
 
@@ -2053,7 +2062,7 @@ namespace AppWeb
 
         protected void Cargar_Click(object sender, EventArgs e)
         {
-          
+
 
 
             TacticasDAO TD = new TacticasDAO();
@@ -2116,140 +2125,660 @@ namespace AppWeb
 
 
 
-            if (TacticaTraida.Order1.Substring(0, 1) == "S")
-            {
-                DropDownList63.DataBind();
-                DropDownList64.DataBind();
-                DropDownList260.DataBind();
-                DropDownList174.DataBind();
-                DropDownList175.DataBind();
-                DropDownList176.DataBind();
-                DropDownList261.DataBind();
-                DropDownList262.DataBind();
-                DropDownList263.DataBind();
-                DropDownList63.Enabled = true;
-                DropDownList64.Enabled = true;
-                DropDownList260.Enabled = true;
-                DropDownList174.Enabled = true;
-                DropDownList175.Enabled = true;
-                DropDownList176.Enabled = true;
-                DropDownList261.Enabled = true;
-                DropDownList262.Enabled = true;
-                DropDownList263.Enabled = true;
-
-
-
-                Orden1Boolean.Checked = true;
-                string Orden1 = TacticaTraida.Order1;
-                char limitador1 = ' ';
-                char limitador2 = ',';
-                string[] OrdenDelimitada = Orden1.Split(limitador1, limitador2);
-                DropDownList62.SelectedValue = "CambiarJugador";
-                DropDownList63.SelectedValue = OrdenDelimitada.ElementAt(1);
-                DropDownList64.SelectedValue = OrdenDelimitada.ElementAt(2);
-                DropDownList260.SelectedValue = OrdenDelimitada.ElementAt(3);
-                DropDownList174.SelectedValue = OrdenDelimitada.ElementAt(5);
-                DropDownList175.SelectedValue = OrdenDelimitada.ElementAt(6);
-                DropDownList176.SelectedValue = OrdenDelimitada.ElementAt(7);
-                DropDownList261.SelectedValue = OrdenDelimitada.ElementAt(9);
-                DropDownList262.SelectedValue = OrdenDelimitada.ElementAt(10);
-                DropDownList263.SelectedValue = OrdenDelimitada.ElementAt(11);
-
-            }
-
-            if (TacticaTraida.Order1.Substring(0, 1) == "C")
-            {
-                DropDownList63.DataBind();
-                DropDownList64.Visible = false;
-                DropDownList63.DataSourceID = "SqlDataSource5";
-                DropDownList260.DataBind();
-                DropDownList174.DataBind();
-                DropDownList175.DataBind();
-                DropDownList176.DataBind();
-                DropDownList261.DataBind();
-                DropDownList262.DataBind();
-                DropDownList263.DataBind();
-                DropDownList63.Enabled = true;
-                DropDownList64.Enabled = true;
-                DropDownList260.Enabled = true;
-                DropDownList174.Enabled = true;
-                DropDownList175.Enabled = true;
-                DropDownList176.Enabled = true;
-                DropDownList261.Enabled = true;
-                DropDownList262.Enabled = true;
-                DropDownList263.Enabled = true;
-
-
-
-                Orden1Boolean.Checked = true;
-                string Orden1 = TacticaTraida.Order1;
-                char limitador1 = ' ';
-                char limitador2 = ',';
-                string[] OrdenDelimitada = Orden1.Split(limitador1, limitador2);
-                DropDownList62.SelectedValue = "CambiarPosicion";
-                DropDownList63.SelectedValue = OrdenDelimitada.ElementAt(1);
-                DropDownList260.SelectedValue = OrdenDelimitada.ElementAt(2);
-                DropDownList174.SelectedValue = OrdenDelimitada.ElementAt(4);
-                DropDownList175.SelectedValue = OrdenDelimitada.ElementAt(5);
-                DropDownList176.SelectedValue = OrdenDelimitada.ElementAt(6);
-                DropDownList261.SelectedValue = OrdenDelimitada.ElementAt(8);
-                DropDownList262.SelectedValue = OrdenDelimitada.ElementAt(9);
-                DropDownList263.SelectedValue = OrdenDelimitada.ElementAt(10);
-
-            }
-
-            if (TacticaTraida.Order1.Substring(0, 1) == "T")
+            if (TacticaTraida.Order1 != "")
             {
 
 
 
-                DropDownList63.DataSourceID = "";
-                DropDownList63.DataBind();
-                DropDownList63.Items.Clear();
-                DropDownList63.Items.Add(DropTactic.Items.FindByValue("A"));
-                DropDownList63.Items.Add(DropTactic.Items.FindByValue("D"));
-                DropDownList63.Items.Add(DropTactic.Items.FindByValue("P"));
-                DropDownList63.Items.Add(DropTactic.Items.FindByValue("L"));
-                DropDownList63.Items.Add(DropTactic.Items.FindByValue("C"));
-                DropDownList63.Items.Add(DropTactic.Items.FindByValue(""));
-
-                
-                DropDownList64.Visible = false;
-                DropDownList260.Visible = false;
-                
-                DropDownList260.DataBind();
-                DropDownList174.DataBind();
-                DropDownList175.DataBind();
-                DropDownList176.DataBind();
-                DropDownList261.DataBind();
-                DropDownList262.DataBind();
-                DropDownList263.DataBind();
-                DropDownList63.Enabled = true;
-                DropDownList64.Enabled = true;
-                DropDownList260.Enabled = true;
-                DropDownList174.Enabled = true;
-                DropDownList175.Enabled = true;
-                DropDownList176.Enabled = true;
-                DropDownList261.Enabled = true;
-                DropDownList262.Enabled = true;
-                DropDownList263.Enabled = true;
+                if (TacticaTraida.Order1.Substring(0, 1) == "S")
+                {
+                    DropDownList63.DataBind();
+                    DropDownList64.DataBind();
+                    DropDownList260.DataBind();
+                    DropDownList174.DataBind();
+                    DropDownList175.DataBind();
+                    DropDownList176.DataBind();
+                    DropDownList261.DataBind();
+                    DropDownList262.DataBind();
+                    DropDownList263.DataBind();
+                    DropDownList63.Enabled = true;
+                    DropDownList64.Enabled = true;
+                    DropDownList260.Enabled = true;
+                    DropDownList174.Enabled = true;
+                    DropDownList175.Enabled = true;
+                    DropDownList176.Enabled = true;
+                    DropDownList261.Enabled = true;
+                    DropDownList262.Enabled = true;
+                    DropDownList263.Enabled = true;
 
 
 
-                Orden1Boolean.Checked = true;
-                string Orden1 = TacticaTraida.Order1;
-                char limitador1 = ' ';
-                char limitador2 = ',';
-                string[] OrdenDelimitada = Orden1.Split(limitador1, limitador2);
-                DropDownList62.SelectedValue = "CambiarTactica";
-                DropDownList63.SelectedValue = OrdenDelimitada.ElementAt(1);
-                DropDownList174.SelectedValue = OrdenDelimitada.ElementAt(3);
-                DropDownList175.SelectedValue = OrdenDelimitada.ElementAt(4);
-                DropDownList176.SelectedValue = OrdenDelimitada.ElementAt(5);
-                DropDownList261.SelectedValue = OrdenDelimitada.ElementAt(7);
-                DropDownList262.SelectedValue = OrdenDelimitada.ElementAt(8);
-                DropDownList263.SelectedValue = OrdenDelimitada.ElementAt(9);
+                    Orden1Boolean.Checked = true;
+                    string Orden1 = TacticaTraida.Order1;
+                    char limitador1 = ' ';
+                    char limitador2 = ',';
+                    string[] OrdenDelimitadas1 = Orden1.Split(limitador1, limitador2);
+                    DropDownList62.SelectedValue = "CambiarJugador";
+                    DropDownList63.SelectedValue = OrdenDelimitadas1.ElementAt(1);
+                    DropDownList64.SelectedValue = OrdenDelimitadas1.ElementAt(2);
+                    DropDownList260.SelectedValue = OrdenDelimitadas1.ElementAt(3);
+                    DropDownList174.SelectedValue = OrdenDelimitadas1.ElementAt(5);
+                    DropDownList175.SelectedValue = OrdenDelimitadas1.ElementAt(6);
+                    DropDownList176.SelectedValue = OrdenDelimitadas1.ElementAt(7);
+                    if (OrdenDelimitadas1.Count() > 8)
+                    {
+                        DropDownList261.SelectedValue = OrdenDelimitadas1.ElementAt(9);
+                        DropDownList262.SelectedValue = OrdenDelimitadas1.ElementAt(10);
+                        DropDownList263.SelectedValue = OrdenDelimitadas1.ElementAt(11);
+                    }
+                }
 
+                if (TacticaTraida.Order1.Substring(0, 1) == "C")
+                {
+                    DropDownList63.DataBind();
+                    DropDownList64.Visible = false;
+                    DropDownList63.DataSourceID = "SqlDataSource5";
+                    DropDownList260.DataBind();
+                    DropDownList174.DataBind();
+                    DropDownList175.DataBind();
+                    DropDownList176.DataBind();
+                    DropDownList261.DataBind();
+                    DropDownList262.DataBind();
+                    DropDownList263.DataBind();
+                    DropDownList63.Enabled = true;
+                    DropDownList64.Enabled = true;
+                    DropDownList260.Enabled = true;
+                    DropDownList174.Enabled = true;
+                    DropDownList175.Enabled = true;
+                    DropDownList176.Enabled = true;
+                    DropDownList261.Enabled = true;
+                    DropDownList262.Enabled = true;
+                    DropDownList263.Enabled = true;
+
+
+
+                    Orden1Boolean.Checked = true;
+                    string Orden1 = TacticaTraida.Order1;
+                    char limitador1 = ' ';
+                    char limitador2 = ',';
+                    string[] OrdenDelimitadac1 = Orden1.Split(limitador1, limitador2);
+                    DropDownList62.SelectedValue = "CambiarPosicion";
+                    DropDownList63.SelectedValue = OrdenDelimitadac1.ElementAt(1);
+                    DropDownList260.SelectedValue = OrdenDelimitadac1.ElementAt(2);
+                    DropDownList174.SelectedValue = OrdenDelimitadac1.ElementAt(4);
+                    DropDownList175.SelectedValue = OrdenDelimitadac1.ElementAt(5);
+                    DropDownList176.SelectedValue = OrdenDelimitadac1.ElementAt(6);
+                    if (OrdenDelimitadac1.Count() > 7)
+                    {
+                        DropDownList261.SelectedValue = OrdenDelimitadac1.ElementAt(8);
+                        DropDownList262.SelectedValue = OrdenDelimitadac1.ElementAt(9);
+                        DropDownList263.SelectedValue = OrdenDelimitadac1.ElementAt(10);
+                    }
+                }
+
+                if (TacticaTraida.Order1.Substring(0, 1) == "T")
+                {
+
+
+
+                    DropDownList63.DataSourceID = "";
+                    DropDownList63.DataBind();
+                    DropDownList63.Items.Clear();
+                    DropDownList63.Items.Add(DropTactic.Items.FindByValue("A"));
+                    DropDownList63.Items.Add(DropTactic.Items.FindByValue("D"));
+                    DropDownList63.Items.Add(DropTactic.Items.FindByValue("P"));
+                    DropDownList63.Items.Add(DropTactic.Items.FindByValue("L"));
+                    DropDownList63.Items.Add(DropTactic.Items.FindByValue("C"));
+                    DropDownList63.Items.Add(DropTactic.Items.FindByValue(""));
+
+
+                    DropDownList64.Visible = false;
+                    DropDownList260.Visible = false;
+
+                    DropDownList260.DataBind();
+                    DropDownList174.DataBind();
+                    DropDownList175.DataBind();
+                    DropDownList176.DataBind();
+                    DropDownList261.DataBind();
+                    DropDownList262.DataBind();
+                    DropDownList263.DataBind();
+                    DropDownList63.Enabled = true;
+                    DropDownList64.Enabled = true;
+                    DropDownList260.Enabled = true;
+                    DropDownList174.Enabled = true;
+                    DropDownList175.Enabled = true;
+                    DropDownList176.Enabled = true;
+                    DropDownList261.Enabled = true;
+                    DropDownList262.Enabled = true;
+                    DropDownList263.Enabled = true;
+
+
+
+                    Orden1Boolean.Checked = true;
+                    string Orden1 = TacticaTraida.Order1;
+                    char limitador1 = ' ';
+                    char limitador2 = ',';
+                    string[] OrdenDelimitadat1 = Orden1.Split(limitador1, limitador2);
+                    DropDownList62.SelectedValue = "CambiarTactica";
+                    DropDownList63.SelectedValue = OrdenDelimitadat1.ElementAt(1);
+                    DropDownList174.SelectedValue = OrdenDelimitadat1.ElementAt(3);
+                    DropDownList175.SelectedValue = OrdenDelimitadat1.ElementAt(4);
+                    DropDownList176.SelectedValue = OrdenDelimitadat1.ElementAt(5);
+                    if (OrdenDelimitadat1.Count() > 6)
+                    {
+                        DropDownList261.SelectedValue = OrdenDelimitadat1.ElementAt(7);
+                        DropDownList262.SelectedValue = OrdenDelimitadat1.ElementAt(8);
+                        DropDownList263.SelectedValue = OrdenDelimitadat1.ElementAt(9);
+
+                    }
+                }
+                if (TacticaTraida.Order2 != "")
+                {
+
+                    if (TacticaTraida.Order2.Substring(0, 1) == "S")
+                    {
+                        DropDownList66.DataBind();
+                        DropDownList67.DataBind();
+                        DropDownList178.DataBind();
+                        DropDownList179.DataBind();
+                        DropDownList180.DataBind();
+                        DropDownList181.DataBind();
+                        DropDownList300.DataBind();
+                        DropDownList301.DataBind();
+                        DropDownList302.DataBind();
+                        DropDownList66.Enabled = true;
+                        DropDownList64.Enabled = true;
+                        DropDownList178.Enabled = true;
+                        DropDownList179.Enabled = true;
+                        DropDownList180.Enabled = true;
+                        DropDownList181.Enabled = true;
+                        DropDownList300.Enabled = true;
+                        DropDownList301.Enabled = true;
+                        DropDownList302.Enabled = true;
+
+
+
+                        Orden2Boolean.Checked = true;
+                        string Orden2 = TacticaTraida.Order2;
+                        char limitador1 = ' ';
+                        char limitador2 = ',';
+                        string[] OrdenDelimitadas2 = Orden2.Split(limitador1, limitador2);
+                        DropDownList62.SelectedValue = "CambiarJugador";
+                        DropDownList66.SelectedValue = OrdenDelimitadas2.ElementAt(1);
+                        DropDownList67.SelectedValue = OrdenDelimitadas2.ElementAt(2);
+                        DropDownList178.SelectedValue = OrdenDelimitadas2.ElementAt(3);
+                        DropDownList179.SelectedValue = OrdenDelimitadas2.ElementAt(5);
+                        DropDownList180.SelectedValue = OrdenDelimitadas2.ElementAt(6);
+                        DropDownList181.SelectedValue = OrdenDelimitadas2.ElementAt(7);
+                        if (OrdenDelimitadas2.Count() > 8)
+                        {
+                            DropDownList300.SelectedValue = OrdenDelimitadas2.ElementAt(9);
+                            DropDownList301.SelectedValue = OrdenDelimitadas2.ElementAt(10);
+                            DropDownList302.SelectedValue = OrdenDelimitadas2.ElementAt(11);
+                        }
+                    }
+
+                    if (TacticaTraida.Order2.Substring(0, 1) == "C")
+                    {
+                        DropDownList66.DataBind();
+                        DropDownList67.Visible = false;
+                        DropDownList66.DataSourceID = "SqlDataSource5";
+                        DropDownList178.DataBind();
+                        DropDownList179.DataBind();
+                        DropDownList180.DataBind();
+                        DropDownList181.DataBind();
+                        DropDownList300.DataBind();
+                        DropDownList301.DataBind();
+                        DropDownList302.DataBind();
+                        DropDownList66.Enabled = true;
+                        DropDownList67.Enabled = true;
+                        DropDownList178.Enabled = true;
+                        DropDownList179.Enabled = true;
+                        DropDownList180.Enabled = true;
+                        DropDownList181.Enabled = true;
+                        DropDownList300.Enabled = true;
+                        DropDownList301.Enabled = true;
+                        DropDownList302.Enabled = true;
+
+
+
+                        Orden2Boolean.Checked = true;
+                        string Orden2 = TacticaTraida.Order2;
+                        char limitador1 = ' ';
+                        char limitador2 = ',';
+                        string[] OrdenDelimitadac2 = Orden2.Split(limitador1, limitador2);
+                        DropDownList65.SelectedValue = "CambiarPosicion";
+                        DropDownList66.SelectedValue = OrdenDelimitadac2.ElementAt(1);
+                        DropDownList178.SelectedValue = OrdenDelimitadac2.ElementAt(2);
+                        DropDownList179.SelectedValue = OrdenDelimitadac2.ElementAt(4);
+                        DropDownList180.SelectedValue = OrdenDelimitadac2.ElementAt(5);
+                        DropDownList181.SelectedValue = OrdenDelimitadac2.ElementAt(6);
+                        if (OrdenDelimitadac2.Count() > 7)
+                        {
+                            DropDownList300.SelectedValue = OrdenDelimitadac2.ElementAt(8);
+                            DropDownList301.SelectedValue = OrdenDelimitadac2.ElementAt(9);
+                            DropDownList302.SelectedValue = OrdenDelimitadac2.ElementAt(10);
+                        }
+                    }
+
+                    if (TacticaTraida.Order2.Substring(0, 1) == "T")
+                    {
+
+
+
+                        DropDownList66.DataSourceID = "";
+                        DropDownList66.DataBind();
+                        DropDownList66.Items.Clear();
+                        DropDownList66.Items.Add(DropTactic.Items.FindByValue("A"));
+                        DropDownList66.Items.Add(DropTactic.Items.FindByValue("D"));
+                        DropDownList66.Items.Add(DropTactic.Items.FindByValue("P"));
+                        DropDownList66.Items.Add(DropTactic.Items.FindByValue("L"));
+                        DropDownList66.Items.Add(DropTactic.Items.FindByValue("C"));
+                        DropDownList66.Items.Add(DropTactic.Items.FindByValue(""));
+
+
+                        DropDownList67.Visible = false;
+                        DropDownList178.Visible = false;
+
+                        DropDownList178.DataBind();
+                        DropDownList179.DataBind();
+                        DropDownList180.DataBind();
+                        DropDownList181.DataBind();
+                        DropDownList300.DataBind();
+                        DropDownList301.DataBind();
+                        DropDownList302.DataBind();
+                        DropDownList66.Enabled = true;
+                        DropDownList67.Enabled = true;
+                        DropDownList178.Enabled = true;
+                        DropDownList179.Enabled = true;
+                        DropDownList180.Enabled = true;
+                        DropDownList181.Enabled = true;
+                        DropDownList300.Enabled = true;
+                        DropDownList301.Enabled = true;
+                        DropDownList302.Enabled = true;
+
+
+
+                        Orden2Boolean.Checked = true;
+                        string Orden2 = TacticaTraida.Order2;
+                        char limitador1 = ' ';
+                        char limitador2 = ',';
+                        string[] OrdenDelimitadat2 = Orden2.Split(limitador1, limitador2);
+                        DropDownList65.SelectedValue = "CambiarTactica";
+                        DropDownList66.SelectedValue = OrdenDelimitadat2.ElementAt(1);
+                        DropDownList179.SelectedValue = OrdenDelimitadat2.ElementAt(3);
+                        DropDownList180.SelectedValue = OrdenDelimitadat2.ElementAt(4);
+                        DropDownList181.SelectedValue = OrdenDelimitadat2.ElementAt(5);
+                        if (OrdenDelimitadat2.Count() > 6)
+                        {
+                            DropDownList300.SelectedValue = OrdenDelimitadat2.ElementAt(7);
+                            DropDownList301.SelectedValue = OrdenDelimitadat2.ElementAt(8);
+                            DropDownList302.SelectedValue = OrdenDelimitadat2.ElementAt(9);
+                        }
+                    }
+                }
+                if (TacticaTraida.Order3 != "")
+                {
+
+                    if (TacticaTraida.Order3.Substring(0, 1) == "S")
+                    {
+                        DropDownList304.DataBind();
+                        DropDownList305.DataBind();
+                        DropDownList306.DataBind();
+                        DropDownList307.DataBind();
+                        DropDownList308.DataBind();
+                        DropDownList309.DataBind();
+                        DropDownList310.DataBind();
+                        DropDownList311.DataBind();
+                        DropDownList312.DataBind();
+                        DropDownList304.Enabled = true;
+                        DropDownList305.Enabled = true;
+                        DropDownList306.Enabled = true;
+                        DropDownList307.Enabled = true;
+                        DropDownList308.Enabled = true;
+                        DropDownList309.Enabled = true;
+                        DropDownList310.Enabled = true;
+                        DropDownList311.Enabled = true;
+                        DropDownList312.Enabled = true;
+
+
+
+                        Orden3Boolean.Checked = true;
+                        string Orden3 = TacticaTraida.Order3;
+                        char limitador1 = ' ';
+                        char limitador2 = ',';
+                        string[] OrdenDelimitadas3 = Orden3.Split(limitador1, limitador2);
+                        DropDownList303.SelectedValue = "CambiarJugador";
+                        DropDownList304.SelectedValue = OrdenDelimitadas3.ElementAt(1);
+                        DropDownList305.SelectedValue = OrdenDelimitadas3.ElementAt(2);
+                        DropDownList306.SelectedValue = OrdenDelimitadas3.ElementAt(3);
+                        DropDownList307.SelectedValue = OrdenDelimitadas3.ElementAt(5);
+                        DropDownList308.SelectedValue = OrdenDelimitadas3.ElementAt(6);
+                        DropDownList309.SelectedValue = OrdenDelimitadas3.ElementAt(7);
+
+                        if (OrdenDelimitadas3.Count() > 8)
+                        {
+                            DropDownList310.SelectedValue = OrdenDelimitadas3.ElementAt(9);
+                            DropDownList311.SelectedValue = OrdenDelimitadas3.ElementAt(10);
+                            DropDownList312.SelectedValue = OrdenDelimitadas3.ElementAt(11);
+                        }
+                    }
+
+                    if (TacticaTraida.Order3.Substring(0, 1) == "C")
+                    {
+                        DropDownList304.DataBind();
+                        DropDownList305.Visible = false;
+                        DropDownList304.DataSourceID = "SqlDataSource5";
+                        DropDownList305.DataBind();
+                        DropDownList306.DataBind();
+                        DropDownList307.DataBind();
+                        DropDownList308.DataBind();
+                        DropDownList309.DataBind();
+                        DropDownList310.DataBind();
+                        DropDownList311.DataBind();
+                        DropDownList312.DataBind();
+                        DropDownList304.Enabled = true;
+                        DropDownList305.Enabled = true;
+                        DropDownList306.Enabled = true;
+                        DropDownList307.Enabled = true;
+                        DropDownList308.Enabled = true;
+                        DropDownList309.Enabled = true;
+                        DropDownList310.Enabled = true;
+                        DropDownList311.Enabled = true;
+                        DropDownList312.Enabled = true;
+
+
+
+                        Orden3Boolean.Checked = true;
+                        string Orden3 = TacticaTraida.Order3;
+                        char limitador1 = ' ';
+                        char limitador2 = ',';
+                        string[] OrdenDelimitadac3 = Orden3.Split(limitador1, limitador2);
+                        DropDownList303.SelectedValue = "CambiarPosicion";
+                        DropDownList304.SelectedValue = OrdenDelimitadac3.ElementAt(1);
+                        DropDownList306.SelectedValue = OrdenDelimitadac3.ElementAt(2);
+                        DropDownList307.SelectedValue = OrdenDelimitadac3.ElementAt(4);
+                        DropDownList308.SelectedValue = OrdenDelimitadac3.ElementAt(5);
+                        DropDownList309.SelectedValue = OrdenDelimitadac3.ElementAt(6);
+
+                        if (OrdenDelimitadac3.Count() > 7)
+                        {
+                            DropDownList310.SelectedValue = OrdenDelimitadac3.ElementAt(8);
+                            DropDownList311.SelectedValue = OrdenDelimitadac3.ElementAt(9);
+                            DropDownList312.SelectedValue = OrdenDelimitadac3.ElementAt(10);
+                        }
+                    }
+
+                    if (TacticaTraida.Order3.Substring(0, 1) == "T")
+                    {
+
+
+
+                        DropDownList304.DataSourceID = "";
+                        DropDownList304.DataBind();
+                        DropDownList304.Items.Clear();
+                        DropDownList304.Items.Add(DropTactic.Items.FindByValue("A"));
+                        DropDownList304.Items.Add(DropTactic.Items.FindByValue("D"));
+                        DropDownList304.Items.Add(DropTactic.Items.FindByValue("P"));
+                        DropDownList304.Items.Add(DropTactic.Items.FindByValue("L"));
+                        DropDownList304.Items.Add(DropTactic.Items.FindByValue("C"));
+                        DropDownList304.Items.Add(DropTactic.Items.FindByValue(""));
+
+
+                        DropDownList305.Visible = false;
+                        DropDownList306.Visible = false;
+
+                        DropDownList306.DataBind();
+                        DropDownList307.DataBind();
+                        DropDownList308.DataBind();
+                        DropDownList309.DataBind();
+                        DropDownList310.DataBind();
+                        DropDownList311.DataBind();
+                        DropDownList312.DataBind();
+                        DropDownList304.Enabled = true;
+                        DropDownList305.Enabled = true;
+                        DropDownList306.Enabled = true;
+                        DropDownList307.Enabled = true;
+                        DropDownList308.Enabled = true;
+                        DropDownList309.Enabled = true;
+                        DropDownList310.Enabled = true;
+                        DropDownList311.Enabled = true;
+                        DropDownList312.Enabled = true;
+
+
+
+                        Orden3Boolean.Checked = true;
+                        string Orden3 = TacticaTraida.Order3;
+                        char limitador1 = ' ';
+                        char limitador2 = ',';
+                        string[] OrdenDelimitadat3 = Orden3.Split(limitador1, limitador2);
+                        DropDownList303.SelectedValue = "CambiarTactica";
+                        DropDownList304.SelectedValue = OrdenDelimitadat3.ElementAt(1);
+                        DropDownList307.SelectedValue = OrdenDelimitadat3.ElementAt(3);
+                        DropDownList308.SelectedValue = OrdenDelimitadat3.ElementAt(4);
+                        DropDownList309.SelectedValue = OrdenDelimitadat3.ElementAt(5);
+
+                        if (OrdenDelimitadat3.Count() > 6)
+                        {
+                            DropDownList310.SelectedValue = OrdenDelimitadat3.ElementAt(7);
+                            DropDownList311.SelectedValue = OrdenDelimitadat3.ElementAt(8);
+                            DropDownList312.SelectedValue = OrdenDelimitadat3.ElementAt(9);
+                        }
+                    }
+               
+                }
+
+                if (TacticaTraida.Order4 != "")
+                {
+
+                    if (TacticaTraida.Order4.Substring(0, 1) == "S")
+                    {
+                        DropDownList314.DataBind();
+                        DropDownList315.DataBind();
+                        DropDownList316.DataBind();
+                        DropDownList317.DataBind();
+                        DropDownList318.DataBind();
+                        DropDownList319.DataBind();
+                        DropDownList320.DataBind();
+                        DropDownList321.DataBind();
+                        DropDownList322.DataBind();
+                        DropDownList314.Enabled = true;
+                        DropDownList315.Enabled = true;
+                        DropDownList316.Enabled = true;
+                        DropDownList317.Enabled = true;
+                        DropDownList318.Enabled = true;
+                        DropDownList319.Enabled = true;
+                        DropDownList320.Enabled = true;
+                        DropDownList321.Enabled = true;
+                        DropDownList322.Enabled = true;
+
+
+
+                        Orden4Boolean.Checked = true;
+                        string Orden4 = TacticaTraida.Order4;
+                        char limitador1 = ' ';
+                        char limitador2 = ',';
+                        string[] OrdenDelimitadas4 = Orden4.Split(limitador1, limitador2);
+                        DropDownList313.SelectedValue = "CambiarJugador";
+                        DropDownList314.SelectedValue = OrdenDelimitadas4.ElementAt(1);
+                        DropDownList315.SelectedValue = OrdenDelimitadas4.ElementAt(2);
+                        DropDownList316.SelectedValue = OrdenDelimitadas4.ElementAt(3);
+                        DropDownList317.SelectedValue = OrdenDelimitadas4.ElementAt(5);
+                        DropDownList318.SelectedValue = OrdenDelimitadas4.ElementAt(6);
+                        DropDownList319.SelectedValue = OrdenDelimitadas4.ElementAt(7);
+
+                        if (OrdenDelimitadas4.Count() > 8)
+                        {
+                            DropDownList320.SelectedValue = OrdenDelimitadas4.ElementAt(9);
+                            DropDownList321.SelectedValue = OrdenDelimitadas4.ElementAt(10);
+                            DropDownList322.SelectedValue = OrdenDelimitadas4.ElementAt(11);
+                        }
+                    }
+
+                    if (TacticaTraida.Order4.Substring(0, 1) == "C")
+                    {
+                        DropDownList314.DataBind();
+                        DropDownList315.Visible = false;
+                        DropDownList314.DataSourceID = "SqlDataSource5";
+                        DropDownList315.DataBind();
+                        DropDownList316.DataBind();
+                        DropDownList317.DataBind();
+                        DropDownList318.DataBind();
+                        DropDownList319.DataBind();
+                        DropDownList320.DataBind();
+                        DropDownList321.DataBind();
+                        DropDownList322.DataBind();
+                        DropDownList314.Enabled = true;
+                        DropDownList315.Enabled = true;
+                        DropDownList316.Enabled = true;
+                        DropDownList317.Enabled = true;
+                        DropDownList318.Enabled = true;
+                        DropDownList319.Enabled = true;
+                        DropDownList320.Enabled = true;
+                        DropDownList321.Enabled = true;
+                        DropDownList322.Enabled = true;
+
+
+
+                        Orden4Boolean.Checked = true;
+                        string Orden4 = TacticaTraida.Order4;
+                        char limitador1 = ' ';
+                        char limitador2 = ',';
+                        string[] OrdenDelimitadac4 = Orden4.Split(limitador1, limitador2);
+                        DropDownList313.SelectedValue = "CambiarPosicion";
+                        DropDownList314.SelectedValue = OrdenDelimitadac4.ElementAt(1);
+                        DropDownList316.SelectedValue = OrdenDelimitadac4.ElementAt(2);
+                        DropDownList317.SelectedValue = OrdenDelimitadac4.ElementAt(4);
+                        DropDownList318.SelectedValue = OrdenDelimitadac4.ElementAt(5);
+                        DropDownList319.SelectedValue = OrdenDelimitadac4.ElementAt(6);
+
+                        if (OrdenDelimitadac4.Count() > 7)
+                        {
+                            DropDownList320.SelectedValue = OrdenDelimitadac4.ElementAt(8);
+                            DropDownList321.SelectedValue = OrdenDelimitadac4.ElementAt(9);
+                            DropDownList322.SelectedValue = OrdenDelimitadac4.ElementAt(10);
+                        }
+                    }
+
+                    if (TacticaTraida.Order4.Substring(0, 1) == "T")
+                    {
+
+
+
+                        DropDownList314.DataSourceID = "";
+                        DropDownList314.DataBind();
+                        DropDownList314.Items.Clear();
+                        DropDownList314.Items.Add(DropTactic.Items.FindByValue("A"));
+                        DropDownList314.Items.Add(DropTactic.Items.FindByValue("D"));
+                        DropDownList314.Items.Add(DropTactic.Items.FindByValue("P"));
+                        DropDownList314.Items.Add(DropTactic.Items.FindByValue("L"));
+                        DropDownList314.Items.Add(DropTactic.Items.FindByValue("C"));
+                        DropDownList314.Items.Add(DropTactic.Items.FindByValue(""));
+
+
+                        DropDownList315.Visible = false;
+                        DropDownList316.Visible = false;
+
+                        DropDownList316.DataBind();
+                        DropDownList317.DataBind();
+                        DropDownList318.DataBind();
+                        DropDownList319.DataBind();
+                        DropDownList320.DataBind();
+                        DropDownList321.DataBind();
+                        DropDownList322.DataBind();
+                        DropDownList314.Enabled = true;
+                        DropDownList315.Enabled = true;
+                        DropDownList316.Enabled = true;
+                        DropDownList317.Enabled = true;
+                        DropDownList318.Enabled = true;
+                        DropDownList319.Enabled = true;
+                        DropDownList320.Enabled = true;
+                        DropDownList321.Enabled = true;
+                        DropDownList322.Enabled = true;
+
+
+
+                        Orden4Boolean.Checked = true;
+                        string Orden4 = TacticaTraida.Order4;
+                        char limitador1 = ' ';
+                        char limitador2 = ',';
+                        string[] OrdenDelimitadat4 = Orden4.Split(limitador1, limitador2);
+                        DropDownList313.SelectedValue = "CambiarTactica";
+                        DropDownList314.SelectedValue = OrdenDelimitadat4.ElementAt(1);
+                        DropDownList317.SelectedValue = OrdenDelimitadat4.ElementAt(3);
+                        DropDownList318.SelectedValue = OrdenDelimitadat4.ElementAt(4);
+                        DropDownList319.SelectedValue = OrdenDelimitadat4.ElementAt(5);
+
+                        if (OrdenDelimitadat4.Count() > 6)
+                        {
+                            DropDownList320.SelectedValue = OrdenDelimitadat4.ElementAt(7);
+                            DropDownList321.SelectedValue = OrdenDelimitadat4.ElementAt(8);
+                            DropDownList322.SelectedValue = OrdenDelimitadat4.ElementAt(9);
+                        }
+                    }
+
+                }
+
+                if (DropDownList174.SelectedValue == "SCORE")
+                {
+
+                    DropDownList261.Items.FindByText("Resultado").Enabled = false;
+                    DropDownList261.Items.FindByText("Minuto").Enabled = true;
+
+                }
+                if (DropDownList174.SelectedValue == "MIN")
+                {
+
+                    DropDownList261.Items.FindByText("Resultado").Enabled = true;
+                    DropDownList261.Items.FindByText("Minuto").Enabled = false;
+
+                }
+
+
+                if (DropDownList179.SelectedValue == "SCORE")
+                {
+
+                    DropDownList300.Items.FindByText("Resultado").Enabled = false;
+                    DropDownList300.Items.FindByText("Minuto").Enabled = true;
+
+                }
+                if (DropDownList179.SelectedValue == "MIN")
+                {
+
+                    DropDownList300.Items.FindByText("Resultado").Enabled = true;
+                    DropDownList300.Items.FindByText("Minuto").Enabled = false;
+
+                }
+
+                if (DropDownList307.SelectedValue == "SCORE")
+                {
+
+                    DropDownList310.Items.FindByText("Resultado").Enabled = false;
+                    DropDownList310.Items.FindByText("Minuto").Enabled = true;
+
+                }
+                if (DropDownList307.SelectedValue == "MIN")
+                {
+
+                    DropDownList310.Items.FindByText("Resultado").Enabled = true;
+                    DropDownList310.Items.FindByText("Minuto").Enabled = false;
+
+                }
+
+                if (DropDownList317.SelectedValue == "SCORE")
+                {
+
+                    DropDownList320.Items.FindByText("Resultado").Enabled = false;
+                    DropDownList320.Items.FindByText("Minuto").Enabled = true;
+
+                }
+                if (DropDownList317.SelectedValue == "MIN")
+                {
+
+                    DropDownList320.Items.FindByText("Resultado").Enabled = true;
+                    DropDownList320.Items.FindByText("Minuto").Enabled = false;
+
+                }
             }
         }
     }

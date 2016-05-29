@@ -20,7 +20,10 @@ namespace AppWeb
 
             SqlDataSource1.SelectParameters.Add("Name", Titulo.Text);
 
+       if (Session["Equipo"] == null) { 
 
+                Response.Redirect("/Inicio.aspx");
+            }
 
             for (int v = 0; v < Plantilla.Rows.Count; v++)
             {

@@ -1,10 +1,10 @@
-FASE 1 (25,4%):
+FASE 1 (28,3%):
 
 Interfaz Grafica y Funcionalidad Basica:
 
 Plantilla/Equipo -> 70%
 Jugador -> 50%
-Tacticas -> 45%
+Tacticas -> 80%
 Partidos -> 0%
 Inferiores -> 60%
 Instalaciones de Entrenamiento -> 0%
@@ -29,6 +29,8 @@ Profundizar en Inferiores.
 Subastas automaticas.
 Notificaciones. (Via mail opcionalmente)
 Auto-Actualizacion Post-Temporada.
+Boton para crear Tactica al azar con la Herramienta del ESMS.
+Ampliacion de Estadio.
 
 Fase 3 (0%):
 
