@@ -149,6 +149,7 @@
     <Content Include="Content\roja.jpg" />
     <Content Include="Content\stadium-icon.png" />
     <Content Include="Content\users_people.png" />
+    <Content Include="Entrenamiento.aspx" />
     <Content Include="Tactica.aspx" />
     <Content Include="Inferiores.aspx" />
     <Content Include="Estadio.aspx" />
@@ -308,6 +309,13 @@
       <DependentUpon>RegisterExternalLogin.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Entrenamiento.aspx.cs">
+      <DependentUpon>Entrenamiento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Entrenamiento.aspx.designer.cs">
+      <DependentUpon>Entrenamiento.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Tactica.aspx.cs">
       <DependentUpon>Tactica.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
