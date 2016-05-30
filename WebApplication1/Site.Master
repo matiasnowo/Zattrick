@@ -110,7 +110,7 @@
                          <asp:MenuItem Text="Tacticas" Value="Tacticas" NavigateUrl="~/Tactica.aspx"></asp:MenuItem>
                          <asp:MenuItem Text="Finanzas" Value="Finanzas" NavigateUrl="~/Finanzas.aspx"></asp:MenuItem>
                          <asp:MenuItem Text="Estadio" Value="Estadio" NavigateUrl="~/Estadio.aspx"></asp:MenuItem>
-                         <asp:MenuItem Text="Partidos" Value="Partidos"></asp:MenuItem>
+                         <asp:MenuItem Text="Partidos" Value="Partidos" NavigateUrl="~/Partidos.aspx"></asp:MenuItem>
                          <asp:MenuItem Text="Contratos" Value="Partidos"></asp:MenuItem>
                          <asp:MenuItem Text="Inferiores" Value="Inferiores" NavigateUrl="~/Inferiores.aspx"></asp:MenuItem>
                          <asp:MenuItem Text="Entrenamiento" Value="Entrenamiento" NavigateUrl="~/Entrenamiento.aspx"></asp:MenuItem>
@@ -155,7 +155,7 @@
                     <asp:MenuItem Text="Tacticas" Value="Tacticas" NavigateUrl="~/Tactica.aspx"></asp:MenuItem>
                     <asp:MenuItem Text="Finanzas" Value="Finanzas" NavigateUrl="~/Finanzas.aspx"></asp:MenuItem>
                     <asp:MenuItem Text="Estadio" Value="Estadio" NavigateUrl="~/Estadio.aspx"></asp:MenuItem>
-                    <asp:MenuItem Text="Partidos" Value="Partidos"></asp:MenuItem>
+                    <asp:MenuItem Text="Partidos" Value="Partidos" NavigateUrl="~/Partidos.aspx"></asp:MenuItem>
                     <asp:MenuItem Text="Contratos" Value="Partidos"></asp:MenuItem>
                     <asp:MenuItem Text="Inferiores" Value="Inferiores" NavigateUrl="~/Inferiores.aspx"></asp:MenuItem>
                     <asp:MenuItem Text="Entrenamiento" Value="Entrenamiento" NavigateUrl="~/Entrenamiento.aspx"></asp:MenuItem>

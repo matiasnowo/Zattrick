@@ -149,6 +149,7 @@
     <Content Include="Content\stadium-icon.png" />
     <Content Include="Content\users_people.png" />
     <Content Include="Entrenamiento.aspx" />
+    <Content Include="Partidos.aspx" />
     <Content Include="Tactica.aspx" />
     <Content Include="Inferiores.aspx" />
     <Content Include="Estadio.aspx" />
@@ -307,6 +308,13 @@
     </Compile>
     <Compile Include="Entrenamiento.aspx.designer.cs">
       <DependentUpon>Entrenamiento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partidos.aspx.cs">
+      <DependentUpon>Partidos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partidos.aspx.designer.cs">
+      <DependentUpon>Partidos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Tactica.aspx.cs">
       <DependentUpon>Tactica.aspx</DependentUpon>

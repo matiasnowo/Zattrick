@@ -21,15 +21,19 @@ namespace AppWeb
             }
 
             FinanzasDAO FD = new FinanzasDAO();
-
+            EntrenadorDAO ED = new EntrenadorDAO();
 
             Dinero.Text = FD.TraerDineroDe(Titulo.Text);
             Auspiciantes.Text = FD.TraerAuspiciantesDe(Titulo.Text);
             MantencionDelEstadio.Text = FD.TraerManutencion(Titulo.Text);
             EstadioLleno.Text = FD.TraerGananciaSiLlena(Titulo.Text);
             Inferiores.Text = FD.TraerPagodeInferiores(Titulo.Text);
-            SueldEntrenador.Text = FD.TraerSueldoEntrenadorDe(Titulo.Text);
-            
+
+            SueldEntrenador.Text = ED.GetEntrenadorPorEquipo(Titulo.Text).Sueldo+"";
+
+
+  //          SueldEntrenador.Text = FD.TraerSueldoEntrenadorDe(Titulo.Text);
+
 
             List<EventoDefinido>Prueba = FD.TraerListadeEventosFinanzas(Titulo.Text);
 

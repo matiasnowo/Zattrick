@@ -45,35 +45,7 @@ namespace DataAcces
         }
 
 
-        public string TraerSueldoEntrenadorDe(string NombreDeEquipo)
-        {
-
-            int SueldoDeEntrenador = 0;
-            string query = string.Format("SELECT Sueldo_De_Entrenador FROM Equipos WHERE Nombre = '" + NombreDeEquipo + "'");
-
-
-            // Name         Age Nat Prs St Tk Ps Sh Sm Ag KAb TAb PAb SAb Gam Sav Ktk Kps Sht Gls Ass  DP Inj Sus Fit
-
-
-            OleDbDataReader dr = new ConnectionDAO().consulta(query);
-
-            while (dr.Read())
-            {
-
-                SueldoDeEntrenador = (int)dr["Sueldo_De_Entrenador"];
-
-
-            }
-            dr.Close();
-
-            string SueldoDeEntrenadorINT = "";
-
-            SueldoDeEntrenadorINT = String.Format(new CultureInfo("es-AR", false), "{0:c0}", SueldoDeEntrenador);
-
-
-
-            return SueldoDeEntrenadorINT;
-        }
+       
 
         public string TraerAuspiciantesDe(string NombreDeEquipo)
         {
