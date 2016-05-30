@@ -1,0 +1,18 @@
+Fase 3 (0%):
+
+Funcionalidad Intermedia, posponible:
+
+Capacidad de Ojeo.
+Detalle de Implementacion:
+- Niveles de Ojeo, En primera instancia no se puede ver ninguna habilidad de jugadores de otros equipos ni de los libres. (Se mostrara un numero calificatorio)
+- Para conocer habilidades de jugadores de otros equipos, se tiene que pedir un informe al "Ojeador" -> (Es una Persona); Depende del nivel de ojeo, cuanto tarde en realizar el informe de habilidades. Y de cuantos jugadores a la vez
+Como ejemplo me gustaria que en nivel 1, Se pueda solo informar las habilidades de 1 solo jugador, y tardando 1 semana.
+- Al ir aumentando niveles se mostrará, primero caracteristicas de los jugadores libres, segundo de otros equipos y por ulitmo de las subastas.
+
+
+Nacionalizar jugadores.
+Ventas de jugadores al extranjero.
+Capacidad de pedido de prestamo a Bancos
+Declaracion en Banca Rota
+Equilibrio de jugadores (Limite de habilidad por temporada)
+Conversion de jugador a Entrenador.
