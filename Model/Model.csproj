@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EntrenamientoEspecial.cs" />
     <Compile Include="EventoDefinido.cs" />
     <Compile Include="Evento.cs" />
     <Compile Include="Equipo.cs" />

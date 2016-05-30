@@ -37,26 +37,30 @@
             <asp:DropDownList ID="ListaJugadores" runat="server" AutoPostBack="true" DataSourceID="SqlDataSource1" DataTextField="Name" DataValueField="Name" OnSelectedIndexChanged="ListaJugadores_SelectedIndexChanged">
                 <asp:ListItem Selected="True"></asp:ListItem>
             </asp:DropDownList>
+            <asp:Label ID="JugadorEntrenando" runat="server" Font-Bold="true" Visible="false" Text="JugadorEntrenando" Font-Size="Large"></asp:Label>
         </p>
         <p>
             Nueva Banda a Aprender:
-            <asp:DropDownList ID="BandasDisponibles" runat="server">
+            <asp:DropDownList ID="BandasDisponibles" runat="server" enable="false" AutoPostBack ="true" OnSelectedIndexChanged="BandasDisponibles_SelectedIndexChanged">
                 <asp:ListItem>Entrenar L</asp:ListItem>
                 <asp:ListItem>Entrenar C</asp:ListItem>
                 <asp:ListItem Value="Entrenar R">Entrenar R</asp:ListItem>
+                <asp:ListItem Selected="True"></asp:ListItem>
             </asp:DropDownList>
+            <asp:Label ID="BandaEntrenando" runat="server" Text="BandaEntrenando" Font-Bold="true" Visible="false" Font-Size="Large"></asp:Label>
         </p>
-        <p>
+        <asp:Panel ID="Panel3" runat="server" BorderStyle="None" BorderWidth="0px">
             Costo de Entrenamiento Especial:
-            <asp:Label ID="CostoEntrenamiento" runat="server" Text="-" Font-Bold="true" Font-Size="Large"></asp:Label>
-        </p>
+            <asp:Label ID="CostoEntrenamiento" runat="server" Font-Bold="true" Font-Size="Large" Text="-"></asp:Label>
+        </asp:Panel>
         <p>
             Fecha Estimada de Fin de Entrenamiento:
             <asp:Label ID="FechaFinEntrenamiento" runat="server" Font-Bold="true" Font-Size="Large" Text="-"></asp:Label>
+            <asp:Label ID="FechaFindeEntrenando" runat="server" Text="FechaFindeEntrenando" Font-Bold="true" Visible="false" Font-Size="Large"></asp:Label>
         </p>
-        <p>
+        <p class="auto-style2">
             <img alt="JugadordeInferiores" class="auto-style1" src="Content/pict--footballer-soccer-pictograms---vector-stencils-library.png--diagram-flowchart-example.png" />
-            &nbsp;<asp:Button ID="BotonConfirmar" runat="server" Text="Confirmar" />
+            &nbsp;<asp:Button ID="BotonConfirmar" Enabled="false" runat="server" Text="Confirmar" OnClick="BotonConfirmar_Click" style="text-align: center" />
         </p>
     </asp:Panel>
     <p><br />
@@ -71,6 +75,10 @@
         .auto-style1 {
             width: 85px;
             height: 97px;
+            text-align: center;
+        }
+        .auto-style2 {
+            text-align: left;
         }
     </style>
     </asp:Content>
