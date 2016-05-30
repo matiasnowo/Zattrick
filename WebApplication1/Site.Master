@@ -112,8 +112,8 @@
                          <asp:MenuItem Text="Estadio" Value="Estadio" NavigateUrl="~/Estadio.aspx"></asp:MenuItem>
                          <asp:MenuItem Text="Partidos" Value="Partidos"></asp:MenuItem>
                          <asp:MenuItem Text="Contratos" Value="Partidos"></asp:MenuItem>
-                         <asp:MenuItem Text="Inferiores" Value="Partidos" NavigateUrl="~/Inferiores.aspx"></asp:MenuItem>
-                         <asp:MenuItem Text="Instalaciones" Value="Partidos"></asp:MenuItem>
+                         <asp:MenuItem Text="Inferiores" Value="Inferiores" NavigateUrl="~/Inferiores.aspx"></asp:MenuItem>
+                         <asp:MenuItem Text="Entrenamiento" Value="Entrenamiento" NavigateUrl="~/Entrenamiento.aspx"></asp:MenuItem>
                      </Items>
             </asp:Menu>
                    
@@ -143,7 +143,7 @@
        
         
                  <section class="content-wrapper" style="position:static; margin: auto; max-width: 1000px;"> 
-              <div class="probando" style="float: left; margin-right:10px; margin-top: -1px; margin-left:-41px; height: 800px; background-color: #7AC0DA; width: 105px; ">
+              <div class="probando" style="float: left; margin-right:10px; margin-top: -1px; margin-left:-41px; height: 900px; background-color: #7AC0DA; width: 120px; ">
                  
 
 
@@ -157,8 +157,8 @@
                     <asp:MenuItem Text="Estadio" Value="Estadio" NavigateUrl="~/Estadio.aspx"></asp:MenuItem>
                     <asp:MenuItem Text="Partidos" Value="Partidos"></asp:MenuItem>
                     <asp:MenuItem Text="Contratos" Value="Partidos"></asp:MenuItem>
-                    <asp:MenuItem Text="Inferiores" Value="Partidos" NavigateUrl="~/Inferiores.aspx"></asp:MenuItem>
-                    <asp:MenuItem Text="Instalaciones" Value="Partidos"></asp:MenuItem>
+                    <asp:MenuItem Text="Inferiores" Value="Inferiores" NavigateUrl="~/Inferiores.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Entrenamiento" Value="Entrenamiento" NavigateUrl="~/Entrenamiento.aspx"></asp:MenuItem>
                 </Items>
                 <StaticHoverStyle BackColor="#99CCFF" />
                 <StaticMenuItemStyle Font-Size="Medium" Height="25px" Font-Bold="True" ForeColor="Black" />

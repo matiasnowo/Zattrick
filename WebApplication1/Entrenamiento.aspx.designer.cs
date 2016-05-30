@@ -10,7 +10,7 @@
 namespace AppWeb {
     
     
-    public partial class Inferiores {
+    public partial class Entrenamiento {
         
         /// <summary>
         /// Control Panel2.
@@ -31,40 +31,67 @@ namespace AppWeb {
         protected global::System.Web.UI.WebControls.Label Titulo;
         
         /// <summary>
-        /// Control Inferioresd.
+        /// Control Entrenamientod.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Inferioresd;
+        protected global::System.Web.UI.WebControls.Label Entrenamientod;
         
         /// <summary>
-        /// Control Pais.
+        /// Control Entrenador.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Pais;
+        protected global::System.Web.UI.WebControls.Label Entrenador;
         
         /// <summary>
-        /// Control Nivel.
+        /// Control NivelEntrenador.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Nivel;
+        protected global::System.Web.UI.WebControls.Label NivelEntrenador;
         
         /// <summary>
-        /// Control PuntosdeExperiencia.
+        /// Control Especialidad.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label PuntosdeExperiencia;
+        protected global::System.Web.UI.WebControls.Label Especialidad;
+        
+        /// <summary>
+        /// Control SueldoEntrenador.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label SueldoEntrenador;
+        
+        /// <summary>
+        /// Control NivelInstalaciones.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label NivelInstalaciones;
+        
+        /// <summary>
+        /// Control SqlDataSource1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource1;
         
         /// <summary>
         /// Control Panel1.
@@ -76,57 +103,84 @@ namespace AppWeb {
         protected global::System.Web.UI.WebControls.Panel Panel1;
         
         /// <summary>
-        /// Control Surgido.
+        /// Control ListaJugadores.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Surgido;
+        protected global::System.Web.UI.WebControls.DropDownList ListaJugadores;
         
         /// <summary>
-        /// Control Edad.
+        /// Control JugadorEntrenando.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Edad;
+        protected global::System.Web.UI.WebControls.Label JugadorEntrenando;
         
         /// <summary>
-        /// Control Banda.
+        /// Control BandasDisponibles.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Banda;
+        protected global::System.Web.UI.WebControls.DropDownList BandasDisponibles;
         
         /// <summary>
-        /// Control Rango.
+        /// Control BandaEntrenando.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Rango;
+        protected global::System.Web.UI.WebControls.Label BandaEntrenando;
         
         /// <summary>
-        /// Control NombreJugadorInferiores.
+        /// Control Panel3.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox NombreJugadorInferiores;
+        protected global::System.Web.UI.WebControls.Panel Panel3;
         
         /// <summary>
-        /// Control BotonPromover.
+        /// Control CostoEntrenamiento.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button BotonPromover;
+        protected global::System.Web.UI.WebControls.Label CostoEntrenamiento;
+        
+        /// <summary>
+        /// Control FechaFinEntrenamiento.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label FechaFinEntrenamiento;
+        
+        /// <summary>
+        /// Control FechaFindeEntrenando.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label FechaFindeEntrenando;
+        
+        /// <summary>
+        /// Control BotonConfirmar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button BotonConfirmar;
     }
 }
