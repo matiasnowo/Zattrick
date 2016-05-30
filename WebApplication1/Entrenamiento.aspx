@@ -14,6 +14,8 @@
     <p>
         Entrenador:&nbsp;
         <asp:Label ID="Entrenador" runat="server" Text="Label" Font-Bold="true" Font-Size="Large"></asp:Label>
+        &nbsp;| Edad:
+        <asp:Label ID="EdadEntrenador" runat="server" Font-Bold="true" Font-Size="Large" Text="Label"></asp:Label>
         &nbsp;| Nivel de Entrenador:&nbsp;
         <asp:Label ID="NivelEntrenador" runat="server" Font-Bold="true" Font-Size="Large" Text="Label"></asp:Label>
         &nbsp;| Especialidad:

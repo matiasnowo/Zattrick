@@ -12,74 +12,41 @@ namespace DataAcces
    public class EntrenadorDAO
     {
 
-         public EntrenamientoEspecial GetEntrenamientoEspecialDeJugadorPorEquipo(string Nombre)
+         public Entrenador GetEntrenadorPorEquipo(string Nombre)
         {
-            string Jugador = "";
-            string Equipo = "";
-            string BandaNueva = "";
-            DateTime FechaInicio = new DateTime(); 
-            DateTime FechaFin = new DateTime(); 
-            string query = "SELECT * FROM EntrenamientoEspecial WHERE Equipo = '" + Nombre + "'";
+            string NombEnt = "";
+            string Especialidad = "";
+            int Edad = 0;
+            int Nivel = 0;
+            int Sueldo = 0;
+
+            string query = "SELECT Entrenadores.Nombre, Entrenadores.Edad, Entrenadores.Nivel, Entrenadores.Sueldo, Entrenadores.Especialidad FROM Entrenadores, Equipos WHERE Equipos.Entrenador = Entrenadores.Nombre AND Equipos.Nombre = '" + Nombre + "'";
             OleDbDataReader dr = new ConnectionDAO().consulta(query);
-            EntrenamientoEspecial EE = new EntrenamientoEspecial();
+            Entrenador E = new Entrenador();
 
             while (dr.Read())
             {
 
-                Jugador = (string)dr["Jugador"];
-                Equipo = (string)dr["Equipo"];
-                BandaNueva = (string)dr["BandaNueva"];
-                FechaInicio = (DateTime)dr["FechaInicio"];
-                FechaFin = (DateTime)dr["FechaFin"];
+                NombEnt = (string)dr["Nombre"];
+                Especialidad = (string)dr["Especialidad"];
+                Edad = (int)dr["Edad"];
+                Nivel = (int)dr["Nivel"];
+                Sueldo = (int)dr["Sueldo"];
 
 
             }
             dr.Close();
 
-            EE.Jugador = Jugador;
-            EE.Equipo = Equipo;
-            EE.BandaNueva = BandaNueva;
-            EE.Jugador = Jugador;
-            EE.FechaInicio = FechaInicio;
-            EE.FechaFin = FechaFin;
+            E.Nombre = NombEnt;
+            E.Especialidad = Especialidad;
+            E.Edad = Edad;
+            E.Nivel = Nivel;
+            E.Sueldo = Sueldo;
 
-            return EE;
+            return E;
         }
-        public void SetEntrenamientoEspecialDeJugador(string Jugador, string Equipo, string BandaNueva, DateTime FechaInicio, DateTime FechaFin)
-        {
-            
-
-            string query = "INSERT INTO EntrenamientoEspecial (Jugador, Equipo, BandaNueva, FechaInicio, FechaFin) VALUES ('"+Jugador+"', '"+ Equipo+ "', '" + BandaNueva + "', '" + FechaInicio.ToString().Replace(" 12:00:00 a. m.", "") + "', '" + FechaFin.ToString().Replace(" 12:00:00 a. m.", "") + "')";
-
-         //   string query = string.Format("INSERT INTO Login (Usuario, Pass, Role, Email) VALUES ('{0}', '{1}', '{2}', '{3}' )", user.NUsuario, user.Pass, user.Role, user.Email);
-
-          new ConnectionDAO().queryABM(query);
-            //    INSERT INTO table_name(column1, column2, column3,...)
-            //           VALUES(value1, value2, value3,...);
-
-        }
-
-
-        public List<Equipo> tratarResultadoEquipo(string query)
-        {
-            List<Equipo> equipos = new List<Equipo>();
-            OleDbDataReader dr = new ConnectionDAO().consulta(query);
-            while (dr.Read())
-            {
-                Equipo equipo = new Equipo() { Nombre = (string)dr["Nombre"], Archivo = (string)dr["Archivo"] };
-                equipos.Add(equipo);
-            }
-            dr.Close();
-            return equipos;
-        }
-
+      
         
-
-
-
-
-
-
 
 
     }

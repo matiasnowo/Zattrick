@@ -24,11 +24,14 @@ namespace AppWeb
             Titulo.Text = Convert.ToString(Session["Equipo"]);
             EquipoDAO ED = new EquipoDAO();
             EntrenamientoEspecialDAO EED = new EntrenamientoEspecialDAO();
+            EntrenadorDAO END = new EntrenadorDAO();
 
             NivelInstalaciones.Text = ED.GetNivelInstalacionesDeEquipo(Titulo.Text) + "";
-            SueldoEntrenador.Text = ED.GetSueldoEntrenadorDeEquipo(Titulo.Text) + "";
-          
-
+            Entrenador.Text = END.GetEntrenadorPorEquipo(Titulo.Text).Nombre;
+            EdadEntrenador.Text = END.GetEntrenadorPorEquipo(Titulo.Text).Edad+ "";
+            NivelEntrenador.Text = END.GetEntrenadorPorEquipo(Titulo.Text).Nivel + "";
+            Especialidad.Text = END.GetEntrenadorPorEquipo(Titulo.Text).Especialidad;
+            SueldoEntrenador.Text = END.GetEntrenadorPorEquipo(Titulo.Text).Sueldo + "";
 
             if (EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).Equipo == Titulo.Text)
             {
@@ -44,7 +47,7 @@ namespace AppWeb
                 BandaEntrenando.Visible = true;
                 FechaFinEntrenamiento.Visible = true;
 
-                ListaJugadores.SelectedValue = JugadorEntrenando.Text;
+       //         ListaJugadores.SelectedValue = JugadorEntrenando.Text;
 
                 JugadorEntrenando.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).Jugador;
                 BandaEntrenando.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).BandaNueva;
@@ -72,10 +75,11 @@ namespace AppWeb
             JugadorDAO JD = new JugadorDAO();
             //   EquipoDAO ED = new EquipoDAO();
             Model.Jugador JugadorAEntrenar = new Model.Jugador();
+            ListaJugadores.DataBind(); // mmmmmmmmm
             JugadorAEntrenar = JD.TraerJugador(ListaJugadores.SelectedValue);
 
-            if (ListaJugadores.SelectedValue != "")
-            {
+  //   if (ListaJugadores.SelectedValue != "")
+       //   {
                 if (JugadorAEntrenar.Prs.Contains("L"))
                 {
                     BandasDisponibles.Items.FindByValue("Entrenar L").Enabled = false;
@@ -171,7 +175,7 @@ namespace AppWeb
 
 
            
-        }
+    //    }
     }
 
         protected void ListaJugadores_SelectedIndexChanged(object sender, EventArgs e)
@@ -208,7 +212,7 @@ namespace AppWeb
                 BandaEntrenando.Visible = true;
                 FechaFinEntrenamiento.Visible = true;
 
-                ListaJugadores.SelectedValue = JugadorEntrenando.Text;
+          //      ListaJugadores.SelectedValue = JugadorEntrenando.Text;
 
                 JugadorEntrenando.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).Jugador;
                 BandaEntrenando.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).BandaNueva;
