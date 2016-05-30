@@ -13,31 +13,56 @@ namespace AppWeb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Titulo.Text = Convert.ToString(Session["Equipo"]);
+
+
             if (Session["Equipo"] == null)
             {
 
                 Response.Redirect("/Inicio.aspx");
             }
 
+            
+            
+            Titulo.Text = Convert.ToString(Session["Equipo"]);
            
 
-            
+            GridViewTodoslosPartidos.DataBind();
+            for (int v = 0; v < GridViewTodoslosPartidos.Rows.Count; v++)
+            {
 
-        //    for (int a = 0; a < Prueba.Count; a++)
-         //   {
+                GridViewTodoslosPartidos.Rows[v].Cells[0].Text = GridViewTodoslosPartidos.Rows[v].Cells[0].Text.Replace(" 00:00:00", "").Replace(" 12:00:00 a. m.", "");
+            }
 
-               
-             //   DataList1.DataSource = Prueba;
-           //     DataList1.DataBind();
+            GridViewTodoslosPartidosSoloLiga.DataBind();
+            for (int v = 0; v < GridViewTodoslosPartidosSoloLiga.Rows.Count; v++)
+            {
+                GridViewTodoslosPartidosSoloLiga.Rows[v].Cells[0].Text = GridViewTodoslosPartidos.Rows[v].Cells[0].Text.Replace(" 00:00:00", "").Replace(" 12:00:00 a. m.", "");
+        }
+            EquipoDAO ED = new EquipoDAO();
+            Model.Equipo Equipazo = new Model.Equipo();
+            Equipazo = ED.GetEquipoPorNombre(Titulo.Text);
+            PartidoDAO PD = new PartidoDAO();
 
 
-        //    }
+            Liga.Text = Equipazo.Categoria;
 
 
 
 
-       //     ListView1.Items.Add("List item text");
+            //    for (int a = 0; a < Prueba.Count; a++)
+            //   {
+
+
+            //   DataList1.DataSource = Prueba;
+            //     DataList1.DataBind();
+
+
+            //    }
+
+
+
+
+            //     ListView1.Items.Add("List item text");
         }
 
      

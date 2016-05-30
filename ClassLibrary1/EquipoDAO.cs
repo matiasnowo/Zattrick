@@ -58,6 +58,32 @@ namespace DataAcces
             return Nivel_Instalaciones;
         }
 
+        public Equipo GetEquipoPorNombre(string Nombre)
+        {
+            
+            string query = "SELECT * FROM Equipos WHERE Nombre = '" + Nombre + "'";
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
+            Equipo Equipazo = new Equipo();
+            while (dr.Read())
+            {
+
+                Equipazo.Nivel_Instalaciones = (int)dr["Nivel_Instalaciones"];
+                Equipazo.Nombre = Nombre;
+                Equipazo.Archivo = (string)dr["Archivo"];
+                Equipazo.Dinero = (int)dr["Dinero"];
+                Equipazo.Auspiciantes = (int)dr["Auspiciantes"];
+                Equipazo.Inferiores = (int)dr["Inferiores"];
+                Equipazo.Estadio = (string)dr["Estadio"];
+                Equipazo.Entrenador = (string)dr["Entrenador"];
+                Equipazo.Categoria = (string)dr["Categoria"];
+
+
+            }
+            dr.Close();
+
+            return Equipazo;
+        }
+
 
         public List<Equipo> tratarResultadoEquipo(string query)
         {
