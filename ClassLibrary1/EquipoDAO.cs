@@ -38,6 +38,24 @@ namespace DataAcces
             return archivote;
         }
 
+        public int GetNivelInstalacionesDeEquipo(string Nombre)
+        {
+            int Nivel_Instalaciones = 0;
+            string query = "SELECT Nivel_Instalaciones FROM Equipos WHERE Nombre = '" + Nombre + "'";
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
+
+            while (dr.Read())
+            {
+
+                Nivel_Instalaciones = (int)dr["Nivel_Instalaciones"];
+
+
+            }
+            dr.Close();
+
+            return Nivel_Instalaciones;
+        }
+
 
         public List<Equipo> tratarResultadoEquipo(string query)
         {

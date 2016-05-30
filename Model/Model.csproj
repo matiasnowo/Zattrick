@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Autenticacion\UsuarioBE.cs" />
+    <Compile Include="EntrenamientoEspecial.cs" />
     <Compile Include="EventoDefinido.cs" />
     <Compile Include="Evento.cs" />
     <Compile Include="Equipo.cs" />

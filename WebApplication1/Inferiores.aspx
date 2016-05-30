@@ -24,7 +24,7 @@
         <asp:Label ID="PuntosdeExperiencia" runat="server" Text="Label" Font-Bold="true" Font-Size="Large"></asp:Label>
     </p>
 </asp:Panel>
-    <asp:Panel ID="Panel1" runat="server" Height="297px" Width="653px" BorderStyle="Dotted">
+    <asp:Panel ID="Panel1" runat="server" Height="290px" Width="601px" BorderStyle="Dotted" CssClass="content-wrapper">
         <p>
             Juvenil surgido el dia:
             <asp:Label ID="Surgido" runat="server" Font-Bold="true" Font-Size="Large" Text="Label"></asp:Label>
