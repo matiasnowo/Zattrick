@@ -40,7 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GestionEquipos.cs" />
-    <Compile Include="ConsultasUsuarios.cs" />
+    <Compile Include="Autenticacion\UsuarioBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegexUtilities.cs" />
   </ItemGroup>

@@ -39,7 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AutentificationDAO.cs" />
+    <Compile Include="Autenticacion\UsuarioDAO.cs" />
     <Compile Include="InferioresDAO.cs" />
     <Compile Include="EstadioDAO.cs" />
     <Compile Include="FinanzasDAO.cs" />

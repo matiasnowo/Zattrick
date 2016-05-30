@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppWeb.Session
+namespace Model.Autenticacion
 {
-    public class Usuario
+    public class UsuarioBE
     {
         public string NUsuario { get; set; }
         public string Email { get; set; }

@@ -20,6 +20,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentacion", "Documentac
 		Recordatorio.txt = Recordatorio.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Papelera", "Papelera", "{E5FBC175-ADEB-4765-802E-7904B73202AF}"
+	ProjectSection(SolutionItems) = preProject
+		WebApplication1\Account\RegisterExternalLogin.aspx = WebApplication1\Account\RegisterExternalLogin.aspx
+		WebApplication1\Account\RegisterExternalLogin.aspx.cs = WebApplication1\Account\RegisterExternalLogin.aspx.cs
+		WebApplication1\Account\RegisterExternalLogin.aspx.designer.cs = WebApplication1\Account\RegisterExternalLogin.aspx.designer.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

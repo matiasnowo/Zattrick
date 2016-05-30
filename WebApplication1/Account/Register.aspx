@@ -13,8 +13,7 @@
                  <asp:Label ID="UserName" runat="server" AssociatedControlID="UserName">Nombre de usuario</asp:Label>
                 <asp:TextBox ID="txtUser" runat="server" ></asp:TextBox>
                <asp:Label ID="ErrortxtUser" runat="server" CssClass="field-validation-error"  AssociatedControlID="UserName" Visible="False">El campo de nombre de usuario es obligatorio.</asp:Label>
-        <asp:Label ID="ErrortxtUser2" runat="server" CssClass="field-validation-error"  AssociatedControlID="UserName" Visible="False">El nombre de usuario debe tener al menos 4 caracteres.</asp:Label>
-           <asp:Label ID="ErrortxtUser3" runat="server" CssClass="field-validation-error"  AssociatedControlID="UserName" Visible="False">El nombre de usuario ya existe</asp:Label>
+           <asp:Label ID="ErrortxtUser2" runat="server" CssClass="field-validation-error"  AssociatedControlID="UserName" Visible="False">El nombre de usuario ya existe</asp:Label>
             </p>
             <p>
                  <asp:Label ID="Email" runat="server" AssociatedControlID="Email">Dirección de correo electrónico</asp:Label>

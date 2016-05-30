@@ -1,66 +1,21 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+
 using System.Text;
 using System.Text.RegularExpressions;  // This is for password validation
 using System.Security.Cryptography;  // This is where the hash functions reside
 
 
-namespace AppWeb.Session
+namespace Session
 {
     public class Encription
     {
-
-
-        /*
-        public string StringToSHA(string plainTextString)
-        {
-            HashAlgorithm algorithm = new SHA1Managed();
-            var saltBytes = GenerateSalt(plainTextString.Length);
-            var plainTextBytes = Encoding.ASCII.GetBytes(plainTextString);
-
-            var plainTextWithSaltBytes = AppendByteArray(plainTextBytes, saltBytes);
-            var saltedSHA1Bytes = algorithm.ComputeHash(plainTextWithSaltBytes);
-            var saltedSHA1WithAppendedSaltBytes = AppendByteArray(saltedSHA1Bytes, saltBytes);
-
-            return Convert.ToBase64String(saltedSHA1WithAppendedSaltBytes);
-        }
-
-
-        private byte[] GenerateSalt(int saltSize)
-        {
-            var rng = new RNGCryptoServiceProvider();
-            var buff = new byte[saltSize];
-            rng.GetBytes(buff);
-            return buff;
-        }
-
-        private byte[] AppendByteArray(byte[] byteArray1, byte[] byteArray2)
-        {
-            var byteArrayResult =
-                    new byte[byteArray1.Length + byteArray2.Length];
-
-            for (var i = 0; i < byteArray1.Length; i++)
-                byteArrayResult[i] = byteArray1[i];
-            for (var i = 0; i < byteArray2.Length; i++)
-                byteArrayResult[byteArray1.Length + i] = byteArray2[i];
-
-            return byteArrayResult;
-        }
-        */
-
-        //Encpritacion de contraseña con SHA1
         public string StringToSHA(string StringPassword)
         {
             string HashSHAPassword = string.Empty;
-
             SHA1CryptoServiceProvider sha = new SHA1CryptoServiceProvider();
             byte[] tmpHash;
-
             tmpHash = sha.ComputeHash(ASCIIEncoding.ASCII.GetBytes(StringPassword));
-
             HashSHAPassword = Convert.ToBase64String(tmpHash, 0, tmpHash.Length);
-
             return HashSHAPassword;
 
         }
