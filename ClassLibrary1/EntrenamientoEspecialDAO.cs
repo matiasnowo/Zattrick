@@ -49,7 +49,7 @@ namespace DataAcces
         {
             
 
-            string query = "INSERT INTO EntrenamientoEspecial (Jugador, Equipo, BandaNueva, FechaInicio, FechaFin) VALUES ('"+Jugador+"', '"+ Equipo+ "', '" + BandaNueva + "', '" + FechaInicio.ToString().Replace(" 12:00:00 a. m.", "") + "', '" + FechaFin.ToString().Replace(" 12:00:00 a. m.", "") + "')";
+            string query = "INSERT INTO EntrenamientoEspecial (Jugador, Equipo, BandaNueva, FechaInicio, FechaFin) VALUES ('"+Jugador+"', '"+ Equipo+ "', '" + BandaNueva + "', '" + FechaInicio.ToString().Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "") + "', '" + FechaFin.ToString().Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "") + "')";
 
          //   string query = string.Format("INSERT INTO Login (Usuario, Pass, Role, Email) VALUES ('{0}', '{1}', '{2}', '{3}' )", user.NUsuario, user.Pass, user.Role, user.Email);
 

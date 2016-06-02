@@ -51,7 +51,7 @@ namespace AppWeb
 
                 JugadorEntrenando.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).Jugador;
                 BandaEntrenando.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).BandaNueva;
-                FechaFinEntrenamiento.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).FechaFin.ToString().Replace(" 12:00:00 a. m.", "");
+                FechaFinEntrenamiento.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).FechaFin.ToString().Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
 
             }
 
@@ -121,7 +121,7 @@ namespace AppWeb
 
                     semanas = ((JugadorAEntrenar.Age - 16) * 2) + 2;
                     dias = semanas * 7;
-                    FechaFinEntrenamiento.Text = DateTime.Today.AddDays(dias).ToString().Replace(" 12:00:00 a. m.", "") + "";
+                    FechaFinEntrenamiento.Text = DateTime.Today.AddDays(dias).ToString().Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "") + "";
 
                 }
 
@@ -133,7 +133,7 @@ namespace AppWeb
 
                     semanas = ((JugadorAEntrenar.Age - 16) * 1) + 2;
                     dias = semanas * 7;
-                    FechaFinEntrenamiento.Text = DateTime.Today.AddDays(dias).ToString().Replace(" 12:00:00 a. m.", "") + "";
+                    FechaFinEntrenamiento.Text = DateTime.Today.AddDays(dias).ToString().Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "") + "";
 
                 }
 
@@ -145,7 +145,7 @@ namespace AppWeb
 
                     semanas = ((JugadorAEntrenar.Age - 16) * 1) + 1;
                     dias = semanas * 7;
-                    FechaFinEntrenamiento.Text = DateTime.Today.AddDays(dias).ToString().Replace(" 12:00:00 a. m.", "") + "";
+                    FechaFinEntrenamiento.Text = DateTime.Today.AddDays(dias).ToString().Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "") + "";
 
                 }
 
@@ -156,7 +156,7 @@ namespace AppWeb
                     CostoEntrenamiento.Text = costo + "";
                     semanas = ((JugadorAEntrenar.Age - 16) * 1) + 1;
                     dias = semanas * 7;
-                    FechaFinEntrenamiento.Text = DateTime.Today.AddDays(dias).ToString().Replace(" 12:00:00 a. m.", "") + "";
+                    FechaFinEntrenamiento.Text = DateTime.Today.AddDays(dias).ToString().Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "") + "";
 
                 }
 
@@ -167,7 +167,7 @@ namespace AppWeb
                     CostoEntrenamiento.Text = costo + "";
                     semanas = ((JugadorAEntrenar.Age - 16) * 1) + 1;
                     dias = semanas * 7;
-                    FechaFinEntrenamiento.Text = DateTime.Today.AddDays(dias).ToString().Replace(" 12:00:00 a. m.", "") + "";
+                    FechaFinEntrenamiento.Text = DateTime.Today.AddDays(dias).ToString().Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "") + "";
 
                 }
 
@@ -216,7 +216,7 @@ namespace AppWeb
 
                 JugadorEntrenando.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).Jugador;
                 BandaEntrenando.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).BandaNueva;
-                FechaFinEntrenamiento.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).FechaFin.ToString().Replace(" 12:00:00 a. m.", "");
+                FechaFinEntrenamiento.Text = EED.GetEntrenamientoEspecialDeJugadorPorEquipo(Titulo.Text).FechaFin.ToString().Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
 
             }
 

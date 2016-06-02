@@ -21,23 +21,8 @@ namespace AppWeb
                 Response.Redirect("/Inicio.aspx");
             }
 
-            
-            
             Titulo.Text = Convert.ToString(Session["Equipo"]);
            
-
-            GridViewTodoslosPartidos.DataBind();
-            for (int v = 0; v < GridViewTodoslosPartidos.Rows.Count; v++)
-            {
-
-                GridViewTodoslosPartidos.Rows[v].Cells[0].Text = GridViewTodoslosPartidos.Rows[v].Cells[0].Text.Replace(" 00:00:00", "").Replace(" 12:00:00 a. m.", "");
-            }
-
-            GridViewTodoslosPartidosSoloLiga.DataBind();
-            for (int v = 0; v < GridViewTodoslosPartidosSoloLiga.Rows.Count; v++)
-            {
-                GridViewTodoslosPartidosSoloLiga.Rows[v].Cells[0].Text = GridViewTodoslosPartidos.Rows[v].Cells[0].Text.Replace(" 00:00:00", "").Replace(" 12:00:00 a. m.", "");
-        }
             EquipoDAO ED = new EquipoDAO();
             Model.Equipo Equipazo = new Model.Equipo();
             Equipazo = ED.GetEquipoPorNombre(Titulo.Text);
@@ -46,6 +31,37 @@ namespace AppWeb
 
             Liga.Text = Equipazo.Categoria;
 
+            
+            
+
+            GridViewTodoslosPartidos.DataBind();
+            for (int v = 0; v < GridViewTodoslosPartidos.Rows.Count; v++)
+            {
+
+                GridViewTodoslosPartidos.Rows[v].Cells[0].Text = GridViewTodoslosPartidos.Rows[v].Cells[0].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+            }
+            
+            
+            SqlDataSource2.SelectCommand = "SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = '" + Equipazo.Categoria + "' AND ([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)";
+
+            SqlDataSource3.SelectCommand = "SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = 'Copa Zattrick' AND ([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)";
+
+            SqlDataSource4.SelectCommand = "SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = 'Amistoso' AND ([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)";
+            
+            
+            GridViewLiga.DataBind();
+             for (int v = 0; v < GridViewLiga.Rows.Count; v++)
+            {
+                GridViewLiga.Rows[v].Cells[0].Text = GridViewTodoslosPartidos.Rows[v].Cells[0].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+            }
+
+
+            GridViewCopa.DataBind();
+            for (int v = 0; v < GridViewCopa.Rows.Count; v++)
+            {
+                GridViewCopa.Rows[v].Cells[0].Text = GridViewTodoslosPartidos.Rows[v].Cells[0].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+            }
+           
 
 
 
