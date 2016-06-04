@@ -52,8 +52,8 @@ namespace AppWeb
             {
                 int A = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewTodoslosPartidos.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewTodoslosPartidos.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B) { 
 
@@ -94,8 +94,8 @@ namespace AppWeb
 
                 int A = Int32.Parse(GridViewLiga.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewLiga.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewLiga.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewLiga.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewLiga.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewLiga.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -136,8 +136,8 @@ namespace AppWeb
 
                 int A = Int32.Parse(GridViewCopa.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewCopa.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewCopa.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewCopa.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewCopa.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewCopa.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -176,8 +176,8 @@ namespace AppWeb
             {
                 int A = Int32.Parse(GridViewAmistosos.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewAmistosos.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewAmistosos.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewAmistosos.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewAmistosos.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewAmistosos.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -243,8 +243,8 @@ namespace AppWeb
             {
                 int A = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewTodoslosPartidos.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewTodoslosPartidos.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -286,8 +286,8 @@ namespace AppWeb
 
                 int A = Int32.Parse(GridViewLiga.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewLiga.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewLiga.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewLiga.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewLiga.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewLiga.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -328,8 +328,8 @@ namespace AppWeb
 
                 int A = Int32.Parse(GridViewCopa.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewCopa.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewCopa.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewCopa.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewCopa.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewCopa.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -368,8 +368,8 @@ namespace AppWeb
             {
                 int A = Int32.Parse(GridViewAmistosos.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewAmistosos.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewAmistosos.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewAmistosos.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewAmistosos.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewAmistosos.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -412,13 +412,13 @@ namespace AppWeb
 
 
 
-        //    GridViewTodoslosPartidos.DataBind();
+            //    GridViewTodoslosPartidos.DataBind();
             for (int v = 0; v < GridViewTodoslosPartidos.Rows.Count; v++)
             {
                 int A = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewTodoslosPartidos.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewTodoslosPartidos.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -454,14 +454,14 @@ namespace AppWeb
 
 
             }
-       //     GridViewLiga.DataBind();
+            //         GridViewLiga.DataBind();
             for (int v = 0; v < GridViewLiga.Rows.Count; v++)
             {
 
                 int A = Int32.Parse(GridViewLiga.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewLiga.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewLiga.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewLiga.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewLiga.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewLiga.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -496,14 +496,14 @@ namespace AppWeb
             }
 
 
-       //     GridViewCopa.DataBind();
+            //        GridViewCopa.DataBind();
             for (int v = 0; v < GridViewCopa.Rows.Count; v++)
             {
 
                 int A = Int32.Parse(GridViewCopa.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewCopa.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewCopa.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewCopa.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewCopa.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewCopa.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -537,13 +537,13 @@ namespace AppWeb
                 GridViewCopa.Rows[v].Cells[1].Text = GridViewCopa.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
             }
 
-       //     GridViewAmistosos.DataBind();
+            //       GridViewAmistosos.DataBind();
             for (int v = 0; v < GridViewAmistosos.Rows.Count; v++)
             {
                 int A = Int32.Parse(GridViewAmistosos.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewAmistosos.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewAmistosos.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewAmistosos.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewAmistosos.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewAmistosos.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -576,7 +576,6 @@ namespace AppWeb
                 }
                 GridViewAmistosos.Rows[v].Cells[1].Text = GridViewAmistosos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
             }
-
 
 
         }
@@ -586,13 +585,13 @@ namespace AppWeb
 
 
 
-        //    GridViewTodoslosPartidos.DataBind();
+            //    GridViewTodoslosPartidos.DataBind();
             for (int v = 0; v < GridViewTodoslosPartidos.Rows.Count; v++)
             {
                 int A = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewTodoslosPartidos.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewTodoslosPartidos.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -628,14 +627,14 @@ namespace AppWeb
 
 
             }
-   //         GridViewLiga.DataBind();
+            //         GridViewLiga.DataBind();
             for (int v = 0; v < GridViewLiga.Rows.Count; v++)
             {
 
                 int A = Int32.Parse(GridViewLiga.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewLiga.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewLiga.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewLiga.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewLiga.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewLiga.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -670,14 +669,14 @@ namespace AppWeb
             }
 
 
-    //        GridViewCopa.DataBind();
+            //        GridViewCopa.DataBind();
             for (int v = 0; v < GridViewCopa.Rows.Count; v++)
             {
 
                 int A = Int32.Parse(GridViewCopa.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewCopa.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewCopa.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewCopa.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewCopa.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewCopa.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -711,13 +710,13 @@ namespace AppWeb
                 GridViewCopa.Rows[v].Cells[1].Text = GridViewCopa.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
             }
 
-    //        GridViewAmistosos.DataBind();
+            //       GridViewAmistosos.DataBind();
             for (int v = 0; v < GridViewAmistosos.Rows.Count; v++)
             {
                 int A = Int32.Parse(GridViewAmistosos.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewAmistosos.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewAmistosos.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewAmistosos.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewAmistosos.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewAmistosos.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -750,8 +749,6 @@ namespace AppWeb
                 }
                 GridViewAmistosos.Rows[v].Cells[1].Text = GridViewAmistosos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
             }
-
-
 
         }
 

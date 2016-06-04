@@ -34,10 +34,33 @@ namespace AppWeb.Public
             JugadorEnWeb = JD.TraerJugador(name);
 
 
-            EquipoActual.Text = JugadorEnWeb.Equipo;
+            EquipoActual.Text = "<a href ='/Public/PerfilEquipo.aspx?name=" + JugadorEnWeb.Equipo + "' >" + JugadorEnWeb.Equipo + "</a>";
             Edad.Text = JugadorEnWeb.Age+"";
             Banda.Text = JugadorEnWeb.Prs;
             BanderaNacion.ImageUrl = "~/Images/Paises/" + JugadorEnWeb.Nat + ".png";
+
+            St.Text = JugadorEnWeb.St + "";
+            Tk.Text = JugadorEnWeb.Tk + "";
+            Ps.Text = JugadorEnWeb.Ps + "";
+            Sh.Text = JugadorEnWeb.Sh + "";
+            Sm.Text = JugadorEnWeb.Sm + "";
+            Ag.Text = JugadorEnWeb.Ag + "";
+            Fit.Text = JugadorEnWeb.Fit + "";
+            Kab.Text = JugadorEnWeb.Kab + "";
+            Tab.Text = JugadorEnWeb.Tab + "";
+            Pab.Text = JugadorEnWeb.Pab + "";
+            Sab.Text = JugadorEnWeb.Sab + "";
+            Gam.Text = JugadorEnWeb.Gam + "";
+            Sav.Text = JugadorEnWeb.Sav + "";
+            Ktk.Text = JugadorEnWeb.Ktk + "";
+            Kps.Text = JugadorEnWeb.Kps + "";
+            Sht.Text = JugadorEnWeb.Sht + "";
+            Gls.Text = JugadorEnWeb.Gls + "";
+            Ass.Text = JugadorEnWeb.Ass + "";
+            DP.Text = JugadorEnWeb.DP + "";
+            Inj.Text = JugadorEnWeb.Inj + "";
+            Sus.Text = JugadorEnWeb.Sus + "";
+
 
 
 
