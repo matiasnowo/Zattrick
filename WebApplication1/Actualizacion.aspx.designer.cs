@@ -31,6 +31,15 @@ namespace AppWeb {
         protected global::System.Web.UI.WebControls.Button DeBaseATxt;
         
         /// <summary>
+        /// Control CrearPartidoEnBase.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button CrearPartidoEnBase;
+        
+        /// <summary>
         /// Control Label1.
         /// </summary>
         /// <remarks>

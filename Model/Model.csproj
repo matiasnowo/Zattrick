@@ -42,6 +42,8 @@
     <Compile Include="Autenticacion\UsuarioBE.cs" />
     <Compile Include="EntrenamientoEspecial.cs" />
     <Compile Include="Entrenador.cs" />
+    <Compile Include="RendimientoDeEquipoEnPartido.cs" />
+    <Compile Include="JugadorEnPartido.cs" />
     <Compile Include="Partido.cs" />
     <Compile Include="EventoDefinido.cs" />
     <Compile Include="Evento.cs" />

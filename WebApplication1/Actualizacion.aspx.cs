@@ -27,6 +27,7 @@ namespace AppWeb
 
 
 
+
        }
 
         
@@ -54,10 +55,17 @@ namespace AppWeb
             jd.ActualizarTodoslosTxt();
         }
 
+        protected void CrearPartidoEnBase_Click(object sender, EventArgs e)
+        {
+
+         /*   PartidoDAO PD = new PartidoDAO();
 
 
 
+            PD.PonerPartidosEnBase();
+*/
 
+        }
     }
 }
     
