@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Jugador" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Jugador.aspx.cs" Inherits="AppWeb.Jugador" %>
+﻿<%@ Page Title="Jugador" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Jugador.aspx.cs" Inherits="AppWeb.Public.Jugador" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
 
@@ -8,7 +8,7 @@
                 <asp:Label ID="NamePlayer" runat="server" Font-Bold="True" Font-Size="Large" Text="Label"></asp:Label>
             </p>
             <p>
-                <img alt="NamePlayer2" class="auto-style1" src="Content/pict--footballer-soccer-pictograms---vector-stencils-library.png--diagram-flowchart-example.png" /></p>
+                <img alt="NamePlayer2" class="auto-style1" src="../Content/pict--footballer-soccer-pictograms---vector-stencils-library.png--diagram-flowchart-example.png" /></p>
             <p>
                 Equipo Actual:
                 <asp:Label ID="EquipoActual" runat="server" Font-Bold="True" Font-Size="Large" Text="Label"></asp:Label>

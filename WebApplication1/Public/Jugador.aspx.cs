@@ -8,7 +8,7 @@ using DataAcces;
 using Model;
 
 
-namespace AppWeb
+namespace AppWeb.Public
 {
     public partial class Jugador : Page
     {

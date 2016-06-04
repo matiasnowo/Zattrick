@@ -7,7 +7,7 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace AppWeb {
+namespace AppWeb.Public {
     
     
     public partial class Jugador {

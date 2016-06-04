@@ -11,7 +11,7 @@
     <p>
         <asp:GridView ID="Plantilla" runat="server" AllowSorting="True" AutoGenerateColumns="False" DataKeyNames="Name" DataSourceID="SqlDataSource1" CssClass="CSSTableGenerator" HorizontalAlign="Center" Width="820px"  OnRowDataBound="Plantilla_RowDataBound">
             <Columns>
-                <asp:HyperLinkField DataTextField="Name" HeaderText="Name" SortExpression="Name" DataNavigateUrlFields="Name" DataNavigateUrlFormatString="Jugador.aspx?name={0}" >
+                <asp:HyperLinkField DataTextField="Name" HeaderText="Name" SortExpression="Name" DataNavigateUrlFields="Name" DataNavigateUrlFormatString="/Public/Jugador.aspx?name={0}" >
                 <ItemStyle Font-Bold="True" />
                 </asp:HyperLinkField>
                 <asp:BoundField DataField="Age" HeaderText="Age" SortExpression="Age" />

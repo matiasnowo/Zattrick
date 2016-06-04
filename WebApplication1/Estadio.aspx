@@ -25,8 +25,7 @@
         Porcentaje de ventas de entradas para el siguiente partido:&nbsp; <asp:Label ID="SiguientePartido" runat="server" Text="Label" Font-Bold="true" Font-Size="Large"></asp:Label>
         <br />
     </p>
-    <p>
-        </asp:Content>
+    </asp:Content>
 
         
 <asp:Content ID="Content1" runat="server" contentplaceholderid="HeadContent">

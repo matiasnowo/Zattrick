@@ -76,6 +76,10 @@ namespace DataAcces
                 Equipazo.Estadio = (string)dr["Estadio"];
                 Equipazo.Entrenador = (string)dr["Entrenador"];
                 Equipazo.Categoria = (string)dr["Categoria"];
+                Equipazo.Pais = (string)dr["Pais"];
+                Equipazo.Fundacion = (int)dr["Fundacion"];
+                Equipazo.Apodo = (string)dr["Apodo"];
+                Equipazo.Rival = (string)dr["Rival"];
 
 
             }

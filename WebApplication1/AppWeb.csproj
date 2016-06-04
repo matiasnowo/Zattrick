@@ -136,6 +136,10 @@
     <Content Include="alb.txt" />
     <Content Include="App_Data\Zattrick.mdb" />
     <Content Include="Content\basket_full.png" />
+    <Content Include="Content\circulo-azul-icono-3849-16.png" />
+    <Content Include="Content\circulo-de-color-naranja-icono-5575-16.png" />
+    <Content Include="Content\circulo-rojo-icono-9411-16.png" />
+    <Content Include="Content\circulo-verde-icono-4055-16.png" />
     <Content Include="Content\earning_money_coins_cash_statements.png" />
     <Content Include="Content\football.png" />
     <Content Include="Content\football_pitch_sport.png" />
@@ -149,13 +153,15 @@
     <Content Include="Content\stadium-icon.png" />
     <Content Include="Content\users_people.png" />
     <Content Include="Entrenamiento.aspx" />
+    <Content Include="Public\PartidosDe.aspx" />
+    <Content Include="Public\PerfilEquipo.aspx" />
     <Content Include="Partidos.aspx" />
     <Content Include="Tactica.aspx" />
     <Content Include="Inferiores.aspx" />
     <Content Include="Estadio.aspx" />
     <Content Include="Finanzas.aspx" />
     <Content Include="Inicio.aspx" />
-    <Content Include="Jugador.aspx" />
+    <Content Include="Public\Jugador.aspx" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
@@ -309,6 +315,20 @@
     <Compile Include="Entrenamiento.aspx.designer.cs">
       <DependentUpon>Entrenamiento.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Public\PartidosDe.aspx.cs">
+      <DependentUpon>PartidosDe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Public\PartidosDe.aspx.designer.cs">
+      <DependentUpon>PartidosDe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Public\PerfilEquipo.aspx.cs">
+      <DependentUpon>PerfilEquipo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Public\PerfilEquipo.aspx.designer.cs">
+      <DependentUpon>PerfilEquipo.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Partidos.aspx.cs">
       <DependentUpon>Partidos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -351,11 +371,11 @@
     <Compile Include="Inicio.aspx.designer.cs">
       <DependentUpon>Inicio.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Jugador.aspx.cs">
+    <Compile Include="Public\Jugador.aspx.cs">
       <DependentUpon>Jugador.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Jugador.aspx.designer.cs">
+    <Compile Include="Public\Jugador.aspx.designer.cs">
       <DependentUpon>Jugador.aspx</DependentUpon>
     </Compile>
     <Compile Include="Equipo.aspx.cs">

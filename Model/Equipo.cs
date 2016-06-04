@@ -23,6 +23,10 @@ namespace Model
         public string Entrenador { get; set; }
         public string Categoria { get; set; }
 
+        public string Pais { get; set; }
+        public int Fundacion { get; set; }
+        public string Apodo { get; set; }
+        public string Rival { get; set; }
 
 
 
