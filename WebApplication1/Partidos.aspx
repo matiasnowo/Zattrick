@@ -124,7 +124,7 @@
             <SortedDescendingCellStyle BackColor="#D6DFDF" />
             <SortedDescendingHeaderStyle BackColor="#002876" />
         </asp:GridView>
-        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE (([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)) ORDER BY [Fecha] DESC">
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE (([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)) ORDER BY [Fecha] DESC">
             <SelectParameters>
                 <asp:SessionParameter Name="EquipoLocal" SessionField="Equipo" Type="String" />
                 <asp:SessionParameter Name="EquipoVisitante" SessionField="Equipo" Type="String" />
@@ -145,7 +145,7 @@
         <br />
         <asp:GridView ID="GridView2" runat="server">
         </asp:GridView>
-        <asp:SqlDataSource ID="SqlDataSource4" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = 'Primera Division' AND ([EquipoLocal] = ?) OR ([EquipoVisitante] = ?) ORDER BY [Fecha] DESC">
+        <asp:SqlDataSource ID="SqlDataSource4" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = 'Primera Division' AND ([EquipoLocal] = ?) OR ([EquipoVisitante] = ?) ORDER BY [Fecha] DESC">
             <SelectParameters>
                 <asp:SessionParameter Name="EquipoLocal" SessionField="Equipo" Type="String" />
                 <asp:SessionParameter Name="EquipoVisitante" SessionField="Equipo" Type="String" />
@@ -154,14 +154,14 @@
         
     </asp:Panel>
         <strong __designer:mapid="4f" >
-        <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = 'Primera Division' AND ([EquipoLocal] = ?) OR ([EquipoVisitante] = ?) ORDER BY [Fecha] DESC">
+        <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = 'Primera Division' AND ([EquipoLocal] = ?) OR ([EquipoVisitante] = ?) ORDER BY [Fecha] DESC">
             <SelectParameters>
                 <asp:SessionParameter Name="EquipoLocal" SessionField="Equipo" Type="String" />
                 <asp:SessionParameter Name="EquipoVisitante" SessionField="Equipo" Type="String" />
             </SelectParameters>
         </asp:SqlDataSource>
 
-            <asp:SqlDataSource ID="SqlDataSource3" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = 'Primera Division' AND ([EquipoLocal] = ?) OR ([EquipoVisitante] = ?) ORDER BY [Fecha] DESC">
+            <asp:SqlDataSource ID="SqlDataSource3" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = 'Primera Division' AND ([EquipoLocal] = ?) OR ([EquipoVisitante] = ?) ORDER BY [Fecha] DESC">
             <SelectParameters>
                 <asp:SessionParameter Name="EquipoLocal" SessionField="Equipo" Type="String" />
                 <asp:SessionParameter Name="EquipoVisitante" SessionField="Equipo" Type="String" />

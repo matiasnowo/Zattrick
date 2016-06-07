@@ -209,7 +209,7 @@ namespace DataAcces
 
             int Inferiores = 0;
             int Nivel_Inferiores = 0;
-            int ResultadoFinal = 0;
+
             string query1 = string.Format("SELECT * FROM Inferiores WHERE Equipo = '" + NombreDeEquipo + "'");
 
             string query2 = string.Format("SELECT * FROM Equipos WHERE Nombre = '" + NombreDeEquipo + "'");

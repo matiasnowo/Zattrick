@@ -126,7 +126,7 @@ namespace AppWeb
 
                     GridViewLiga.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewLiga.Rows[v].Cells[1].Text = GridViewLiga.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                GridViewLiga.Rows[v].Cells[1].Text = GridViewLiga.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
 

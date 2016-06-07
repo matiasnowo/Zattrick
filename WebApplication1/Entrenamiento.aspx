@@ -26,7 +26,7 @@
         <p>
             Nivel de Instalaciones de Entrenamiento:
             <asp:Label ID="NivelInstalaciones" runat="server" Font-Bold="true" Font-Size="Large" Text="Label"></asp:Label>
-            <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT [Name] FROM [Jugadores] WHERE ([Equipo] = ?)">
+            <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT [Name] FROM [Jugadores] WHERE ([Equipo] = ?)">
                 <SelectParameters>
                     <asp:SessionParameter Name="Equipo" SessionField="Equipo" Type="String" />
                 </SelectParameters>

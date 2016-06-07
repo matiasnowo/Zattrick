@@ -11,16 +11,21 @@ namespace Model
     {
 
         
-
+        public int IDUnico { get; set; }
         public DateTime Fecha { get; set; }
         public string EquipoLocal  { get; set; }
         public string EquipoVisitante { get; set; }
         public string ArchivoPartido { get; set; }
         public int ResultadoLocal { get; set; }
         public int ResultadoVisitante { get; set; }
+
+        public int TirosPuertaLocal { get; set; }
+        public int TirosPuertaVisitante { get; set; }
+        public int TirosFueraLocal { get; set; }
+        public int TirosFueraVisitante { get; set; }
         public string Competencia { get; set; }
         public int Temporada { get; set; }
-    /*    public List<string> Relato { get; set; }
+      public List<string> Relato { get; set; }
 
 
         public List<JugadorEnPartido> LocalTitulares { get; set; }
@@ -42,7 +47,7 @@ namespace Model
 
 
 
-    */
+
 
 
 

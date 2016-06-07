@@ -158,7 +158,7 @@
             <SortedAscendingHeaderStyle BackColor="#99CCFF" />
             <SortedDescendingHeaderStyle BackColor="#99CCFF" />
                 </asp:GridView>
-                <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionString %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionString.ProviderName %>" SelectCommand="SELECT * FROM [Jugadores] WHERE ([Name] = ?)">
+                <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT * FROM [Jugadores] WHERE ([Name] = ?)">
                     <SelectParameters>
                         <asp:QueryStringParameter Name="Name" QueryStringField="name" Type="String" />
                     </SelectParameters>

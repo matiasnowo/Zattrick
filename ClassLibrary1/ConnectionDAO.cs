@@ -7,8 +7,9 @@ namespace DataAcces
     {
         public OleDbConnection getConnectionSQL()
         {
-            string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\Zattrick.mdb;";
+            string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\Zattrick.accdb;";
             OleDbConnection conn = new OleDbConnection(connectionString);
+
             conn.Open();
             return conn;
         }
