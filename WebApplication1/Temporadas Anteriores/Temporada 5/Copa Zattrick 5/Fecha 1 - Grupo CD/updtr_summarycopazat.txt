@@ -1,0 +1,152 @@
+
+
+Injuries:
+---------
+
+A_Orion (boc) estara de baja durante 2 partidos por una fractura en el brazo
+Mati_Brad (boc) tendra que guardar reposo una semana por molestias en el muslo
+F_Segovia (tig) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+
+
+
+Suspensions:
+------------
+
+M_Martinez (rac) no podrá jugar el siguiente partido por sanción
+J_Insaurralde (boc) no podrá jugar el siguiente partido por sanción
+C_D_Ledesma (col) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+G_Funes_Mori (riv) Ps aumenta su media gracias al skills
+Sergi (riv) Ps aumenta su media gracias al skills
+R_Pereyra (riv) Ps aumenta su media gracias al skills
+R_Pereyra (riv) Sh aumenta su media gracias al skills
+O_Ardiles (riv) Ps aumenta su media gracias al skills
+H_Crespo (riv) Ps aumenta su media gracias al skills
+H_Crespo (riv) Sh aumenta su media gracias al skills
+D_Villalva (riv) Sh aumenta su media gracias al skills
+M_Caceres (rac) Tk aumenta su media gracias al skills
+Pablo_Lima (rac) Tk aumenta su media gracias al skills
+M_Martinez (rac) Sh aumenta su media gracias al skills
+C_Alvarez (ald) Tk aumenta su media gracias al skills
+JP_Sorin (ald) Tk aumenta su media gracias al skills
+J_Insaurralde (boc) Tk aumenta su media gracias al skills
+L_Somoza (boc) Tk aumenta su media gracias al skills
+Jose_Chatruc (col) Ps aumenta su media gracias al skills
+Dzsudzsák (oli) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:  11
+Red cards:      2
+Injuries:       3
+
+Top performers:
+
+E_Brunyobt (col)      0
+Philipp_Lahm (col)    0
+Mx_Pellegrino (col)   0
+G_Alcoba (col)        0
+Q_Joigro (col)        0
+Ariel_Zapata (col)    0
+Marcos_Bolzán (col)   0
+Jose_Chatruc (col)    0
+Pablo_Piatti (col)    0
+A_Papu_Gomez (col)    0
+Diego_Pozo (col)      0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)             3      8
+M_Zarate (vel)           3      5
+Juan_M_Iturbe (ind)      3      5
+D_Trezeguet (riv)        3      4
+Nico_Blandi (boc)        4      4
+Carlos_Duré (ars)        2      3
+Berni_Romeo (slo)        2      3
+Luís_Fabiano (arg)       3      3
+RV_Nistelrooy (ban)      3      3
+A_Chavez (new)           3      3
+E_Fuertes (fer)          3      3
+Nico_Martinez (ind)      3      3
+Charizard (alb)          1      2
+A_Sánchez (gim)          3      2
+F_Guerrero (gim)         3      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+M_N_Cano (uai)           3    135
+Zapdos (alb)             3    111
+T_Svenssen (alb)         3    111
+L_Matthaus (alb)         2    104
+Franck_Ribéry (ind)      3    100
+J_I_Sills (uni)          3     95
+H_Fredes (ind)           3     87
+M_Albela (new)           3     84
+Cris_Gonzalez (uai)      3     84
+Pablo_Guiñazú (tig)      3     82
+Hitmonlee (alb)          3     80
+S_Staunton (alb)         3     78
+M_Zarate (vel)           3     76
+Luís_Fabiano (arg)       3     75
+L_Pusineri (slo)         3     74
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         2      5
+A_Panenka (new)          2      2
+F_Rijkaard (uni)         3      2
+J_Datolo (gim)           3      2
+El_Misha (riv)           3      2
+L_Pusineri (slo)         3      2
+A_Fernandez (vel)        3      2
+S_Staunton (alb)         3      2
+Pablo_Guiñazú (tig)      3      2
+M_Albela (new)           3      2
+H_Fredes (ind)           3      2
+Kun_Aguero (ind)         3      2
+Franck_Ribéry (ind)      3      2
+H_Ameli (slo)            3      2
+I_Velez (ind)            3      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Gino_Peruzzi (new)       2      4
+C_D_Ledesma (col)        3      4
+Angel_Carreño (gim)      0      3
+Wailord (alb)            2      3
+Eric_Gerets (boc)        2      3
+L_Rodriguez (slo)        2      3
+W_Samuel (boc)           3      3
+M_Martinez (rac)         4      3
+J_Insaurralde (boc)      4      3
+Gilbert_Silva (ars)      2      2
+E_Vidal (uai)            3      2
+V_Píriz_Alves (rac)      3      2
+Edgar_Davids (new)       3      2
+W_Shoojho (arg)          3      2
+F_Santana (ind)          3      2
+

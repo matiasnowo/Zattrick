@@ -1,0 +1,190 @@
+
+
+Injuries:
+---------
+
+D_Vega (qui) ino podra jugar los siguientes 2 partidos por una inflamacion de la rodilla
+E_Colombano (uai) tendra que guardar reposo una semana por molestias en el muslo
+J_Cazares (uni) tendra que guardar reposo una semana por molestias en el muslo
+Berni_Romeo (slo) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+
+
+
+Suspensions:
+------------
+
+Ruud_Gullit (arg) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+A_Matellan (ars) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+D_Manusovich (slo) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Placente (uni) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+W_Shoojho (arg) no podrá jugar el siguiente partido por sanción
+Turco_Grecco (arg) no podrá jugar el siguiente partido por sanción
+G_Mendez (rac) no podrá jugar el siguiente partido por sanción
+L_Castroman (rac) no podrá jugar el siguiente partido por sanción
+V_Píriz_Alves (rac) ha sido suspendido por 3 partidos
+W_Garcete (uai) no podrá jugar el siguiente partido por sanción
+Hasan_Sas (est) no podrá jugar el siguiente partido por sanción
+Oscar_Ruggeri (slo) ha sido suspendido por 2 partidos
+N_Ortigoza (slo) ha sido suspendido por 2 partidos
+Mx_Pellegrino (col) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+M_Martinez (rac) Tk aumenta su media gracias al skills
+Pablo_Lima (rac) Tk aumenta su media gracias al skills
+R_Martinez (rac) Ps aumenta su media gracias al skills
+P_Toranzo (rac) Ps aumenta su media gracias al skills
+E_Barros (uai) Tk aumenta su media gracias al skills
+Ricardo_Gomes (fer) Tk aumenta su media gracias al skills
+Thorin (fer) Tk aumenta su media gracias al skills
+Smaug (fer) Tk aumenta su media gracias al skills
+Facu_Ferreyra (fer) Sh aumenta su media gracias al skills
+Kurapika (uni) Tk aumenta su media gracias al skills
+R_Funes_Mori (uni) Sh aumenta su media gracias al skills
+Angel_Romano (est) Ps aumenta su media gracias al skills
+S_Sosa (new) St aumenta su media gracias al skills
+Jose_Chatruc (col) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         16  (DFs - 2, DMs - 0, MFs - 0, AMs - 2, FWs - 12)
+Assists:       14  (DFs - 4, DMs - 1, MFs - 7, AMs - 1, FWs - 1)
+Yellow cards:  18
+Red cards:      3
+Injuries:       4
+
+Top performers:
+
+Nico_Bertolo (qui)    68
+R_Funes_Mori (uni)    54
+M_N_Cano (uai)        48
+Nine_Tails (qui)      47
+Kazu_Miura (qui)      42
+Jose_Chatruc (col)    35
+N_Odruska (arg)       32
+Pablo_Piatti (col)    32
+R_Martinez (rac)      31
+Hernán_Bruno (qui)    30
+O_Ibsi (gim)          30
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Independiente           6    3   2   1     7    4    3    11
+4    Arsenal                 7    3   1   3     5    6   -1    10
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             7    1   4   2     4    5   -1     7
+7    Argentinos              6    2   0   4     4    8   -4     6
+8    Banfield                6    1   2   3     1    5   -4     5
+9    River Plate             5    1   1   3     4    6   -2     4
+10   Quilmes                 1    1   0   0     4    0    4     3
+11   Racing                  1    1   0   0     3    0    3     3
+12   Colon de Santa Fe       1    1   0   0     3    1    2     3
+13   Union de Santa Fe       1    1   0   0     3    1    2     3
+14   River PLate             1    0   1   0     1    1    0     1
+15   Estudiantes de La Plata   1    0   1   0     0    0    0     1
+16   Boca Juniors            6    0   1   5     4   14  -10     1
+17   Ferro                   1    0   0   1     1    3   -2     0
+18   Newell's Old Boys       1    0   0   1     1    3   -2     0
+19   Gimnasia y Esgrima de La Plata   1    0   0   1     0    3   -3     0
+20   UAI Urquiza             1    0   0   1     0    4   -4     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Kurapika (uni)          14     10
+Kazu_Miura (qui)        14      9
+Pablo_Piatti (col)      12      7
+S_Kun_Aguero (arg)      13      7
+R_Funes_Mori (uni)      10      6
+G_B_Leschuk (ars)        7      5
+A_Chavez (est)          13      5
+Berni_Romeo (slo)       14      5
+L_Abraham (new)         14      5
+Diego_Jara (uni)         4      4
+M_Klose (arg)            5      4
+Carlos_Duré (ars)        7      4
+E_Zelaya (ars)           8      4
+Ruben_Ramirez (col)      9      4
+V_Píriz_Alves (rac)     11      4
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Nico_Bertolo (qui)      13    265
+F_Vargas (uni)          14    263
+Kurapika (uni)          14    251
+J_I_Sills (uni)         14    244
+S_Sosa (new)            14    222
+Placente (uni)          11    203
+Jose_Chatruc (col)      13    200
+Iker_Casillas (slo)     14    195
+J_Cazares (uni)         13    187
+Kazu_Miura (qui)        14    187
+L_Castroman (rac)       14    185
+M_N_Cano (uai)           5    180
+Pateatraseros (arg)     14    179
+Chicho_Serna (uni)      11    178
+Ricardo_Gomes (fer)     14    169
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Hasan_Sas (est)         12      5
+Nico_Bertolo (qui)      13      4
+Jose_Chatruc (col)      13      4
+F_Vargas (uni)          14      4
+Javi_Morales (ars)       8      3
+Chicho_Serna (uni)      11      3
+Brno_Zuculini (rac)     12      3
+J_Cazares (uni)         13      3
+R_Cascini (ars)         13      3
+R_Martinez (rac)        13      3
+L_Castroman (rac)       14      3
+Matuzalem (est)          5      2
+J_Datolo (est)           9      2
+G_Rivarola (new)        10      2
+R_Funes_Mori (uni)      10      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+V_Píriz_Alves (rac)     11      9
+G_B_Leschuk (ars)        7      8
+Angel_Carreño (fer)     11      8
+N_Ortigoza (slo)        14      8
+M_Brau (ars)             6      7
+E_Fuertes (fer)         12      7
+Placente (uni)          11      6
+H_Ameli (slo)           12      6
+Oscar_Ruggeri (slo)     13      6
+Ariel_Zapata (col)       9      5
+N_Odruska (arg)         11      5
+A_Machuca (new)         12      5
+Pablo_Lima (rac)        13      5
+Gonzalo_Bazan (qui)     13      5
+R_Martinez (rac)        13      5
+

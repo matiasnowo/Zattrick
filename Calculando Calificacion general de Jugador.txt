@@ -1,0 +1,22 @@
+Calificacion durante 1 partido:
+
+
+Arqueros: Sav (+,18, gol en contra -1) 
+Defensores: Ktk(+,18), Kps(+,18), Ass(+36), Sht(+18), Gls(0,82), Yel(-25), Red(-1)
+Volantes: Ktk(+,23), Kps(+18), Ass(+,36), Sht(+,21), Gls(0,82), Yel(-25), Red(-1)
+Delanteros: Ktk(+,42), Kps(+,18), Ass(+,36), Sht(+26), Gls(,67), Yel(-25), Red(-1)
+
+
+Estrellas a sacar de 1 jugador:
+
+Arqueros: St(1), Ag(/2)* | -> Maximo 80
+Defensores: Prs(+25), Tk(1), Ps(0,5), Sh(0,2), Sm(/2), Ag(/2)* | -> Maximo 240
+Volantes: Prs(+25), Tk(0,5), Ps(1), Sh(0,5), Sm(/2), Ag(/3)* | -> Maximo 238
+Delanteros: Prs(+25), Tk(0,2), Ps(0,75), Sh(1), Sm(0,75), Ag(/4)* -> Maximo 250
+
+Ejemplo:
+
+H_Castellano  26 arg   L 40  2  2  2 48 32 ->87,5 -> 43,75 -> 4
+C_Alvarez     24 arg   R  4 29 12  7 44 25 ->39,95 -> 20 -> 2
+M_Almada      33 arg   R  1  1 30  1 51 21 ->39,95 -> 20 -> 2
+C_Fabbiani    23 arg  LC  2  8  6 41 85 27 ->68,64 -> 34,32 -> 3,5

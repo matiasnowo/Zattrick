@@ -1,0 +1,118 @@
+
+
+Skill changes:
+--------------
+
+E_Berizzo (vel) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   0
+Red cards:      0
+Injuries:       0
+
+Top performers:
+
+C_Kletnicki (rac)     0
+I_Sekagya (rac)       0
+M_Martinez (rac)      0
+R_Udnend (rac)        0
+M_Caceres (rac)       0
+Tropius (rac)         0
+D_De_Rossi (rac)      0
+P_Toranzo (rac)       0
+P_Onhurt (rac)        0
+Santi_Anselmo (rac)   0
+Sergio_Araujo (rac)   0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+M_Zarate (vel)          12     10
+Santi_Anselmo (rac)      6      2
+G_Tidrokra (vel)         7      2
+Sergio_Araujo (rac)      9      2
+Pancho_Abba (rac)        6      1
+A_Fernandez (vel)        8      1
+C_Ansaldi (vel)          9      1
+L_Castroman (vel)       11      1
+Fede_Nieto (vel)         0      0
+A_Ortega (vel)           0      0
+Marcelo_Gomez (vel)      0      0
+M_Friedlander (vel)      0      0
+E_Papa (vel)             0      0
+J_L_Chilavert (vel)      0      0
+G_Sessa (vel)            0      0
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+M_Moralez (vel)         13    217
+M_Zarate (vel)          12    199
+Oliver_Kahn (vel)       14    126
+A_Fernandez (vel)        8    121
+C_Ansaldi (vel)          9    108
+M_Caceres (rac)         11    107
+M_Uglessich (vel)        9    101
+L_Castroman (vel)       11    101
+M_Schwarzer (vel)       11     98
+N_Otamendi (vel)        11     86
+M_Martinez (rac)        11     76
+Sergio_Araujo (rac)      9     69
+P_Toranzo (rac)          9     67
+E_Berizzo (vel)          9     62
+Burruchaga (vel)         3     58
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+M_Moralez (vel)         13      5
+A_Fernandez (vel)        8      4
+Pancho_Abba (rac)        6      2
+C_Ansaldi (vel)          9      2
+Flordelmundo (vel)       2      1
+M_Torsiglieri (vel)      7      1
+F_Tobio (vel)            9      1
+Fede_Buffa (rac)         0      0
+G_Sessa (vel)            0      0
+J_L_Chilavert (vel)      0      0
+M_Friedlander (vel)      0      0
+Marcelo_Gomez (vel)      0      0
+Fede_Nieto (vel)         0      0
+E_Papa (vel)             0      0
+A_Ortega (vel)           0      0
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+M_Zarate (vel)          12      6
+N_Otamendi (vel)        11      5
+R_Alvarez (vel)          6      4
+Origüela (rac)           7      3
+Pancho_Abba (rac)        6      2
+A_Fernandez (vel)        8      2
+E_Berizzo (vel)          9      2
+F_Tobio (vel)            9      2
+C_Ansaldi (vel)          9      2
+M_Schwarzer (vel)       11      2
+M_Martinez (rac)        11      2
+E_Papa (vel)             0      1
+A_Ortega (vel)           0      1
+Sergio_Sena (vel)        1      1
+M_Pellegrino (vel)       1      1
+

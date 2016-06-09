@@ -1,0 +1,186 @@
+
+
+Injuries:
+---------
+
+Diego_Torres (ars) Ya está listo para jugar despues de su lesión
+E_Ryodsamn (est) Ya está listo para jugar despues de su lesión
+Laucha_Acosta (gim) Ya está listo para jugar despues de su lesión
+Y_Adno (new) Ya está listo para jugar despues de su lesión
+Berni_Romeo (slo) Ya está listo para jugar despues de su lesión
+P_Mouche (tig) Ya está listo para jugar despues de su lesión
+F_Coloccini (slo) tendra que guardar reposo una semana por molestias en el muslo
+Guille_Franco (slo) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+C_Villagra (tig) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+
+
+
+Suspensions:
+------------
+
+Pablo_Piatti (col) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+J_M_Calvo (rac) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Brno_Zuculini (rac) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Gino_Peruzzi (new) ha sido suspendido por 2 partidos
+C_Villagra (tig) no podrá jugar el siguiente partido por sanción
+D_Macaluso (qui) no podrá jugar el siguiente partido por sanción
+R_Faeck (qui) no podrá jugar el siguiente partido por sanción
+I_Lity (qui) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Maxi_Batman (new) Tk aumenta su media gracias al skills
+L_Castroman (new) Sh aumenta su media gracias al skills
+C_Tula (new) Ps aumenta su media gracias al skills
+Oscar_Ruggeri (slo) Tk aumenta su media gracias al skills
+F_Roncaglia (fer) Ps aumenta su media gracias al skills
+Ed_Retamoso (fer) Ps aumenta su media gracias al skills
+Lichtsteiner (rce) Tk aumenta su media gracias al skills
+Juan_Forlin (gim) Tk aumenta su media gracias al skills
+A_Sánchez (gim) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         18  (DFs - 0, DMs - 0, MFs - 2, AMs - 0, FWs - 16)
+Assists:       13  (DFs - 1, DMs - 1, MFs - 9, AMs - 1, FWs - 1)
+Yellow cards:  17
+Red cards:      2
+Injuries:       3
+
+Top performers:
+
+J_Fabbro (fer)        84
+H_Barcos (fer)        50
+L_Castroman (new)     49
+M_N_Cano (uai)        48
+Ed_Retamoso (fer)     45
+Matias_Diaz (fer)     34
+G_Gigliaza (est)      30
+A_Sánchez (gim)       28
+A_Panenka (new)       26
+R_Falcao_G (est)      26
+Ricardo_Noir (tig)    25
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Arsenal                 8    4   2   2     7    5    2    14
+3    Aldosivi                6    4   1   1    12    4    8    13
+4    Independiente           6    3   2   1     7    4    3    11
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             8    1   4   3     4    8   -4     7
+7    Colon de Santa Fe       2    2   0   0    11    2    9     6
+8    Estudiantes de La Plata   2    2   0   0     4    0    4     6
+9    Banfield                6    1   2   3     1    5   -4     5
+10   Ferro                   2    1   1   0     4    0    4     4
+11   Newell's Old Boys       2    1   1   0     3    0    3     4
+12   River Plate             5    1   1   3     4    6   -2     4
+13   Union de Santa Fe       1    1   0   0     5    2    3     3
+14   Gimnasia y Esgrima de La Plata   2    1   0   1     4    8   -4     3
+15   Argentinos              6    1   0   5     5   13   -8     3
+16   River PLate             1    0   1   0     1    1    0     1
+17   Quilmes                 2    0   1   1     0    3   -3     1
+18   UAI Urquiza             2    0   1   1     0    4   -4     1
+19   Boca Juniors            6    0   1   5     4   14  -10     1
+20   Tigre                   1    0   0   1     1    3   -2     0
+21   Rosario Central         1    0   0   1     0    2   -2     0
+22   Racing                  2    0   0   2     0    4   -4     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+E_Fuertes (fer)          9     10
+A_Papu_Gomez (col)       9      8
+A_Sánchez (gim)          7      6
+F_Guerrero (gim)         8      6
+L_Castroman (new)        9      6
+E_Zelaya (ars)           6      5
+Pablo_Piatti (col)       8      5
+A_Chavez (new)           9      5
+Carlos_Duré (ars)        3      4
+Berni_Romeo (slo)        4      4
+P_Gancedo_Jr (est)       8      4
+Q_Braes (fer)            4      3
+E_Ryodsamn (est)         6      3
+R_Falcao_G (est)         6      3
+G_B_Leschuk (ars)        7      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+M_N_Cano (uai)           9    303
+Ed_Retamoso (fer)        8    197
+J_Fabbro (fer)           8    188
+Iker_Casillas (slo)      9    165
+Edgar_Davids (new)       9    152
+E_Fuertes (fer)          9    148
+A_Papu_Gomez (col)       9    147
+J_Yacuzzi (ars)          7    144
+Pablo_Piatti (col)       8    138
+L_Castroman (new)        9    138
+F_Guerrero (gim)         8    134
+M_Albela (new)           9    132
+Cris_Gonzalez (uai)      9    130
+A_Panenka (new)          5    127
+F_Coloccini (slo)        8    125
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+A_Panenka (new)          5      4
+J_Fabbro (fer)           8      4
+JS_Veron (est)           4      3
+Gabriel_Roth (fer)       5      3
+L_Pusineri (slo)         8      3
+J_Datolo (gim)           8      3
+Ed_Retamoso (fer)        8      3
+Nico_Cabrera (gim)       2      2
+Ronald_D_Boer (ars)      5      2
+Diego_Villar (ars)       6      2
+Ariel_Zapata (col)       6      2
+H_Ameli (slo)            8      2
+Pablo_Guiñazú (tig)      8      2
+Matias_Diaz (fer)        8      2
+M_Albela (new)           9      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+R_Cascini (ars)          7      7
+Gino_Peruzzi (new)       8      7
+F_Galetto (qui)          2      5
+C_D_Ledesma (col)        6      5
+Oscar_Ruggeri (slo)      8      5
+Matias_Diaz (fer)        8      5
+L_Rodriguez (slo)        4      4
+Angel_Carreño (gim)      2      3
+D_De_Rossi (rac)         2      3
+J_M_Calvo (rac)          4      3
+Gilbert_Silva (ars)      5      3
+I_Lity (qui)             6      3
+D_Macaluso (qui)         6      3
+Fabian_Monzon (rce)      6      3
+F_Coloccini (slo)        8      3
+

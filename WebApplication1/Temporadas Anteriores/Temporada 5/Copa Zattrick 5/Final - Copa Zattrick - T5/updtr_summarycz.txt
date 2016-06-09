@@ -1,0 +1,142 @@
+
+
+Injuries:
+---------
+
+H_Crespo (riv) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+Mats_Hummels (vel) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+Kun_Aguero (ind) estara de baja una semana por una micro-rotura
+
+
+
+Suspensions:
+------------
+
+Nemanja_Matic (ind) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Arturo_Vidal (vel) Sh aumenta su media gracias al skills
+A_Fernandez (vel) Ps aumenta su media gracias al skills
+F_Santana (ind) Tk aumenta su media gracias al skills
+P_Rodriguez (ind) Ps aumenta su media gracias al skills
+Venasaur (alb) Tk aumenta su media gracias al skills
+L_Matthaus (alb) Tk aumenta su media gracias al skills
+L_Matthaus (alb) Ps aumenta su media gracias al skills
+S_Staunton (alb) Sh aumenta su media gracias al skills
+Jadson (alb) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          5  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 5)
+Assists:        2  (DFs - 0, DMs - 1, MFs - 0, AMs - 0, FWs - 1)
+Yellow cards:   7
+Red cards:      1
+Injuries:       3
+
+Top performers:
+
+Venasaur (alb)        24
+M_Zarate (vel)        22
+Nico_Martinez (ind)   19
+D_Passarella (riv)    17
+H_Fredes (ind)        16
+C_Benteke (ind)       16
+N_Otamendi (vel)      16
+A_Fernandez (vel)     16
+L_Matthaus (alb)      16
+Nemanja_Matic (ind)   15
+Charizard (alb)       15
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)            16     29
+Charizard (alb)         13     27
+Luís_Fabiano (arg)      16     19
+Nico_Blandi (boc)       12     16
+F_Morientes (riv)       16     16
+M_Zarate (vel)          16     15
+F_Guerrero (gim)        20     15
+D_Trezeguet (riv)       18     14
+A_Sánchez (gim)         17     13
+S_Rondón (fer)           8     12
+Pablo_Piatti (col)      16     12
+J_Lujambio (ban)        16     12
+G_B_Leschuk (ars)       18     12
+H_Barcos (fer)          10     11
+A_Papu_Gomez (col)      19     11
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)        16    570
+M_N_Cano (uai)          22    567
+Luís_Fabiano (arg)      16    465
+Ed_Retamoso (fer)       19    424
+Charizard (alb)         13    423
+Iker_Casillas (slo)     22    408
+Zapdos (alb)            16    403
+J_Fabbro (fer)          19    403
+Alfredo_Ramúa (gim)     19    397
+H_Fredes (ind)          15    384
+H_Castellano (ald)      17    381
+F_Guerrero (gim)        20    353
+M_Moralez (vel)         15    338
+M_Zarate (vel)          16    338
+Kun_Aguero (ind)        19    334
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)        16     19
+John_A_Riise (alb)      12      9
+S_Staunton (alb)        16      8
+Diego_Villar (ars)      18      8
+Alfredo_Ramúa (gim)     19      8
+M_Moralez (vel)         15      7
+Lucas_Moura (boc)       16      7
+Hitmonlee (alb)         17      7
+Ed_Retamoso (fer)       19      7
+H_Fredes (ind)          15      6
+JS_Veron (est)          18      6
+J_Fabbro (fer)          19      6
+J_Datolo (gim)          20      6
+A_Panenka (new)         15      5
+C_D_Ledesma (col)       15      5
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Pablo_Piatti (col)      16     10
+J_Bosingwa (ban)        13      9
+C_Arano (riv)           14      9
+R_Cascini (ars)         17      9
+A_Papu_Gomez (col)      19      9
+N_Otamendi (vel)        13      8
+Ivan_Piris (gim)        15      8
+Steelix (alb)           15      8
+R_Falcao_G (est)        17      8
+Gino_Peruzzi (new)      18      8
+Philipp_Lahm (col)      19      8
+E_Figueroa (est)        20      8
+W_Samuel (boc)           8      7
+Davor_Suker (boc)       11      7
+Massimo_Oddo (oli)      13      7
+

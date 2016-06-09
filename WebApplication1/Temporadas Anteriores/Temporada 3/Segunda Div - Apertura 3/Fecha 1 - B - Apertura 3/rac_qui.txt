@@ -1,0 +1,183 @@
+Home                           Away
+----                           ----
+
+Racing                         Quilmes                       
+
+GK  C_Kletnicki                GK  D_Vega                    
+DFR I_Sekagya                  DFL Gonzalo_Bazan             
+DFC M_Martinez                 DFR J_Botinelli               
+DFC R_Udnend                   DFC Ivan_Cordoba              
+DFL M_Caceres                  DFC G_Mendez                  
+DMR Tropius                    MFR R_Faeck                   
+DMC D_De_Rossi                 DMC Jacobo_Urso               
+MFC P_Toranzo                  DMC R_Albretch                
+AML P_Onhurt                   MFL F_Galetto                 
+FWR Santi_Anselmo              FWR J_Sanfilippo              
+FWL Sergio_Araujo              FWL Lobo_Fischer              
+
+4-2-1-1-2 Passing              4-2-2-2 Normal                 
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  3 :(rac) Tropius con un pase de tiralíneas para P_Onhurt
+          ...  Gonzalo_Bazan llega como un tren y corta el ataque lanzándose al suelo
+Min.  3 :(rac) Sergio_Araujo choca y envía a su oponente al suelo 
+          ...  Falta? Este árbitro lo más redondo que ha visto es un melón. Si no fue falta!
+          ...  AMARILLA!!
+          ...  Por unos momentos lo vi expulsado!
+          ...  el entrenador parece asombrado de que no fuera roja!
+Min.  6 :(rac) I_Sekagya levanta la cabeza, pasa hacia Santi_Anselmo
+          ...  Interceptada por Gonzalo_Bazan
+Min.  6 :(qui) Lobo_Fischer agarra al defensa de la camiseta y se lleva el balón
+          ...  Qué vivo ha estado, el árbitro no pudo ver nada
+          ...  R_Udnend manda el balón a la grada
+Min. 31 :(qui) R_Albretch encuentra una autopista en la defensa
+          ...  Prepara el disparo
+          ...  D_De_Rossi zancadillea a su oponente!!
+          ...  El árbitro se da la vuelta!!
+Min. 35 :(rac) Tropius en carrera con su marcador. Mete el hombro
+          ...  Lo aparta dla pelota!
+          ...  Continúa avanzando
+          ...  Balón para la entrada de Santi_Anselmo
+          ...  J_Botinelli va al choque 
+    ...  Y desplaza al delantero!
+Min. 41 :(rac) P_Onhurt realiza una entrada terrible
+          ...  Tiene suerte de no ser amonestado
+          ...  el entrenador respira tranquilo
+          ...  el entrenador se encara con el árbitro árbitro pidiéndole explicaciones
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 56 :(qui) R_Faeck envía largo para J_Sanfilippo
+          ...  J_Sanfilippo se saca una tijera! Qué bello!
+          ...  Ha batido a el portero 
+          ...  Pero se va fuera !!
+Min. 61 :(qui) Jacobo_Urso centra desde la banda, encuentra a F_Galetto en el área
+          ...  M_Caceres envía el balón suelto a las nubues. Cuidado con los pájaros!
+Min. 64 :(rac) C_Kletnicki se ha torcido gravemente la rodilla!
+          ...  Parece que va a seguir...
+          ...  No! Se dirige al banquillo y pide el cambio
+Min. 64 :(rac) Fede_Buffa va a tener su oportunidad en este partido
+          ...  C_Kletnicki deja el terreno de juego con cara de pocos amigos
+          ...  Su sustituto jugará de GK
+Min. 72 :(rac) Tropius cede atrás para I_Sekagya
+          ...  G_Mendez llega como un tren y corta el ataque lanzándose al suelo
+Min. 73 :(rac) M_Martinez se planta en la frontal del área
+          ...  Gonzalo_Bazan llega velozmente y mete la planta del pie
+          ...  Qué velocidad!
+Min. 77 :(qui) Gonzalo_Bazan corta el juego con una falta táctica 
+          ...  Y ahora qué? Amarilla?
+          ...  AMARILLA!!
+Min. 83 :(rac) P_Toranzo avanza metros
+          ...  Mira el extremo derecho!
+          ...  Y le pone un pase de oro a Santi_Anselmo en el otro lado! Qué clase!
+          ...  G_Mendez se hace con el balón
+          ...  Y lo manda hacia arriba
+Min. 85 :(qui) Lobo_Fischer se lanza al corte 
+          ...  Ohhh! Le ha dejado un recadito
+          ...  AMARILLA!!
+          ...  Por unos momentos lo vi expulsado!
+          ...  PENALTI !! 
+          ...  el arbitro  estaba encima de la jugada. Lo vio clarísimo!!
+          ...  Sergio_Araujo coloca la pelota con mimo!
+          ...  Sergio_Araujo está batido! 
+          ...  GOOOOOL !! 
+          ...  Está desolado!!
+          ...  rac 1-0 qui...
+Min. 87 :(qui) R_Faeck llega segundos tarde al corte 
+          ...  Se ha pasado dos pueblos!!!
+          ...  AMARILLA!!
+          ...  Creo que el árbitro se ha pasado de riguroso
+
+El arbitro añadira 3 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : rac  0 qui 1
+tiros a puerta       : rac  0 qui 0
+
+Marcador             : rac  1 qui 0
+
+
+<<< Estadisticas de los jugadores del Racing >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+C_Kletnicki    GK   R 18  2  2  2 49 |  63   0   0   0   0   0   0   0   0   1 126   0   0   0 100
+I_Sekagya     DFR   R  2 13  4  5 37 |  90   0   0   1   0   0   0   0   0   0   0  48  28   0  64
+M_Martinez    DFC   C  2 16  4  5 57 |  90   0   0   0   0   0   0   0   0   0   0  78  78  78  73
+R_Udnend      DFC   C  2 14  3  4 47 |  90   0   1   0   0   0   0   0   0   0   0  72   0   0  72
+M_Caceres     DFL RLC  2 14  5  4 62 |  90   0   1   0   0   0   0   0   0   0   0  72   0   0  76
+Tropius       DMR   R  3 11 13  9 59 |  90   0   0   3   0   0   0   0   0   0   0   0  84   0  74
+D_De_Rossi    DMC RLC  3 11 14  7 66 |  90   0   1   0   0   0   0   0   0   0   0  72   0   0  79
+P_Toranzo     MFC  RC  2  5 15  4 49 |  90   0   0   1   0   0   0   0   0   0   0   0  28   0  68
+P_Onhurt      AML   L  2  3 13  4 24 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  59
+Santi_Anselmo FWR   R  3  7  4 16 42 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  67
+Sergio_Araujo FWL   L  2  5  4 14 42 |  90   0   0   0   0   0   1   1   0   0   0 -10 -10  54  68
+Fede_Buffa     GK  LC 14  2  2  2 57 |  27   0   0   0   0   0   0   0   0   0   0   0   0   0  93
+M_Cahais      DFC   L  2 13  4  4 32 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Z_Jaebr       MFC RLC  2  5 10 11 34 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Rubén_Ferrer  FWC RLC  1  1 10 15 80 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Gaona_Lugo    MFC   R  3  6  8 15 31 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+A_Otroory     FWC RLC  2  3  4 14 62 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Pancho_Abba   FWC   R  3  4  6 13 63 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   3   5   0   0   1   1   0   1
+
+
+<<< Estadisticas de los jugadores del Quilmes >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+D_Vega         GK   L 18  3  3  3 59 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Gonzalo_Bazan DFL  RL  2 17  6  4 51 |  90   0   3   0   0   0   0   1   0   0   0 206 -10 -10  73
+J_Botinelli   DFR   R  3 17  8  8 68 |  90   0   1   0   0   0   0   0   0   0   0  72   0   0  75
+Ivan_Cordoba  DFC RLC  2 19  5  5 73 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  82
+G_Mendez      DFC   C  2 16  4  5 34 |  90   0   2   0   0   0   0   0   0   0   0 144   0   0  66
+R_Faeck       MFR   R  2  4 15  4 36 |  90   0   0   1   0   0   0   1   0   0   0 -10  18 -10  65
+Jacobo_Urso   DMC   C  2 12 10  5 72 |  90   0   0   1   0   0   0   0   0   0   0   0  28   0  80
+R_Albretch    DMC   C  2 12  5  5 45 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  69
+F_Galetto     MFL   L  2  4 13  5 66 |  90   0   0   0   0   0   0   0   0   0   0 -20 -20 -20  81
+J_Sanfilippo  FWR   R  2  5  6 16 47 |  90   0   0   0   0   1   0   0   0   0   0   0   0  11  70
+Lobo_Fischer  FWL   L  2  5  5 16 57 |  90   0   0   0   0   0   0   1   0   0   0 -30 -30 -30  74
+B_Buticce      GK   L 13  2  2  2 51 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Rodriguez   DFC   R  2 13  4  5 56 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Ruben_Insua   MFC   L  2  4 11  5 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Ledesma     MFC  RC  3  7 13  6 34 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Pipo_Gorosito MFC   C  2  4 11 11 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Gonzalez    FWC  LC  2  5  5 12 38 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Oberman     FWC  RC  3  6  6 14 66 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   6   2   0   1   0   3   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+rac     0     75.89    58.96    41.67
+qui     0     94.56    53.90    44.25
+rac    10     73.82    57.29    40.33
+qui    10     92.40    52.65    43.25
+rac    20     71.71    55.54    38.77
+qui    20     89.71    51.01    41.97
+rac    30     69.42    53.70    37.38
+qui    30     87.05    49.49    40.60
+rac    40     67.24    51.84    36.04
+qui    40     84.69    48.19    39.31
+rac    50     64.58    49.55    34.44
+qui    50     81.68    46.46    37.88
+rac    60     62.48    47.79    33.24
+qui    60     79.14    45.00    36.68
+rac    70     60.29    46.00    31.83
+qui    70     76.47    43.43    35.33
+rac    80     57.98    44.02    30.38
+qui    80     74.11    41.98    34.09
+rac    90     55.72    42.27    28.99
+qui    90     71.60    40.49    32.79
+
+
+1339726213

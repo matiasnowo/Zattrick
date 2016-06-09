@@ -1,0 +1,10 @@
+
+arg 0 - 1 Banfield
+P_Mouche (ban) 43'
+
+
+slo 0 - 1 Independiente
+Inj: Carlos_Netto (slo) 11'
+G_Vallés (ind) 30'
+Inj: Mario_Santana (slo) 79'
+

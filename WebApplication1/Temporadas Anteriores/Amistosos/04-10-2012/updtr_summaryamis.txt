@@ -1,0 +1,120 @@
+
+
+Skill changes:
+--------------
+
+Turco_Grecco (arg) Tk aumenta su media gracias al skills
+Kun_Aguero (ind) Ps aumenta su media gracias al skills
+H_Fredes (ind) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   0
+Red cards:      0
+Injuries:       0
+
+Top performers:
+
+A_Gabbarini (ind)     0
+G_Peruzzi (ind)       0
+G_Vallés (ind)        0
+F_Ikube (ind)         0
+L_Carrio (ind)        0
+Kun_Aguero (ind)      0
+Mario_Bolatti (ind)   0
+H_Fredes (ind)        0
+Leo_da_Silva (ind)    0
+Nico_Martinez (ind)   0
+Dickson_Etuhu (ind)   0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Charizard (alb)         12     23
+Nico_Martinez (ind)     14     20
+Nico_Blandi (boc)       13     18
+Zapdos (alb)            12     17
+C_Fabbiani (ald)        14     11
+S_Kun_Aguero (arg)      16     10
+H_Crespo (riv)          10      8
+G_B_Leschuk (ars)       14      8
+S_Biglieri (rce)        11      7
+J_Lujambio (ban)        13      7
+Moltres (oli)           16      7
+F_Morientes (riv)        9      6
+E_Fuertes (fer)          9      6
+Santi_Anselmo (rac)     13      6
+E_Ryodsamn (est)         7      5
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)        12    474
+Charizard (alb)         12    402
+S_Staunton (alb)        12    341
+Zapdos (alb)            12    319
+Hitmonlee (alb)         12    310
+Mono_Navarro (tig)      14    297
+H_Castellano (ald)      14    273
+S_Kun_Aguero (arg)      16    268
+P_Ledesma (boc)         13    260
+John_A_Riise (alb)      12    253
+Nico_Martinez (ind)     14    253
+Nico_Blandi (boc)       13    252
+A_Chari (tig)           12    244
+M_Almada (ald)          14    241
+F_Roncaglia (fer)       16    234
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)        12     12
+S_Staunton (alb)        12      9
+John_A_Riise (alb)      12      7
+P_Ledesma (boc)         13      6
+H_Fredes (ind)          14      6
+M_Almada (ald)          14      5
+Javi_Morales (ars)      15      5
+Jorge_Vila (fer)        16      5
+Mati_Brad (boc)         11      4
+Emmanuel_Pío (oli)       7      3
+R_Pereyra (riv)          7      3
+R_Cascini (ars)          7      3
+A_Fernandez (vel)        8      3
+A_Dominguez (riv)        8      3
+R_Martinez (est)         9      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+W_Shoojho (arg)          9      9
+M_Mea_Vitali (ban)      10      9
+Gonzalo_Bazan (qui)     13      9
+Éric_Cantona (boc)      13      9
+C_Arano (riv)            8      7
+Steelix (alb)            9      6
+J_Insaurralde (boc)      9      6
+Rubén_Ferrer (rac)      12      6
+M_Brau (ars)            13      6
+Jacobo_Urso (qui)       14      6
+Guille_Franco (slo)     15      6
+Jota_Eme (vel)           4      5
+Massimo_Oddo (oli)       6      5
+M_Albela (tig)          12      5
+Oliver_Atom (ald)       12      5
+

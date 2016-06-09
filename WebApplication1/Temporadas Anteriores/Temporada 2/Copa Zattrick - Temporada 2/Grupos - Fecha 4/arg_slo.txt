@@ -1,0 +1,591 @@
+Home                           Away
+----                           ----
+
+Argentinos                     San Lorenzo                   
+
+GK  P_Ryoemnoije               GK  Iker_Casillas             
+DFC P_Rotchen                  DFC H_Ameli                   
+DFC Pateatraseros              DFC F_Coloccini               
+DFR A_Garce                    DFL D_Manusovich              
+DFL G_Milito                   DFR Oscar_Ruggeri             
+DMC Turco_Grecco               MFL L_Pusineri                
+MFL C_Arseno                   MFC N_Ortigoza                
+MFR Kaka                       MFC Carlos_Netto              
+AMC M_Lanzini                  MFR Mario_Santana             
+FWR A_Morón                    FWC Berni_Romeo               
+FWL S_Kun_Aguero               FWR Guille_Franco             
+
+4-1-2-1-2 Normal               4-4-2 Normal                   
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(arg) C_Arseno con un pase de tiralíneas para A_Morón
+          ...  A_Morón no va a llegar. Sí, mete el pie...!
+          ...  Pero se las arregla para fallar
+          ...  Pone cara de mala leche. Menudo fallo!
+Min.  2 :(arg) A_Garce encara a su marcador
+          ...  Lo sienta con una croqueta!
+          ...  Eso lo hacía Michael Laudrup!
+          ...  Y ahora suelta un pase impresionante hacia Turco_Grecco
+          ...  Turco_Grecco mira fijamente al marco!
+          ...  Dispara!
+          ...  Pero Iker_Casillas bloca el remate con mucha seguridad
+Min.  3 :(arg) S_Kun_Aguero agarra al defensa de la camiseta y se lleva el balón
+          ...  Qué vivo ha estado, el árbitro no pudo ver nada
+          ...  S_Kun_Aguero se saca una terrible volea!
+          ...  El balón le bota antes de disparar 
+          ...  Y se va a la grada. Hay risas en algunos sectores del campo
+Min.  5 :(arg) G_Milito pisa campo contrario. Mete un pase entre los centrales para S_Kun_Aguero
+          ...  S_Kun_Aguero suelta un disparo muy débil !
+          ...  el portero no va a llegar!
+          ...  OH!  Se pierde por encima del larguero! 
+          ...  el portero sonríe
+          ...  Sabía que iba fuera? No se, no se...
+Min.  6 :(arg) El balón queda suelto! 
+          ...  G_Milito gana la posesión
+          ...  G_Milito controla el balón, amaga y... dispara! Oh!
+          ...  Busca la escuadra!
+          ...  Ojo con el efecto. El portero no va a llegar!!
+          ...  Pero aterriza en la grada superior de la portería !!
+          ...  el portero sonríe. Estaba batido!
+Min.  7 :(arg) A_Garce cambia el juego
+          ...  A_Morón recibe con campo por delante!
+          ...  Oscar_Ruggeri arriesgo con una entrada a ras de suelo! Ay! Le ha dado!
+          ...  El árbitro no lo ha visto así!!
+Min.  8 :(arg) M_Lanzini se aprovecha un horrible pase hacia atrás
+          ...  M_Lanzini salta y pica el balón perfectamente de cabeza !
+          ...  Su disparo es rechazado por el portero
+          ...  Se hace con el rebote!
+          ...  Y dispara fuera!
+          ...  Se precipitó!
+Min.  9 :(arg) P_Rotchen mira a la derecha
+          ...  Y cruza a la izquierda para S_Kun_Aguero. Eso lo hacía Laudrup!
+          ...  Oscar_Ruggeri lee la jugada antes de que se produzca y corta el balón
+Min. 10 :(arg) S_Kun_Aguero hace dos bicicletas y engaña al defensa
+          ...  S_Kun_Aguero cruza la línea de medios, avanza, mira al portero y chuta!
+          ...  Iker_Casillas mete los puños y desvía el balón
+Min. 11 :(arg) A_Garce combina con S_Kun_Aguero. Juegan de memoria!
+          ...  S_Kun_Aguero ve al portero adelantado !
+          ...  GOOOOOL !! 
+          ...  Salta con el puño hacia el cielo
+          ...  arg 1-0 slo ...
+Min. 12 :(arg) Pateatraseros largo para Turco_Grecco
+          ...  Pero F_Coloccini corta la acción con contundencia
+Min. 13 :(arg) A_Garce tiene campo por delante
+          ...  Pasa a A_Morón
+          ...  A_Morón mete la cabeza con valentía !
+          ...  Iker_Casillas resbala
+          ...  Pero ve como el disparo se pierde lejos de su marco!
+Min. 14 :(arg) P_Rotchen se mete en diagonal a través de los defensas
+          ...  Se va del central que le sale al paso!
+          ...  El extremo se cuela por la espalda del lateral
+          ...  Envía el pase a S_Kun_Aguero
+          ...  S_Kun_Aguero busca el disparo !
+          ...  Pero le pegó rematadamente mal!
+Min. 15 :(arg) Pateatraseros combina con M_Lanzini con espacio por delante
+          ...  M_Lanzini se precipita en su remate!
+          ...  Pero Iker_Casillas bloca el remate con mucha seguridad
+Min. 16 :(arg) Kaka asiste a A_Morón dentro del área
+          ...  F_Coloccini agarra a su rival en el área
+          ...  El delantero pide penalti desesperdamente!
+          ...  Pero el arbitro  hace que 'no' con la cabeza!!!
+Min. 17 :(arg) Kaka está cerrado por tres contrarios
+          ...  Se saca el balón de encima
+          ...  le cae a S_Kun_Aguero! Suerte o calidad?
+          ...  El balón golpea a H_Ameli en la cara!
+          ...  Peligro despejado! Al defensa no le hace ninguna gracia
+Min. 18 :(arg) A_Garce encuentra a Turco_Grecco con un pase largo
+          ...  Turco_Grecco trata de colar la pelota entre las piernas del defensa!
+          ...  Pero Iker_Casillas bloca el remate con mucha seguridad
+Min. 19 :(arg) A_Garce se deshace de su marcador
+          ...  Su velocidad le está creando muchos problemas!
+          ...  A_Garce le pega con la zurda!
+          ...  Se estrella en el palo 
+          ...  Y cae directamente a las manos de el portero 
+          ...  Qué suerte!! Habrá pisado... ?? Es igual
+Min. 20 :(arg) M_Lanzini mete un balón interior para Turco_Grecco
+          ...  Turco_Grecco se lanza en plancha... ! 
+          ...  Qué valentía!
+          ...  Pero Iker_Casillas desvía el lanzamiento 
+          ...  el arbitro  da saque de puerta 
+          ...  Algún oculista en la grada??? Es urgente!!!
+Min. 21 :(arg) M_Lanzini pica el balón por encima de la defensa hacia S_Kun_Aguero
+          ...  S_Kun_Aguero resuelve la jugada con un taconazo!
+          ...  Dispara demasiado alto!
+          ...  9 de cada 10 de estas ocasiones acaban en gol!
+Min. 22 :(arg) M_Lanzini asiste a Turco_Grecco dentro del área
+          ...  Punterazo endiablado de Turco_Grecco !
+          ...  Iker_Casillas mete los puños y desvía el balón
+Min. 22 :(arg) Pateatraseros corta con limpieza 
+          ...  El asistente indica la falta! Increíble! Ha sido legal!
+          ...  el arbitro  le da una sonora reprimenda... pero no lo amonesta!
+Min. 23 :(arg) C_Arseno salta con mucha potencia
+          ...  Se adelanta a su marcador
+          ...  Cabecea hacia S_Kun_Aguero
+          ...  Potente chut de S_Kun_Aguero !
+          ...  OOOOOOHHHHHHHH 
+          ...  A salido lamiendo el palo
+Min. 24 :(arg) A_Garce con un pase entre los centrales
+          ...  A_Morón aparece con velocidad desde atrás!
+          ...  A_Morón suelta un cañonazo. Problemas para el portero !
+          ...  Iker_Casillas despeja con problemas
+Min. 25 :(arg) Kaka con el saque de banda
+          ...  Limpia el balón en su camiseta
+          ...  Y saca fuerte hacia Turco_Grecco
+          ...  Turco_Grecco empalma con la zurda. Colocó mal el cuerpo !
+          ...  Pero Iker_Casillas se saca de la manga la parada del partido
+Min. 26 :(arg) M_Lanzini frena el contraataque y espera algún apoyo
+          ...  Hay un desmarque al otro lado
+          ...  Cambia el juego y corre hacia arriba!
+          ...  Le devuelve el balón, vaya combinación!!
+          ...  M_Lanzini regatea a uno, dos y chuta!
+          ...  Iker_Casillas está justo en el sitio exacto
+          ...  Pero se lanza para hacerlo más espectacular! Su entrenador está de los nervios
+Min. 27 :(arg) C_Arseno cruza la línea de medios
+          ...  Ve un hueco en el flanco
+          ...  Mete el balón sobre la llegada de M_Lanzini
+          ...  M_Lanzini connecta el balón con la cabeza y lo peina hacia atrás!
+          ...  Iker_Casillas lo para cómodamente
+          ...  El disparo nunca llevó peligro real
+Min. 28 :(arg) M_Lanzini de tacón para A_Morón
+          ...  A_Morón chuta sin mirar al portero !
+          ...  Lo envía al córner!!! Qué fallo!!! 
+          ...  "QUÉ MALO ERES" cantan los aficionados del el equipo visitante
+Min. 29 :(arg) S_Kun_Aguero se deshace de su marcador
+          ...  Su velocidad le está creando muchos problemas!
+          ...  S_Kun_Aguero con un verdadero obús !
+          ...  La manda fuera del estadio!
+Min. 30 :(arg) S_Kun_Aguero tira hacia arriba
+          ...  L_Pusineri manda el balón a la grada
+Min. 31 :(arg) Kaka para el balón con la planta del pie
+          ...  Qué calidad, tiene un guante en el pie!
+          ...  Se revuelve! Engaña a su par
+          ...  y cruza al balón sobre la llegada de A_Morón
+          ...  A_Morón remata forzado... con la cabeza !
+          ...  Dispara precipitadamente
+          ...  Fuera! No pudo precisar el remate
+Min. 32 :(arg) Pateatraseros hace un tremendo control en el línea de medios
+          ...  Corre hacia el área y nadie le sale al paso!
+          ...  Los centrales salen demasiado tarde, va a chutar
+          ...  Pateatraseros busca el palo largo !
+          ...  Sitúa el balón suavemente lejos del alcance del portero!!
+          ...  Pero va a parar al larguero !!
+          ...  Y fuera!
+          ...  el portero acaricia su portería. No me extraña!!!!
+Min. 33 :(arg) G_Milito se acerca al área
+          ...  Ve a S_Kun_Aguero desmarcarse 
+          ...  Le tira un pase medido
+          ...  S_Kun_Aguero prueba suerte con un disparo raso!
+          ...  Pero Iker_Casillas rechaza el balón 
+          ...  Y la defensa, muy atenta, aleja el peligro
+Min. 34 :(arg) M_Lanzini se abre a la banda y cambie el juego hacia S_Kun_Aguero
+          ...  S_Kun_Aguero otea la posición del portero !
+          ...  Dispara!
+          ...  el portero está sorprendido!
+          ...  Lo ha pillado fuera de posición!
+          ...  OH! Impacta en las vallas publicitarias 
+          ...  Gran disparo!
+          ...  Merecía el gol
+Min. 35 :(arg) M_Lanzini pasa hacia Pateatraseros
+          ...  Pateatraseros le pega 'mordida'!
+          ...  El balón va haciendo extraños en el aire
+          ...  Roza el palo!
+          ...  Y fuera
+          ...  Buen disparo, mala suerte!
+Min. 36 :(arg) Turco_Grecco pica el balón por encima de los centrales
+          ...  M_Lanzini aparece de la nada. Los ha pillado despistados!
+          ...  M_Lanzini vuela con bravura para rematar en plancha!
+          ...  Iker_Casillas cierra el ángulo y atrapa la pelota con facilidad
+Min. 37 :(arg) M_Lanzini controla el balón en una demostración de clase
+          ...  Abre el juego a la izquierda!
+          ...  Kaka es el destinatario!
+          ...  Kaka empalma el balon con una rabona! Qué frivolidad!!
+          ...  Iker_Casillas para. Le vino directo a las manos
+Min. 38 :(arg) Turco_Grecco acelera por la banda izquierda
+          ...  Juega para M_Lanzini
+          ...  M_Lanzini se anticipa a su marcador !
+          ...  Iker_Casillas cierra el ángulo y atrapa la pelota con facilidad
+Min. 39 :(arg) C_Arseno se abre a la banda y cambie el juego hacia S_Kun_Aguero
+          ...  S_Kun_Aguero tiene tiempo y espacio!
+          ...  Chuta!
+          ...  Golpea las vallas publicitarias
+Min. 40 :(arg) Kaka para el balón
+          ...  Levanta la vista y ve a un compañero completamente sólo!
+          ...  Le envía el pase con el exterior!
+          ...  G_Milito controla el milimétrico pase. Hasta yo lo hubiera hecho!
+          ...  Punterazo impresionante de G_Milito !
+          ...  el portero ve como el balón se pierde lejos de su marco
+Min. 41 :(arg) A_Garce recupera el balón
+          ...  Levanta la cabeza!
+          ...  Ve el desmarque de su compañero
+          ...  S_Kun_Aguero recibe un pase increíble
+          ...  Se marcha!
+          ...  S_Kun_Aguero resuelve la jugada con un taconazo!
+          ...  Iker_Casillas vuela sobre la línea de gol
+          ...  Alcanza el balón y lo estrecha contra su pecho!
+Min. 42 :(arg) Kaka encuentra a A_Garce
+          ...  A_Garce se anticipa a su marcador !
+          ...  Pero falla! 
+          ...  Este tío no le mete un gol ni en el arco iris
+Min. 43 :(arg) C_Arseno ubica el balón a la espalda de la defensa. S_Kun_Aguero busca el desmarque
+          ...  S_Kun_Aguero no va a llegar. Sí, mete el pie...!
+          ...  Iker_Casillas salta de manera espectacular
+          ...  Y atrapa el balón! Se ha adornado para la foto!
+Min. 44 :(arg) M_Lanzini regatea a su marcador y pasa rápidamente a Turco_Grecco
+          ...  Turco_Grecco busca la red!
+          ...  Dispara excesivamente alto!
+          ...  Está horrorizado por lo que falló!
+           ...  Su entrenador está hablando solo? Ui no, creo que era un insulto!
+Min. 45 :(arg) G_Milito pasa de rabona hacia S_Kun_Aguero. Madre mía! Ha nacido en Brasil?
+          ...  S_Kun_Aguero busca el gol!
+          ...  Pero Iker_Casillas rechaza con los pies
+          ...  Podría haberla cogido!
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+Min. 46 :(arg) S_Kun_Aguero regatea y se cuela en el área
+          ...  S_Kun_Aguero con un toque de maestro!
+          ...  GOOOOOL !! 
+          ...  Lo celebra haciendo el perrito! Qué mal gusto!
+          ...  arg 2-0 slo ...
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 46 :(arg) Kaka avanza pegado a la línea de banda
+          ...  Mete el balón al área A_Morón
+          ...  A_Morón se saca una terrible volea!
+          ...  el portero no va a llegar!
+          ...  El esférico se estrella en el palo!
+          ...  Y fuera!
+Min. 47 :(arg) Kaka golpea el balón al hueco. A_Garce aparece de la nada
+          ...  A_Garce con un tremendo cabezazo !
+          ...  el portero detiene el balón con una mano!! 
+          ...  El rebote cae al centro, limpio para el delantero 
+          ...  Remata !!
+          ...  FUERA! Qué fallo! Está desesperado!
+Min. 48 :(arg) P_Rotchen mete el pie
+          ...  Roba el balón
+          ...  Trata de entrar en el área
+          ...  P_Rotchen se va de su defensor, mete el pie!
+          ...  Es incapaz de chutar a puerta!
+          ...  Un defensa le arrebató el balón en el último momento!
+          ...  Este tío juega a cámara lenta!
+Min. 49 :(arg) Turco_Grecco pasa hacia A_Morón
+          ...  A_Morón busca la escuadra derecha !
+          ...  Al lateral de la red
+Min. 50 :(arg) C_Arseno se mete en diagonal a través de los defensas
+          ...  Se va del central que le sale al paso!
+          ...  El extremo se cuela por la espalda del lateral
+          ...  Envía el pase a Kaka
+          ...  Potente chut de Kaka !
+          ...  Iker_Casillas mete la mano y alcanza el balón con la punta de los dedos
+Min. 51 :(arg) Kaka espera a que alguien le acompañe en ataque
+          ...  Levanta los brazos, nadie se desmarca!
+          ...  Busca la individual! Prepara el disparo!
+          ...  Rebota en un defensa y cae a pies de S_Kun_Aguero
+          ...  S_Kun_Aguero empalma el balon con una rabona! Qué frivolidad!!
+          ...  Pero le pegó rematadamente mal!
+Min. 52 :(arg) Kaka se cuela por la banda
+          ...  Centra hacia M_Lanzini
+          ...  M_Lanzini con un sutil toque de puntera!
+          ...  Pero Iker_Casillas alcanza la pelota con el puño 
+          ...  Ha demostrado mucha valentía en esa acción
+Min. 53 :(arg) M_Lanzini ve a A_Garce completamente sólo!
+          ...  F_Coloccini corta con mucha tranquilidad
+Min. 54 :(arg) C_Arseno combina con A_Morón. Juegan de memoria!
+          ...  A_Morón con un toque de maestro!
+          ...  el portero detiene el balón con una mano!! 
+          ...  El rebote cae al centro, limpio para el delantero 
+          ...  Remata !!
+          ...  FUERA! Qué fallo! Está desesperado!
+Min. 55 :(arg) Kaka hace la diagonal
+          ...  Ve un desmarque por el rabillo del ojo
+          ...  Se la pasa a S_Kun_Aguero
+          ...  Logra meter la plaanta del pie S_Kun_Aguero !
+          ...  Pero le pegó rematadamente mal!
+Min. 56 :(arg) Kaka retrocede ante la presión
+          ...  Golpea el balón hacia arriba sin sentido
+          ...  y le cae a A_Morón! Ha sacado petróleo de esa jugada!
+          ...  F_Coloccini pone el pie y se apodera del balón
+Min. 57 :(arg) A_Garce avanza con el balón controlado
+          ...  Ve el desmarque de un compañero!
+          ...  Cruza el pase!
+          ...  A_Morón con un control facilísimo
+          ...  A_Morón hace una diagonal
+          ...  Y suelta un sorprendente disparo!
+          ...  Chuta con muy poca precisión
+          ...  El balón se pierde lejos del marco!
+Min. 58 :(arg) M_Lanzini le pega al balón con el exterior
+          ...  El efecto despista a la defensa, que no puede evitar que le llegue a S_Kun_Aguero
+          ...  S_Kun_Aguero suelta un terrible disparo por debajo de las piernas de su marcador !
+          ...  la pelota sale disparado!
+          ...  el portero salta ante el tremendo disparo!
+          ...  Llegará?
+          ...  No!
+          ...  Pero se estrella en palo!!
+          ...  Y va fuera!
+Min. 59 :(arg) A_Morón tiene varias opciones de pase, pero busca la individual
+          ...  A_Morón golpea el balón a bote pronto !
+          ...  Iker_Casillas despeja con problemas
+Min. 60 :(arg) Turco_Grecco hace una bicicleta y cambia el juego hacia M_Lanzini
+          ...  M_Lanzini controla el balón, amaga y... dispara! Oh!
+          ...  El balón le bota antes de disparar 
+          ...  Y se va a la grada. Hay risas en algunos sectores del campo
+Min. 61 :(arg) M_Lanzini hace una doble pared con S_Kun_Aguero
+          ...  Gran volea de S_Kun_Aguero !
+          ...  Iker_Casillas despeja con problemas
+Min. 62 :(arg) Kaka con un pase de 50 metros A_Morón
+          ...  El lanzamiento rebota en el muslo de A_Morón y se encamina a puerta !
+          ...  El balón le bota antes de disparar 
+          ...  Y se va a la grada. Hay risas en algunos sectores del campo
+Min. 63 :(arg) Pateatraseros con un pase impresionante hacia M_Lanzini
+          ...  M_Lanzini remacha el balón a ras de suelo!
+          ...  Iker_Casillas hace una gran parada
+Min. 64 :(arg) M_Lanzini cuelga arriba sobre A_Morón
+          ...  A_Morón busca la escuadra !
+          ...  Se va fuera
+Min. 65 :(arg) A_Morón se cuela con potencia entre los centrales
+          ...  Pero pisa un charco y cae al suelo!
+          ...  F_Coloccini recoge el balón. Menudo marcaje le está haciendo!
+Min. 66 :(arg) S_Kun_Aguero llega primero al balón suelto
+          ...  S_Kun_Aguero busca el disparo !
+          ...  Iker_Casillas pone el cuerpo detrás del balón y lo para
+          ...  Normás básicas de cómo parar!
+Min. 67 :(arg) M_Lanzini pone el balón a la espalda de los centrales
+          ...  Turco_Grecco se cuela desde atrás!
+          ...  Mario_Santana va en carrera y mete el codo
+          ...  El delantero va al suelo
+          ...  Ha sido sutil, el árbitro no lo ha visto!
+Min. 68 :(arg) Turco_Grecco con el saque de banda
+          ...  El defensa pide fuera de juego! Si no hay!
+          ...  M_Lanzini se escapa!
+          ...  M_Lanzini toca la pelota de primeras!
+          ...  Iker_Casillas está tapado. No ve venir el balón 
+          ...  Reacciona rápidamente! Y desvía la pelota!
+Min. 69 :(arg) Pateatraseros en un arranque de verticalidad
+          ...  Pateatraseros toca el balón con mucha suavidad !
+          ...  Los aficionados se levantan de sus asientos!
+          ...  El portero no se mueve !!
+          ...  Pero sale a centímetros de la escuadra!
+          ...  el portero respira aliviado!
+Min. 70 :(arg) A_Morón se deshace de su marcador
+          ...  Se va directo a puerta
+          ...  A_Morón suelta una rabona!
+          ...  GOOOOOL !!
+          ...  el portero no tenía nada que hacer!
+          ...  arg 3-0 slo ...
+Min. 71 :(arg) Kaka cruza la línea de medios
+          ...  Ve un hueco en el flanco
+          ...  Mete el balón sobre la llegada de M_Lanzini
+          ...  M_Lanzini se saca una tijera! Qué bello!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  GOOOOOL !!
+          ...  arg 4-0 slo ...
+Min. 72 :(arg) S_Kun_Aguero con un mal rechace!
+          ...  xô( encara portería!
+          ...  S_Kun_Aguero busca desequilibrar el partido!
+          ...  Coloca el balón suavemente lejos del alcance del portero!! 
+          ...  Pero sale rozando el palo !!
+          ...  el portero estaba vendido!
+Min. 73 :(arg) C_Arseno avanza en diagonal
+          ...  Espléndido taconazo para A_Morón
+          ...  A_Morón regatea a su marcador y busca el gol !
+          ...  Ay va! Ha tirado a metros de la portería
+          ...  Creo que el míster lo va a poner a patear toda la semana como castigo!!
+Min. 74 :(arg) M_Lanzini regatea a un rival
+          ...  A otro! Esté en racha!
+          ...  Y mete el pase hacia S_Kun_Aguero
+          ...  Espectacular remate de S_Kun_Aguero !
+          ...  el portero no va a llegar!
+          ...  OH!  Se va fuera! 
+          ...  el portero sonríe
+          ...  Habría llegado al balón?
+Min. 75 :(arg) Turco_Grecco regatea a su marcador
+          ...  Va a disparar!
+          ...  No! Pasa hacia S_Kun_Aguero! Ha engañado a todos
+          ...  S_Kun_Aguero le pega con la zurda!
+          ...  Pero dispara muy abierto
+          ...  Sabrá que el objetivo del fútbol es meter el balón en la portería?
+Min. 75 :(arg) Confirmado! Hay cambio 
+          ...  E_Taucher entrará en lugar de M_Lanzini. Se ubica como AMC
+Min. 75 :(arg) Il_F_Marelli está a punto para pisar el césped. Entrará por A_Morón 
+          ...  Todo apunta a que jugará de FWR
+Min. 75 :(arg) D_M_Vilariño sustituye a Turco_Grecco en la posición de DMC
+Min. 76 :(arg) C_Arseno con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia Il_F_Marelli
+          ...  Il_F_Marelli impacta la pelota al primer toque!
+          ...  Podría haberla parado!
+          ...  Se estrella en el larguero!! 
+          ...  Controla el rebote con el pecho 
+          ...  OHHHHHHHH !! 
+          ...  Un defensa ha estado más rápido y ha enviado el balón fuera
+Min. 77 :(arg) Kaka volea la pelota. Va directo hacia E_Taucher
+          ...  E_Taucher empalma el balón a la perfección!
+          ...  Chuta con el exterior!
+          ...  Uhhhhh! Ha salido a metros del marco
+Min. 78 :(arg) Il_F_Marelli tiene a varios compañeros sólos
+          ...  Decide jugar él solo. Un poco chupón eh?
+          ...  El lanzamiento rebota en el muslo de Il_F_Marelli y se encamina a puerta !
+          ...  Iker_Casillas para
+          ...  Puso el cuerpo atrás, como marcan los cánones
+Min. 79 :(arg) Kaka se interna por la banda
+          ...  Pone un medido centro sobre Il_F_Marelli
+          ...  Il_F_Marelli suelta un terrible disparo por debajo de las piernas de su marcador !
+          ...  Los aficionados se levantan de sus asientos!
+          ...  Pero el balón se va por encima del larguero !!
+Min. 80 :(arg) E_Taucher ve el desmarque de D_M_Vilariño
+          ...  D_M_Vilariño impacta la pelota al primer toque!
+          ...  Podría haberla parado!
+          ...  Iker_Casillas se zambulle hacia su izquierda 
+          ...  Sale rozando el palo 
+          ...   el arbitro  dice que no ha tocado el balón 
+          ...  Acertó !
+Min. 81 :(arg) Il_F_Marelli se abre a la banda y cambie el juego hacia E_Taucher
+          ...  E_Taucher trata de regatear al defensa !
+          ...  Bota en la línea tras golpear en el travesaño
+          ...  El colegiado duda... mira al asistente
+          ...  Sigan! Dice
+          ...  No ha dado el gol!
+          ...  Pues parecía que había cruzado la línea
+Min. 82 :(arg) C_Arseno en el centro del campo
+          ...  Cruza hacia Il_F_Marelli
+          ...  Il_F_Marelli se levanta sobre su marcador, prepara el cabezazo, lo suelta... 
+          ...  Peligro!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  Pero el balón se va por encima del larguero !!
+Min. 83 :(arg) El balón queda suelto! 
+          ...  D_M_Vilariño gana la posesión
+          ...  D_M_Vilariño tiene la portería entre ceja y ceja!
+          ...  Pero el balón se pierde inofensivamente por encima del larguero
+Min. 84 :(arg) E_Taucher mete la pelota en profundidad para la llegada de Il_F_Marelli
+          ...  Il_F_Marelli coloca el balón al palo largo !
+          ...  Iker_Casillas para el lanzamiento
+          ...  Y aleja la pelota!
+Min. 85 :(arg) C_Arseno cede atrás para Il_F_Marelli
+          ...  Il_F_Marelli no va a llegar. Sí, mete el pie...!
+          ...  Iker_Casillas hace una parada sencillita 
+          ...  Todo lo que hace parece sencillo. Qué classe!
+Min. 86 :(arg) Il_F_Marelli se va en un arranque de genio
+          ...  Il_F_Marelli chuta con el interior!
+          ...  OOOOHHHHH!!!! 
+          ...  Fuera!
+          ...  Tenía una posición clara!
+          ...  El entrenador le está abroncando!
+Min. 87 :(arg) Kaka avanza de cara a puerta
+          ...  Kaka le pega como puede... con la espinilla!
+          ...  Iker_Casillas mete la mano y alcanza el balón con la punta de los dedos
+Min. 88 :(arg) E_Taucher puede disparar!!!
+          ...  Punterazo endiablado de E_Taucher !
+          ...  La manda fuera del estadio!
+Min. 89 :(arg) D_M_Vilariño se interna por la banda
+          ...  Pone un medido centro sobre E_Taucher
+          ...  E_Taucher trata de sorprender al portero con una inesperada vaselina !
+          ...  Iker_Casillas hinca la rodilla en el suelo y despeja
+          ...  Ei! Eso es estilo argentino!
+Min. 90 :(arg) Il_F_Marelli con el control orientado
+          ...  Ha ganado una posición clara para chutar
+          ...  Il_F_Marelli trata de sorprender con un chut lejano !
+          ...  el portero cubre su ángulo 
+          ...  El balón hace un extraño!
+          ...  el portero ha quedado descolocado 
+          ...  Pero sale desviada !!
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+Min. 91 :(arg) Il_F_Marelli hace una pared con un compañero
+          ...  Se va directo a puerta!
+          ...  Il_F_Marelli con la red entre ceja y ceja!
+          ...  Dispara excesivamente alto!
+          ...  Está horrorizado por lo que falló!
+          ...  No es para menos!
+Min. 92 :(arg) Kaka con un pase largo Pateatraseros
+          ...  Pateatraseros con el disparo!
+          ...  Iker_Casillas agranda su figura y atrapa la pelota espectacularmente
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : arg 46 slo 0
+tiros a puerta       : arg 36 slo 0
+
+Marcador             : arg  4 slo 0
+
+
+<<< Estadisticas de los jugadores del Argentinos >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+P_Ryoemnoije   GK  RL 17  3  3  3 31 |  90   0   0   0   0   0   0   0   0   0 252   0   0   0 100
+P_Rotchen     DFC   C  3 15  6  5 25 |  90   0   0   2   0   1   0   0   0   0   0   0 104  18  23
+Pateatraseros DFC RLC  3 20  5  5 74 |  90   0   0   3   0   4   0   0   0   0   0   0 156  84  40
+A_Garce       DFR   R  3 15  6  6 67 |  90   0   0   8   1   3   0   0   0   0   0   0 536  54  67
+G_Milito      DFL   L  3 12  6  6 64 |  90   0   0   3   0   2   0   0   0   0   0  96 156  36  77
+Turco_Grecco  DMC   C  3 13 11  8 49 |  74   0   0   6   0   6   0   0   0   0   0   0 312 168  73
+C_Arseno      MFL  RC  2  4 12  4 33 |  90   0   0  11   0   0   0   0   0   0   0   0 572   0  67
+Kaka          MFR   R  3  6 14  6 48 |  90   0   0  17   1   3   0   0   0   0   0   0 1004  90  62
+M_Lanzini     AMC  RC  2  5 12 13 52 |  74   0   0  14   0  11   1   0   0   0   0 156 884 627  77
+A_Morón       FWR   C  3  6  4 16 57 |  74   0   0   0   0  14   1   0   0   0   0   0   0 465  68
+S_Kun_Aguero  FWL   L  3  6  9 18 75 |  90   0   0   0   0  23   2   0   0   0   0   0   0 852  69
+A_Carrizo      GK  RC 19  3  3  3 49 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+K_Elotya      DFC  RC  3 18  6  7 43 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  39
+jm            DFC   R  3 16  6  7 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+E_Taucher     AMC   C  3  7 11 11 47 |  16   0   0   2   0   4   0   0   0   0   0   0 104  84  83
+D_M_Vilariño  DMC   R  3 12 10  6 31 |  16   0   0   1   0   2   0   0   0   0   0   0  52  48  71
+Il_F_Marelli  FWR   R  3  7  8 19 54 |  16   0   0   1   0   9   0   0   0   0   0   0  52 198  57
+G_Higuain     FWC   L  3  6  7 15 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  95
+-- Total --                                  0   0  68   2  82   4   0   0   0
+
+
+<<< Estadisticas de los jugadores del San Lorenzo >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+Iker_Casillas  GK  RC 22  3  3  3 48 |  90  32   0   0   0   0   0   0   0   0 812   0   0   0 100
+H_Ameli       DFC   R  2 20  5  5 60 |  90   0   1   0   0   0   0   0   0   0   0 144   0   0  10
+F_Coloccini   DFC   R  2 19  5  6 61 |  90   0   5   0   0   0   0   0   0   0   0 700 -20 -20  38
+D_Manusovich  DFL  LC  2 17  5  6 41 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+Oscar_Ruggeri DFR   R  2 15  8  5 48 |  90   0   2   0   0   0   0   0   0   0   0 288   0   0  10
+L_Pusineri    MFL   L  2  5 20  6 58 |  90   0   1   0   0   0   0   0   0   0   0 144   0   0  10
+N_Ortigoza    MFC   C  3  5 14 12 57 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+Carlos_Netto  MFC  LC  2  6 14 12 52 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+Mario_Santana MFR   R  2  6 12  5 27 |  90   0   1   0   0   0   0   0   0   0   0 144   0   0  10
+Berni_Romeo   FWC   C  2  4  5 17 58 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+Guille_Franco FWR   R  2  5  5 14 36 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+G_Campagnuolo  GK  RC 12  2  2  2 58 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+F_A_Batista   DFC  RL  2 10  5  6 31 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  79
+R_Oveja_Telch DFC   R  2 10  5  4 32 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Rodriguez   MFC  LC  2  5 13  5 38 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+RC_Montserrat MFC   L  2  4 12  4 26 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Romagnoli   AMC   L  2  4  9  6 29 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_D_Biaggio   FWC   C  2  4  4 11 34 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                 32  10   0   0   0   0   0   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+arg     0     65.40    52.92    48.22
+slo     0     21.20    17.76    10.10
+arg    10     63.56    51.31    46.95
+slo    10     19.09    15.65     8.92
+arg    20     61.23    49.42    45.61
+slo    20     17.03    13.51     7.68
+arg    30     58.87    47.68    44.25
+slo    30     15.22    11.58     6.74
+arg    40     56.36    46.02    42.86
+slo    40     14.30    10.76     6.12
+arg    50     53.15    43.88    41.19
+slo    50     13.37     9.69     5.38
+arg    60     50.96    42.10    39.77
+slo    60     12.57     8.86     4.95
+arg    70     48.67    40.43    38.30
+slo    70     11.82     8.29     4.50
+arg    80     45.22    38.10    39.26
+slo    80     11.28     7.82     4.36
+arg    90     42.82    36.25    37.76
+slo    90     11.03     7.78     4.34
+
+
+1331600999

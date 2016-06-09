@@ -1,0 +1,191 @@
+Home                           Away
+----                           ----
+
+Quilmes                        Newell's Old Boys             
+
+GK  D_Vega                     GK  G_BurgosJr                
+DFC Ivan_Cordoba               DFR Gino_Peruzzi              
+DFC D_Macaluso                 DFC M_Albela                  
+DFC Gonzalo_Bazan              DFC Maxi_Batman               
+DFC Juan_Rocchia               DFL Y_Adno                    
+MFC Nico_Bertolo               DMC C_Tula                    
+MFC Isgut                      DMC M_Schwarzer               
+MFC R_Faeck                    AMC A_Panenka                 
+MFC W_Jhokusht                 FWL A_Ortega                  
+FWC Kazu_Miura                 FWC A_Chavez                  
+FWC M_Alustiza                 FWR R_Saa                     
+
+4-4-2 Normal                   4-2-0-1-3 Counter Attack       
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(new) Gino_Peruzzi con un pase de tiralíneas para A_Chavez
+          ...  A_Chavez no va a llegar. Sí, mete el pie...!
+          ...  GOOOOOL !!
+          ...  Qué golazo! Es para hacerle un monumento!
+          ...  qui 0-1 new ...
+Min.  2 :(new) M_Albela encara a su marcador
+          ...  Lo sienta con una croqueta!
+          ...  Eso lo hacía Michael Laudrup!
+          ...  Y ahora suelta un pase impresionante hacia A_Chavez
+          ...  A_Chavez mira fijamente al marco!
+          ...  Dispara!
+          ...  Pero D_Vega bloca el remate con mucha seguridad
+Min.  3 :(qui) W_Jhokusht se la pone a Kazu_Miura en el pie
+          ...  Maxi_Batman manda el balón a la grada
+Min. 13 :(new) Gino_Peruzzi encuentra una autopista en la defensa
+          ...  Prepara el disparo
+          ...  Ivan_Cordoba zancadillea a su oponente!!
+          ...  El árbitro se da la vuelta!!
+Min. 14 :(qui) D_Macaluso 'placa' a su oponente
+          ...  el arbitro  simplemente lo avisa. Se ha quedado descansado!
+Min. 17 :(new) A_Chavez pasa largo con el interior hacia R_Saa
+          ...  R_Saa controla el balón, amaga y... dispara! Oh!
+          ...  Busca la escuadra!
+          ...  Ojo con el efecto. El portero no va a llegar!!
+          ...  Pero aterriza en la grada superior de la portería !!
+          ...  el portero sonríe. Estaba batido!
+Min. 18 :(qui) Kazu_Miura corre hacia la portería
+          ...  Vaya mirada! Tiene el gol en mente
+          ...  Kazu_Miura con un sorprendente remate !
+          ...  OOOOHHHHH!!!! 
+          ...  Fuera!
+          ...  Tenía una posición clara!
+          ...  El entrenador le está abroncando!
+Min. 23 :(new) A_Chavez entra con los tacos por delante 
+          ...  Ufff!! Lleva la marca de la bota impresa en el muslo!!
+          ...  Se marcha con una simple amonestación
+Min. 35 :(qui) R_Faeck mira a la derecha
+          ...  Y cruza a la izquierda para M_Alustiza. Eso lo hacía Laudrup!
+          ...  Gino_Peruzzi lee la jugada antes de que se produzca y corta el balón
+Min. 36 :(qui) Ivan_Cordoba mete un balón medido para M_Alustiza
+          ...  M_Alustiza cruza la línea de medios, avanza, mira al portero y chuta!
+          ...  Dispara precipitadamente
+          ...  Fuera! No pudo precisar el remate
+Min. 39 :(qui) M_Alustiza se planta en la frontal del área
+          ...  M_Alustiza ve al portero adelantado !
+          ...  Es incapaz de chutar a puerta!
+          ...  Ha tardado una eternidad!
+          ...  Será el efecto Matrix????
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 46 :(qui) Juan_Rocchia tiene campo por delante
+          ...  Pasa a Kazu_Miura
+          ...  M_Albela despeja sin miramientos
+Min. 46 :(new) C_Tula con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia A_Ortega
+          ...  Gonzalo_Bazan pone el pie en el momento oportuno y despeja el balón
+Min. 51 :(new) Gino_Peruzzi inicia el ataque
+          ...  Pase picado por R_Saa
+          ...  D_Macaluso le roba la pelota
+Min. 52 :(qui) Isgut combina con Kazu_Miura con espacio por delante
+          ...  A_Chavez se lanza hacia su oponente
+          ...  Y toca el balón! Que clase!
+Min. 70 :(new) A_Panenka agarra a su rival de la camiseta!!
+          ...  Bien visto por al árbitro
+          ...  el arbitro  se 'come' la cartulina. Eso era amarilla!
+Min. 73 :(new) Maxi_Batman encara al defensa
+          ...  Le tira una gambeta!
+          ...  Pone el cuerpo para disparar
+          ...  Pero suelta el pase hacia A_Panenka
+          ...  Isgut se anticipa a la jugada
+Min. 76 :(new) Maxi_Batman entra con los tacos por delante 
+          ...  Creo que buscaba el balón, pero debería calmarse un poquito
+          ...  el arbitro  no le va a amonestar
+Min. 88 :(qui) Kazu_Miura se va de dos defensas. Uau! No había sitio
+          ...  Pero Y_Adno roba la pelota
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : qui  3 new 1
+tiros a puerta       : qui  0 new 2
+
+Marcador             : qui  0 new 1
+
+
+<<< Estadisticas de los jugadores del Quilmes >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+D_Vega         GK   L 23  3  3  3 61 |  90   1   0   0   0   0   0   0   0   0   8   0   0   0 100
+Ivan_Cordoba  DFC RLC  2 28  6  5 73 |  90   0   1   1   0   0   0   0   0   0   0  60  21   0  81
+D_Macaluso    DFC  RC  2 24  1  6 36 |  90   0   1   0   0   0   0   0   0   0   0  86  26  26  61
+Gonzalo_Bazan DFC  RL  2 22  7  4 53 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  73
+Juan_Rocchia  DFC  LC  1 22  2 11 39 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  59
+Nico_Bertolo  MFC   R  1  1 27 14 68 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  77
+Isgut         MFC RLC  2  5 18  5 55 |  90   0   1   1   0   0   0   0   0   0   0  60  21   0  70
+R_Faeck       MFC   R  2  4 17  4 44 |  90   0   0   1   0   0   0   0   0   0   0  26  47  26  68
+W_Jhokusht    MFC   R  2  5 17  5 42 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  67
+Kazu_Miura    FWC RLC  2  2  6 24 62 |  90   0   0   0   0   1   0   0   0   0   0   0   0   7  74
+M_Alustiza    FWC RLC  2  6 12 22 55 |  90   0   0   0   0   2   0   0   0   0   0   0   0  14  73
+B_Buticce      GK   L 13  2  2  2 51 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Rodriguez   DFC   R  2 14  4  5 56 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+F_Galetto     MFC   L  2  4 15  5 71 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Jacobo_Urso   DFC   C  2 13 11  5 72 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+D_Akerman     FWC RLC  1  1  8 18 35 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+I_Lity        MFC   R  2  5 17  4 25 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  86
+R_Albretch    DFC   C  2 12  5  5 45 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  1   4   5   0   3   0   0   0   0
+
+
+<<< Estadisticas de los jugadores del Newell's Old Boys >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+G_BurgosJr     GK   R 22  4  4  4 54 |  90   0   0   0   0   0   0   0   0   0  35   0   0   0 100
+Gino_Peruzzi  DFR   R  4 22  9 12 55 |  90   0   1   2   1   0   0   0   0   0   0 107 124  47  70
+M_Albela      DFC   C  3 28 10  5 55 |  90   0   1   1   0   0   0   0   0   0   0  60  21   0  69
+Maxi_Batman   DFC   C  3 20  8 10 79 |  90   0   1   1   0   0   0   0   0   0   0  95  21   0  85
+Y_Adno        DFL   L  4 17  9 11 58 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  72
+C_Tula        DMC   C  4 15 16  9 66 |  90   0   0   1   0   0   0   0   0   0   0  47  68  47  82
+M_Schwarzer   DMC  LC  3 17 17  6 32 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  66
+A_Panenka     AMC  RC  3  8 20 16 56 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  76
+A_Ortega      FWL   L  3  6 10 21 57 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+A_Chavez      FWC   C  5  9 10 24 52 |  90   0   1   1   0   2   1   0   0   0   0  60  21  76  61
+R_Saa         FWR   R  3  4  6 19 45 |  90   0   0   0   0   1   0   0   0   0   0   0   0   7  68
+S_Romero       GK   L 18  3  3  3 49 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+T_Vuvroapr    DFC   R  2 16  5  5 74 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Gianetti    DMC   C  4 17 12  9 83 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Jota_Eme      MFC   C  4  9 20 10 53 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+T_Hirano      MFC   C  3 15 13  4 41 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+K_Irtirt      FWC RLC  2  4  5 17 33 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Q_Duago       FWC   C  2  4  5 16 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   5   6   1   3   1   0   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+qui     0     84.73    70.22    61.16
+new     0    125.18    74.95    84.75
+qui    10     82.44    67.92    59.62
+new    10    122.42    73.24    82.68
+qui    20     80.13    65.96    58.17
+new    20    118.82    71.17    79.95
+qui    30     77.71    63.78    56.44
+new    30    115.57    69.24    77.44
+qui    40     75.34    61.66    54.55
+new    40    112.02    67.23    75.15
+qui    50     72.75    59.30    52.72
+new    50    108.33    64.86    72.16
+qui    60     70.04    57.27    50.85
+new    60    104.65    62.57    69.69
+qui    70     67.30    55.16    48.99
+new    70    101.22    60.35    66.97
+qui    80     64.40    53.29    47.27
+new    80     97.73    58.32    64.40
+qui    90     61.61    51.10    45.47
+new    90     94.63    56.32    61.83
+
+
+1376444668

@@ -1,0 +1,188 @@
+
+
+Injuries:
+---------
+
+A_Orion (boc) Ya está listo para jugar despues de su lesión
+Nico_Blandi (boc) Ya está listo para jugar despues de su lesión
+JP_Sorin (ald) tendra que guardar reposo una semana por molestias en el muslo
+Franco_Baresi (oli) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+Nico_Martinez (ind) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+Mati_Jdm (riv) solo se quedo en un susto y estara apto para el siguiente partido
+Espeon (riv) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Suspensions:
+------------
+
+Nico_Cabre (vel) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+F_Marasco (uni) no podrá jugar el siguiente partido por sanción
+M_Ballack (oli) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+J_I_Sills (uni) Ps aumenta su media gracias al skills
+P_Larraquy (vel) Tk aumenta su media gracias al skills
+P_Larraquy (vel) Ps aumenta su media gracias al skills
+Arturo_Vidal (vel) Ps aumenta su media gracias al skills
+F_Estoyanoff (vel) Ps aumenta su media gracias al skills
+F_Estoyanoff (vel) Sh aumenta su media gracias al skills
+A_Gabbarini (ind) St aumenta su media gracias al skills
+G_Peruzzi (ind) Tk aumenta su media gracias al skills
+F_Santana (ind) Tk aumenta su media gracias al skills
+I_Velez (ind) Sh aumenta su media gracias al skills
+Kun_Aguero (ind) Ps aumenta su media gracias al skills
+Pateatraseros (arg) Tk aumenta su media gracias al skills
+El_Misha (riv) Sh aumenta su media gracias al skills
+Espeon (riv) Sh aumenta su media gracias al skills
+F_Morientes (riv) Sh aumenta su media gracias al skills
+Gareth_Bale (riv) Ps aumenta su media gracias al skills
+M_Preud'homme (boc) St aumenta su media gracias al skills
+John_A_Riise (alb) Ps aumenta su media gracias al skills
+Charizard (alb) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         14  (DFs - 1, DMs - 0, MFs - 0, AMs - 2, FWs - 11)
+Assists:        9  (DFs - 0, DMs - 0, MFs - 8, AMs - 1, FWs - 0)
+Yellow cards:  10
+Red cards:      1
+Injuries:       5
+
+Top performers:
+
+M_Zarate (vel)        34
+Loco_Vivaldo (oli)    33
+M_Moralez (vel)       32
+F_Morientes (riv)     31
+W_Caballero (arg)     30
+H_Fredes (ind)        29
+El_Misha (riv)        27
+F_Estoyanoff (vel)    25
+Franck_Ribéry (ind)   23
+D_Trezeguet (riv)     23
+Lucas_Moura (boc)     20
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   7    6   1   0    15    5   10    19
+2    Aldosivi                7    5   1   1    13    4    9    16
+3    Independiente           7    4   2   1     9    4    5    14
+4    Arsenal                 7    3   2   2     5    5    0    11
+5    All Boys                6    2   3   1     5    3    2     9
+6    Banfield                7    2   2   3     3    6   -3     8
+7    River Plate             6    2   1   3     7    7    0     7
+8    San Lorenzo             7    1   4   2     4    5   -1     7
+9    Colon de Santa Fe       1    1   0   0     8    1    7     3
+10   Union de Santa Fe       2    1   0   1     5    3    2     3
+11   Estudiantes de La Plata   1    1   0   0     2    0    2     3
+12   Argentinos              7    1   0   6     5   15  -10     3
+13   River PLate             1    0   1   0     1    1    0     1
+14   Ferro                   1    0   1   0     0    0    0     1
+15   Newell's Old Boys       1    0   1   0     0    0    0     1
+16   Quilmes                 1    0   1   0     0    0    0     1
+17   UAI Urquiza             1    0   1   0     0    0    0     1
+18   Boca Juniors            7    0   1   6     5   17  -12     1
+19   Olimpo                  1    0   0   1     1    3   -2     0
+20   Racing                  1    0   0   1     0    2   -2     0
+21   Gimnasia y Esgrima de La Plata   1    0   0   1     1    8   -7     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Charizard (alb)          3      9
+Zapdos (alb)             5      9
+M_Zarate (vel)           4      7
+D_Trezeguet (riv)        5      7
+Luís_Fabiano (arg)       5      6
+Juan_M_Iturbe (ind)      5      6
+RV_Nistelrooy (ban)      5      6
+F_Morientes (riv)        5      6
+Nico_Blandi (boc)        4      5
+C_Fabbiani (ald)         5      4
+Nico_Martinez (ind)      5      3
+Franck_Ribéry (ind)      5      3
+F_Estoyanoff (vel)       5      3
+R_Funes_Mori (uni)       5      2
+Leo_da_Silva (ind)       1      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         4    200
+H_Fredes (ind)           5    143
+Franck_Ribéry (ind)      5    141
+Luís_Fabiano (arg)       5    132
+Zapdos (alb)             5    130
+T_Svenssen (alb)         5    129
+Charizard (alb)          3    127
+Hitmonlee (alb)          5    116
+J_I_Sills (uni)          5    113
+D_Trezeguet (riv)        5    112
+John_A_Riise (alb)       5    111
+M_Zarate (vel)           4    110
+S_Staunton (alb)         5    109
+Lucas_Moura (boc)        5    105
+El_Misha (riv)           5    103
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         4      9
+Ruud_Gullit (arg)        5      3
+El_Misha (riv)           5      3
+Lucas_Moura (boc)        5      3
+S_Staunton (alb)         5      3
+John_A_Riise (alb)       5      3
+H_Fredes (ind)           5      3
+M_Moralez (vel)          4      2
+Hitmonlee (alb)          5      2
+F_Rijkaard (uni)         5      2
+Espeon (riv)             5      2
+I_Velez (ind)            5      2
+Kun_Aguero (ind)         5      2
+Franck_Ribéry (ind)      5      2
+A_Fernandez (vel)        5      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Nico_Cabre (vel)         0      3
+F_Marasco (uni)          2      3
+Eric_Gerets (boc)        2      3
+Wailord (alb)            4      3
+J_Insaurralde (boc)      4      3
+M_Ballack (oli)          5      3
+W_Samuel (boc)           5      3
+N_Otamendi (vel)         3      2
+Nico_Blandi (boc)        4      2
+J_Bosingwa (ban)         4      2
+F_Santana (ind)          5      2
+Ruud_Gullit (arg)        5      2
+C_Arano (riv)            5      2
+W_Shoojho (arg)          5      2
+Pateatraseros (arg)      5      2
+

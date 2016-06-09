@@ -1,0 +1,130 @@
+
+
+Skill changes:
+--------------
+
+C_Ayala (riv) Ps aumenta su media gracias al skills
+F_Morientes (riv) Sh aumenta su media gracias al skills
+H_Crespo (riv) Tk aumenta su media gracias al skills
+R_Trotta (ban) Tk aumenta su media gracias al skills
+M_Mea_Vitali (ban) Ps aumenta su media gracias al skills
+Edgar_Davids (ban) Ps aumenta su media gracias al skills
+Nwankwo_Kanu (ban) Sh aumenta su media gracias al skills
+Erik_Lamela (ban) Ps aumenta su media gracias al skills
+RV_Nistelrooy (ban) Ps aumenta su media gracias al skills
+RV_Nistelrooy (ban) Sh aumenta su media gracias al skills
+H_Castellano (ald) St aumenta su media gracias al skills
+JP_Sorin (ald) Tk aumenta su media gracias al skills
+R_Monserrat (ald) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   4
+Red cards:      0
+Injuries:       0
+
+Top performers:
+
+Matias_Diaz (ban)     0
+M_Rodriguez (ban)     0
+Naoki_Matsuda (ban)   0
+Shizuo_H (ban)        0
+M_Materazzi (ban)     0
+C_Lucchetti (ban)     0
+RV_Nistelrooy (ban)   0
+Ricardo_Noir (ban)    0
+K_Kamamoto (ban)      0
+Erik_Lamela (ban)     0
+Nwankwo_Kanu (ban)    0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)            14     25
+Nico_Blandi (boc)       14     25
+J_Lujambio (ban)        14     20
+C_Fabbiani (ald)        15     16
+F_Morientes (riv)       15     15
+Charizard (alb)         13     11
+D_Trezeguet (riv)        9     10
+Kurapika (uni)          15     10
+M_Klose (arg)            6      9
+Nico_Martinez (ind)     11      9
+F_Estoyanoff (vel)      11      9
+Kazu_Miura (qui)        15      9
+M_Zarate (vel)           9      8
+Pablo_Piatti (col)      13      7
+M_Palermo (boc)         13      7
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Mono_Navarro (tig)      14    531
+Zapdos (alb)            14    367
+Nico_Blandi (boc)       14    325
+L_Matthaus (alb)        11    305
+J_Lujambio (ban)        14    297
+F_Morientes (riv)       15    290
+F_Vargas (uni)          15    279
+Kun_Aguero (ind)        14    272
+Nico_Bertolo (qui)      14    269
+Hitmonlee (alb)         12    265
+Kurapika (uni)          15    265
+J_I_Sills (uni)         15    259
+P_Ledesma (boc)         15    258
+Charizard (alb)         13    249
+Ruud_Gullit (arg)       13    241
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+R_Monserrat (ald)       14      7
+L_Matthaus (alb)        11      6
+S_Staunton (alb)        12      6
+Hitmonlee (alb)         12      6
+P_Ledesma (boc)         15      6
+Enzito_C (vel)           7      5
+Hasan_Sas (est)         12      5
+John_A_Riise (alb)      13      5
+Espeon (riv)            14      5
+Kun_Aguero (ind)        14      5
+Ray_Wilkins (ban)       15      5
+M_Moralez (vel)         10      4
+R_Pereyra (riv)         11      4
+Z_Boban (boc)           12      4
+Jose_Chatruc (col)      13      4
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+V_Píriz_Alves (rac)     11      9
+G_B_Leschuk (ars)        7      8
+Éric_Cantona (boc)      12      8
+Angel_Carreño (fer)     12      8
+N_Ortigoza (slo)        14      8
+M_Brau (ars)             6      7
+A_Chari (tig)           12      7
+H_Ameli (slo)           13      7
+RV_Nistelrooy (ban)     13      7
+E_Fuertes (fer)         13      7
+J_Sanguinetti (rce)      4      6
+Leo_da_Silva (ind)       6      6
+Steelix (alb)            9      6
+C_Alvarez (ald)          9      6
+Placente (uni)          12      6
+

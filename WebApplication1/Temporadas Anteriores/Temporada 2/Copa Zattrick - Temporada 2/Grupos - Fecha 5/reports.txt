@@ -1,0 +1,38 @@
+
+Aldosivi 8 - 0 San Lorenzo
+M_Regueiro (ald)  1'
+C_Fabbiani (ald)  3'
+M_Regueiro (ald) 39'
+C_Fabbiani (ald) 40'
+C_Fabbiani (ald) 45'
+C_Fabbiani (ald) 47'
+C_Fabbiani (ald) 64'
+S_Escudero (ald) 69'
+
+
+Argentinos 1 - 0 River Plate
+J_M_Martinez (arg) 90'
+
+
+All Boys 3 - 0 Quilmes
+Articuno (alb) 28'
+Rocko (alb) 62'
+Articuno (alb) 90'
+
+
+Boca Juniors 0 - 1 Banfield
+Facu_Ferreyra (ban) 80'
+
+
+Arsenal 0 - 0 Independiente
+Inj: Hugo_Nervo (ars) 43'
+Inj: I_Velez (ind) 81'
+
+
+Tigre 0 - 5 Velez
+M_Moralez (vel) 45'
+M_Uglessich (vel) 46'
+M_Zarate (vel) 56'
+E_Berizzo (vel) 64'
+M_Zarate (vel) 82'
+

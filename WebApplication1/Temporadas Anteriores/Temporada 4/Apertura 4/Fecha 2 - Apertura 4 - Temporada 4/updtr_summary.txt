@@ -1,0 +1,167 @@
+
+
+Injuries:
+---------
+
+L_Matthaus (alb) Ya está listo para jugar despues de su lesión
+L_Somoza (boc) Ya está listo para jugar despues de su lesión
+
+
+
+Suspensions:
+------------
+
+C_Alvarez (ald) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Leo_da_Silva (ind) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+R_Palacio (tig) no podrá jugar el siguiente partido por sanción
+N_Nicolay (rce) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+A_Fernandez (vel) Ps aumenta su media gracias al skills
+M_Almada (ald) Ps aumenta su media gracias al skills
+Zapdos (alb) Sh aumenta su media gracias al skills
+Charizard (alb) Sh aumenta su media gracias al skills
+Massimo_Oddo (oli) Tk aumenta su media gracias al skills
+D_Passarella (riv) Tk aumenta su media gracias al skills
+Davor_Suker (boc) Tk aumenta su media gracias al skills
+Nico_Blandi (boc) Sh aumenta su media gracias al skills
+M_Mea_Vitali (ban) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         10  (DFs - 0, DMs - 0, MFs - 1, AMs - 0, FWs - 9)
+Assists:        9  (DFs - 2, DMs - 0, MFs - 6, AMs - 0, FWs - 1)
+Yellow cards:  12
+Red cards:      2
+Injuries:       0
+
+Top performers:
+
+A_Fernandez (vel)     74
+Mono_Navarro (tig)    48
+Zapdos (alb)          44
+M_Zarate (vel)        42
+M_Moralez (vel)       37
+F_Estoyanoff (vel)    36
+D_Passarella (riv)    24
+Charizard (alb)       24
+R_Alvarez (vel)       23
+P_Ledesma (boc)       20
+M_Torsiglieri (vel)   19
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   7    6   1   0    16    4   12    19
+2    Independiente           7    4   2   1     8    4    4    14
+3    Aldosivi                7    4   1   2    12    5    7    13
+4    All Boys                6    3   3   0     8    1    7    12
+5    Arsenal                 6    3   1   2     5    5    0    10
+6    San Lorenzo             6    1   3   2     4    5   -1     6
+7    River Plate             6    1   2   3     4    6   -2     5
+8    Banfield                7    1   2   4     1    6   -5     5
+9    Boca Juniors            7    1   1   5     5   14   -9     4
+10   Argentinos              5    1   0   4     3    8   -5     3
+11   River PLate             1    0   1   0     1    1    0     1
+12   Olimpo                  1    0   1   0     0    0    0     1
+13   Rosario Central         1    0   0   1     0    4   -4     0
+14   Tigre                   1    0   0   1     0    4   -4     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        2      3
+Zapdos (alb)             2      3
+F_Estoyanoff (vel)       2      2
+C_Fabbiani (ald)         2      2
+M_Zarate (vel)           2      2
+F_Morientes (riv)        2      2
+J_Lujambio (ban)         2      2
+Tecla_Farías (ind)       1      1
+KH_Rummenigge (tig)      2      1
+Nico_Martinez (ind)      2      1
+M_Mea_Vitali (ban)       2      1
+Charizard (alb)          2      1
+A_Fernandez (vel)        2      1
+N_Nicolay (rce)          2      1
+D_Bertoni (ind)          0      0
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+A_Fernandez (vel)        2     82
+M_Zarate (vel)           2     59
+M_Moralez (vel)          2     57
+Mono_Navarro (tig)       2     57
+Zapdos (alb)             2     54
+R_Alvarez (vel)          2     42
+Juan_J_Jayo_L (boc)      2     41
+J_Lujambio (ban)         2     37
+F_Estoyanoff (vel)       2     36
+Hitmonlee (alb)          2     36
+H_Fredes (ind)           2     35
+Nico_Blandi (boc)        2     35
+E_Carolo (riv)           2     33
+F_Morientes (riv)        2     32
+M_Almada (ald)           2     31
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+M_Moralez (vel)          2      2
+R_Alvarez (vel)          2      2
+Juan_J_Jayo_L (boc)      2      2
+F_Mec (ban)              1      1
+S_Staunton (alb)         2      1
+Davor_Suker (boc)        2      1
+R_Monserrat (ald)        2      1
+R_Pereyra (riv)          2      1
+E_Berizzo (vel)          2      1
+John_A_Riise (alb)       2      1
+H_Fredes (ind)           2      1
+Charizard (alb)          2      1
+Kun_Aguero (ind)         2      1
+M_Almada (ald)           2      1
+Ray_Wilkins (ban)        2      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+C_Alvarez (ald)          1      3
+Leo_da_Silva (ind)       1      3
+R_Palacio (tig)          2      3
+N_Nicolay (rce)          2      3
+F_Marasco (tig)          2      2
+Charizard (alb)          2      2
+J_Basualdo (tig)         2      2
+C_Doni (boc)             0      1
+B_Schelotto (ban)        0      1
+F_Mec (ban)              1      1
+C_Pellerano (ind)        1      1
+M_Dos_Santos (ban)       2      1
+J_Insaurralde (boc)      2      1
+E_Andewjh (rce)          2      1
+A_Isyowj (rce)           2      1
+

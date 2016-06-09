@@ -1,0 +1,127 @@
+
+
+Injuries:
+---------
+
+Arruabarrena (ban) tendra que guardar reposo una semana por molestias en el muslo
+Hernán_Bruno (ban) ino podra jugar los siguientes 2 partidos por una inflamacion de la rodilla
+Moltres (oli) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Skill changes:
+--------------
+
+L_Nowogrodzki (oli) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   0
+Red cards:      0
+Injuries:       3
+
+Top performers:
+
+Loco_Vivaldo (oli)    0
+Massimo_Oddo (oli)    0
+R_Civelli (oli)       0
+Tato_Mosset (oli)     0
+L_Nowogrodzki (oli)   0
+Emmanuel_Pío (oli)    0
+M_Ricci (oli)         0
+Edgar_Davids (oli)    0
+Ariel_Zarate (oli)    0
+A_Barijho (oli)       0
+Moltres (oli)         0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        7     16
+Nico_Martinez (ind)      6     12
+Charizard (alb)          7     10
+Zapdos (alb)             7      8
+H_Crespo (riv)           7      6
+Santi_Anselmo (rac)      6      5
+C_Fabbiani (ald)         7      5
+S_Kun_Aguero (arg)       7      5
+Chelo_Delgado (boc)      2      4
+S_Biglieri (rce)         5      4
+D_Montenegro (ind)       7      4
+F_Cavenaghi (fer)        4      3
+L_Monje (rce)            5      3
+F_Morientes (riv)        6      3
+A_Otroory (rac)          6      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         7    264
+S_Staunton (alb)         7    217
+Charizard (alb)          7    212
+Nico_Blandi (boc)        7    206
+Hitmonlee (alb)          7    189
+Zapdos (alb)             7    181
+M_Laudrup (alb)          7    179
+H_Castellano (ald)       7    177
+Mono_Navarro (tig)       7    174
+John_A_Riise (alb)       7    160
+E_Carolo (riv)           7    149
+P_Ledesma (boc)          7    145
+Nico_Martinez (ind)      6    142
+Mati_Brad (boc)          7    140
+T_Svenssen (alb)         7    135
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         7      6
+S_Staunton (alb)         7      6
+P_Ledesma (boc)          7      5
+H_Fredes (ind)           6      4
+Aaron_Lennon (rce)       5      3
+John_A_Riise (alb)       7      3
+E_Carolo (riv)           7      3
+Mati_Brad (boc)          7      3
+M_Ricci (oli)            8      3
+Oliver_Atom (ald)        5      2
+P_Toranzo (rac)          5      2
+P_Vidal (ind)            6      2
+M_Albela (ban)           6      2
+Espeon (riv)             6      2
+L_Somoza (boc)           6      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Gonzalo_Bazan (qui)      5      7
+Éric_Cantona (boc)       7      7
+C_Arano (riv)            5      6
+Steelix (alb)            5      6
+Jota_Eme (vel)           4      5
+M_Mea_Vitali (ban)       7      5
+Nacho_Decarli (rac)      4      4
+P_Mannara (oli)          5      4
+Gio_Moreno (rce)         7      4
+Alakazam (rce)           0      3
+O_Ardiles (riv)          0      3
+C_Ansaldi (vel)          0      3
+L_Castroman (vel)        1      3
+Q_Uka (rac)              2      3
+Abidal (tig)             4      3
+

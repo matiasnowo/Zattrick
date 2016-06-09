@@ -1,0 +1,185 @@
+
+
+Injuries:
+---------
+
+S_Escudero (ald) Ya está listo para jugar despues de su lesión
+JP_Carrizo (alb) Ya está listo para jugar despues de su lesión
+B_Leyenda (ban) Ya está listo para jugar despues de su lesión
+A_Orion (boc) Ya está listo para jugar despues de su lesión
+L_Abecasis (riv) Ya está listo para jugar despues de su lesión
+J_Lujambio (ban) solo se quedo en un susto y estara apto para el siguiente partido
+Mati_Jdm (riv) ino podra jugar los siguientes 4 partidos por una inflamacion de la rodilla
+E_Lavezzi (arg) no podra jugar los siguientes 3 partidos a causa de una rotura fibrilar
+Diego_Torres (ars) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Skill changes:
+--------------
+
+D_Manusovich (slo) Tk aumenta 
+L_Pusineri (slo) Ps aumenta 
+M_Almada (ald) Ps aumenta 
+Oliver_Atom (ald) Ps aumenta 
+JJ_Serrizuela (ald) Tk aumenta 
+JJ_Serrizuela (ald) Ps aumenta 
+J_Gomez (ban) Ps aumenta 
+M_Demichelis (riv) Tk aumenta 
+M_Demichelis (riv) Sh aumenta 
+O_Ardiles (riv) Sh aumenta 
+Espeon (riv) Ps aumenta 
+X_Udashoobt (riv) Sh aumenta 
+A_Garce (arg) Tk aumenta 
+Javi_Garcia (boc) St aumenta 
+Maxi_Batman (boc) Tk aumenta 
+Mati_Brad (boc) Tk aumenta 
+Mati_Brad (boc) Ps aumenta 
+P_Ledesma (boc) Ps aumenta 
+B_Lizarazu (boc) Ps aumenta 
+M_Palermo (boc) Ps aumenta 
+Nico_Blandi (boc) Sh aumenta 
+S_Staunton (alb) Ps aumenta 
+Charizard (alb) Tk aumenta 
+Charizard (alb) Ps aumenta 
+Hugo_Nervo (ars) Tk aumenta 
+A_Gabbarini (ind) St aumenta 
+C_Pellerano (ind) Ps aumenta 
+F_Parra (ind) Ps aumenta 
+F_Parra (ind) Sh aumenta 
+D_Montenegro (ind) Sh aumenta 
+F_Tobio (vel) Tk aumenta 
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          8  (DFs - 1, DMs - 0, MFs - 0, AMs - 0, FWs - 7)
+Assists:        7  (DFs - 1, DMs - 0, MFs - 5, AMs - 1, FWs - 0)
+Yellow cards:   9
+Red cards:      0
+Injuries:       4
+
+Top performers:
+
+Nico_Blandi (boc)     35
+A_Dominguez (riv)     30
+Davor_Suker (boc)     29
+C_Lucchetti (ban)     27
+El_Misha (riv)        26
+S_Staunton (alb)      26
+M_Almada (ald)        24
+L_Carrio (ind)        24
+R_Alvarez (vel)       23
+Charizard (alb)       20
+B_Lizarazu (boc)      20
+Oliver_Atom (ald)     19
+M_Albela (ban)        19
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Aldosivi                7    5   1   1    13    4    9    16
+2    Velez                   6    5   1   0    12    4    8    16
+3    All Boys                6    3   3   0     5    1    4    12
+4    Independiente           6    3   2   1     7    4    3    11
+5    Arsenal                 7    3   1   3     5    6   -1    10
+6    River Plate             6    2   1   3     6    6    0     7
+7    San Lorenzo             7    1   3   3     4    6   -2     6
+8    Banfield                7    1   2   4     1    7   -6     5
+9    Boca Juniors            7    1   1   5     8   14   -6     4
+10   Argentinos              6    1   0   5     3   12   -9     3
+11   River PLate             1    0   1   0     1    1    0     1
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+C_Fabbiani (ald)        16     16
+M_Zarate (vel)          14     12
+Charizard (alb)         16      7
+Zapdos (alb)            16      7
+D_Montenegro (ind)      17      7
+Moltres (boc)           12      6
+H_Crespo (riv)          13      6
+L_Castroman (vel)       14      6
+Franco_Jara (ars)       12      5
+Nico_Martinez (ind)     17      5
+D_Villalva (riv)         7      4
+M_Palermo (boc)         11      4
+Berni_Romeo (slo)       11      4
+S_Kun_Aguero (arg)      13      4
+Nico_Blandi (boc)        2      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+M_Moralez (vel)         17    313
+M_Almada (ald)          17    255
+C_Fabbiani (ald)        16    247
+R_Monserrat (ald)       17    223
+A_Orion (boc)           12    216
+N_Otamendi (vel)        14    212
+L_Pusineri (slo)        15    212
+R_Alvarez (vel)         15    211
+S_Escudero (ald)        13    209
+L_Castroman (vel)       14    203
+A_Fernandez (vel)       12    202
+H_Fredes (ind)          16    202
+C_Pellerano (ind)       15    195
+C_L_Diaz (ald)          17    184
+M_Zarate (vel)          14    183
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+A_Fernandez (vel)       12      5
+Espeon (riv)            15      5
+M_Almada (ald)          17      5
+M_Moralez (vel)         17      4
+L_Somoza (boc)           8      3
+J_Datolo (boc)          11      3
+Hitmonchan (alb)        12      3
+S_Escudero (ald)        13      3
+J_Yacuzzi (ars)         14      3
+A_Dominguez (riv)       14      3
+C_Pellerano (ind)       15      3
+Hitmonlee (alb)         15      3
+H_Fredes (ind)          16      3
+R_Monserrat (ald)       17      3
+L_Matthaus (alb)         5      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+N_Otamendi (vel)        14     11
+C_Ayala (riv)           10      9
+A_Matellan (ars)        13      9
+J_Barraza (ban)          9      8
+P_Ledesma (boc)         13      8
+R_Trotta (vel)          14      8
+A_Garce (arg)           12      7
+D_Manusovich (slo)      14      7
+R_Bochini (ind)         16      7
+El_Misha (riv)           7      6
+Ivan_Marcone (ars)      11      6
+H_Crespo (riv)          13      6
+M_Zarate (vel)          14      6
+J_Yacuzzi (ars)         14      6
+Charizard (alb)         16      6
+

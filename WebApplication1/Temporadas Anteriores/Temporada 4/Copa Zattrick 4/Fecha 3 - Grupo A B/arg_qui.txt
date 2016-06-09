@@ -1,0 +1,288 @@
+Home                           Away
+----                           ----
+
+Argentinos                     Quilmes                       
+
+GK  F_Mondragón                GK  D_Vega                    
+DFR K_Elotya                   DFL Gonzalo_Bazan             
+DFC Pateatraseros              DFC Ivan_Cordoba              
+DFC L_Mareque                  DFC Juan_Rocchia              
+DFL N_Odruska                  DFR J_Botinelli               
+DMC Ariel_Seltzer              DMC Hernán_Bruno              
+MFL B_Braksoc                  MFR Nico_Bertolo              
+MFR H_Losada                   MFL Isgut                     
+AMR Ruud_Gullit                AMC Kittan_Bachik             
+AML D_Manso                    FWR R_Saa                     
+FWC S_Kun_Aguero               FWL Kazu_Miura                
+
+4-1-2-2-1 Attacking            4-1-2-1-2 Normal               
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(arg) Ariel_Seltzer se anticipa a su marcador!
+          ...  Creo que lo ha empujado!
+          ...  "Sigan!" Dice el arbitro  
+          ...  J_Botinelli llega como un tren y corta el ataque lanzándose al suelo
+Min.  5 :(arg) H_Losada dispara en carrera!
+          ...  El defensa mete la pierna
+          ...  sale rebotada hacia Ruud_Gullit!
+          ...  Ruud_Gullit se deshace de su marcador ! 
+          ...  Buen movimiento! Y dispara!
+          ...  D_Vega mete los puños 
+          ...  Y la manda a fuera de banda
+Min.  6 :(arg) Ruud_Gullit avanza con el balón controlado
+          ...  Ve el desmarque de un compañero!
+          ...  Cruza el pase!
+          ...  D_Manso con un control facilísimo
+          ...  D_Manso chuta!
+          ...  Busca la escuadra!
+          ...  Ojo con el efecto. El portero no va a llegar!!
+          ...  Pero aterriza en la grada superior de la portería !!
+          ...  el portero sonríe. Estaba batido!
+Min.  7 :(arg) D_Manso suelta una entrada muy bien medida 
+          ...  pero el arbitro  está cortando demasiado fino hoy. Falta!
+          ...  AMARILLA!!
+          ...  Por unos momentos lo vi expulsado!
+          ...  el entrenador parece asombrado de que no fuera roja!
+          ...  Seguramente será penalti!
+          ...  SÍ !!
+          ...  el equipo local no puede quejarse demasiado. Era claro!
+          ...  Kazu_Miura es quien lo va a chutar
+          ...  GOOOOOL !!
+          ...  Buscó el disparo raso y ajustado al palo!
+          ...  arg 0-1 qui...
+Min.  9 :(arg) Ruud_Gullit pasa largo con el interior hacia H_Losada
+          ...  H_Losada controla el balón, amaga y... dispara! Oh!
+          ...  Busca la escuadra!
+          ...  Ojo con el efecto. El portero no va a llegar!!
+          ...  Pero aterriza en la grada superior de la portería !!
+          ...  el portero sonríe. Estaba batido!
+Min. 13 :(arg) S_Kun_Aguero corre hacia la portería
+          ...  Vaya mirada! Tiene el gol en mente
+          ...  S_Kun_Aguero con un sorprendente remate !
+          ...  OOOOHHHHH!!!! 
+          ...  Fuera!
+          ...  Tenía una posición clara!
+          ...  El entrenador le está abroncando!
+Min. 15 :(arg) D_Manso para el balón con la planta del pie
+          ...  Qué calidad, tiene un guante en el pie!
+          ...  Se revuelve! Engaña a su par
+          ...  y cruza al balón sobre la llegada de Ruud_Gullit
+          ...  Ruud_Gullit se saca una vaselina magistral de la chistera !
+          ...  Busca la vaselina 
+          ...  A las nubes! Se habrá cambiado hoy de botas?
+Min. 20 :(arg) N_Odruska envía a su oponente al césped!!
+          ...  Menudo trompazo!!
+          ...  Se marcha con una simple amonestación
+Min. 22 :(arg) H_Losada cede atrás para S_Kun_Aguero
+          ...  J_Botinelli llega como un tren y corta el ataque lanzándose al suelo
+Min. 24 :(qui) J_Botinelli con una entrada asesina
+          ...  el arbitro  ignora las vehementes peticiones de targeta
+          ...  el entrenador ha tenido suerte esta vez
+Min. 25 :(arg) H_Losada para K_Elotya
+          ...  Gonzalo_Bazan reacciona con una tremenda velocidad y controla el balón
+Min. 32 :(arg) Ruud_Gullit le gana la espalda a su mrcador
+          ...  Ei, se ha despistado!
+          ...  Gonzalo_Bazan se hace con el balón
+          ...  Y lo manda hacia arriba
+Min. 34 :(arg) Ruud_Gullit hace una bicicleta y cambia el juego hacia B_Braksoc
+          ...  Espectacular remate de B_Braksoc !
+          ...  el portero detiene la pelota, que queda muerto
+          ...  Pero remata por encima del larguero!!
+Min. 35 :(arg) Ruud_Gullit inicia el ataque
+          ...  Pase picado por D_Manso
+          ...  D_Manso dispara un verdadero obús !
+          ...  UAU! Ha pegado en el larguero y ha botado sobre la misma línea
+          ...  el arbitro  consulta con el asistente. Difícil decisión
+          ...  GOOOOOL !! Lo ha dado!
+          ...  arg 1-1 qui ...
+Min. 37 :(arg) Ruud_Gullit controla el balón en una demostración de clase
+          ...  Abre el juego a la derecha!
+          ...  D_Manso recibe la pelota!
+          ...  Hernán_Bruno corta con claridad
+          ...  Midió a la perfección! Su entrenador aplaude
+Min. 43 :(qui) Ivan_Cordoba se cuela con potencia entre los centrales
+          ...  Suelta un latigazo con su pierna izquierda!
+          ...  F_Mondragón flota sobre la línea de meta
+          ...  Mete la mano
+          ...  Córner? No! Se equivocó!
+Min. 44 :(arg) H_Losada se deshace de su marcador
+          ...  Esta noche va a aparecer en sus pesadillas
+          ...  H_Losada otea la posición del portero !
+          ...  Dispara!
+          ...  D_Vega llega con la punta de los dedos al balón 
+          ...  y sale rozando el palo!! 
+          ...  Qué gran intervención!
+Min. 44 :(arg) D_Manso se lleva bien el balón 
+          ...  el arbitro  pita falta! Bufff, no vale ni para la Segunda B
+          ...  Se marcha con una simple amonestación
+          ...  Se habrá dejado las targetas en el vestuario???
+          ...  el entrenador está desesperado. Vaya arbitraje!!
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 49 :(arg) Pateatraseros encuentra el pasadizo
+          ...  Qué habilidad!
+          ...  Ivan_Cordoba llega velozmente y mete la planta del pie
+          ...  Qué velocidad!
+Min. 49 :(qui) Hernán_Bruno envía largo para R_Saa
+          ...  Ariel_Seltzer va en carrera y mete el codo
+          ...  El delantero va al suelo
+          ...  Ha sido sutil, el árbitro no lo ha visto!
+Min. 54 :(qui) Juan_Rocchia se va de tres contrarios
+          ...  Suelta un latigazo con su pierna izquierda!
+          ...  F_Mondragón llega con la punta de los dedos al balón 
+          ...  y sale rozando el palo!! 
+          ...  Qué gran intervención!
+Min. 60 :(arg) D_Manso ubica el balón a la espalda de la defensa. L_Mareque busca el desmarque
+          ...  L_Mareque remata forzado... con la rodilla!
+          ...  La manda fuera del estadio!
+Min. 62 :(arg) L_Mareque se va de uno
+          ...  Regatea a otro!
+          ...  A otro! Parece Maradona contra Inglaterra!
+          ...  Puede marcar! El gol del siglo!
+          ...  L_Mareque busca el palo largo del portero !
+          ...  D_Vega adivina la trayectoria dla pelota
+Min. 63 :(arg) H_Olaya se despoja del chándal. Entrará por H_Losada 
+          ...  Jugará de MFR 
+          ...  El entrenador reza para que el cambio de sus frutos
+Min. 66 :(arg) H_Olaya se va de su marcador
+          ...  Lo lleva por el camino de la amargura
+          ...  Pero Ivan_Cordoba conjura el peligro
+Min. 68 :(arg) L_Iha sustituye a un descontento N_Odruska para jugar de DFL
+Min. 74 :(arg) R_Mehecli se despoja del chándal. Entrará por D_Manso 
+          ...  Jugará de AML 
+          ...  El entrenador reza para que el cambio de sus frutos
+Min. 77 :(arg) K_Elotya 'placa' a su oponente
+          ...  AMARILLA!!, una más... y fuera!
+Min. 79 :(arg) ... oooooh! Que entrada más dura de K_Elotya 
+          ...  No hay espacio en Zattrick para este tipo de acciones!!!
+          ...  Se marcha con una simple amonestación
+Min. 85 :(qui) Isgut recupera el balón
+          ...  Levanta la cabeza!
+          ...  Ve el desmarque de su compañero
+          ...  Kazu_Miura recibe un pase increíble
+          ...  Se marcha!
+          ...  Ariel_Seltzer despeja el balón hacia la grada
+          ...  Ei! Un aficionado se lleva el balón! Al ladrón
+Min. 86 :(arg) B_Braksoc regatea a su marcador
+          ...  Va a disparar!
+          ...  No! Pasa hacia S_Kun_Aguero! Ha engañado a todos
+          ...  S_Kun_Aguero empalma el balón a la perfección!
+          ...  Rebota en el palo!! 
+          ...  Se anticipa al defensa para el rebote 
+          ...  Tiene la portería para él solo !! 
+          ...  NOOOOOOOO! La ha tirado fuera! Imposible! No me lo creo!
+Min. 87 :(arg) L_Mareque cae en mala posición. Se ha lesionado!
+          ...  Han agotado las sustituciones!!! 
+          ...  Van a afrontar lo que resta de partido con uno menos!
+Min. 88 :(arg) S_Kun_Aguero se deshace de su marcador
+          ...  Su velocidad le está creando muchos problemas!
+          ...  S_Kun_Aguero con un verdadero obús !
+          ...  El balón se le escurre a el portero de las manos!!
+          ...  GOOOOL !!
+          ...  Menudo error
+          ...  arg 2-1 qui ...
+
+El arbitro añadira 3 min. al tiempo reglamentario
+
+Min. 91 :(arg) S_Kun_Aguero estira la pierna para llegar al pase
+          ...  S_Kun_Aguero salta y pica el balón perfectamente de cabeza !
+          ...  GOOOOOL !!
+          ...  Gran finalización!
+          ...  Los aficionados del el equipo local lo celebran con bengalas
+          ...  arg 3-1 qui ...
+Min. 93 :(qui) R_Saa se hace con el balón suelto
+          ...  R_Saa suelta un disparo con el exterior del pie!
+          ...  Pero dispara muy abierto
+          ...  Sabrá que el objetivo del fútbol es meter el balón en la portería?
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : arg  7 qui 1
+tiros a puerta       : arg  6 qui 2
+
+Marcador             : arg  3 qui 1
+
+
+<<< Estadisticas de los jugadores del Argentinos >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+F_Mondragón    GK   C 19  5  3  3 66 |  90   2   0   0   0   0   0   0   0   0 133   0   0   0 100
+K_Elotya      DFR  RC  3 21  6  7 46 |  90   0   0   0   0   0   0   1   0   0   0   3   3   3  66
+Pateatraseros DFC RLC  3 27  7  6 77 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  73
+L_Mareque     DFC  LC  3 23  8  6 55 |  86   0   0   0   0   2   0   0   0   1   0   0   0  40  57
+N_Odruska     DFL  LC  4 20 11  9 59 |  67   0   0   0   0   0   0   0   0   0   0   0   0   0  68
+Ariel_Seltzer DMC   L  1 17 15 10 51 |  90   0   2   0   0   0   0   0   0   0   0 180   0   0  31
+B_Braksoc     MFL   L  4  6 16 11 35 |  90   0   0   1   0   1   0   0   0   0   0   0  45  16  50
+H_Losada      MFR   R  3  6 18  7 39 |  62   0   0   3   0   2   0   0   0   0   0   0 135  40  76
+Ruud_Gullit   AMR  RC  3  6 21 14 55 |  90   0   0   5   1   2   0   0   0   0   0   0 285  40  50
+D_Manso       AML   L  3  6 15 13 65 |  73   0   0   2   0   2   1   1   0   0   0   3  93 121  76
+S_Kun_Aguero  FWC   L  3  7 11 22 78 |  90   0   0   0   0   4   2   0   0   0   0  99  99 335  73
+I_Uza          GK   R 18  3  4  4 53 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+P_Rotchen     DFC   C  3 17  6  5 30 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Iha         DFL  RL  3 16  8  8 63 |  23   0   0   0   0   0   0   0   0   0   0   0   0   0  92
+H_Olaya       MFR   R  3  6 17  7 45 |  28   0   0   0   0   0   0   0   0   0   0   0   0   0  88
+R_Mehecli     AML   R  4  9 14 13 55 |  17   0   0   0   0   0   0   0   0   0   0   0   0   0  94
+Z_Oto         MFC   L  2  4 15  3 49 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+A_Morón       FWC   C  3  6  4 17 62 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  2   2  11   1  13   3   2   0   1
+
+
+<<< Estadisticas de los jugadores del Quilmes >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+D_Vega         GK   L 20  3  3  3 61 |  90   3   0   0   0   0   0   0   0   0 143   0   0   0 100
+Gonzalo_Bazan DFL  RL  2 20  7  4 53 |  90   0   2   0   0   0   0   0   0   0   0 180   0   0  33
+Ivan_Cordoba  DFC RLC  2 24  5  5 73 |  90   0   2   0   0   1   0   0   0   0   0 180   0  24  68
+Juan_Rocchia  DFC  LC  2 21  4 13 42 |  90   0   0   0   0   1   0   0   0   0   0   0   0  24  40
+J_Botinelli   DFR   R  3 21  8  8 68 |  90   0   2   0   0   0   0   0   0   0   0 180   0   0  79
+Hernán_Bruno  DMC   C  3 12 14  8 73 |  90   0   1   1   0   0   0   0   0   0   0  90  45   0  73
+Nico_Bertolo  MFR   R  1  1 24 14 68 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  62
+Isgut         MFL RLC  2  5 16  5 52 |  90   0   0   1   0   0   0   0   0   0   0   0  45   0  32
+Kittan_Bachik AMC   L  4  6 16 13 50 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  50
+R_Saa         FWR   R  3  4  5 19 42 |  90   0   0   0   0   1   0   0   0   0   0   0   0  16  42
+Kazu_Miura    FWL RLC  2  2  6 21 62 |  90   0   0   0   0   0   1   0   0   0   0  92  92 170  56
+B_Buticce      GK   L 13  2  2  2 51 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Milton_Casco  DFC  RC  2 18  5  5 70 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  92
+W_Jhokusht    DFC   R  2  5 16  5 39 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+R_Faeck       MFC   R  2  4 16  4 41 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Jacobo_Urso   DMC   C  2 13 11  5 72 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Nico_Chetti   FWC   R  5  7  6 17 82 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Lobo_Fischer  FWC   L  2  5  5 16 57 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  3   7   2   0   3   1   0   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+arg     0     85.02    82.64    76.27
+qui     0     83.41    59.68    50.71
+arg    10     83.00    80.07    74.10
+qui    10     81.01    57.96    48.99
+arg    20     80.37    77.30    71.92
+qui    20     78.41    56.10    47.30
+arg    30     78.01    74.48    69.51
+qui    30     75.92    54.21    45.47
+arg    40     75.13    71.51    67.19
+qui    40     72.88    52.33    43.68
+arg    50     71.66    67.96    64.63
+qui    50     69.61    50.16    41.63
+arg    60     69.30    65.27    62.55
+qui    60     67.01    48.31    39.78
+arg    70     69.48    65.87    62.24
+qui    70     64.22    46.31    37.94
+arg    80     66.63    62.25    59.69
+qui    80     61.54    44.44    36.20
+arg    90     51.23    57.23    55.89
+qui    90     59.01    42.24    34.40
+
+
+1353980573

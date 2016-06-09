@@ -1,0 +1,177 @@
+Home                           Away
+----                           ----
+
+Rosario Central                Newell's Old Boys             
+
+GK  T_Azuasusht                GK  G_BurgosJr                
+DFR L_Abecasis                 DFR Gino_Peruzzi              
+DFC L_G_Pirez                  DFC M_Albela                  
+DFC Alpay_Ozalan               DFC Maxi_Batman               
+DFL Fabian_Monzon              DFL Y_Adno                    
+MFC J_P_Francia                DMC Edgar_Davids              
+MFC Paulo_Rink                 DMC M_Schwarzer               
+MFR G_Karagounis               AMC A_Panenka                 
+AML A_Isyowj                   FWL A_Ortega                  
+FWC N_Nicolay                  FWC A_Chavez                  
+FWR S_Biglieri                 FWR K_Irtirt                  
+
+4-3-1-2 Counter Attack         4-2-0-1-3 Counter Attack       
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  3 :(rce) Paulo_Rink con un pase de tiralíneas para J_P_Francia
+          ...  M_Albela llega como un tren y corta el ataque lanzándose al suelo
+Min.  4 :(new) K_Irtirt gana metros
+          ...  K_Irtirt se deshace de su marcador ! 
+          ...  Buen movimiento! Y dispara!
+          ...  Se estrella en el larguero!! 
+          ...  Controla el rebote con el pecho 
+          ...  OHHHHHHHH !! 
+          ...  Un defensa ha estado más rápido y ha enviado el balón fuera
+Min.  6 :(new) Edgar_Davids avanza con el balón controlado
+          ...  Ve el desmarque de un compañero!
+          ...  Cruza el pase!
+          ...  A_Chavez con un control facilísimo
+          ...  Falla en el control
+          ...  y Fabian_Monzon no desaprovecha el regalo
+Min. 30 :(rce) Paulo_Rink con una entrada asesina 
+          ...  Le ha pegado con toda la mala leche del mundo!!!
+          ...  el arbitro  se 'come' la cartulina. Eso era amarilla!
+Min. 31 :(rce) S_Biglieri encara al defensa
+          ...  Frena un poco y arranca por el otro lado!
+          ...  Uau! Vaya cambio de ritmo!
+          ...  M_Albela entra a ras de suelo
+          ...  El delantero no tiene más remedio que saltar por encima
+          ...  Se ha jugado el físico! Qué tío!
+Min. 38 :(new) A_Ortega evita la dura entrada de su marcador
+          ...  A_Ortega impacta el balón con dureza !
+          ...  T_Azuasusht mete la pierna
+          ...  Hay que blocar el balón jefe!
+Min. 43 :(new) K_Irtirt ubica el balón a la espalda de la defensa. A_Ortega busca el desmarque
+          ...  L_G_Pirez lo envía al césped
+          ...  Los aficionados reclaman penalti!
+          ...  Pero el arbitro  se desentiende de la jugada!
+Min. 45 :(new) C_Tula se despoja del chándal. Entrará por M_Schwarzer 
+          ...  Jugará de DMC 
+          ...  El entrenador reza para que el cambio de sus frutos
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 50 :(rce) Paulo_Rink centra desde la banda, encuentra a L_Abecasis en el área
+          ...  M_Albela envía el balón suelto a las nubues. Cuidado con los pájaros!
+Min. 55 :(rce) J_P_Francia envía a su oponente al césped!!
+          ...  Menudo trompazo!!
+          ...  Eso será targeta y con todo merecimiento
+          ...  AMARILLA!!
+Min. 55 :(new) Maxi_Batman cede atrás para A_Chavez
+          ...  L_Abecasis llega como un tren y corta el ataque lanzándose al suelo
+Min. 57 :(new) Y_Adno combina con K_Irtirt. Juegan de memoria!
+          ...  Alpay_Ozalan llega velozmente y mete la planta del pie
+          ...  Qué velocidad!
+Min. 58 :(new) Gino_Peruzzi para K_Irtirt
+          ...  K_Irtirt dispara un verdadero obús !
+          ...  OOOOOOHHHHHHHH 
+          ...  A salido lamiendo el palo
+Min. 65 :(rce) J_P_Francia tiene campo por delante
+          ...  Pasa a S_Biglieri
+          ...  Gino_Peruzzi despeja sin miramientos
+Min. 73 :(rce) S_Biglieri envía a su oponente al césped!!
+          ...  Menudo trompazo!!
+          ...  AMARILLA!!
+          ...  Tendrá que medir un pocos sus acciones desde este momento
+Min. 75 :(new) Gino_Peruzzi cambia su ubicación en el campo. Ahora juega de MFR
+Min. 75 :(new) Y_Adno pasa a jugar de MFL tras recibir las indicaciones de su entrenador
+Min. 75 :(new) Parece que C_Tula va a jugar ahora de DFC
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : rce  0 new 2
+tiros a puerta       : rce  0 new 1
+
+Marcador             : rce  0 new 0
+
+
+<<< Estadisticas de los jugadores del Rosario Central >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+T_Azuasusht    GK   R 22  4  3  4 42 |  90   1   0   0   0   0   0   0   0   0  43   0   0   0 100
+L_Abecasis    DFR   R  3 21  7  5 69 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  79
+L_G_Pirez     DFC RLC  4 22  7 10 51 |  90   0   1   0   0   0   0   0   0   0   0  95   0   0  71
+Alpay_Ozalan  DFC   C  2 24  8 11 49 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  68
+Fabian_Monzon DFL   L  1 25 18 10 63 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  77
+J_P_Francia   MFC   C  5 14 18 10 32 |  90   0   0   1   0   0   0   1   0   0   0   1  22   1  59
+Paulo_Rink    MFC RLC  3  6 20 14 68 |  90   0   0   2   0   0   0   0   0   0   0   0  42   0  77
+G_Karagounis  MFR  RC  2  1 21 14 56 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  75
+A_Isyowj      AML   L  5 12 18  9 86 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  85
+N_Nicolay     FWC RLC  1  1  9 16 23 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  58
+S_Biglieri    FWR   C  2  6  4 16 32 |  90   0   0   0   0   0   0   1   0   0   0   1   1   1  65
+Jorge_Broun    GK  RL 14  2  2  2 29 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+E_Andewjh     DFC   R  2 22  6  4 58 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Ronald_Raldes DFC   C  1 20  1  3 40 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Ricardo_Gomez MFC   L  2  6 16  5 47 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Galvaliz    MFC   L  2  6 10 10 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Bruy        MFC   R  5  9 16 13 34 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+P_Becker      FWC   C  2  5  7  9 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  1   4   3   0   0   0   2   0   0
+
+
+<<< Estadisticas de los jugadores del Newell's Old Boys >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+G_BurgosJr     GK   R 21  4  4  4 54 |  90   0   0   0   0   0   0   0   0   0  35   0   0   0 100
+Gino_Peruzzi  MFR   R  4 21  9 12 55 |  90   0   1   1   0   0   0   0   0   0   0  60  21   0  77
+M_Albela      DFC   C  3 27 10  5 55 |  90   0   3   0   0   0   0   0   0   0   0 180   0   0  74
+Maxi_Batman   DFC   C  3 20  7 10 79 |  90   0   0   1   0   0   0   0   0   0   0  35  21   0  81
+Y_Adno        MFL   L  4 17  9 11 58 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  77
+Edgar_Davids  DMC RLC  6 17 23 10 60 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  73
+M_Schwarzer   DMC  LC  3 17 17  6 32 |  44   0   0   0   0   0   0   0   0   0   0   0   0   0  81
+A_Panenka     AMC  RC  3  8 20 16 56 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  77
+A_Ortega      FWL   L  3  6 10 21 57 |  90   0   0   0   0   1   0   0   0   0   0   0   0  13  77
+A_Chavez      FWC   C  5  9 10 24 52 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  71
+K_Irtirt      FWR RLC  2  4  5 17 33 |  90   0   0   1   0   2   0   0   0   0   0   0  21  14  63
+S_Romero       GK   L 18  3  3  3 49 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+T_Vuvroapr    DFC   R  2 16  5  5 74 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Gianetti    DMC   C  4 17 12  9 83 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Tula        DFC   C  4 15 16  9 66 |  46   0   0   0   0   0   0   0   0   0   0   0   0   0  88
+T_Hirano      MFC   C  3 15 13  4 41 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+R_Saa         FWC   R  3  4  6 19 45 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Q_Duago       FWC   C  2  4  5 16 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   4   5   0   3   0   0   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+rce     0    105.86    79.31    41.26
+new     0    127.00    80.65    85.55
+rce    10    103.06    77.15    40.07
+new    10    123.74    78.62    83.32
+rce    20     99.97    74.97    38.59
+new    20    120.42    76.36    80.72
+rce    30     97.06    72.96    37.38
+new    30    116.68    73.76    78.25
+rce    40     94.20    70.71    35.92
+new    40    113.36    71.69    75.75
+rce    50     90.90    68.23    34.34
+new    50    110.70    71.01    74.07
+rce    60     87.86    65.91    32.97
+new    60    107.61    68.89    71.34
+rce    70     84.81    63.71    31.62
+new    70    104.32    66.86    68.72
+rce    80     81.86    61.41    30.02
+new    80     87.94    66.73    66.06
+rce    90     78.85    59.25    28.58
+new    90     85.00    64.44    63.88
+
+
+1374198065

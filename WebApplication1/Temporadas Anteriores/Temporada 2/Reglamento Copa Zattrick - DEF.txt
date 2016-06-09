@@ -1,0 +1,30 @@
+Auspiciantes:
+
+Partido Perdido: sumas $5000
+Partido Empatado: sumas $6000
+Partido Ganado: sumas $7000
+
+Campeonato ganado: sumas $15000
+Campeonato seg puesto: sumas $8000
+Campeonato ter puesto: sumas $4000
+
+Valor de la entrada: $20
+
+Premios:
+
+Por salir Campeon, se te otorgaran 1.500.000,
+Por salir Segundo, se te otorgaran 750.000,
+Por salir Tercero, se te otorgaran 250.000.
+
+Tener al Goleador, se te otorgaran 100.000
+
+
+Formato:
+
+Habra un repechaje entre los 4 equipos que estuvieron en la "B" durante la ultima temporada y los dos ganadores clasifican a la Copa.
+
+Se Sortearan los 12 equipos en 3 Grupos.
+
+Estos jugaran partidos ida y vuelta, y los mejores 1°, y 2° de cada grupo junto con los dos mejores 3°ros pasan a la siguiente ronda de eliminacion.
+
+En la ronda de eliminacion, tambien seran de ida y vuelta, a doble jornada (gol de visitante NO vale doble).

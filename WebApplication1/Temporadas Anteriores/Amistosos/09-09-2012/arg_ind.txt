@@ -1,0 +1,329 @@
+Home                           Away
+----                           ----
+
+Argentinos                     Independiente                 
+
+GK  O_Ibsi                     GK  A_Gabbarini               
+DFR E_Broedn                   DFR G_Peruzzi                 
+DFC K_Elotya                   DFC F_Ikube                   
+DFC Pateatraseros              DFC Mario_Bolatti             
+DFL Y_Adno                     DFL C_Tula                    
+DMC Ariel_Seltzer              MFR F_Monserrat               
+MFL R_Chaert                   MFC Dickson_Etuhu             
+MFR Kaka                       MFL R_Bochini                 
+AMC E_Lavezzi                  MFC Leo_da_Silva              
+FWR A_Morón                    FWR R_Saa                     
+FWL G_Higuain                  FWL F_Parra                   
+
+4-1-2-1-2 Attacking            4-4-2 Passing                  
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  9 :(arg) Pateatraseros con un pase de tiralíneas para Ariel_Seltzer
+          ...  Ariel_Seltzer no va a llegar. Sí, mete el pie...!
+          ...  Pero se las arregla para fallar
+          ...  Pone cara de mala leche. Menudo fallo!
+Min. 10 :(arg) E_Lavezzi encara a su marcador
+          ...  Lo sienta con una croqueta!
+          ...  Eso lo hacía Michael Laudrup!
+          ...  Y ahora suelta un pase impresionante hacia Kaka
+          ...  Pierde el control del balón
+          ...  Mario_Bolatti despeja sin miramientos
+Min. 11 :(ind) R_Bochini avanza con el balón controlado
+          ...  Ve el desmarque de un compañero!
+          ...  Cruza el pase!
+          ...  F_Parra con un control facilísimo
+          ...  F_Parra chuta!
+          ...  O_Ibsi para
+          ...  Colocación y reflejos, la clave en un portero
+Min. 17 :(ind) F_Ikube encuentra una autopista en la defensa
+          ...  Prepara el disparo
+          ...  F_Ikube trata de sorprender a al portero ! 
+          ...  O_Ibsi cierra el ángulo y atrapa la pelota con facilidad
+Min. 18 :(ind) F_Monserrat hace una bicicleta y cambia el juego hacia R_Saa
+          ...  R_Saa impacta el balón con dureza !
+          ...  O_Ibsi mete la pierna
+          ...  Hay que blocar el balón jefe!
+Min. 19 :(arg) G_Higuain controla de espaldas a la portería
+          ...  Se protege del defensa con los brazos
+          ...  Gira... y se lo lleva!
+          ...  G_Higuain prueba suerte!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  El portero no se mueve !!
+          ...  Pero sale a centímetros de la escuadra!
+          ...  el portero respira aliviado!
+Min. 20 :(ind) F_Parra se aprovecha un horrible pase hacia atrás
+          ...  F_Parra salta y pica el balón perfectamente de cabeza !
+          ...  Impacta la pelota con precisión y suavidad!! 
+          ...  GOOOOOL !!
+          ...  Levanta los brazos!
+          ...  Qué frialdad! Qué calidad! Qué golazo!
+          ...  arg 0-1 ind ...
+Min. 22 :(arg) Kaka aprovecha un fallo defensivo
+          ...  Eso ha sido afortunado
+          ...  C_Tula lee la jugada antes de que se produzca y corta el balón
+Min. 22 :(ind) F_Monserrat mete un balón medido para Mario_Bolatti
+          ...  Pateatraseros levanta al delantero dos metros del suelo!!
+          ...  Ay va! Qué entrada!
+          ...  El colegiado se acerca corriendo!
+          ...  Y le dice al delantero que no haga cuento!
+Min. 23 :(ind) R_Saa cuelga de primeras para C_Tula
+          ...  C_Tula toca la pelota de primeras!
+          ...  Rebota en el palo!! 
+          ...  Se anticipa al defensa para el rebote 
+          ...  Es gol de Abreu, Abreu, Abreeeeeeeeeeu !! 
+          ...  Ha tirado fuera! Como? Si no había portero!
+Min. 25 :(ind) F_Monserrat con un tremendo sprint
+          ...  F_Monserrat dispara un verdadero obús !
+          ...  O_Ibsi hinca la rodilla en el suelo y despeja
+          ...  Ei! Eso es estilo argentino!
+Min. 29 :(arg) Pateatraseros con una entrada desmesurada 
+          ...  Creo que buscaba el balón, pero debería calmarse un poquito
+          ...  AMARILLA!!
+Min. 30 :(ind) Mario_Bolatti con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia C_Tula
+          ...  C_Tula con un verdadero obús !
+          ...  O_Ibsi adivina la direeción del balón y lo retiene
+Min. 31 :(arg) K_Elotya con un inteligente cambio de dirección
+          ...  Mario_Bolatti corta
+Min. 31 :(ind) Dickson_Etuhu controla el balón en una demostración de clase
+          ...  Abre el juego a la derecha!
+          ...  F_Parra recibe la pelota!
+          ...  Y_Adno corta con claridad
+          ...  Midió a la perfección! Su entrenador aplaude
+Min. 32 :(arg) G_Higuain se cuela con potencia entre los centrales
+          ...  Suelta un latigazo con su pierna izquierda!
+          ...  A_Gabbarini flota sobre la línea de meta
+          ...  Mete la mano
+          ...  Córner? No! Se equivocó!
+Min. 32 :(ind) R_Saa envía un pase en profundidad hacia F_Monserrat
+          ...  E_Broedn despeja el balón hacia la grada
+          ...  Ei! Un aficionado se lleva el balón! Al ladrón
+Min. 34 :(ind) F_Monserrat se cuela hasta la línea de fondo
+          ...  Centra al segundo palo
+          ...  R_Saa entra el remate
+          ...  Pero Y_Adno roba la pelota
+Min. 39 :(arg) Ariel_Seltzer se cuela por la banda
+          ...  Centra hacia E_Lavezzi
+          ...  E_Lavezzi le pega con la zurda!
+          ...  A_Gabbarini se saca el balón de encima como puede
+          ...  Poco estético, pero efectivo!
+Min. 39 :(ind) Dickson_Etuhu mete un balón interior para Leo_da_Silva
+          ...  Leo_da_Silva se lanza en plancha... ! 
+          ...  Qué valentía!
+          ...  Pero O_Ibsi desvía el lanzamiento 
+          ...  el arbitro  da saque de puerta 
+          ...  Algún oculista en la grada??? Es urgente!!!
+Min. 43 :(arg) Y_Adno pica el balón por encima de la defensa hacia G_Higuain
+          ...  G_Higuain resuelve la jugada con un taconazo!
+          ...  Dispara demasiado alto!
+          ...  9 de cada 10 de estas ocasiones acaban en gol!
+Min. 43 :(ind) C_Tula asiste a G_Peruzzi dentro del área
+          ...  Pateatraseros pone el pie en el momento oportuno y despeja el balón
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 46 :(arg) K_Elotya se va de uno
+          ...  Regatea a otro!
+          ...  A otro! Parece Maradona contra Inglaterra!
+          ...  Puede marcar! El gol del siglo!
+          ...  K_Elotya busca el palo largo del portero !
+          ...  Es incapaz de chutar a puerta!
+          ...  Ha tardado una eternidad!
+          ...  Será el efecto Matrix????
+Min. 50 :(arg) D_M_Vilariño se despoja del chándal. Entrará por Ariel_Seltzer 
+          ...  Jugará de DMC 
+          ...  El entrenador reza para que el cambio de sus frutos
+Min. 52 :(ind) R_Bochini entra con los tacos por delante 
+          ...  Le ha pegado con toda la mala leche del mundo!!!
+          ...  AMARILLA!!
+          ...  Increíble! Una de las más rigurosas de la historia de Zattrick Fútbol
+Min. 53 :(arg) R_Chaert pasa de rabona hacia Y_Adno. Madre mía! Ha nacido en Brasil?
+          ...  G_Peruzzi se interpone entre el delantero y el balón!
+Min. 55 :(ind) F_Parra para y espera algún apoyo
+          ...  Corre hacia el marco
+          ...  Corte finísimo de Pateatraseros
+          ...  Y evita el córner! Está en un momento dulce!
+Min. 58 :(arg) Pateatraseros con el lanzamiento de la falta
+          ...  Ve el desmarque de su compañero
+          ...  El balón va directo hacia el pie de R_Chaert
+          ...  R_Chaert regatea a uno, dos y chuta!
+          ...  Dispara fuera
+Min. 59 :(arg) Kaka cruza la línea de medios
+          ...  Ve un hueco en el flanco
+          ...  Mete el balón sobre la llegada de G_Higuain
+          ...  G_Higuain connecta el balón con la cabeza y lo peina hacia atrás!
+          ...  A_Gabbarini lo para cómodamente
+          ...  El disparo nunca llevó peligro real
+Min. 59 :(ind) F_Parra de tacón para R_Saa
+          ...  R_Saa chuta sin mirar al portero !
+          ...  O_Ibsi ha estado afortunado en esa jugada
+Min. 60 :(arg) Confirmado! Hay cambio 
+          ...  C_Sanchez entrará en lugar de Kaka. Se ubica como MFR
+Min. 61 :(ind) Leo_da_Silva recibe un gran pase
+          ...  E_Broedn sale al corte... lo logra!
+Min. 62 :(arg) C_Sanchez cambia el juego hacia K_Elotya 
+          ...  K_Elotya acomoda su cuerpo y suelta... uau! Qué cañonazo!
+          ...  el portero ve salir el balón demasiado alto!
+          ...  Pero ojo con el efecto!!
+          ...  Pega en el palo !!
+          ...  Y fuera. el portero parece sorprendido!
+Min. 64 :(arg) C_Sanchez pide desesperado un apoyo
+          ...  No aparece nadie! Está rodeado!
+          ...  Abre hacia el extremo!
+          ...  A_Morón controla la pelota
+          ...  Pero G_Peruzzi aparece desde atrás y corta el balón
+          ...  El público ruge pidiendo falta. el arbitro  se hace el sueco!
+Min. 65 :(arg) R_Chaert con una entrada asesina 
+          ...  "FUERA, FUERA, FUERA" ruge el estadio
+          ...  AMARILLA!!
+Min. 67 :(ind) Mario_Bolatti se abre a la banda y cambie el juego hacia R_Saa
+          ...  E_Broedn sale al corte como un búfalo salvaje
+Min. 68 :(ind) Dickson_Etuhu con el saque de banda
+          ...  Ve a un compañero sólo!
+          ...  El balón vuela hacia F_Parra
+          ...  F_Parra empalma el balon con una rabona! Qué frivolidad!!
+          ...  O_Ibsi se saca el balón de encima como puede
+          ...  Poco estético, pero efectivo!
+Min. 70 :(arg) R_Chaert cuelga de primeras para G_Higuain
+          ...  G_Higuain suelta un terrible disparo por debajo de las piernas de su marcador !
+          ...  Pero A_Gabbarini alcanza la pelota con el puño 
+          ...  Tuvo suerte de llegar a ese disparo
+Min. 70 :(arg) R_Mehecli entra y E_Lavezzi se va la ducha antes de tiempo 
+          ...  Todo apunta a que se ubicará en AMC
+Min. 72 :(arg) R_Mehecli mira a la derecha
+          ...  Y cruza a la izquierda para G_Higuain. Eso lo hacía Laudrup!
+          ...  F_Ikube va en carrera y agarra al delantero por la camiseta!!
+          ...  Falta!!
+          ...  El árbitro no lo ha visto
+          ...  El defensa sonríe! El delantero pone cara de incredulidad
+Min. 74 :(ind) Dickson_Etuhu se va de tres contrarios
+          ...  Dickson_Etuhu prueba suerte!
+          ...  el portero no va a llegar!
+          ...  OH!  Sale rozando el larguero! 
+          ...  el portero sonríe
+          ...  El que ríe último...
+Min. 78 :(ind) Dickson_Etuhu llega el priimero al balóm suelto
+          ...  Y lo mete en profundidad hacia R_Saa
+          ...  R_Saa mira al portero!
+          ...  Trata de superarlo por el palo largo!
+          ...  Coloca el balón lejos del alcance del portero!! 
+          ...  Pero da en el palo !!
+          ...  Bueno, los palos también juegan!!
+Min. 78 :(ind) R_Saa le pone la zancadilla!!
+          ...  Qué entrada más ruin!
+          ...  el arbitro  busca nerviosamente en sus bolsillos!
+          ...  Medita su decisión!
+          ...  AMARILLA!! Tanto cuento para esto...
+Min. 83 :(ind) C_Tula se abre a la banda y cambie el juego hacia F_Parra
+          ...  F_Parra tiene tiempo y espacio!
+          ...  Chuta!
+          ...  Golpea las vallas publicitarias
+Min. 88 :(arg) E_Broedn para el balón
+          ...  Levanta la vista y ve a un compañero completamente sólo!
+          ...  Le envía el pase con el exterior!
+          ...  R_Chaert controla el milimétrico pase. Hasta yo lo hubiera hecho!
+          ...  Punterazo impresionante de R_Chaert !
+          ...  el portero ve como el balón se pierde lejos de su marco
+Min. 90 :(arg) Y_Adno recupera el balón
+          ...  Levanta la cabeza!
+          ...  Ve el desmarque de su compañero
+          ...  R_Chaert recibe un pase increíble
+          ...  Se marcha!
+          ...  R_Chaert resuelve la jugada con un taconazo!
+          ...  A_Gabbarini vuela sobre la línea de gol
+          ...  Alcanza el balón y lo estrecha contra su pecho!
+
+El arbitro añadira 3 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : arg  7 ind 4
+tiros a puerta       : arg  5 ind 9
+
+Marcador             : arg  0 ind 1
+
+
+<<< Estadisticas de los jugadores del Argentinos >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+O_Ibsi         GK   R 16  3  4  5 41 |  90   8   0   0   0   0   0   0   0   0  32   0   0   0 100
+E_Broedn      DFR   R  3 14  5  7 42 |  90   0   3   1   0   0   0   0   0   0   0 129  12   0  69
+K_Elotya      DFC  RC  3 20  6  7 46 |  90   0   0   0   0   2   0   0   0   0   0   0   0   8  51
+Pateatraseros DFC RLC  3 25  6  5 77 |  90   0   3   2   0   0   0   1   0   0   0 114   9 -15  71
+Y_Adno        DFL   L  4 16  9 11 56 |  90   0   2   2   0   0   0   0   0   0   0  86  24   0  72
+Ariel_Seltzer DMC   L  1 17 15 10 55 |  49   0   0   1   0   1   0   0   0   0   0   0  12   4  85
+R_Chaert      MFL  RL  3  7 13 15 70 |  90   0   0   2   0   3   0   1   0   0   0  -5  19  11  83
+Kaka          MFR   R  3  6 15  6 48 |  59   0   0   1   0   0   0   0   0   0   0   0  12   0  82
+E_Lavezzi     AMC  RC  3  5 17  6 39 |  69   0   0   1   0   1   0   0   0   0   0   0  12   8  74
+A_Morón       FWR   C  3  6  4 17 60 |  90   0   0   0   0   0   0   0   0   0   0 -10 -10 -10  75
+G_Higuain     FWL   L  3  6  7 15 64 |  90   0   0   0   0   5   0   0   0   0   0   0   0  32  76
+S_Romero       GK   L 18  3  3  3 49 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+jm            DFC   R  3 17  6  7 64 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  77
+P_Rotchen     DFC   C  3 17  6  5 28 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  69
+C_Sanchez     MFR RLC  2  5 13  4 36 |  31   0   0   2   0   0   0   0   0   0   0   0  24   0  88
+D_M_Vilariño  DMC   R  3 12 10  6 34 |  41   0   0   0   0   0   0   0   0   0   0   0   0   0  83
+R_Mehecli     AMC   R  4  9 14 13 53 |  21   0   0   1   0   0   0   0   0   0   0   0  12   0  93
+Il_F_Marelli  FWC   R  3  7  9 20 57 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  8   8  13   0  12   0   2   0   0
+
+
+<<< Estadisticas de los jugadores del Independiente >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+A_Gabbarini    GK RLC 28  3  3  3 57 |  90   5   0   0   0   0   0   0   0   0  46   0   0   0 100
+G_Peruzzi     DFR   R  3 22  6 10 68 |  90   0   2   0   0   0   0   0   0   0   0  86   0   0  79
+F_Ikube       DFC   C  4 16 10  9 34 |  90   0   1   0   0   1   0   0   0   0   0  43   0   8  66
+Mario_Bolatti DFC   C  2 15 21 10 41 |  90   0   2   2   0   0   0   0   0   0   0  86  24   0  67
+C_Tula        DFL   C  4 14 15  9 57 |  90   0   1   2   0   2   0   0   0   0   0 123  78  66  75
+F_Monserrat   MFR   R  3 12 15  7 73 |  90   0   0   3   0   1   0   0   0   0   0  54  90  62  81
+Dickson_Etuhu MFC  RC  3  6 14 16 71 |  90   0   0   4   0   1   0   0   0   0   0   0  48   4  79
+R_Bochini     MFL   L  3  6 20  5 42 |  90   0   0   1   0   0   0   1   0   0   0  -5   7  -5  67
+Leo_da_Silva  MFC RLC  2  4 17 22 40 |  90   0   0   0   0   1   0   0   0   0   0   0   0   8  67
+R_Saa         FWR   R  3  4  5 18 40 |  90   0   0   2   0   3   0   1   0   0   0  -5  19  15  66
+F_Parra       FWL   L  3  7  7 17 31 |  90   0   0   1   0   4   1   0   0   0   0   0  12  68  64
+H_Navarro      GK   C 17  3  3  3 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Galeano     DFC RLC  3 14  8  7 55 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Ever_Ludueña  DFR   R  3 13  6  5 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+A_Argacha     MFL   R  3 10 10  6 43 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+O_Ferreyra    DMC  RL  3  6 14  6 53 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Gino_Clara    AMC   C  3  8  8 16 69 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Nuñez       FWC  RC  3  8  4 14 33 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  5   6  15   0  13   1   2   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+arg     0     75.12    70.68    83.20
+ind     0     72.95   110.91    58.11
+arg    10     73.54    69.05    81.45
+ind    10     71.08   108.14    56.27
+arg    20     71.16    66.88    79.27
+ind    20     68.88   104.66    54.14
+arg    30     68.61    64.86    77.16
+ind    30     66.75   101.15    52.37
+arg    40     66.21    62.94    75.00
+ind    40     64.61    97.94    50.41
+arg    50     63.66    60.68    72.41
+ind    50     62.09    94.21    48.44
+arg    60     60.55    57.12    69.15
+ind    60     60.00    90.75    46.47
+arg    70     58.46    55.84    66.25
+ind    70     58.02    87.59    44.67
+arg    80     55.96    52.42    69.80
+ind    80     56.07    84.31    42.63
+arg    90     53.76    50.51    67.22
+ind    90     53.90    80.81    40.41
+
+
+1347239150

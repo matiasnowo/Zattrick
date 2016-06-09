@@ -1,0 +1,192 @@
+
+
+Injuries:
+---------
+
+M_Materazzi (ban) Ya está listo para jugar despues de su lesión
+B_Lizarazu (boc) Ya está listo para jugar despues de su lesión
+Mario_Bolatti (ind) Ya está listo para jugar despues de su lesión
+H_Fredes (ind) Ya está listo para jugar despues de su lesión
+D_Villalva (riv) Ya está listo para jugar despues de su lesión
+D_Montenegro (rce) Ya está listo para jugar despues de su lesión
+H_Castellano (ald) solo se quedo en un susto y estara apto para el siguiente partido
+C_Alvarez (ald) estara de baja una semana por una micro-rotura
+A_Isyowj (rce) solo se quedo en un susto y estara apto para el siguiente partido
+Espeon (riv) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+
+
+
+Suspensions:
+------------
+
+Steelix (alb) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Charizard (alb) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+RV_Nistelrooy (ban) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+M_Platini (riv) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+A_Chari (tig) ha sido suspendido por 2 partidos
+D_Passarella (riv) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+L_Álvarez (ban) Ps aumenta su media gracias al skills
+K_Kamamoto (ban) Ps aumenta su media gracias al skills
+J_Lujambio (ban) Ps aumenta su media gracias al skills
+J_Lujambio (ban) Sh aumenta su media gracias al skills
+A_Chari (tig) Tk aumenta su media gracias al skills
+M_Albela (tig) Tk aumenta su media gracias al skills
+JP_Sorin (ald) Tk aumenta su media gracias al skills
+C_Fabbiani (ald) Tk aumenta su media gracias al skills
+Jackson_Mrtnz (ald) Sh aumenta su media gracias al skills
+L_Matthaus (alb) Ps aumenta su media gracias al skills
+Zapdos (alb) Sh aumenta su media gracias al skills
+Articuno (alb) Sh aumenta su media gracias al skills
+I_Velez (ind) Tk aumenta su media gracias al skills
+Franco_Baresi (oli) Tk aumenta su media gracias al skills
+Aaron_Lennon (rce) Ps aumenta su media gracias al skills
+W_Samuel (boc) Tk aumenta su media gracias al skills
+W_Samuel (boc) Ps aumenta su media gracias al skills
+Z_Boban (boc) Ps aumenta su media gracias al skills
+P_Ledesma (boc) Ps aumenta su media gracias al skills
+Nico_Blandi (boc) Sh aumenta su media gracias al skills
+Mati_Jdm (riv) Tk aumenta su media gracias al skills
+D_Passarella (riv) Tk aumenta su media gracias al skills
+E_Carolo (riv) Ps aumenta su media gracias al skills
+F_Morientes (riv) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         19  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 19)
+Assists:       11  (DFs - 2, DMs - 0, MFs - 8, AMs - 1, FWs - 0)
+Yellow cards:  13
+Red cards:      1
+Injuries:       4
+
+Top performers:
+
+Chipi_Barijho (ban)   73
+Mono_Navarro (tig)    72
+K_Kamamoto (ban)      51
+J_Lujambio (ban)      47
+Shirou_Emiya (ban)    39
+Nico_Blandi (boc)     37
+JP_Sorin (ald)        36
+M_Rodriguez (ban)     35
+Zapdos (alb)          35
+E_Berizzo (vel)       30
+I_Velez (ind)         29
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Aldosivi                7    5   1   1    15    4   11    16
+2    Velez                   7    5   1   1    12    7    5    16
+3    All Boys                6    3   3   0     7    2    5    12
+4    Independiente           7    3   2   2     8    7    1    11
+5    Arsenal                 6    3   1   2     5    5    0    10
+6    Banfield                7    2   2   3     6    5    1     8
+7    San Lorenzo             6    1   3   2     4    5   -1     6
+8    River Plate             6    1   1   4     5    9   -4     4
+9    Boca Juniors            7    1   1   5     7   15   -8     4
+10   Olimpo                  1    1   0   0     2    1    1     3
+11   Argentinos              5    1   0   4     3    8   -5     3
+12   River PLate             1    0   1   0     1    1    0     1
+13   Rosario Central         1    0   0   1     1    2   -1     0
+14   Tigre                   1    0   0   1     0    5   -5     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        6     11
+C_Fabbiani (ald)         7     11
+Zapdos (alb)             7     11
+J_Lujambio (ban)         7      8
+F_Morientes (riv)        7      8
+F_Estoyanoff (vel)       7      8
+Jackson_Mrtnz (ald)      6      5
+Nico_Martinez (ind)      7      5
+M_Palermo (boc)          7      5
+Charizard (alb)          6      4
+H_Crespo (riv)           6      4
+Chipi_Barijho (ban)      2      3
+M_Zarate (vel)           4      3
+Leo_da_Silva (ind)       3      2
+RV_Nistelrooy (ban)      6      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Mono_Navarro (tig)       7    285
+Zapdos (alb)             7    179
+M_Moralez (vel)          7    167
+JP_Carrizo (alb)         7    165
+F_Estoyanoff (vel)       7    158
+A_Fernandez (vel)        7    156
+C_Fabbiani (ald)         7    147
+J_Lujambio (ban)         7    147
+F_Morientes (riv)        7    147
+Espeon (riv)             7    140
+R_Pereyra (riv)          6    136
+Kun_Aguero (ind)         7    135
+R_Monserrat (ald)        6    133
+Nico_Blandi (boc)        6    129
+K_Kamamoto (ban)         7    124
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+R_Monserrat (ald)        6      6
+S_Staunton (alb)         6      4
+David_Beckham (ald)      6      3
+R_Pereyra (riv)          6      3
+Ray_Wilkins (ban)        7      3
+John_A_Riise (alb)       7      3
+Nwankwo_Kanu (ban)       7      3
+P_Ledesma (boc)          7      3
+Kun_Aguero (ind)         7      3
+Espeon (riv)             7      3
+M_Moralez (vel)          7      3
+Juan_J_Jayo_L (boc)      3      2
+Enzito_C (vel)           3      2
+Flordelmundo (vel)       4      2
+R_Alvarez (vel)          5      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+A_Chari (tig)            7      6
+Leo_da_Silva (ind)       3      5
+C_Alvarez (ald)          4      5
+Jackson_Mrtnz (ald)      6      5
+G_Funes_Mori (riv)       0      4
+M_Platini (riv)          0      4
+Nico_Blandi (boc)        6      4
+Éric_Cantona (boc)       6      4
+Lobo_Cordone (oli)       0      3
+Nico_Cabre (vel)         0      3
+M_Rodriguez (ban)        2      3
+J_Sanguinetti (rce)      2      3
+D_Passarella (riv)       5      3
+M_Mea_Vitali (ban)       6      3
+Charizard (alb)          6      3
+

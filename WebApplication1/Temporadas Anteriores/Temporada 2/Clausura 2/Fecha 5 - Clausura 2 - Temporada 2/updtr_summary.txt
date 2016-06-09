@@ -1,0 +1,183 @@
+
+
+Injuries:
+---------
+
+G_Esmerado (ars) Ya está listo para jugar despues de su lesión
+Nwankwo_Kanu (ban) Ya está listo para jugar despues de su lesión
+H_Castellano (ald) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+JP_Sorin (ald) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+Oliver_Atom (ald) solo se quedo en un susto y estara apto para el siguiente partido
+P_Ledesma (boc) estara de baja durante 3 partidos por una fractura en el brazo
+Charizard (alb) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+
+
+
+Suspensions:
+------------
+
+L_Nowogrodzki (ban) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+C_Arano (riv) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+M_Mea_Vitali (ban) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+P_Ferrari (riv) Tk aumenta su media gracias al skills
+D_Passarella (riv) Tk aumenta su media gracias al skills
+El_Misha (riv) Ps aumenta su media gracias al skills
+Espeon (riv) Tk aumenta su media gracias al skills
+Espeon (riv) Ps aumenta su media gracias al skills
+E_Carolo (riv) Ps aumenta su media gracias al skills
+F_Morientes (riv) Sh aumenta su media gracias al skills
+C_Ansaldi (vel) Ps aumenta su media gracias al skills
+C_Ansaldi (vel) Sh aumenta su media gracias al skills
+M_Moralez (vel) Ps aumenta su media gracias al skills
+L_Castroman (vel) Sh aumenta su media gracias al skills
+P_Ledesma (boc) Ps aumenta su media gracias al skills
+B_Lizarazu (boc) Sh aumenta su media gracias al skills
+Nico_Blandi (boc) Sh aumenta su media gracias al skills
+Diego_Torres (ars) Ps aumenta su media gracias al skills
+T_Svenssen (alb) Tk aumenta su media gracias al skills
+Venasaur (alb) Tk aumenta su media gracias al skills
+Hitmonlee (alb) Ps aumenta su media gracias al skills
+Hitmonlee (alb) Sh aumenta su media gracias al skills
+Zapdos (alb) Sh aumenta su media gracias al skills
+B_Leyenda (ban) St aumenta su media gracias al skills
+M_Dos_Santos (ban) Tk aumenta su media gracias al skills
+M_Materazzi (ban) Tk aumenta su media gracias al skills
+M_Materazzi (ban) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         13  (DFs - 1, DMs - 0, MFs - 1, AMs - 0, FWs - 11)
+Assists:       11  (DFs - 1, DMs - 0, MFs - 8, AMs - 1, FWs - 1)
+Yellow cards:   6
+Red cards:      0
+Injuries:       5
+
+Top performers:
+
+A_Dominguez (riv)     43
+Zapdos (alb)          33
+El_Misha (riv)        31
+L_Ocampos (ban)       29
+Venasaur (alb)        28
+F_Morientes (riv)     28
+M_Materazzi (ban)     28
+H_Crespo (riv)        26
+S_Staunton (alb)      25
+N_Friedlander (ald)   24
+T_Svenssen (alb)      24
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   7    6   1   0    13    4    9    19
+2    Aldosivi                7    4   1   2    13    7    6    13
+3    All Boys                6    3   3   0     8    3    5    12
+4    Independiente           7    3   2   2     7    5    2    11
+5    Arsenal                 7    3   1   3     5    7   -2    10
+6    River Plate             6    2   1   3     7    7    0     7
+7    San Lorenzo             6    1   3   2     4    5   -1     6
+8    Banfield                7    1   2   4     3    9   -6     5
+9    Boca Juniors            7    1   1   5     6   14   -8     4
+10   Argentinos              5    1   0   4     3    8   -5     3
+11   River PLate             1    0   1   0     1    1    0     1
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)       11     11
+M_Zarate (vel)          11      9
+H_Crespo (riv)           9      8
+J_Lujambio (ban)        10      8
+C_Fabbiani (ald)        12      7
+Zapdos (alb)             8      6
+M_Regueiro (ald)         7      4
+Charizard (alb)          8      4
+F_Morientes (riv)       10      4
+M_Palermo (boc)         11      4
+Franco_Jara (ars)       11      3
+Articuno (alb)           4      2
+G_B_Leschuk (ars)        5      2
+E_Zelaya (ars)           7      2
+G_Tidrokra (vel)         7      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+P_Ledesma (boc)         12    213
+M_Moralez (vel)         12    209
+JP_Carrizo (alb)        11    207
+H_Castellano (ald)      12    195
+Mati_Brad (boc)         12    192
+M_Zarate (vel)          11    191
+Mati_Jdm (riv)          12    178
+K_Kamamoto (ban)        10    171
+J_Yacuzzi (ars)         12    165
+A_Dominguez (riv)       10    164
+H_Fredes (ind)          10    159
+C_L_Diaz (ald)          11    150
+Nico_Blandi (boc)       11    147
+Wailord (alb)            8    145
+R_Monserrat (ald)       12    138
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+M_Moralez (vel)         12      5
+A_Fernandez (vel)        6      4
+Mati_Brad (boc)         12      4
+Javi_Morales (ars)       7      3
+A_Dominguez (riv)       10      3
+P_Ledesma (boc)         12      3
+Tom_Misaki (ald)         6      2
+S_Staunton (alb)         8      2
+S_Escudero (ald)         8      2
+C_Ansaldi (vel)          9      2
+L_Somoza (boc)           9      2
+K_Kamamoto (ban)        10      2
+W_Samuel (boc)          10      2
+M_Mea_Vitali (ban)      10      2
+El_Misha (riv)          11      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Steelix (alb)            8     11
+D_Montenegro (ind)       9      7
+Nico_Blandi (boc)       11      7
+Éric_Cantona (boc)      11      7
+M_Materazzi (ban)       11      7
+L_Galeano (ind)          5      6
+C_Pellerano (ind)        8      6
+H_Ibarra (boc)          10      6
+Tom_Misaki (ald)         6      5
+Satanas_Paez (ald)       9      5
+N_Otamendi (vel)        10      5
+F_Morientes (riv)       10      5
+R_Monserrat (ald)       12      5
+E_Yostik (ars)           0      4
+L_Nowogrodzki (ban)      3      4
+

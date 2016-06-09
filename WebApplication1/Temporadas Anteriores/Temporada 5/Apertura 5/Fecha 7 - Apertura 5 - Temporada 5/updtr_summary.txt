@@ -1,0 +1,213 @@
+
+
+Injuries:
+---------
+
+N_Odruska (arg) Ya está listo para jugar despues de su lesión
+Ruud_Gullit (arg) Ya está listo para jugar despues de su lesión
+J_Insaurralde (boc) Ya está listo para jugar despues de su lesión
+Nico_Blandi (boc) Ya está listo para jugar despues de su lesión
+R_Bochini (ind) Ya está listo para jugar despues de su lesión
+B_Ferreira (uni) Ya está listo para jugar despues de su lesión
+Michel_Bastos (uni) solo se quedo en un susto y estara apto para el siguiente partido
+Venasaur (alb) se mantendra alejado de los terrenos por 2 partidos debido a tener el tabique nasal roto
+W_Caballero (arg) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+
+
+
+Suspensions:
+------------
+
+Oscar (arg) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+M_Mea_Vitali (ban) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+C_Arano (riv) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+A_Dominguez (riv) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+F_Morientes (riv) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+N_Otamendi (vel) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+M_Uglessich (vel) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+E_Berizzo (vel) no podrá jugar el siguiente partido por sanción
+W_Shoojho (arg) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+H_Castellano (ald) St aumenta su media gracias al skills
+C_L_Diaz (ald) Tk aumenta su media gracias al skills
+M_Almada (ald) Ps aumenta su media gracias al skills
+Sergi (riv) Tk aumenta su media gracias al skills
+Mati_Jdm (riv) Sh aumenta su media gracias al skills
+El_Misha (riv) Ps aumenta su media gracias al skills
+Espeon (riv) Ps aumenta su media gracias al skills
+E_Carolo (riv) Ps aumenta su media gracias al skills
+H_Crespo (riv) Sh aumenta su media gracias al skills
+D_Trezeguet (riv) Sh aumenta su media gracias al skills
+G_Peruzzi (ind) Ps aumenta su media gracias al skills
+P_Rodriguez (ind) Ps aumenta su media gracias al skills
+H_Fredes (ind) Ps aumenta su media gracias al skills
+Kun_Aguero (ind) Tk aumenta su media gracias al skills
+Kun_Aguero (ind) Ps aumenta su media gracias al skills
+Franck_Ribéry (ind) Sh aumenta su media gracias al skills
+M_Barovero (vel) St aumenta su media gracias al skills
+C_Ansaldi (vel) Tk aumenta su media gracias al skills
+M_Zarate (vel) Sh aumenta su media gracias al skills
+B_Leyenda (ban) St aumenta su media gracias al skills
+Kasey_Keller (uni) St aumenta su media gracias al skills
+Edgardo_Bauza (uni) Tk aumenta su media gracias al skills
+F_Rijkaard (uni) Ps aumenta su media gracias al skills
+Steelix (alb) Tk aumenta su media gracias al skills
+S_Staunton (alb) Sh aumenta su media gracias al skills
+Zapdos (alb) Ps aumenta su media gracias al skills
+Zapdos (alb) Sh aumenta su media gracias al skills
+Franco_Baresi (oli) Tk aumenta su media gracias al skills
+Ariel_Zarate (oli) Ps aumenta su media gracias al skills
+Moltres (oli) Sh aumenta su media gracias al skills
+K_Elotya (arg) Tk aumenta su media gracias al skills
+S_Kun_Aguero (arg) Sh aumenta su media gracias al skills
+A_Orion (boc) St aumenta su media gracias al skills
+Davor_Suker (boc) Tk aumenta su media gracias al skills
+Eric_Gerets (boc) Sh aumenta su media gracias al skills
+Lucas_Moura (boc) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         18  (DFs - 3, DMs - 0, MFs - 2, AMs - 2, FWs - 11)
+Assists:       17  (DFs - 3, DMs - 1, MFs - 12, AMs - 1, FWs - 0)
+Yellow cards:  16
+Red cards:      1
+Injuries:       3
+
+Top performers:
+
+H_Castellano (ald)    54
+L_Matthaus (alb)      54
+Franck_Ribéry (ind)   51
+Luís_Fabiano (arg)    43
+Charizard (alb)       41
+Kun_Aguero (ind)      39
+Lucas_Moura (boc)     38
+P_Ledesma (boc)       38
+John_A_Riise (alb)    36
+Zapdos (alb)          35
+S_Staunton (alb)      34
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   7    5   1   1    12    7    5    16
+2    Independiente           7    4   2   1    10    4    6    14
+3    Aldosivi                7    4   1   2    12    5    7    13
+4    All Boys                6    3   3   0    10    1    9    12
+5    Arsenal                 7    3   2   2     5    5    0    11
+6    Banfield                7    2   2   3     3    5   -2     8
+7    River Plate             6    2   1   3     5    6   -1     7
+8    San Lorenzo             7    1   4   2     4    5   -1     7
+9    Argentinos              7    1   1   5     8   16   -8     4
+10   Colon de Santa Fe       1    1   0   0     8    1    7     3
+11   Estudiantes de La Plata   1    1   0   0     2    0    2     3
+12   Union de Santa Fe       2    1   0   1     5    4    1     3
+13   Boca Juniors            7    0   2   5     7   17  -10     2
+14   River PLate             1    0   1   0     1    1    0     1
+15   Ferro                   1    0   1   0     0    0    0     1
+16   Newell's Old Boys       1    0   1   0     0    0    0     1
+17   Quilmes                 1    0   1   0     0    0    0     1
+18   UAI Urquiza             1    0   1   0     0    0    0     1
+19   Racing                  1    0   0   1     0    2   -2     0
+20   Olimpo                  1    0   0   1     0    6   -6     0
+21   Gimnasia y Esgrima de La Plata   1    0   0   1     1    8   -7     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Charizard (alb)          5     14
+Zapdos (alb)             7     12
+Luís_Fabiano (arg)       7     11
+D_Trezeguet (riv)        7      9
+M_Zarate (vel)           6      8
+Franck_Ribéry (ind)      7      7
+RV_Nistelrooy (ban)      7      7
+Nico_Blandi (boc)        5      6
+F_Morientes (riv)        6      6
+Juan_M_Iturbe (ind)      7      6
+C_Fabbiani (ald)         7      5
+Nico_Martinez (ind)      7      4
+J_Lujambio (ban)         7      3
+F_Estoyanoff (vel)       7      3
+P_Iarley (boc)           6      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         6    270
+Franck_Ribéry (ind)      7    220
+Luís_Fabiano (arg)       7    198
+Charizard (alb)          5    196
+H_Fredes (ind)           7    193
+H_Castellano (ald)       7    180
+Zapdos (alb)             7    178
+D_Trezeguet (riv)        7    166
+T_Svenssen (alb)         7    160
+El_Misha (riv)           7    155
+Lucas_Moura (boc)        6    151
+M_Zarate (vel)           6    150
+John_A_Riise (alb)       7    147
+S_Staunton (alb)         7    145
+J_I_Sills (uni)          7    141
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         6     11
+Lucas_Moura (boc)        6      4
+S_Staunton (alb)         7      4
+H_Fredes (ind)           7      4
+John_A_Riise (alb)       7      4
+El_Misha (riv)           7      4
+Ruud_Gullit (arg)        6      3
+M_Moralez (vel)          6      3
+Franck_Ribéry (ind)      7      3
+Kun_Aguero (ind)         7      3
+Joe_Corona (arg)         5      2
+P_Ledesma (boc)          6      2
+Gareth_Bale (riv)        6      2
+M_Rodriguez (ban)        6      2
+Hitmonlee (alb)          7      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+A_Dominguez (riv)        0      4
+Nico_Cabre (vel)         0      3
+F_Marasco (uni)          2      3
+M_Mea_Vitali (ban)       4      3
+N_Otamendi (vel)         4      3
+J_Insaurralde (boc)      5      3
+Eric_Gerets (boc)        5      3
+W_Samuel (boc)           5      3
+E_Berizzo (vel)          5      3
+C_Arano (riv)            6      3
+M_Uglessich (vel)        6      3
+Wailord (alb)            6      3
+M_Ballack (oli)          6      3
+F_Morientes (riv)        6      3
+W_Shoojho (arg)          7      3
+

@@ -1,0 +1,184 @@
+
+
+Injuries:
+---------
+
+D_Vega (qui) Ya está listo para jugar despues de su lesión
+J_Botinelli (qui) Ya está listo para jugar despues de su lesión
+Carlos_Duré (ars) tendra que guardar reposo una semana por molestias en el muslo
+Moltres (oli) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+S_Bertoli (fer) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+
+
+
+Suspensions:
+------------
+
+H_Bracamonte (arg) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+M_Brau (ars) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Ricardo_Gomes (fer) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Jacobo_Urso (qui) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+F_Coloccini (slo) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+N_Ortigoza (slo) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+N_Nicolay (rce) no podrá jugar el siguiente partido por sanción
+Angel_Carreño (fer) no podrá jugar el siguiente partido por sanción
+Carlos_Netto (slo) no podrá jugar el siguiente partido por sanción
+Guille_Franco (slo) ha sido suspendido por 2 partidos
+W_Shoojho (arg) ha sido suspendido por 3 partidos
+
+
+
+Skill changes:
+--------------
+
+J_Dudek (rce) Ps aumenta su media gracias al skills
+Paulo_Rink (rce) Sh aumenta su media gracias al skills
+A_Matellan (ars) Tk aumenta su media gracias al skills
+H_Ameli (slo) Tk aumenta su media gracias al skills
+E_Ruiz (est) Tk aumenta su media gracias al skills
+C_Kletnicki (rac) St aumenta su media gracias al skills
+Naoki_Matsuda (new) Tk aumenta su media gracias al skills
+N_Odruska (arg) Tk aumenta su media gracias al skills
+H_Olaya (arg) Ps aumenta su media gracias al skills
+S_Kun_Aguero (arg) Sh aumenta su media gracias al skills
+D_M_Vilariño (arg) Ps aumenta su media gracias al skills
+M_Lanzini (arg) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         13  (DFs - 0, DMs - 0, MFs - 2, AMs - 3, FWs - 8)
+Assists:        5  (DFs - 0, DMs - 1, MFs - 0, AMs - 2, FWs - 2)
+Yellow cards:   9
+Red cards:      2
+Injuries:       3
+
+Top performers:
+
+S_Kun_Aguero (arg)    45
+S_Peratta (new)       45
+M_Lanzini (arg)       43
+Angel_Carreño (fer)   42
+E_Fuertes (fer)       41
+A_Morón (arg)         40
+Iker_Casillas (slo)   36
+J_Dudek (rce)         32
+T_Prehoj (arg)        26
+Edgar_Davids (oli)    25
+H_Olaya (arg)         24
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Independiente           6    3   2   1     7    4    3    11
+4    Arsenal                 7    3   1   3     6    7   -1    10
+5    All Boys                5    2   3   0     4    1    3     9
+6    Argentinos              6    2   0   4     9    8    1     6
+7    San Lorenzo             7    1   3   3     4    8   -4     6
+8    Banfield                6    1   2   3     1    5   -4     5
+9    River Plate             5    1   1   3     4    6   -2     4
+10   Ferro                   1    1   0   0     3    0    3     3
+11   Rosario Central         1    1   0   0     2    1    1     3
+12   Olimpo                  1    1   0   0     1    0    1     3
+13   River PLate             1    0   1   0     1    1    0     1
+14   Estudiantes de La Plata   1    0   1   0     0    0    0     1
+15   Racing                  1    0   1   0     0    0    0     1
+16   Boca Juniors            6    0   1   5     4   14  -10     1
+17   Quilmes                 1    0   0   1     0    1   -1     0
+18   Newell's Old Boys       1    0   0   1     0    6   -6     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+S_Kun_Aguero (arg)      16     10
+G_B_Leschuk (ars)       14      8
+S_Biglieri (rce)        11      7
+Moltres (oli)           16      7
+E_Fuertes (fer)          9      6
+Santi_Anselmo (rac)     13      6
+E_Ryodsamn (est)         7      5
+P_Mouche (new)          13      5
+Facu_Ferreyra (fer)     16      5
+A_Morón (arg)           10      4
+A_Barijho (oli)         14      4
+Berni_Romeo (slo)       16      4
+L_Monje (rce)            5      3
+A_Otroory (rac)          7      3
+Carlos_Duré (ars)        7      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+S_Kun_Aguero (arg)      16    268
+F_Roncaglia (fer)       16    234
+Pateatraseros (arg)     16    232
+Javi_Morales (ars)      15    195
+Ivan_Cordoba (qui)      15    192
+Jorge_Vila (fer)        16    192
+Diego_Villar (ars)      15    191
+M_Ricci (oli)           16    190
+Ruud_Gullit (arg)       16    188
+Smaug (fer)             16    178
+P_Vidal (est)           14    176
+Iker_Casillas (slo)     15    174
+D_De_Rossi (rac)        14    171
+R_Civelli (oli)         16    168
+F_Coloccini (slo)       15    166
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Javi_Morales (ars)      15      5
+Jorge_Vila (fer)        16      5
+Emmanuel_Pío (oli)       7      3
+R_Cascini (ars)          7      3
+R_Martinez (est)         9      3
+Aaron_Lennon (rce)      12      3
+J_Dudek (rce)           14      3
+M_Ricci (oli)           16      3
+P_Toranzo (rac)          7      2
+M_Lanzini (arg)          7      2
+N_Odruska (arg)          9      2
+Ricardo_Gomez (rce)      9      2
+Max_Rodriguez (new)      9      2
+C_Leiva (oli)           11      2
+L_Pusineri (slo)        14      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+W_Shoojho (arg)          9      9
+Gonzalo_Bazan (qui)     13      9
+Rubén_Ferrer (rac)      12      6
+M_Brau (ars)            13      6
+Jacobo_Urso (qui)       14      6
+Guille_Franco (slo)     15      6
+Massimo_Oddo (oli)       6      5
+M_Schwarzer (fer)       14      5
+J_Gandolfi (ars)        16      5
+Nacho_Decarli (rac)      4      4
+P_Mannara (oli)          6      4
+Gio_Moreno (rce)         8      4
+Clemente (new)          10      4
+Ricardo_Gomes (fer)     14      4
+M_Martinez (rac)        14      4
+

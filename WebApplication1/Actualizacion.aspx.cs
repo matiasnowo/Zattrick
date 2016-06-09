@@ -62,8 +62,9 @@ namespace AppWeb
 
 
 
-            PD.PonerPartidosEnBase();
+       //     PD.PonerPartidoEnBase("Aldosivi", "All Boys", "Copa Zattrick", 1);
 
+            PD.PonerTodosLosPartidosEnBase();
 
         }
     }

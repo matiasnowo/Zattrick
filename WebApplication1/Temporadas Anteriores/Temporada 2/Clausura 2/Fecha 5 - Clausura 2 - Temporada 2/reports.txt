@@ -1,0 +1,30 @@
+
+River Plate 3 - 1 Aldosivi
+Inj: H_Castellano (ald) 18'
+F_Morientes (riv) 22'
+Inj: JP_Sorin (ald) 31'
+Inj: Oliver_Atom (ald) 51'
+H_Crespo (riv) 75'
+Tom_Misaki (ald) 79'
+H_Crespo (riv) 80'
+
+
+Velez 1 - 0 Independiente
+C_Ansaldi (vel) 15'
+
+
+Boca Juniors 2 - 0 Arsenal
+Nico_Blandi (boc) 54' pen
+Inj: P_Ledesma (boc) 84'
+Nico_Blandi (boc) 85'
+
+
+All Boys 4 - 2 Banfield
+Zapdos (alb) 10'
+Zapdos (alb) 12'
+Facu_Ferreyra (ban) 19'
+Charizard (alb) 30'
+Inj: Charizard (alb) 32'
+J_Lujambio (ban) 38'
+Zapdos (alb) 80'
+

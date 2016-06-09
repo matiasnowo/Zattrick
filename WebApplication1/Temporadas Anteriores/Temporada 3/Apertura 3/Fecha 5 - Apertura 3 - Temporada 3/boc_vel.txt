@@ -1,0 +1,184 @@
+Home                           Away
+----                           ----
+
+Boca Juniors                   Velez                         
+
+GK  A_Orion                    GK  M_Barovero                
+DFL H_Ibarra                   DFR N_Otamendi                
+DFC J_Insaurralde              DFC E_Berizzo                 
+DFC Éric_Cantona               DFC M_Uglessich               
+DFR Davor_Suker                DFL M_Torsiglieri             
+MFL Mati_Brad                  MFR Burruchaga                
+MFC P_Ledesma                  MFC Pavel_Nedved              
+MFC L_Somoza                   MFC M_Moralez                 
+MFR B_Lizarazu                 MFL Enzito_C                  
+FWC Nico_Blandi                FWR R_Gareca                  
+FWL M_Palermo                  FWL M_Zarate                  
+
+4-4-2 Normal                   4-4-2 Counter Attack           
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  9 :(vel) Pavel_Nedved con un pase de tiralíneas para M_Zarate
+          ...  Éric_Cantona llega como un tren y corta el ataque lanzándose al suelo
+Min. 16 :(vel) M_Zarate gana metros
+          ...  H_Ibarra va al suelo con los dos pies por delante
+          ...  el arbitro  estaba encima, pero no ha visto falta
+Min. 18 :(boc) P_Ledesma está renqueante. Se prepara el cambio
+Min. 18 :(boc) Z_Boban va a tener su oportunidad en este partido
+          ...  P_Ledesma deja el terreno de juego con cara de pocos amigos
+          ...  Su sustituto jugará de MFC
+Min. 26 :(boc) L_Somoza se la pone a Nico_Blandi en el pie
+          ...  M_Uglessich manda el balón a la grada
+Min. 26 :(vel) M_Uglessich con un pase muy fuerte para R_Gareca
+          ...  R_Gareca trata de sorprender a al portero ! 
+          ...  Pero dispara muy abierto
+          ...  Sabrá que el objetivo del fútbol es meter el balón en la portería?
+Min. 30 :(boc) Davor_Suker hace una bicicleta y cambia el juego hacia M_Palermo
+          ...  N_Otamendi se anticipa a la jugada y se apodera del balón
+Min. 39 :(vel) M_Zarate envía a su oponente al césped!!
+          ...  Menudo trompazo!!
+          ...  AMARILLA!!
+Min. 44 :(vel) Pavel_Nedved cambia el juego
+          ...  M_Zarate recibe con campo por delante!
+          ...  M_Zarate con un sorprendente remate !
+          ...  OOOOHHHHH!!!! 
+          ...  Fuera!
+          ...  Tenía una posición clara!
+          ...  El entrenador le está abroncando!
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 47 :(boc) L_Somoza se lanza al corte 
+          ...  el arbitro  lo llama inmediatamente
+          ...  el arbitro  le avisa: "Es la última vez"
+Min. 61 :(vel) E_Berizzo hace dos bicicletas y engaña al defensa
+          ...  E_Berizzo cruza la línea de medios, avanza, mira al portero y chuta!
+          ...  Dispara precipitadamente
+          ...  Fuera! No pudo precisar el remate
+Min. 67 :(boc) Mati_Brad combina con J_Insaurralde. Juegan de memoria!
+          ...  E_Berizzo llega velozmente y mete la planta del pie
+          ...  Qué velocidad!
+Min. 70 :(boc) B_Lizarazu para Nico_Blandi
+          ...  Nico_Blandi dispara un verdadero obús !
+          ...  OOOOOOHHHHHHHH 
+          ...  A salido lamiendo el palo
+Min. 70 :(boc) Nico_Blandi con una entrada desmesurada 
+          ...  Creo que buscaba el balón, pero debería calmarse un poquito
+          ...  AMARILLA!!
+Min. 72 :(vel) Pavel_Nedved con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia R_Gareca
+          ...  R_Gareca con un verdadero obús !
+          ...  A_Orion adivina la direeción del balón y lo retiene
+Min. 73 :(vel) Pavel_Nedved hace una pared con un compañero y mete de primeras para R_Gareca
+          ...  H_Ibarra corta
+Min. 74 :(boc) Nico_Blandi se abre un hueco
+          ...  Nico_Blandi se saca una bicicleta de la nada y chuta!
+          ...  Se estrella en el larguero
+          ...  Y a la grada!
+          ...  el portero tiene a los dioses de su lado!
+Min. 76 :(boc) Éric_Cantona encara al defensa
+          ...  Le tira una gambeta!
+          ...  Pone el cuerpo para disparar
+          ...  Pero suelta el pase hacia M_Palermo
+          ...  E_Berizzo se anticipa a la jugada
+Min. 81 :(boc) J_Insaurralde entra con los tacos por delante 
+          ...  Creo que buscaba el balón, pero debería calmarse un poquito
+          ...  el arbitro  no le va a amonestar
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+Min. 91 :(vel) M_Torsiglieri hace una bicicleta y cambia el juego hacia M_Zarate
+          ...  H_Ibarra sega el césped con una entrada terrorífica!
+          ...  El delantero evita a su rival, pero pierde la pelota!
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : boc  2 vel 3
+tiros a puerta       : boc  0 vel 1
+
+Marcador             : boc  0 vel 0
+
+
+<<< Estadisticas de los jugadores del Boca Juniors >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+A_Orion        GK   L 30  3  3  3 28 |  90   1   0   0   0   0   0   0   0   0  82   0   0   0 100
+H_Ibarra      DFL   L  3 24  7  4 35 |  90   0   3   0   0   0   0   0   0   0   0 291   0   0  58
+J_Insaurralde DFC  LC  3 22  8  8 76 |  90   0   0   0   0   0   0   0   0   0   0  64   0   0  82
+Éric_Cantona  DFC   C  3 24 13  1 63 |  90   0   1   1   0   0   0   0   0   0   0  97  38   0  74
+Davor_Suker   DFR   R  3 23  9  9 50 |  90   0   0   1   0   0   0   0   0   0   0   0  38   0  69
+Mati_Brad     MFL  LC  3  8 29  8 56 |  90   0   0   1   0   0   0   0   0   0   0   0  38   0  72
+P_Ledesma     MFC   C  3  7 28  8 71 |  17   0   0   0   0   0   0   0   0   1   0   0   0   0  95
+L_Somoza      MFC   C  3  6 23  6 53 |  90   0   0   1   0   0   0   0   0   0   0   0  38   0  71
+B_Lizarazu    MFR  RC  3  7 25  8 53 |  90   0   0   1   0   0   0   0   0   0   0   0  38   0  70
+Nico_Blandi   FWC  LC  3 10  8 33 77 |  90   0   0   0   0   2   0   1   0   0   0 -10 -10  20  85
+M_Palermo     FWL  RL  3  8  9 26 55 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  73
+S_Sosa         GK   R 20  4  3  4 81 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+W_Samuel      DFC   C  3 21  6  6 28 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Eric_Gerets   DFL   R  3 21  7  4 67 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Z_Boban       MFC  LC  3  6 22  6 71 |  73   0   0   0   0   0   0   0   0   0   0   0   0   0  84
+F_Vargas      MFL   L  3  9 20  8 83 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+P_Iarley      FWC   C  5  6  6 22 56 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Chelo_Delgado FWL  LC  3 12  7 22 63 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  1   4   5   0   2   0   1   0   1
+
+
+<<< Estadisticas de los jugadores del Velez >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+M_Barovero     GK   C 21  3  4  4 74 |  90   0   0   0   0   0   0   0   0   0  64   0   0   0 100
+N_Otamendi    DFR   R  3 23  8  9 74 |  90   0   1   0   0   0   0   0   0   0   0  97   0   0  78
+E_Berizzo     DFC   C  3 22  7  6 51 |  90   0   2   0   0   1   0   0   0   0   0 194   0  15  71
+M_Uglessich   DFC   C  3 21  5  7 67 |  90   0   1   1   0   0   0   0   0   0   0  97  38   0  77
+M_Torsiglieri DFL  RL  3 19 10  7 74 |  90   0   0   1   0   0   0   0   0   0   0  64  38   0  80
+Burruchaga    MFR   R  5 12 18 10 64 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+Pavel_Nedved  MFC   C  1 11 19 16 50 |  90   0   0   4   0   0   0   0   0   0   0   0 152   0  69
+M_Moralez     MFC  LC  3  7 30  8 70 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  78
+Enzito_C      MFL   L  5 12 19  6 58 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+R_Gareca      FWR  RC  5 11 11 18 76 |  90   0   0   0   0   2   0   0   0   0   0   0   0  39  83
+M_Zarate      FWL   L  3  7 11 26 66 |  90   0   0   0   0   1   0   1   0   0   0 -10 -10   5  80
+Oliver_Kahn    GK   R 23  3  3  3 42 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Nico_Cabre    DFC RLC  4 17 11  7 52 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Castroman   AMC  RC  3  4 18 16 58 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+A_Fernandez   MFC RLC  3  7 26  9 70 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+R_Alvarez     MFC RLC  3  6 22  6 44 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Jota_Eme      MFC   C  4  9 18 10 48 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Flordelmundo  FWC   R  3 11 14 16 79 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   4   6   0   4   0   1   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+boc     0    103.98   126.79    59.60
+vel     0    114.47   111.68    61.12
+boc    10    101.07   123.10    58.01
+vel    10    112.00   108.97    59.95
+boc    20     97.72   114.61    56.40
+vel    20    109.07   105.79    58.34
+boc    30     94.97   111.12    55.08
+vel    30    106.24   102.86    56.92
+boc    40     91.98   107.69    53.81
+vel    40    103.43   100.20    55.59
+boc    50     88.25   103.82    52.06
+vel    50    100.21    96.68    54.10
+boc    60     85.06   100.65    50.72
+vel    60     97.47    93.83    52.86
+boc    70     81.97    97.49    49.51
+vel    70     94.82    91.41    51.82
+boc    80     78.72    93.93    47.89
+vel    80     92.06    88.34    50.29
+boc    90     75.89    90.85    46.76
+vel    90     89.17    85.62    49.08
+
+
+1342145134

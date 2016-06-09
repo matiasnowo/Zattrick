@@ -85,7 +85,7 @@
       
 
     <asp:Panel ID="Panel3" runat="server" HorizontalAlign="Center" Width="514px" CssClass="float-left" BorderStyle="Solid">
-        <asp:Button ID="Button1" runat="server" BorderStyle="None" Font-Bold="True" Font-Overline="False" Font-Underline="True" OnClick="Button1_Click" Text="Ultimos Partidos:" Width="124px" />
+        <asp:Button ID="Button1" runat="server" BorderStyle="None" Font-Bold="True" Font-Overline="False" Font-Underline="True" OnClick="Button1_Click" Text="Ultimos Partidos:" Width="124px" ForeColor="#0000CC" />
 &nbsp;<asp:GridView ID="GridViewTodoslosPartidos" OnRowDataBound="GridViewTodoslosPartidos_RowDataBound" runat="server" AllowPaging="True" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" PageSize="5" HorizontalAlign="Center" style="text-align: center" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4" AllowCustomPaging="True">
             <Columns>
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">

@@ -1,0 +1,155 @@
+
+
+Injuries:
+---------
+
+M_Materazzi (ban) tendra que guardar reposo una semana por molestias en el muslo
+B_Lizarazu (boc) estara de baja una semana por una micro-rotura
+Angel_Carreño (fer) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+Gabriel_Roth (fer) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+Juli_Barraza (col) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+G_Alcoba (col) solo se quedo en un susto y estara apto para el siguiente partido
+F_Jourdan (col) tendra que guardar reposo una semana por molestias en el muslo
+L_Mareque (arg) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+
+
+
+Suspensions:
+------------
+
+RV_Nistelrooy (ban) no podrá jugar el siguiente partido por sanción
+Darío_Larrosa (fer) no podrá jugar el siguiente partido por sanción
+M_Platini (riv) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Chipi_Barijho (ban) Sh aumenta su media gracias al skills
+Mati_Brad (boc) Tk aumenta su media gracias al skills
+F_Roncaglia (fer) Tk aumenta su media gracias al skills
+Angel_Carreño (fer) Ps aumenta su media gracias al skills
+Lev_Yashin (riv) St aumenta su media gracias al skills
+G_Mercado (riv) Tk aumenta su media gracias al skills
+Sergi (riv) Ps aumenta su media gracias al skills
+M_Ballack (riv) Ps aumenta su media gracias al skills
+L_Astrada (riv) Ps aumenta su media gracias al skills
+O_Ardiles (riv) Ps aumenta su media gracias al skills
+D_Trezeguet (riv) Sh aumenta su media gracias al skills
+Mono_Navarro (tig) St aumenta su media gracias al skills
+S_Kun_Aguero (arg) Sh aumenta su media gracias al skills
+D_Vega (qui) St aumenta su media gracias al skills
+Kazu_Miura (qui) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          1  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 1)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   9
+Red cards:      2
+Injuries:       8
+
+Top performers:
+
+Kazu_Miura (qui)      9
+H_Crespo (riv)        0
+Mono_Navarro (tig)    0
+A_Chari (tig)         0
+M_Albela (tig)        0
+E_Figueroa (tig)      0
+N_Burdisso (tig)      0
+J_Manteca (tig)       0
+G_Gigliaza (tig)      0
+J_Basualdo (tig)      0
+A_Del_Piero (tig)     0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+C_Fabbiani (ald)         6     10
+F_Estoyanoff (vel)       6      8
+Nico_Blandi (boc)        6      8
+F_Morientes (riv)        6      8
+Zapdos (alb)             6      8
+J_Lujambio (ban)         6      6
+M_Palermo (boc)          6      5
+Carlos_Duré (ars)        5      4
+Charizard (alb)          6      4
+H_Crespo (riv)           6      4
+Nico_Martinez (ind)      6      4
+Pablo_Piatti (col)       6      4
+Kazu_Miura (qui)         7      4
+M_Zarate (vel)           3      3
+Jackson_Mrtnz (ald)      5      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Mono_Navarro (tig)       7    213
+M_Moralez (vel)          6    163
+JP_Carrizo (alb)         6    147
+A_Fernandez (vel)        6    147
+Zapdos (alb)             6    144
+F_Morientes (riv)        6    142
+F_Estoyanoff (vel)       6    141
+Espeon (riv)             6    136
+R_Pereyra (riv)          5    132
+C_Fabbiani (ald)         6    129
+Placente (uni)           6    128
+Nico_Bertolo (qui)       7    122
+R_Monserrat (ald)        5    120
+P_Ledesma (boc)          7    115
+H_Crespo (riv)           6    110
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+R_Monserrat (ald)        5      5
+S_Staunton (alb)         5      4
+Brno_Zuculini (rac)      4      3
+R_Pereyra (riv)          5      3
+Hasan_Sas (est)          5      3
+Ray_Wilkins (ban)        6      3
+M_Moralez (vel)          6      3
+Espeon (riv)             6      3
+P_Ledesma (boc)          7      3
+Juan_J_Jayo_L (boc)      2      2
+Enzito_C (vel)           3      2
+Flordelmundo (vel)       3      2
+L_Matthaus (alb)         4      2
+S_Escudero (ald)         5      2
+R_Alvarez (vel)          5      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+M_Brau (ars)             4      7
+Leo_da_Silva (ind)       2      5
+C_Alvarez (ald)          3      5
+Jackson_Mrtnz (ald)      5      5
+G_B_Leschuk (ars)        5      5
+G_Funes_Mori (riv)       1      4
+M_Platini (riv)          1      4
+K_Elotya (arg)           1      4
+N_Odruska (arg)          4      4
+Pablo_Lima (rac)         5      4
+Clemente (new)           6      4
+Éric_Cantona (boc)       6      4
+N_Ortigoza (slo)         6      4
+Nico_Blandi (boc)        6      4
+J_Botinelli (qui)        6      4
+

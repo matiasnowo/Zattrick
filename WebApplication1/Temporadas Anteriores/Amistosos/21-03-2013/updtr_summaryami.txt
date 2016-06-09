@@ -1,0 +1,126 @@
+
+
+Injuries:
+---------
+
+L_Carrio (ind) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+
+
+
+Skill changes:
+--------------
+
+G_Vallés (ind) Ps aumenta su media gracias al skills
+Juan_M_Iturbe (ind) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          2  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 2)
+Assists:        2  (DFs - 0, DMs - 0, MFs - 1, AMs - 0, FWs - 1)
+Yellow cards:   1
+Red cards:      0
+Injuries:       1
+
+Top performers:
+
+H_Fredes (ind)        39
+Nico_Martinez (ind)   31
+L_Mareque (arg)       24
+Kun_Aguero (ind)      24
+F_Mondragón (arg)     21
+G_Vallés (ind)        20
+Juan_M_Iturbe (ind)   16
+L_Carrio (ind)        13
+N_Odruska (arg)       12
+G_Peruzzi (ind)       11
+Ariel_Seltzer (arg)   11
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)            18     30
+Nico_Blandi (boc)       15     28
+J_Lujambio (ban)        15     21
+C_Fabbiani (ald)        19     18
+F_Morientes (riv)       18     17
+M_Zarate (vel)          13     15
+Nico_Martinez (ind)     16     14
+Charizard (alb)         17     14
+M_Klose (arg)           11     13
+S_Kun_Aguero (arg)      17     12
+G_B_Leschuk (ars)        9     11
+Chipi_Barijho (ban)     10     11
+D_Trezeguet (riv)       12     11
+R_Funes_Mori (uni)      13     10
+F_Guerrero (arg)        15     10
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+O_Ibsi (gim)            11    579
+Zapdos (alb)            18    475
+H_Castellano (ald)      19    441
+F_Vargas (uni)          19    398
+Kun_Aguero (ind)        19    387
+S_Sosa (boc)            20    387
+Nico_Blandi (boc)       15    370
+L_Matthaus (alb)        13    369
+Hitmonlee (alb)         13    358
+Nico_Bertolo (qui)      18    343
+JP_Carrizo (alb)        17    342
+A_Fernandez (vel)       15    341
+F_Morientes (riv)       18    336
+J_I_Sills (uni)         18    335
+S_Kun_Aguero (arg)      17    330
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Enzito_C (vel)          10      7
+Hitmonlee (alb)         13      7
+S_Staunton (alb)        16      7
+R_Monserrat (ald)       17      7
+P_Ledesma (boc)         17      7
+J_Yacuzzi (ars)         10      6
+L_Matthaus (alb)        13      6
+M_Moralez (vel)         13      6
+John_A_Riise (alb)      16      6
+Nwankwo_Kanu (ban)      18      6
+Hasan_Sas (est)         14      5
+Ray_Wilkins (ban)       16      5
+Espeon (riv)            16      5
+Nico_Bertolo (qui)      18      5
+Kun_Aguero (ind)        19      5
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+A_Chari (ban)           16     10
+G_B_Leschuk (ars)        9      9
+V_Píriz_Alves (rac)     11      9
+C_Alvarez (ald)         12      9
+Z_Boban (boc)           13      9
+Éric_Cantona (boc)      14      9
+N_Otamendi (vel)        15      9
+N_Ortigoza (slo)        17      9
+E_Andewjh (rce)          9      8
+Angel_Carreño (fer)     15      8
+E_Fuertes (fer)         17      8
+J_Insaurralde (boc)     17      8
+K_Kamamoto (ban)        17      8
+J_Sanguinetti (rce)      7      7
+M_Brau (ars)             8      7
+

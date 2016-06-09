@@ -1,0 +1,135 @@
+
+
+Injuries:
+---------
+
+A_Orion (boc) estara de baja una semana por una micro-rotura
+
+
+
+Suspensions:
+------------
+
+J_Insaurralde (boc) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+W_Samuel (boc) Tk aumenta su media gracias al skills
+Éric_Cantona (boc) Tk aumenta su media gracias al skills
+C_Arano (riv) Tk aumenta su media gracias al skills
+El_Misha (riv) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          2  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 2)
+Assists:        2  (DFs - 0, DMs - 0, MFs - 2, AMs - 0, FWs - 0)
+Yellow cards:   4
+Red cards:      0
+Injuries:       1
+
+Top performers:
+
+F_Morientes (riv)     31
+El_Misha (riv)        26
+C_Arano (riv)         18
+J_Insaurralde (boc)   18
+Éric_Cantona (boc)    18
+S_Sosa (boc)          18
+A_Dominguez (riv)     17
+Espeon (riv)          16
+E_Carolo (riv)        16
+W_Samuel (boc)        13
+D_Passarella (riv)    12
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)       14     12
+H_Crespo (riv)          12     11
+J_Lujambio (ban)        12     11
+M_Zarate (vel)          12     10
+F_Morientes (riv)       13      8
+C_Fabbiani (ald)        13      7
+Zapdos (alb)             8      6
+M_Regueiro (ald)         8      5
+M_Palermo (boc)         14      5
+E_Zelaya (ars)           8      4
+Charizard (alb)          8      4
+G_B_Leschuk (ars)        7      3
+Franco_Jara (ars)       11      3
+Nico_Martinez (ind)     13      3
+F_Palopoli (ald)         4      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+JP_Carrizo (alb)        13    261
+M_Moralez (vel)         14    245
+Mati_Brad (boc)         15    217
+P_Ledesma (boc)         12    213
+A_Dominguez (riv)       13    212
+H_Castellano (ald)      13    207
+Mati_Jdm (riv)          14    206
+M_Zarate (vel)          12    199
+El_Misha (riv)          14    197
+C_Arano (riv)           13    196
+J_Yacuzzi (ars)         14    193
+J_Lujambio (ban)        12    183
+K_Kamamoto (ban)        12    183
+H_Fredes (ind)          12    179
+Diego_Torres (ars)      12    176
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+M_Moralez (vel)         14      5
+A_Fernandez (vel)        8      4
+A_Dominguez (riv)       13      4
+El_Misha (riv)          14      4
+Mati_Brad (boc)         15      4
+Javi_Morales (ars)       9      3
+P_Ledesma (boc)         12      3
+JJ_Serrizuela (ald)      2      2
+C_Llama (ald)            4      2
+M_Rodriguez (ban)        5      2
+Tom_Misaki (ald)         7      2
+S_Staunton (alb)         8      2
+S_Escudero (ald)         9      2
+L_Somoza (boc)          10      2
+C_Ansaldi (vel)         10      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Steelix (alb)            8     12
+D_Montenegro (ind)      11      7
+M_Materazzi (ban)       13      7
+C_Arano (riv)           13      7
+Nico_Blandi (boc)       14      7
+Éric_Cantona (boc)      14      7
+Clemente (boc)           0      6
+L_Galeano (ind)          5      6
+C_Pellerano (ind)       10      6
+M_Zarate (vel)          12      6
+H_Ibarra (boc)          12      6
+F_Morientes (riv)       13      6
+R_Monserrat (ald)       13      6
+Mati_Jdm (riv)          14      6
+Tom_Misaki (ald)         7      5
+

@@ -1,0 +1,180 @@
+
+
+Injuries:
+---------
+
+Ivan_Cordoba (qui) Ya está listo para jugar despues de su lesión
+M_Caceres (rac) Ya está listo para jugar despues de su lesión
+Placente (uni) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+D_Vega (qui) solo se quedo en un susto y estara apto para el siguiente partido
+C_Maidana (col) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+
+
+
+Suspensions:
+------------
+
+M_Brau (ars) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Carlos_Duré (ars) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Juli_Barraza (col) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+A_Machuca (new) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+J_Botinelli (qui) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Z_Oto (arg) no podrá jugar el siguiente partido por sanción
+G_B_Leschuk (ars) no podrá jugar el siguiente partido por sanción
+H_Ameli (slo) no podrá jugar el siguiente partido por sanción
+Angel_Carreño (fer) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+A_Matellan (ars) Tk aumenta su media gracias al skills
+Edgardo_Bauza (uni) Tk aumenta su media gracias al skills
+G_Mendez (rac) Tk aumenta su media gracias al skills
+R_Martinez (rac) Ps aumenta su media gracias al skills
+H_Ameli (slo) Tk aumenta su media gracias al skills
+D_Manusovich (slo) Tk aumenta su media gracias al skills
+Gonzalo_Bazan (qui) Tk aumenta su media gracias al skills
+Mx_Pellegrino (col) Tk aumenta su media gracias al skills
+Smaug (fer) Tk aumenta su media gracias al skills
+G_Rivarola (new) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          6  (DFs - 0, DMs - 0, MFs - 2, AMs - 0, FWs - 4)
+Assists:        4  (DFs - 1, DMs - 0, MFs - 1, AMs - 1, FWs - 1)
+Yellow cards:  12
+Red cards:      3
+Injuries:       3
+
+Top performers:
+
+Pablo_Piatti (col)    38
+R_Schiavi (est)       28
+Pablo_Lima (rac)      25
+R_Martinez (rac)      25
+F_Roncaglia (fer)     24
+S_Fosgt (col)         23
+Juan_Rocchia (qui)    22
+L_Castroman (rac)     21
+R_Funes_Mori (uni)    20
+Kurapika (uni)        20
+J_Cazares (uni)       20
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Independiente           6    3   2   1     7    4    3    11
+4    Arsenal                 7    3   2   2     5    5    0    11
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             7    1   4   2     4    5   -1     7
+7    Banfield                6    1   2   3     1    5   -4     5
+8    River Plate             5    1   1   3     4    6   -2     4
+9    Argentinos              6    1   1   4     3    8   -5     4
+10   Colon de Santa Fe       1    1   0   0     3    0    3     3
+11   Union de Santa Fe       1    1   0   0     1    0    1     3
+12   Estudiantes de La Plata   1    0   1   0     1    1    0     1
+13   Newell's Old Boys       1    0   1   0     1    1    0     1
+14   River PLate             1    0   1   0     1    1    0     1
+15   Quilmes                 1    0   1   0     0    0    0     1
+16   Boca Juniors            6    0   1   5     4   14  -10     1
+17   Racing                  1    0   0   1     0    1   -1     0
+18   Ferro                   1    0   0   1     0    3   -3     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Carlos_Duré (ars)        4      4
+Pablo_Piatti (col)       5      4
+P_Mouche (new)           5      3
+L_Abraham (new)          5      3
+Kurapika (uni)           5      3
+S_Kun_Aguero (arg)       4      2
+Berni_Romeo (slo)        5      2
+Kazu_Miura (qui)         5      2
+V_Píriz_Alves (rac)      5      2
+Angel_Romano (est)       5      2
+D_Bazan_Vera (fer)       1      1
+Il_F_Marelli (arg)       2      1
+M_Laspada (est)          3      1
+Ronald_D_Boer (ars)      4      1
+E_Ruiz (est)             4      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Placente (uni)           5    106
+A_Carrizo (col)          5     90
+J_Yacuzzi (ars)          5     83
+J_I_Sills (uni)          5     82
+L_Castroman (rac)        5     81
+Kurapika (uni)           5     81
+Naoki_Matsuda (new)      5     80
+Carlos_Duré (ars)        4     78
+Pateatraseros (arg)      5     75
+Hasan_Sas (est)          4     74
+Jose_Chatruc (col)       5     74
+G_Rivarola (new)         4     72
+S_Bertoli (fer)          5     72
+Pablo_Piatti (col)       5     70
+R_Cascini (ars)          5     69
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Hasan_Sas (est)          4      3
+Darío_Larrosa (fer)      5      2
+S_Fosgt (col)            1      1
+Javier_Lux (rac)         2      1
+R_Saa (qui)              3      1
+Brno_Zuculini (rac)      3      1
+Chicho_Serna (uni)       4      1
+G_Rivarola (new)         4      1
+Z_Oto (arg)              4      1
+Ronald_D_Boer (ars)      4      1
+N_Ortigoza (slo)         5      1
+L_Pusineri (slo)         5      1
+P_Vidal (est)            5      1
+Nico_Bertolo (qui)       5      1
+F_Rijkaard (uni)         5      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+M_Brau (ars)             3      7
+G_B_Leschuk (ars)        5      5
+N_Odruska (arg)          2      4
+J_Botinelli (qui)        4      4
+Angel_Carreño (fer)      5      4
+N_Ortigoza (slo)         5      4
+K_Elotya (arg)           0      3
+Juli_Barraza (col)       3      3
+Carlos_Duré (ars)        4      3
+Z_Oto (arg)              4      3
+A_Machuca (new)          4      3
+Pablo_Lima (rac)         4      3
+B_Urribarri (col)        4      3
+S_Kun_Aguero (arg)       4      3
+H_Ameli (slo)            5      3
+

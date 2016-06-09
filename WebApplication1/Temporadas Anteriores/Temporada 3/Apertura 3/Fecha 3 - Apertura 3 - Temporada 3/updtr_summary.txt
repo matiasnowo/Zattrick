@@ -1,0 +1,176 @@
+
+
+Injuries:
+---------
+
+JP_Carrizo (alb) Ya está listo para jugar despues de su lesión
+P_Schmeichel (ind) Ya está listo para jugar despues de su lesión
+C_Pellerano (ind) Ya está listo para jugar despues de su lesión
+D_Coronado (tig) Ya está listo para jugar despues de su lesión
+Wailord (alb) estara de baja una semana por una micro-rotura
+
+
+
+Suspensions:
+------------
+
+C_Arano (riv) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Jota_Eme (vel) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Davor_Suker (boc) Tk aumenta su media gracias al skills
+B_Leyenda (ban) St aumenta su media gracias al skills
+M_Dos_Santos (ban) Tk aumenta su media gracias al skills
+M_Materazzi (ban) Tk aumenta su media gracias al skills
+JP_Sorin (ald) Tk aumenta su media gracias al skills
+C_Ayala (riv) Tk aumenta su media gracias al skills
+Espeon (riv) Ps aumenta su media gracias al skills
+E_Carolo (riv) Ps aumenta su media gracias al skills
+E_Carolo (riv) Sh aumenta su media gracias al skills
+F_Morientes (riv) Sh aumenta su media gracias al skills
+N_Otamendi (vel) Tk aumenta su media gracias al skills
+M_Torsiglieri (vel) Tk aumenta su media gracias al skills
+N_Burdisso (tig) Tk aumenta su media gracias al skills
+L_Matthaus (alb) Ps aumenta su media gracias al skills
+Zapdos (alb) Sh aumenta su media gracias al skills
+Venasaur (alb) Tk aumenta su media gracias al skills
+I_Velez (ind) Tk aumenta su media gracias al skills
+L_Carrio (ind) Tk aumenta su media gracias al skills
+H_Fredes (ind) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         16  (DFs - 2, DMs - 0, MFs - 2, AMs - 2, FWs - 10)
+Assists:       13  (DFs - 1, DMs - 0, MFs - 9, AMs - 2, FWs - 1)
+Yellow cards:  12
+Red cards:      1
+Injuries:       1
+
+Top performers:
+
+E_Carolo (riv)        53
+Charizard (alb)       49
+L_Matthaus (alb)      47
+H_Castellano (ald)    45
+S_Staunton (alb)      43
+Kun_Aguero (ind)      37
+M_Moralez (vel)       36
+L_Carrio (ind)        35
+H_Fredes (ind)        34
+Espeon (riv)          32
+G_Vallés (ind)        32
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   7    6   1   0    14    4   10    19
+2    Aldosivi                7    4   1   2    12    6    6    13
+3    All Boys                6    3   3   0    10    6    4    12
+4    Independiente           7    3   2   2    12   10    2    11
+5    Arsenal                 6    3   1   2     5    5    0    10
+6    River Plate             6    2   1   3     6    6    0     7
+7    San Lorenzo             6    1   3   2     4    5   -1     6
+8    Banfield                7    1   2   4     1    6   -5     5
+9    Boca Juniors            7    1   1   5     5   14   -9     4
+10   Argentinos              5    1   0   4     3    8   -5     3
+11   River PLate             1    0   1   0     1    1    0     1
+12   Tigre                   1    0   0   1     0    2   -2     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        3      7
+Charizard (alb)          3      5
+Nico_Martinez (ind)      3      5
+Chelo_Delgado (boc)      2      4
+F_Morientes (riv)        3      3
+G_Vallés (ind)           2      2
+H_Crespo (riv)           3      2
+Zapdos (alb)             3      2
+M_Palermo (boc)          3      2
+J_Lujambio (ban)         3      2
+Rocko (alb)              0      1
+P_Iarley (boc)           1      1
+T_Henry (tig)            1      1
+Pavel_Nedved (vel)       3      1
+S_Staunton (alb)         3      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+E_Carolo (riv)           3     98
+Nico_Blandi (boc)        3     97
+Mati_Brad (boc)          3     78
+P_Ledesma (boc)          3     76
+L_Carrio (ind)           3     76
+H_Fredes (ind)           3     75
+Charizard (alb)          3     75
+F_Morientes (riv)        3     75
+H_Castellano (ald)       3     72
+Nico_Martinez (ind)      3     65
+M_Moralez (vel)          3     63
+L_Somoza (boc)           3     58
+A_Gabbarini (ind)        3     54
+R_Monserrat (ald)        3     53
+S_Staunton (alb)         3     53
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+P_Ledesma (boc)          3      4
+H_Fredes (ind)           3      3
+M_Albela (ban)           2      2
+E_Carolo (riv)           3      2
+Mati_Brad (boc)          3      2
+B_Lizarazu (boc)         3      2
+L_Matthaus (alb)         3      2
+S_Staunton (alb)         3      2
+Z_Boban (boc)            1      1
+KH_Rummenigge (tig)      1      1
+A_Fernandez (vel)        1      1
+J_Datolo (boc)           1      1
+F_Vargas (boc)           1      1
+E_Gonzalez (boc)         1      1
+A_Dominguez (riv)        2      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+C_Arano (riv)            2      4
+Jota_Eme (vel)           3      4
+D_Montenegro (ind)       3      3
+Éric_Cantona (boc)       3      3
+M_Mea_Vitali (ban)       3      2
+Mati_Jdm (riv)           3      2
+Steelix (alb)            3      2
+A_Del_Piero (tig)        3      2
+M_Rodriguez (ban)        0      1
+M_Bustamante (ban)       0      1
+Hernán_Bruno (ban)       0      1
+KH_Rummenigge (tig)      1      1
+A_Fernandez (vel)        1      1
+F_Ikube (ind)            1      1
+R_Alvarez (vel)          1      1
+

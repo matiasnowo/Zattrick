@@ -1,0 +1,179 @@
+
+
+Injuries:
+---------
+
+S_Gonzalez (ars) Ya está listo para jugar despues de su lesión
+M_Friedlander (vel) Ya está listo para jugar despues de su lesión
+M_Zarate (vel) Ya está listo para jugar despues de su lesión
+S_Escudero (ald) no podra jugar los siguientes 4 partidos a causa de una rotura fibrilar
+JJ_Serrizuela (ald) estara de baja una semana por una micro-rotura
+H_Ibarra (boc) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+L_Somoza (boc) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+B_Leyenda (ban) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+A_Gabbarini (ind) se mantendra alejado de los terrenos por 2 partidos debido a tener el tabique nasal roto
+
+
+
+Suspensions:
+------------
+
+J_Barraza (ban) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+P_Ledesma (boc) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+C_Fabbiani (ald) no podrá jugar el siguiente partido por sanción
+E_Andewjh (ban) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+H_Castellano (ald) St aumenta su media gracias al skills
+C_L_Diaz (ald) Ps aumenta su media gracias al skills
+R_Monserrat (ald) Ps aumenta su media gracias al skills
+M_Almada (ald) Ps aumenta su media gracias al skills
+C_Fabbiani (ald) Sh aumenta su media gracias al skills
+M_Albela (ban) Tk aumenta su media gracias al skills
+Ray_Wilkins (ban) Ps aumenta su media gracias al skills
+F_Eji (riv) St aumenta su media gracias al skills
+P_Ferrari (riv) Tk aumenta su media gracias al skills
+C_Ayala (riv) Tk aumenta su media gracias al skills
+C_Ayala (riv) Sh aumenta su media gracias al skills
+D_Villalva (riv) Sh aumenta su media gracias al skills
+I_Velez (ind) Tk aumenta su media gracias al skills
+R_Bochini (ind) Ps aumenta su media gracias al skills
+Nico_Martinez (ind) Sh aumenta su media gracias al skills
+N_Otamendi (vel) Tk aumenta su media gracias al skills
+Oscar_Ruggeri (slo) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          9  (DFs - 0, DMs - 0, MFs - 0, AMs - 1, FWs - 8)
+Assists:        6  (DFs - 0, DMs - 0, MFs - 3, AMs - 3, FWs - 0)
+Yellow cards:  15
+Red cards:      0
+Injuries:       6
+
+Top performers:
+
+O_Ardiles (riv)       51
+D_Villalva (riv)      37
+C_Fabbiani (ald)      32
+H_Fredes (ind)        32
+Espeon (riv)          30
+R_Alvarez (vel)       30
+C_Ayala (riv)         29
+M_Schwarzer (ban)     27
+N_Otamendi (vel)      26
+A_Dominguez (riv)     24
+M_Ballack (riv)       24
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Aldosivi                7    5   1   1    14    4   10    16
+2    Velez                   7    5   1   1    12    6    6    16
+3    Independiente           7    3   2   2     8    7    1    11
+4    Arsenal                 6    3   1   2     5    5    0    10
+5    San Lorenzo             7    2   3   2     6    5    1     9
+6    All Boys                6    2   3   1     4    3    1     9
+7    River Plate             6    2   1   3     7    7    0     7
+8    Banfield                7    1   2   4     1    6   -5     5
+9    Boca Juniors            7    1   1   5     5   14   -9     4
+10   Argentinos              5    1   0   4     3    8   -5     3
+11   River PLate             1    0   1   0     1    1    0     1
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+C_Fabbiani (ald)        13     16
+M_Zarate (vel)          11      8
+D_Montenegro (ind)      13      7
+Zapdos (alb)            11      5
+Nico_Martinez (ind)     13      5
+Moltres (boc)            9      4
+Berni_Romeo (slo)       10      4
+L_Castroman (vel)       11      4
+Charizard (alb)         11      4
+G_Tidrokra (vel)         7      3
+A_Ortega (riv)           8      3
+H_Crespo (riv)           8      3
+S_Kun_Aguero (arg)       9      3
+D_Villalva (riv)         2      2
+Articuno (alb)           5      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+M_Moralez (vel)         13    244
+C_Fabbiani (ald)        13    233
+S_Escudero (ald)        13    209
+R_Monserrat (ald)       13    207
+A_Orion (boc)           10    204
+M_Almada (ald)          13    196
+C_Pellerano (ind)       13    191
+N_Otamendi (vel)        10    178
+R_Alvarez (vel)         12    169
+L_Castroman (vel)       11    162
+L_Pusineri (slo)        10    156
+H_Fredes (ind)          12    154
+C_L_Diaz (ald)          13    154
+J_Datolo (boc)          10    153
+R_Bochini (ind)         12    145
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Espeon (riv)            10      4
+M_Almada (ald)          13      4
+J_Yacuzzi (ars)          9      3
+Hitmonlee (alb)         10      3
+J_Datolo (boc)          10      3
+H_Fredes (ind)          12      3
+S_Escudero (ald)        13      3
+R_Monserrat (ald)       13      3
+C_Pellerano (ind)       13      3
+Scizor (alb)             6      2
+A_Fernandez (vel)        8      2
+Goku (ald)               9      2
+A_Dominguez (riv)        9      2
+E_Lavezzi (arg)          9      2
+L_Pusineri (slo)        10      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+N_Otamendi (vel)        10     10
+J_Barraza (ban)          7      8
+Ivan_Marcone (ars)       9      6
+J_Yacuzzi (ars)          9      6
+P_Ledesma (boc)          9      6
+R_Trotta (vel)          11      6
+C_Ayala (riv)            9      5
+R_Bochini (ind)         12      5
+F_Tobio (vel)            3      4
+J_Gomez (ban)            5      4
+G_Tidrokra (vel)         7      4
+A_Matellan (ars)         8      4
+H_Crespo (riv)           8      4
+H_Ameli (slo)            9      4
+E_Andewjh (ban)          9      4
+

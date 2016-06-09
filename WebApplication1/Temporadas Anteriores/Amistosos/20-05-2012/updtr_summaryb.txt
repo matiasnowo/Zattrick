@@ -1,0 +1,119 @@
+
+
+Skill changes:
+--------------
+
+L_Astrada (riv) Tk aumenta su media gracias al skills
+L_Astrada (riv) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   0
+Red cards:      0
+Injuries:       0
+
+Top performers:
+
+S_Guzman (oli)        0
+P_Gerez (oli)         0
+O_Vizcarrondo (oli)   0
+E_Faccioli (oli)      0
+F_Manccinelli (oli)   0
+P_Mannara (oli)       0
+D_Vega (oli)          0
+R_Martinez (oli)      0
+M_Ricci (oli)         0
+A_Delorte (oli)       0
+L_Gonzales (oli)      0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)       12     12
+J_Lujambio (ban)        11     11
+M_Zarate (vel)          12     10
+H_Crespo (riv)          10      8
+C_Fabbiani (ald)        13      7
+Zapdos (alb)             8      6
+A_Del_Piero (tig)        6      5
+M_Regueiro (ald)         8      5
+R_Palacio (tig)         11      5
+Charizard (alb)          8      4
+F_Morientes (riv)       11      4
+M_Palermo (boc)         12      4
+G_B_Leschuk (ars)        6      3
+Legolas (fer)           10      3
+Tulkas (fer)            10      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+JP_Carrizo (alb)        12    228
+M_Moralez (vel)         13    217
+P_Ledesma (boc)         12    213
+H_Castellano (ald)      13    207
+Mati_Brad (boc)         13    201
+Mati_Jdm (riv)          13    200
+M_Zarate (vel)          12    199
+J_Yacuzzi (ars)         13    181
+K_Kamamoto (ban)        11    175
+J_Lujambio (ban)        11    171
+H_Fredes (ind)          11    171
+A_Dominguez (riv)       11    170
+R_Monserrat (ald)       13    170
+Nico_Blandi (boc)       12    168
+A_Gabbarini (ind)       13    165
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+M_Moralez (vel)         13      5
+A_Fernandez (vel)        7      4
+Mati_Brad (boc)         13      4
+Javi_Morales (ars)       8      3
+A_Dominguez (riv)       11      3
+P_Ledesma (boc)         12      3
+M_Rodriguez (ban)        4      2
+Tom_Misaki (ald)         6      2
+Pancho_Abba (rac)        6      2
+S_Staunton (alb)         8      2
+H_Losada (arg)           8      2
+S_Escudero (ald)         9      2
+C_Ansaldi (vel)          9      2
+L_Somoza (boc)           9      2
+M_Mea_Vitali (ban)      10      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Steelix (alb)            8     11
+A_Chari (tig)            9      7
+D_Montenegro (ind)      10      7
+M_Materazzi (ban)       12      7
+Nico_Blandi (boc)       12      7
+Éric_Cantona (boc)      12      7
+Z_Oto (arg)              4      6
+L_Galeano (ind)          5      6
+H_Ameli (slo)            8      6
+C_Pellerano (ind)        9      6
+H_Ibarra (boc)          11      6
+M_Zarate (vel)          12      6
+R_Monserrat (ald)       13      6
+Tom_Misaki (ald)         6      5
+M_Regueiro (ald)         8      5
+

@@ -1,0 +1,151 @@
+
+
+Injuries:
+---------
+
+L_Matthaus (alb) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+
+
+
+Suspensions:
+------------
+
+Massimo_Oddo (oli) no podrá jugar el siguiente partido por sanción
+Philipp_Lahm (col) no podrá jugar el siguiente partido por sanción
+C_D_Ledesma (col) ha sido suspendido por 2 partidos
+Pablo_Piatti (col) ha sido suspendido por 2 partidos
+A_Papu_Gomez (col) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Éric_Cantona (boc) Tk aumenta su media gracias al skills
+Lucas_Moura (boc) Ps aumenta su media gracias al skills
+Soto_Torres (oli) Ps aumenta su media gracias al skills
+E_Brunyobt (col) St aumenta su media gracias al skills
+Q_Joigro (col) Tk aumenta su media gracias al skills
+W_Jhokusht (qui) Ps aumenta su media gracias al skills
+Ivan_Piris (gim) Tk aumenta su media gracias al skills
+Shizuo_H (gim) Tk aumenta su media gracias al skills
+E_Gonzalez (gim) Ps aumenta su media gracias al skills
+F_Guerrero (gim) Sh aumenta su media gracias al skills
+John_A_Riise (alb) Ps aumenta su media gracias al skills
+Hitmonlee (alb) Ps aumenta su media gracias al skills
+Zapdos (alb) Sh aumenta su media gracias al skills
+Charizard (alb) Ps aumenta su media gracias al skills
+Karel_Pesek (alb) Tk aumenta su media gracias al skills
+F_Marasco (uni) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:  13
+Red cards:      1
+Injuries:       1
+
+Top performers:
+
+P_Zabaleta (qui)      0
+C_Ledesma (qui)       0
+F_Mondragón (gim)     0
+Ivan_Piris (gim)      0
+Juan_Forlin (gim)     0
+Shizuo_H (gim)        0
+J_Datolo (gim)        0
+E_Gonzalez (gim)      0
+Alfredo_Ramúa (gim)   0
+L_Ocampos (gim)       0
+F_Guerrero (gim)      0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)            10     18
+Charizard (alb)          8     15
+E_Fuertes (fer)         11     13
+Luís_Fabiano (arg)       9     12
+M_Zarate (vel)           8     10
+D_Trezeguet (riv)        9      9
+R_Falcao_G (est)         8      8
+RV_Nistelrooy (ban)      8      8
+F_Morientes (riv)        8      8
+Franck_Ribéry (ind)      9      8
+A_Papu_Gomez (col)      12      8
+Juan_M_Iturbe (ind)      9      7
+A_Sánchez (gim)         10      7
+Nico_Blandi (boc)        6      6
+Nico_Martinez (ind)      9      6
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         9    348
+M_N_Cano (uai)          11    327
+Franck_Ribéry (ind)      9    260
+H_Fredes (ind)           9    259
+Luís_Fabiano (arg)       9    257
+Zapdos (alb)            10    252
+H_Castellano (ald)       9    249
+Ed_Retamoso (fer)       10    230
+Charizard (alb)          8    229
+J_Fabbro (fer)          10    213
+G_Gigliaza (est)        11    209
+Iker_Casillas (slo)     11    207
+M_Zarate (vel)           8    191
+E_Fuertes (fer)         11    190
+J_I_Sills (uni)         10    189
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         9     13
+S_Staunton (alb)        10      6
+H_Fredes (ind)           9      5
+Kun_Aguero (ind)         9      5
+JS_Veron (est)           6      4
+A_Panenka (new)          7      4
+El_Misha (riv)           7      4
+M_Moralez (vel)          7      4
+Ruud_Gullit (arg)        8      4
+Lucas_Moura (boc)        9      4
+J_Fabbro (fer)          10      4
+John_A_Riise (alb)      10      4
+G_Gigliaza (est)        11      4
+Gabriel_Roth (fer)       6      3
+Gareth_Bale (riv)        8      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+R_Cascini (ars)          9      8
+Gino_Peruzzi (new)       8      7
+Pablo_Piatti (col)      11      7
+J_Bosingwa (ban)         7      6
+D_Macaluso (qui)         7      6
+C_D_Ledesma (col)        9      6
+F_Galetto (qui)          4      5
+Iván_Alonso (uni)        6      5
+C_Arano (riv)            7      5
+J_Insaurralde (boc)      7      5
+Matias_Diaz (fer)       10      5
+Oscar_Ruggeri (slo)     10      5
+A_Dominguez (riv)        1      4
+L_Rodriguez (slo)        5      4
+N_Otamendi (vel)         6      4
+

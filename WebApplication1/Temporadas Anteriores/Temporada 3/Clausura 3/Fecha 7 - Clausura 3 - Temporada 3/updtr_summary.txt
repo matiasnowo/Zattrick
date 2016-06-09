@@ -1,0 +1,178 @@
+
+
+Injuries:
+---------
+
+Enzito_C (vel) Ya está listo para jugar despues de su lesión
+Z_Boban (boc) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+M_Platini (riv) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Suspensions:
+------------
+
+L_Matthaus (alb) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+J_Insaurralde (boc) ha sido suspendido por 2 partidos
+Sergi (riv) no podrá jugar el siguiente partido por sanción
+Oliver_Atom (ald) no podrá jugar el siguiente partido por sanción
+Dzsudzsák (ban) no podrá jugar el siguiente partido por sanción
+M_Albela (tig) no podrá jugar el siguiente partido por sanción
+E_Figueroa (tig) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+G_Vallés (ind) Ps aumenta su media gracias al skills
+Mati_Brad (boc) Ps aumenta su media gracias al skills
+M_Palermo (boc) Sh aumenta su media gracias al skills
+E_Berizzo (vel) Ps aumenta su media gracias al skills
+P_Ferrari (riv) Tk aumenta su media gracias al skills
+JP_Sorin (ald) Tk aumenta su media gracias al skills
+JP_Sorin (ald) Ps aumenta su media gracias al skills
+Satanas_Paez (ald) Tk aumenta su media gracias al skills
+C_Fabbiani (ald) Sh aumenta su media gracias al skills
+M_Regueiro (ald) Sh aumenta su media gracias al skills
+Dzsudzsák (ban) Tk aumenta su media gracias al skills
+L_Álvarez (ban) Tk aumenta su media gracias al skills
+Raikou (alb) Ps aumenta su media gracias al skills
+Raikou (alb) Sh aumenta su media gracias al skills
+M_Laudrup (alb) Sh aumenta su media gracias al skills
+A_Panenka (alb) Ps aumenta su media gracias al skills
+A_Del_Piero (tig) Sh aumenta su media gracias al skills
+KH_Rummenigge (tig) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          8  (DFs - 1, DMs - 0, MFs - 0, AMs - 0, FWs - 7)
+Assists:        4  (DFs - 1, DMs - 0, MFs - 3, AMs - 0, FWs - 0)
+Yellow cards:   8
+Red cards:      3
+Injuries:       2
+
+Top performers:
+
+Dario_Šimic (alb)     32
+Raikou (alb)          32
+A_Fernandez (vel)     32
+A_Orion (boc)         30
+G_Vallés (ind)        26
+Sergi (riv)           26
+A_Panenka (alb)       26
+Mati_Brad (boc)       24
+A_Chari (tig)         24
+S_Escudero (ald)      23
+L_Álvarez (ban)       23
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   7    5   2   0    12    4    8    17
+2    Aldosivi                7    5   1   1    14    5    9    16
+3    All Boys                6    3   3   0     7    1    6    12
+4    Independiente           7    3   3   1     8    5    3    12
+5    Arsenal                 6    3   1   2     5    5    0    10
+6    San Lorenzo             6    1   3   2     4    5   -1     6
+7    River Plate             6    1   2   3     4    6   -2     5
+8    Banfield                7    1   2   4     2    7   -5     5
+9    Argentinos              5    1   0   4     3    8   -5     3
+10   Boca Juniors            7    0   2   5     5   15  -10     2
+11   River PLate             1    0   1   0     1    1    0     1
+12   Tigre                   1    0   0   1     0    3   -3     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Charizard (alb)         12     23
+Nico_Martinez (ind)     13     20
+Nico_Blandi (boc)       13     18
+Zapdos (alb)            12     17
+C_Fabbiani (ald)        14     11
+H_Crespo (riv)          10      8
+J_Lujambio (ban)        13      7
+F_Morientes (riv)        9      6
+Chelo_Delgado (boc)      7      5
+D_Montenegro (ind)      11      5
+D_Trezeguet (riv)        5      4
+RV_Nistelrooy (ban)      7      4
+M_Palermo (boc)         12      4
+M_Zarate (vel)          14      4
+M_Laudrup (alb)          9      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)        12    474
+Charizard (alb)         12    402
+S_Staunton (alb)        12    341
+Zapdos (alb)            12    319
+Hitmonlee (alb)         12    310
+Mono_Navarro (tig)      14    297
+H_Castellano (ald)      14    273
+P_Ledesma (boc)         13    260
+John_A_Riise (alb)      12    253
+Nico_Martinez (ind)     13    253
+Nico_Blandi (boc)       13    252
+A_Chari (tig)           12    244
+M_Almada (ald)          14    241
+Mati_Brad (boc)         11    231
+F_Eji (riv)             14    228
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)        12     12
+S_Staunton (alb)        12      9
+John_A_Riise (alb)      12      7
+P_Ledesma (boc)         13      6
+H_Fredes (ind)          13      6
+M_Almada (ald)          14      5
+Mati_Brad (boc)         11      4
+R_Pereyra (riv)          7      3
+A_Dominguez (riv)        8      3
+A_Fernandez (vel)        8      3
+Kun_Aguero (ind)        11      3
+E_Carolo (riv)          11      3
+B_Lizarazu (boc)        12      3
+L_Somoza (boc)          12      3
+M_Platini (riv)          4      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+M_Mea_Vitali (ban)      10      9
+Éric_Cantona (boc)      13      9
+C_Arano (riv)            8      7
+Steelix (alb)            9      6
+J_Insaurralde (boc)      9      6
+Jota_Eme (vel)           4      5
+M_Albela (tig)          12      5
+Oliver_Atom (ald)       12      5
+K_Kamamoto (ban)        13      5
+H_Ibarra (boc)          13      5
+G_Vallés (ind)          13      5
+H_Fredes (ind)          13      5
+C_Ansaldi (vel)          0      4
+G_Peruzzi (ind)          3      4
+A_Tarantini (alb)        4      4
+

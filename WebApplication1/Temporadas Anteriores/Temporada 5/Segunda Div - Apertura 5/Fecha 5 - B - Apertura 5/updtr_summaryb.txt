@@ -1,0 +1,180 @@
+
+
+Injuries:
+---------
+
+Ivan_Cordoba (qui) Ya está listo para jugar despues de su lesión
+Berni_Romeo (slo) Ya está listo para jugar despues de su lesión
+Javi_Morales (ars) solo se quedo en un susto y estara apto para el siguiente partido
+L_Rodriguez (slo) se mantendra alejado de los terrenos por 3 partidos debido a tener el tabique nasal roto
+Abel_Herrera (est) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+A_Panenka (new) se mantendra alejado de los terrenos por 3 partidos debido a tener el tabique nasal roto
+
+
+
+Suspensions:
+------------
+
+R_Cascini (ars) ha sido suspendido por 2 partidos
+
+
+
+Skill changes:
+--------------
+
+L_G_Pirez (rce) Tk aumenta su media gracias al skills
+C_Villagra (tig) Tk aumenta su media gracias al skills
+J_Manteca (tig) Ps aumenta su media gracias al skills
+Ricardo_Noir (tig) Sh aumenta su media gracias al skills
+Gonzalo_Bazan (qui) Tk aumenta su media gracias al skills
+M_N_Cano (uai) St aumenta su media gracias al skills
+Mario_Bolatti (est) Ps aumenta su media gracias al skills
+R_Falcao_G (est) Sh aumenta su media gracias al skills
+C_Kletnicki (rac) St aumenta su media gracias al skills
+M_Martinez (rac) Tk aumenta su media gracias al skills
+Mx_Pellegrino (col) Tk aumenta su media gracias al skills
+A_Chavez (new) Ps aumenta su media gracias al skills
+F_Roncaglia (fer) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         14  (DFs - 1, DMs - 0, MFs - 1, AMs - 0, FWs - 12)
+Assists:        5  (DFs - 1, DMs - 1, MFs - 3, AMs - 0, FWs - 0)
+Yellow cards:  19
+Red cards:      1
+Injuries:       4
+
+Top performers:
+
+L_Sapetti (gim)       48
+Nico_Cabrera (gim)    48
+E_Terzaghi (gim)      41
+M_N_Cano (uai)        39
+Pablo_Piatti (col)    36
+O_Barsottini (gim)    34
+Angel_Romano (est)    33
+Iker_Casillas (slo)   33
+T_Henry (gim)         33
+Diego_Jara (gim)      30
+Fabian_Monzon (rce)   28
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Arsenal                 8    3   3   2     5    5    0    12
+4    Independiente           6    3   2   1     7    4    3    11
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             8    1   4   3     4    7   -3     7
+7    Colon de Santa Fe       2    2   0   0    10    1    9     6
+8    Estudiantes de La Plata   2    2   0   0     4    0    4     6
+9    Banfield                6    1   2   3     1    5   -4     5
+10   Ferro                   2    1   1   0     2    0    2     4
+11   River Plate             5    1   1   3     4    6   -2     4
+12   Union de Santa Fe       1    1   0   0     5    2    3     3
+13   Tigre                   1    1   0   0     1    0    1     3
+14   Gimnasia y Esgrima de La Plata   2    1   0   1     7    9   -2     3
+15   Argentinos              6    1   0   5     5   13   -8     3
+16   River PLate             1    0   1   0     1    1    0     1
+17   Rosario Central         1    0   1   0     0    0    0     1
+18   Quilmes                 2    0   1   1     0    1   -1     1
+19   Newell's Old Boys       2    0   1   1     0    2   -2     1
+20   UAI Urquiza             2    0   1   1     1    6   -5     1
+21   Boca Juniors            6    0   1   5     4   14  -10     1
+22   Racing                  2    0   0   2     0    4   -4     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Berni_Romeo (slo)        3      4
+Pablo_Piatti (col)       5      4
+A_Chavez (new)           5      4
+E_Fuertes (fer)          5      4
+Carlos_Duré (ars)        2      3
+E_Zelaya (ars)           4      3
+A_Sánchez (gim)          4      3
+F_Guerrero (gim)         4      3
+L_Castroman (new)        5      3
+Diego_Jara (gim)         1      2
+T_Henry (gim)            1      2
+E_Terzaghi (gim)         2      2
+Pablo_Guiñazú (tig)      4      2
+E_Ryodsamn (est)         4      2
+Kazu_Miura (qui)         5      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+M_N_Cano (uai)           5    198
+L_Pusineri (slo)         5    109
+Cris_Gonzalez (uai)      5    106
+A_Panenka (new)          4    101
+M_Albela (new)           5    100
+Pablo_Piatti (col)       5     97
+C_Gurrieri (uai)         5     90
+Edgar_Davids (new)       5     89
+Ed_Retamoso (fer)        5     88
+F_Segovia (tig)          5     85
+A_Chavez (new)           5     85
+Pablo_Guiñazú (tig)      4     84
+Martin_Ortiz (uai)       5     82
+J_Yacuzzi (ars)          4     79
+Juan_Forlin (gim)        4     78
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+A_Panenka (new)          4      3
+L_Pusineri (slo)         5      3
+Diego_Villar (ars)       4      2
+J_Datolo (gim)           4      2
+Pablo_Guiñazú (tig)      4      2
+M_Albela (new)           5      2
+H_Ameli (slo)            5      2
+Nico_Cabrera (gim)       1      1
+Angel_Carreño (gim)      1      1
+G_Contrera (est)         2      1
+T_Vuvroapr (new)         2      1
+Ariel_Zapata (col)       3      1
+G_B_Leschuk (ars)        4      1
+A_Machuca (tig)          4      1
+J_Yacuzzi (ars)          4      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+R_Cascini (ars)          5      7
+C_D_Ledesma (col)        3      4
+L_Rodriguez (slo)        3      4
+Gino_Peruzzi (new)       4      4
+Matias_Diaz (fer)        5      4
+Angel_Carreño (gim)      1      3
+M_Martinez (rac)         4      3
+J_M_Calvo (rac)          1      2
+Gilbert_Silva (ars)      3      2
+Javier_Lux (rac)         4      2
+C_Villagra (tig)         5      2
+E_Vidal (uai)            5      2
+A_Papu_Gomez (col)       5      2
+Q_Joigro (col)           5      2
+Mario_Bolatti (est)      5      2
+

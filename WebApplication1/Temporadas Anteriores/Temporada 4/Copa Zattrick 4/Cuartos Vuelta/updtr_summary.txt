@@ -1,0 +1,142 @@
+
+
+Suspensions:
+------------
+
+I_Velez (ind) no podrá jugar el siguiente partido por sanción
+Steelix (alb) ha sido suspendido por 2 partidos
+C_L_Diaz (ald) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+I_Velez (ind) Tk aumenta su media gracias al skills
+H_Fredes (ind) Ps aumenta su media gracias al skills
+JP_Carrizo (alb) St aumenta su media gracias al skills
+Steelix (alb) Tk aumenta su media gracias al skills
+T_Svenssen (alb) Sh aumenta su media gracias al skills
+L_Matthaus (alb) Ps aumenta su media gracias al skills
+J_Sanguinetti (rce) Tk aumenta su media gracias al skills
+Edgar_Davids (ban) Tk aumenta su media gracias al skills
+A_Fernandez (vel) Ps aumenta su media gracias al skills
+C_Alvarez (ald) Tk aumenta su media gracias al skills
+Satanas_Paez (ald) Tk aumenta su media gracias al skills
+M_Almada (ald) Ps aumenta su media gracias al skills
+C_Fabbiani (ald) Sh aumenta su media gracias al skills
+M_Regueiro (ald) Tk aumenta su media gracias al skills
+Davor_Suker (boc) Tk aumenta su media gracias al skills
+Nico_Blandi (boc) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          2  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 2)
+Assists:        1  (DFs - 0, DMs - 0, MFs - 1, AMs - 0, FWs - 0)
+Yellow cards:  12
+Red cards:      1
+Injuries:       0
+
+Top performers:
+
+Espeon (riv)          11
+J_Sanguinetti (rce)   10
+D_Trezeguet (riv)     10
+F_Morientes (riv)     10
+E_Carolo (riv)        8
+Ronald_Raldes (rce)   6
+N_Valentini (rce)     6
+Wacali (rce)          6
+C_Arano (riv)         6
+C_Ayala (riv)         5
+Ricardo_Gomez (rce)   4
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)       12     18
+Zapdos (alb)            11     17
+J_Lujambio (ban)        11     16
+C_Fabbiani (ald)        12     14
+F_Morientes (riv)       13     14
+Charizard (alb)         10     10
+F_Estoyanoff (vel)      10      9
+Kurapika (uni)          11      8
+Nico_Martinez (ind)      9      7
+M_Palermo (boc)         11      7
+M_Zarate (vel)           7      6
+D_Trezeguet (riv)        7      6
+Jackson_Mrtnz (ald)     10      6
+Kazu_Miura (qui)        11      6
+G_B_Leschuk (ars)        7      5
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Mono_Navarro (tig)      11    465
+F_Morientes (riv)       13    276
+Zapdos (alb)            11    265
+J_Lujambio (ban)        11    245
+Nico_Blandi (boc)       12    245
+Kun_Aguero (ind)        12    224
+L_Matthaus (alb)         9    223
+Espeon (riv)            12    218
+C_Ayala (riv)           13    216
+M_Moralez (vel)         10    211
+Hitmonlee (alb)         10    207
+F_Vargas (uni)          11    200
+A_Fernandez (vel)       10    198
+Kurapika (uni)          11    197
+Charizard (alb)         10    194
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+R_Monserrat (ald)       11      7
+L_Matthaus (alb)         9      5
+Hitmonlee (alb)         10      5
+Espeon (riv)            12      5
+Hasan_Sas (est)          9      4
+R_Pereyra (riv)          9      4
+S_Staunton (alb)         9      4
+M_Moralez (vel)         10      4
+Kun_Aguero (ind)        12      4
+Ray_Wilkins (ban)       12      4
+P_Ledesma (boc)         13      4
+Nwankwo_Kanu (ban)      13      4
+Enzito_C (vel)           5      3
+Javi_Morales (ars)       5      3
+Z_Boban (boc)            9      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+G_B_Leschuk (ars)        7      8
+Éric_Cantona (boc)      10      8
+Angel_Carreño (fer)     10      8
+M_Brau (ars)             6      7
+V_Píriz_Alves (rac)      8      7
+J_Sanguinetti (rce)      4      6
+Leo_da_Silva (ind)       5      6
+H_Ameli (slo)            9      6
+A_Chari (tig)            9      6
+Steelix (alb)            9      6
+Jackson_Mrtnz (ald)     10      6
+E_Fuertes (fer)         11      6
+C_Alvarez (ald)          8      5
+N_Odruska (arg)          8      5
+Placente (uni)          10      5
+

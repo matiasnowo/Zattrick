@@ -1,0 +1,154 @@
+
+
+Injuries:
+---------
+
+Mono_Navarro (est) no podra jugar los siguientes 2 partidos a causa de una rotura fibrilar
+L_Orban (est) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+M_Gelabert (est) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+Juan_Rocchia (qui) tendra que guardar reposo una semana por molestias en el muslo
+M_Barrera (fer) solo se quedo en un susto y estara apto para el siguiente partido
+Guille_Franco (slo) estara de baja durante 3 partidos por una fractura en el brazo
+
+
+
+Suspensions:
+------------
+
+E_Zelaya (ars) no podrá jugar el siguiente partido por sanción
+E_Figueroa (est) no podrá jugar el siguiente partido por sanción
+Jose_Chatruc (col) no podrá jugar el siguiente partido por sanción
+E_Andewjh (rce) no podrá jugar el siguiente partido por sanción
+V_Píriz_Alves (rac) no podrá jugar el siguiente partido por sanción
+Oscar_Ruggeri (slo) ha sido suspendido por 2 partidos
+
+
+
+Skill changes:
+--------------
+
+M_Brau (ars) Sh aumenta su media gracias al skills
+L_Lopez (ars) Tk aumenta su media gracias al skills
+E_Zelaya (ars) Sh aumenta su media gracias al skills
+E_Figueroa (est) Tk aumenta su media gracias al skills
+E_Andewjh (rce) Tk aumenta su media gracias al skills
+F_Roncaglia (fer) Tk aumenta su media gracias al skills
+Facu_Ferreyra (fer) Ps aumenta su media gracias al skills
+M_Albela (new) Tk aumenta su media gracias al skills
+Edgar_Davids (new) Ps aumenta su media gracias al skills
+E_Barros (uai) Tk aumenta su media gracias al skills
+E_Diaz (uai) Tk aumenta su media gracias al skills
+H_Ameli (slo) Tk aumenta su media gracias al skills
+Carlos_Netto (slo) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         10  (DFs - 1, DMs - 0, MFs - 1, AMs - 0, FWs - 8)
+Assists:        6  (DFs - 2, DMs - 0, MFs - 1, AMs - 1, FWs - 2)
+Yellow cards:  22
+Red cards:      2
+Injuries:       6
+
+Top performers:
+
+L_Lopez (ars)         48
+Ed_Retamoso (fer)     34
+S_Rondón (fer)        31
+Facu_Ferreyra (fer)   30
+J_J_Barkero (fer)     28
+G_B_Leschuk (ars)     26
+F_Roncaglia (fer)     26
+Javi_Morales (ars)    25
+L_Melgarejo (tig)     24
+O_Barsottini (gim)    24
+K_Irtirt (new)        22
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)            11     22
+Charizard (alb)          9     18
+Luís_Fabiano (arg)      10     13
+M_Zarate (vel)          10     12
+A_Sánchez (gim)         12     12
+F_Morientes (riv)       10     10
+D_Trezeguet (riv)       11     10
+RV_Nistelrooy (ban)      9      9
+A_Papu_Gomez (col)      13      9
+R_Falcao_G (est)        11      8
+Nico_Blandi (boc)        7      7
+Juan_M_Iturbe (ind)      9      7
+Nico_Martinez (ind)     11      7
+G_B_Leschuk (ars)       12      7
+F_Guerrero (gim)        13      7
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)        11    416
+M_N_Cano (uai)          14    381
+H_Fredes (ind)          11    305
+Ed_Retamoso (fer)       12    299
+Zapdos (alb)            11    298
+H_Castellano (ald)      11    294
+Charizard (alb)          9    285
+Luís_Fabiano (arg)      10    275
+M_Moralez (vel)          9    237
+J_Fabbro (fer)          12    233
+M_Zarate (vel)          10    230
+S_Staunton (alb)        11    229
+Edgar_Davids (new)      14    227
+Alfredo_Ramúa (gim)     12    222
+Iker_Casillas (slo)     14    216
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)        11     15
+S_Staunton (alb)        11      7
+M_Moralez (vel)          9      6
+A_Panenka (new)         10      5
+Lucas_Moura (boc)       10      5
+JS_Veron (est)          10      5
+H_Fredes (ind)          11      5
+Kun_Aguero (ind)        11      5
+Alfredo_Ramúa (gim)     12      5
+John_A_Riise (alb)       9      4
+El_Misha (riv)           9      4
+Ruud_Gullit (arg)        9      4
+G_Gigliaza (arg)        10      4
+Ed_Retamoso (fer)       12      4
+J_Fabbro (fer)          12      4
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Gino_Peruzzi (new)      11      8
+R_Cascini (ars)         12      8
+J_Bosingwa (ban)         9      7
+Steelix (alb)           10      7
+Pablo_Piatti (col)      11      7
+Davor_Suker (boc)        7      6
+J_Insaurralde (boc)      8      6
+Massimo_Oddo (oli)       9      6
+D_Macaluso (qui)         9      6
+C_D_Ledesma (col)        9      6
+Ivan_Piris (gim)        10      6
+Oscar_Ruggeri (slo)     13      6
+F_Galetto (qui)          4      5
+Iván_Alonso (uni)        7      5
+N_Otamendi (vel)         8      5
+

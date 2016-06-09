@@ -1,0 +1,177 @@
+Home                           Away
+----                           ----
+
+Arsenal                        San Lorenzo                   
+
+GK  C_Orcellet                 GK  Iker_Casillas             
+DFR C_Trombetta                DFC H_Ameli                   
+DFC Damian_Perez               DFC F_Coloccini               
+DFC A_Matellan                 DFL D_Manusovich              
+DFL Adriano_C                  DFR Oscar_Ruggeri             
+DMC R_Cascini                  MFL L_Pusineri                
+MFR C_Mosca                    MFC N_Ortigoza                
+MFC Javi_Morales               MFC Carlos_Netto              
+MFC G_Esmerado                 MFR Mario_Santana             
+FWL Carlos_Duré                FWC Berni_Romeo               
+FWC E_Zelaya                   FWR C_D_Biaggio               
+
+4-1-3-2 Normal                 4-4-2 Normal                   
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  7 :(slo) Berni_Romeo entra con los tacos por delante 
+          ...  Ufff!! Lleva la marca de la bota impresa en el muslo!!
+          ...  AMARILLA!!
+          ...  Deberá calmarse un poco a partir de ahora
+Min. 10 :(ars) Damian_Perez trata de levantarse tras la entrada 
+          ...  Imposible! Se ha hecho daño!
+Min. 10 :(ars) La grada ruge cuando J_Gandolfi substituye a Damian_Perez para jugar de DFC
+Min. 12 :(slo) N_Ortigoza levanta la cabeza, pasa hacia Berni_Romeo
+          ...  Berni_Romeo trata de sorprender al portero desde fuera del área!
+          ...  C_Orcellet resbala
+          ...  Pero ve como el disparo se pierde lejos de su marco!
+Min. 14 :(ars) G_Esmerado con una entrada asesina 
+          ...  Le ha pegado con toda la mala leche del mundo!!!
+          ...  Ay, ay, ay!!
+          ...  Podría ser expulsado por eso!
+          ...  AMARILLA!
+          ...  Los jugadores rivales increpan al árbitro!
+Min. 39 :(ars) Javi_Morales pisa campo contrario. Mete un pase entre los centrales para J_Gandolfi
+          ...  J_Gandolfi suelta un disparo muy débil !
+          ...  Iker_Casillas despeja... con la cabeza!!!
+          ...  Estaba despistado! Su entrenador se está comiendo el banquillo
+Min. 39 :(ars) Adriano_C se ha lesionado! Cambio...
+Min. 39 :(ars) I_Celaya entrará en el campo. Está impaciente por demostrar su clase!
+          ...  Adriano_C se marcha en su lugar
+          ...  No acaba de estar del todo satisfecho consigo mismo
+          ...  Su compañero jugará de DFL
+
+El arbitro añadira 3 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 47 :(slo) El balón queda muerto! 
+          ...  D_Manusovich lo controla y prepara el disparo
+          ...  D_Manusovich se saca una tijera! Qué bello!
+          ...  Ha batido a el portero 
+          ...  Pero se va fuera !!
+Min. 51 :(ars) R_Cascini se coloca en el camino del atacante 
+          ...  el arbitro  pita la falta. Se ha desentendido dla pelota
+          ...  Habrá targeta y será...
+          ...  AMARILLA!!
+Min. 56 :(ars) E_Zelaya mete un balón interior para Carlos_Duré
+          ...  Pero Oscar_Ruggeri cabecea el balón hacia el portero
+Min. 60 :(ars) G_B_Leschuk se despoja del chándal. Entrará por E_Zelaya 
+          ...  Jugará de FWC 
+          ...  El entrenador reza para que el cambio de sus frutos
+Min. 62 :(ars) R_Cascini cuelga de primeras para G_B_Leschuk
+          ...  G_B_Leschuk toca la pelota de primeras!
+          ...  Iker_Casillas lo para cómodamente
+          ...  El disparo nunca llevó peligro real
+Min. 65 :(ars) A_Matellan para G_B_Leschuk
+          ...  G_B_Leschuk dispara un verdadero obús !
+          ...  OOOOOOHHHHHHHH 
+          ...  A salido lamiendo el palo
+Min. 73 :(ars) Javi_Morales tiene campo por delante
+          ...  Pasa a Carlos_Duré
+          ...  Carlos_Duré mete la cabeza con valentía !
+          ...  Iker_Casillas resbala
+          ...  Pero ve como el disparo se pierde lejos de su marco!
+Min. 78 :(ars) Carlos_Duré mata el pase, prepara el disparo!
+          ...  Oscar_Ruggeri se lleva por delante a su rival!!
+          ...  PENALT!!!
+          ...  No! El colegiado da saque de puerta!
+          ...  Se buscan gafas para el árbitro! Urgente!
+Min. 78 :(slo) L_Pusineri hace una pared con un compañero y mete de primeras para Berni_Romeo
+          ...  J_Gandolfi corta
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : ars  1 slo 1
+tiros a puerta       : ars  3 slo 1
+
+Marcador             : ars  0 slo 0
+
+
+<<< Estadisticas de los jugadores del Arsenal >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+C_Orcellet     GK   R 24  3  3  3 37 |  90   1   0   0   0   0   0   0   0   0  43   0   0   0 100
+C_Trombetta   DFR   R  3 16  6  4 33 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  46
+Damian_Perez  DFC   C  2 14  6  5 70 |   9   0   0   0   0   0   0   0   0   1   0   0   0   0  97
+A_Matellan    DFC   C  2 20  7  5 80 |  90   0   0   1   0   0   0   0   0   0   0  35  21   0  79
+Adriano_C     DFL   L  3 18  6  7 79 |  38   0   0   0   0   0   0   0   0   1   0   0   0   0  93
+R_Cascini     DMC   C  4 10 19  9 70 |  90   0   0   1   0   0   0   1   0   0   0 -10  11 -10  80
+C_Mosca       MFR   L  3  6 15  7 49 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  59
+Javi_Morales  MFC   C  3  7 20  7 56 |  90   0   0   2   0   0   0   0   0   0   0   0  42   0  72
+G_Esmerado    MFC   C  3  7 18  9 69 |  90   0   0   0   0   0   0   1   0   0   0 -10 -10 -10  79
+Carlos_Duré   FWL RLC  2  3  9 18 62 |  90   0   0   0   0   1   0   0   0   0   0   0   0  13  77
+E_Zelaya      FWC   C  3  8  7 18 35 |  59   0   0   1   0   0   0   0   0   0   0   0  21   0  78
+A_Limia        GK   C 17  3  3  3 44 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+J_Gandolfi    DFC RLC  3 23  5  5 72 |  81   0   1   0   0   1   0   0   0   0   0  60   0  13  82
+I_Celaya      DFL   C  5 17  2  5 40 |  52   0   0   0   0   0   0   0   0   0   0   0   0   0  82
+Diego_Villar  MFC   C  2  6 20  4 71 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+J_Yacuzzi     MFL RLC  2  5 22  4 58 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  95
+I_Evrahoaj    FWR   C  2  5  4 16 57 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_B_Leschuk   FWC   C  3  5  8 21 47 |  31   0   0   0   0   2   0   0   0   0   0   0   0  20  86
+-- Total --                                  1   1   5   0   4   0   2   0   2
+
+
+<<< Estadisticas de los jugadores del San Lorenzo >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+Iker_Casillas  GK  RC 26  3  3  3 51 |  90   3   0   0   0   0   0   0   0   0  59   0   0   0 100
+H_Ameli       DFC   R  2 24  5  5 57 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  75
+F_Coloccini   DFC   R  2 25  5  6 61 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+D_Manusovich  DFL  LC  2 20  5  6 41 |  90   0   0   0   0   1   0   0   0   0   0   0   0   7  64
+Oscar_Ruggeri DFR   R  2 19  8  5 51 |  90   0   2   0   0   0   0   0   0   0   0 155   0   0  70
+L_Pusineri    MFL   L  2  6 22  6 58 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  73
+N_Ortigoza    MFC   C  3  6 15 12 60 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  78
+Carlos_Netto  MFC  LC  2  6 15 12 55 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  76
+Mario_Santana MFR   R  2  6 13  5 27 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  51
+Berni_Romeo   FWC   C  2  5  5 17 55 |  90   0   0   0   0   1   0   1   0   0   0 -10 -10   3  73
+C_D_Biaggio   FWR   C  2  4  4 11 37 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  67
+G_Campagnuolo  GK  RC 12  2  2  2 58 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+F_A_Batista   DFC  RL  2 11  5  6 34 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+R_Oveja_Telch DFC   R  2 10  5  4 32 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Rodriguez   MFC  LC  2  5 13  5 38 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+RC_Montserrat MFC   L  2  4 12  4 23 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Romagnoli   AMC   L  2  4  9  6 29 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Raul_Estevez  FWC   C  2  5  5  9 43 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  3   2   2   0   2   0   1   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+ars     0     79.62    65.45    40.26
+slo     0     83.66    75.58    34.79
+ars    10     77.98    63.91    39.23
+slo    10     81.60    73.59    33.67
+ars    20     85.17    61.75    38.23
+slo    20     79.25    70.98    32.57
+ars    30     82.81    60.24    37.03
+slo    30     76.86    68.78    31.63
+ars    40     76.84    56.58    35.13
+slo    40     74.50    66.43    30.55
+ars    50     74.01    54.54    33.77
+slo    50     70.92    63.56    29.27
+ars    60     71.47    52.80    32.69
+slo    60     68.32    61.42    28.18
+ars    70     69.36    51.82    36.01
+slo    70     65.48    59.50    27.27
+ars    80     66.70    49.87    34.85
+slo    80     62.81    57.34    26.32
+ars    90     64.49    48.26    33.76
+slo    90     60.54    55.00    25.39
+
+
+1345775155

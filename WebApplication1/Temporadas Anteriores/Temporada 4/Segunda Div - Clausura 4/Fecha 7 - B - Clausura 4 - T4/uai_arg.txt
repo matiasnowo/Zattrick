@@ -1,0 +1,495 @@
+Home                           Away
+----                           ----
+
+UAI Urquiza                    Argentinos                    
+
+GK  M_N_Cano                   GK  F_Mondragón               
+DFC E_Barros                   DFR J_Munh                    
+DFC E_Diaz                     DFC Pateatraseros             
+DFC Cris_Gonzalez              DFC L_Mareque                 
+DFC D_H_Duarte                 DFL N_Odruska                 
+MFC Damian_Bogado              DMC Turco_Grecco              
+MFC Leo_Celiz                  AMR Oscar                     
+MFC E_Colombano                AMC Ruud_Gullit               
+MFC Jorge_Coria                AML D_Manso                   
+FWC W_Garcete                  FWC M_Klose                   
+FWC S_Valenti                  FWC F_Guerrero                
+
+4-4-2 Normal                   4-1-0-3-2 Attacking            
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(arg) Turco_Grecco con un pase de tiralíneas para Ruud_Gullit
+          ...  D_H_Duarte llega como un tren y corta el ataque lanzándose al suelo
+Min.  2 :(arg) D_Manso dispara en carrera!
+          ...  El defensa mete la pierna
+          ...  sale rebotada hacia M_Klose!
+          ...  E_Barros va al suelo con los dos pies por delante
+          ...  el arbitro  estaba encima, pero no ha visto falta
+Min.  4 :(arg) L_Mareque levanta la cabeza, pasa hacia M_Klose
+          ...  M_Klose trata de sorprender al portero desde fuera del área!
+          ...  el portero no va a llegar!
+          ...  OH!  Se pierde por encima del larguero! 
+          ...  el portero sonríe
+          ...  Sabía que iba fuera? No se, no se...
+Min.  5 :(arg) Pateatraseros hace una pared con un compañero y mete de primeras para Ruud_Gullit
+          ...  Ruud_Gullit pisa el balón, se lo acomoda a la derecha y... chuta!
+          ...  Pero el balón se pierde inofensivamente por la línea de meta
+Min.  5 :(arg) Turco_Grecco se toca el tobillo
+          ...  Pide urgentemente que le atienda el médico
+          ...  Nada que hacer! Cambio
+Min.  5 :(arg) El ayudante del entrenador llama a C_Bortu
+          ...  Turco_Grecco va a ser sustituído
+          ...  El técnico le indica que juegue de DMC
+Min.  6 :(arg) D_Manso pasa largo con el interior hacia M_Klose
+          ...  M_Klose controla el balón, amaga y... dispara! Oh!
+          ...  Busca la escuadra!
+          ...  Ojo con el efecto. El portero no va a llegar!!
+          ...  Pero aterriza en la grada superior de la portería !!
+          ...  el portero sonríe. Estaba batido!
+Min.  7 :(arg) D_Manso cambia el juego
+          ...  M_Klose recibe con campo por delante!
+          ...  M_Klose con un sorprendente remate !
+          ...  M_N_Cano rechaza el balón con los pies 
+          ...  Su defensa cierra el rebote y envía el balón al centro del campo
+Min.  8 :(arg) Ruud_Gullit para el balón con la planta del pie
+          ...  Qué calidad, tiene un guante en el pie!
+          ...  Se revuelve! Engaña a su par
+          ...  y cruza al balón sobre la llegada de C_Bortu
+          ...  C_Bortu se saca una vaselina magistral de la chistera !
+          ...  M_N_Cano ve venir el balón
+          ...  Y lo atrapa con facilidad
+Min.  9 :(arg) Pateatraseros mete un balón interior para M_Klose
+          ...  M_Klose con la red entre ceja y ceja!
+          ...  El balón impacta en el palo!! 
+          ...  Se mueve la red !!
+          ...  GOOOOOL !!
+          ...  uai 0-1 arg ...
+Min. 11 :(arg) C_Bortu gana metros
+          ...  D_H_Duarte pone el pie en el momento oportuno y despeja el balón
+Min. 12 :(arg) Oscar combina con Ruud_Gullit. Juegan de memoria!
+          ...  Ruud_Gullit busca el gol!
+          ...  El balón busca el ángulo! Peligro!!!
+          ...  M_N_Cano salta con agilidad!
+          ...  Llegará a tiempo?
+          ...  arg detiene el remate con estilo! Su técnico aplaude
+Min. 13 :(arg) Oscar le gana la espalda a su mrcador
+          ...  Ei, se ha despistado!
+          ...  Oscar no va a llegar. Sí, mete el pie...!
+          ...  Coloca el balón lejos del alcance del portero!! 
+          ...  Pero da en el palo !!
+          ...  Bueno, los palos también juegan!!
+Min. 14 :(arg) D_Manso con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia C_Bortu
+          ...  C_Bortu con un verdadero obús !
+          ...  M_N_Cano adivina la direeción del balón y lo retiene
+Min. 16 :(arg) C_Bortu hace una pared con un compañero y mete de primeras para D_Manso
+          ...  D_Manso impacta el balón con dureza !
+          ...  Pero el balón se pierde inofensivamente por la línea de meta
+Min. 17 :(uai) Damian_Bogado con el globo
+          ...  S_Valenti la baja con la cabeza
+          ...  Pateatraseros llega como un tren y arrolla a delantero y balón
+Min. 18 :(arg) Oscar encara al defensa
+          ...  Le tira una gambeta!
+          ...  Pone el cuerpo para disparar
+          ...  Pero suelta el pase hacia M_Klose
+          ...  M_Klose busca la vaselina... desde MEDIO CAMPO!!
+          ...  Al lateral de la red
+Min. 19 :(arg) Oscar hace ostensibles gestos de dolor
+          ...  Trata de seguir... Imposible!
+Min. 19 :(arg) W_Shoojho sustituye a Oscar en la posición de AMR
+Min. 20 :(arg) Ruud_Gullit hace una bicicleta y cambia el juego hacia M_Klose
+          ...  M_Klose se precipita en su remate!
+          ...  M_N_Cano flota sobre la línea de meta
+          ...  Mete la mano
+          ...  Córner? No! Se equivocó!
+Min. 22 :(arg) J_Munh pasa hacia M_Klose
+          ...  M_Klose se saca una tijera! Qué bello!
+          ...  GOOOOOL !! 
+          ...  Lo celebra corriendo hacia el banquillo 
+          ...  Y se abraza a un eufórico el entrenador
+          ...  uai 0-2 arg ...
+Min. 25 :(arg) F_Guerrero hace una inteligente pared con un compañero
+          ...  Le sale al paso un defensa
+          ...  Se va de él y mira la portería!
+          ...  F_Guerrero impacta la pelota al primer toque!
+          ...  Vuela por encima de el portero 
+          ...  Va a puerta!
+          ...  El portero mete la mano, será suficiente?
+          ...  Sí, ha desviado el disparo!
+Min. 26 :(arg) F_Guerrero se va de uno
+          ...  Regatea a otro!
+          ...  A otro! Parece Maradona contra Inglaterra!
+          ...  Puede marcar! El gol del siglo!
+          ...  D_H_Duarte despeja sin miramientos
+Min. 27 :(arg) D_Manso ubica el balón a la espalda de la defensa. M_Klose busca el desmarque
+          ...  Pero D_H_Duarte está más atento y corta el balón
+Min. 30 :(arg) M_Klose va en carrera
+          ...  M_Klose llega forzado al remate !
+          ...  Dispara excesivamente alto!
+          ...  Está horrorizado por lo que falló!
+          ...  No es para menos!
+Min. 31 :(uai) Leo_Celiz empuja a ru rival 
+          ...  Qué animal!
+          ...  AMARILLA!!
+          ...  Por unos momentos lo vi expulsado!
+Min. 31 :(uai) E_Barros está lesionado. Qué mala suerte!
+Min. 31 :(uai) El ayudante del entrenador llama a C_Gurrieri
+          ...  E_Barros va a ser sustituído
+          ...  El técnico le indica que juegue de DFC
+Min. 31 :(arg) W_Shoojho pasa de rabona hacia Ruud_Gullit. Madre mía! Ha nacido en Brasil?
+          ...  Ruud_Gullit suelta un cañonazo. Problemas para el portero !
+          ...  el portero no va a llegar!
+          ...  OH!  Se pierde por encima del larguero! 
+          ...  el portero sonríe
+          ...  Sabía que iba fuera? No se, no se...
+Min. 32 :(arg) M_Klose inicia el contraataque
+          ...  Sale rápidamente!
+          ...  Y envía un gran pase con la defensa descolocada. Ruud_Gullit recibe sólo
+          ...  Corte finísimo y preciso de E_Diaz
+Min. 33 :(arg) W_Shoojho acelera por la banda izquierda
+          ...  Juega para N_Odruska
+          ...  N_Odruska chuta!
+          ...  Demasiado alta!
+Min. 34 :(uai) Leo_Celiz regatea a su marcador
+          ...  Va a disparar!
+          ...  No! Pasa hacia S_Valenti! Ha engañado a todos
+          ...  Corte finísimo y preciso de N_Odruska
+Min. 34 :(arg) M_Klose de tacón para F_Guerrero
+          ...  El balón golpea a D_H_Duarte en la cara!
+          ...  Peligro despejado! Al defensa no le hace ninguna gracia
+Min. 37 :(uai) A ver qué inventa Jorge_Coria ahora. Pase de interior hacia S_Valenti
+          ...  J_Munh llega velozmente y mete la planta del pie
+          ...  Qué velocidad!
+Min. 39 :(arg) D_Manso se mete en diagonal a través de los defensas
+          ...  Se va del central que le sale al paso!
+          ...  El extremo se cuela por la espalda del lateral
+          ...  Envía el pase a N_Odruska
+          ...  Leo_Celiz sale al corte... lo logra!
+Min. 40 :(arg) Ruud_Gullit cambia el juego hacia F_Guerrero 
+          ...  F_Guerrero acomoda su cuerpo y suelta... uau! Qué cañonazo!
+          ...  el portero ve salir el balón demasiado alto!
+          ...  Pero ojo con el efecto!!
+          ...  Pega en el palo !!
+          ...  Y fuera. el portero parece sorprendido!
+Min. 41 :(arg) Pateatraseros trata de levantarse tras la entrada 
+          ...  Imposible! Se ha hecho daño!
+Min. 41 :(arg) Ariel_Seltzer se despoja del chándal. Entrará por Pateatraseros y se ubicará de DFC
+Min. 42 :(arg) D_Manso hace un tremendo control en el línea de medios
+          ...  Corre hacia el área y nadie le sale al paso!
+          ...  Los centrales salen demasiado tarde, va a chutar
+          ...  D_Manso busca el palo largo !
+          ...  M_N_Cano palmea a córner 
+          ...  el arbitro  pita saque de puerta 
+          ...  Increíble!
+Min. 43 :(arg) L_Mareque se acerca al área
+          ...  Ve a D_Manso desmarcarse 
+          ...  Le tira un pase medido
+          ...  D_Manso prueba suerte con un disparo raso!
+          ...  Pero M_N_Cano rechaza el balón 
+          ...  Y la defensa, muy atenta, aleja el peligro
+Min. 44 :(arg) F_Guerrero se abre a la banda y cambie el juego hacia M_Klose
+          ...  M_Klose otea la posición del portero !
+          ...  Dispara!
+          ...  el portero está sorprendido!
+          ...  Lo ha pillado fuera de posición!
+          ...  OH! Impacta en las vallas publicitarias 
+          ...  Gran disparo!
+          ...  Merecía el gol
+Min. 45 :(arg) J_Munh pasa hacia M_Klose
+          ...  M_Klose le pega 'mordida'!
+          ...  El balón va haciendo extraños en el aire
+          ...  M_N_Cano se zambulle hacia su izquierda 
+          ...  Sale rozando el palo 
+          ...   el arbitro  dice que no ha tocado el balón 
+          ...  Acertó !
+
+El arbitro añadira 5 min. al tiempo reglamentario
+
+Min. 47 :(uai) D_H_Duarte llega segundos tarde al corte 
+          ...  Creo que buscaba el balón
+          ...  AMARILLA!!
+Min. 47 :(arg) D_Manso controla el balón en una demostración de clase
+          ...  Abre el juego a la izquierda!
+          ...  M_Klose es el destinatario!
+          ...  M_Klose empalma el balon con una rabona! Qué frivolidad!!
+          ...  M_N_Cano para. Le vino directo a las manos
+Min. 49 :(uai) Damian_Bogado acelera por la banda izquierda
+          ...  Juega para S_Valenti
+          ...  Pero L_Mareque cabecea el balón hacia el portero
+Min. 49 :(arg) Ariel_Seltzer busca opciones
+          ...  Su compañero se deshace del marcador!
+          ... M_Klose recibe un pase medido
+          ...  C_Gurrieri se juega el físico con una entrada durísima. Era su única opción
+Min. 50 :(arg) Ruud_Gullit de taco hacia F_Guerrero. Gran pase!
+          ...  C_Gurrieri va en carrera y agarra al delantero por la camiseta!!
+          ...  Falta!!
+          ...  El árbitro no lo ha visto
+          ...  El defensa sonríe! El delantero pone cara de incredulidad
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 47 :(arg) D_Manso hace un tremendo control en el línea de medios
+          ...  Corre hacia el área y nadie le sale al paso!
+          ...  Los centrales salen demasiado tarde, va a chutar
+          ...  D_Manso duerme el balón con el pecho y lo empalma de primeras!
+          ...  OOOOHHHHH!!!! 
+          ...  Increible!!! 
+          ...  Se ha ido fuera
+Min. 49 :(uai) W_Garcete se la lleva con la mano!
+          ...  El defensa se para! Pero el árbitro no lo vio!
+          ...  Ariel_Seltzer se juega el físico con una entrada durísima. Era su única opción
+Min. 50 :(uai) W_Garcete se anticipa a su marcador!
+          ...  Ariel_Seltzer despeja el balón hacia la grada
+          ...  Ei! Un aficionado se lleva el balón! Al ladrón
+Min. 51 :(arg) C_Bortu pone el balón a la espalda de los centrales
+          ...  M_Klose se cuela desde atrás!
+          ...  C_Gurrieri manda el balón a la grada
+Min. 52 :(arg) W_Shoojho pisa campo contrario. Mete un pase entre los centrales para M_Klose
+          ...  M_Klose le pega con la zurda!
+          ...  M_N_Cano hace una gran parada
+          ...  Pero no puede retener el balón!
+Min. 53 :(uai) E_Colombano pisa campo contrario. Mete un pase entre los centrales para S_Valenti
+          ...  J_Munh llega como un tren y arrolla a delantero y balón
+Min. 54 :(uai) Leo_Celiz entra con una dureza desmedida!!
+          ...  El atacante de retuerce de dolor!!
+          ...  AMARILLA!!
+          ...  Deberá calmarse un poco a partir de ahora
+          ...  Ay, ay, ay... Segunda amarilla ! 
+          ...  EXPULSADO!
+          ...  Reclama la pena máxima!
+          ...  Sí !!
+          ...  M_Klose es el encargado de disparar
+          ...  GOOOOOL !!
+          ...  María pon el vídeo a grabar!!!!!
+          ...  uai 0-3 arg...
+Min. 55 :(arg) Ruud_Gullit se cuela hasta la línea de fondo
+          ... Amaga el centro
+          ...  Pasa raso atrás hacia F_Guerrero
+          ...  C_Gurrieri pone el pie en el momento oportuno y despeja el balón
+Min. 58 :(arg) Ruud_Gullit corre metros
+          ...  La defensa rival se ha despistado, hay hueco!!
+          ...  Pone un peligroso balón sobre la entrada de M_Klose
+          ...  M_Klose chuta!
+          ...  M_N_Cano mete la mano y alcanza el balón con la punta de los dedos 
+          ...  córner, marca el arbitro   
+          ...  Pero el asistente lo corrige! Eso es asistir?
+Min. 59 :(uai) D_H_Duarte asiste a C_Gurrieri con espacio por delante
+          ...  L_Mareque sale al corte... lo logra!
+Min. 59 :(arg) D_Manso con el saque de banda
+          ...  Limpia el balón en su camiseta
+          ...  Y saca fuerte hacia Ariel_Seltzer
+          ...  E_Diaz despeja el balón hacia la grada
+          ...  Ei! Un aficionado se lleva el balón! Al ladrón
+Min. 60 :(arg) M_Klose mete el pie
+          ...  Roba el balón
+          ...  Trata de entrar en el área
+          ...  C_Gurrieri llega como un tren y arrolla a delantero y balón
+Min. 63 :(arg) W_Shoojho tiene que retroceder
+          ...  Está presionado, se saca el balón de encima
+          ...  M_Klose gana el salto
+          ...  M_Klose empalma con la derecha !
+          ...  el portero ve salir el balón demasiado alto!
+          ...  Pero ojo con el efecto!!
+          ...  Pega en el palo !!
+          ...  Y fuera. el portero parece sorprendido!
+Min. 64 :(arg) Ruud_Gullit combina con M_Klose con espacio por delante
+          ...  D_H_Duarte va al choque 
+    ...  Y desplaza al delantero!
+Min. 65 :(arg) Ariel_Seltzer volea la pelota. Va directo hacia Ruud_Gullit
+          ...  Ruud_Gullit vuela con bravura para rematar en plancha!
+          ...  M_N_Cano rechaza el balón con los pies 
+          ...  Su defensa cierra el rebote y envía el balón al centro del campo
+Min. 66 :(arg) F_Guerrero llega al área, prepara el disparo...
+          ...  Pero en su lugar pasa hacia M_Klose. Qué calidad!
+          ...  M_Klose trata de sorprender al portero desde fuera del área!
+          ...  el portero resbala!
+          ...  Pero el balón se pierde por la línea de fondo!
+Min. 68 :(arg) El defensa resbala!
+          ...  F_Guerrero se va sólo!
+          ...  F_Guerrero le pega con la zurda!
+          ...  GOOOOOL !!
+          ...  Tocó madera y para dentro. Imparable!
+          ...  uai 0-4 arg ...
+Min. 69 :(arg) Ruud_Gullit pasa de rabona hacia M_Klose. Madre mía! Ha nacido en Brasil?
+          ...  M_Klose mete el pie antes que su marcador !
+          ...  el portero ve como el balón se pierde lejos de su marco
+Min. 70 :(arg) D_Manso se va de uno, de dos, de tres!
+          ...  Mira a un lado... y pasa hacia Ruud_Gullit al otro lado! OH!
+          ...  Ruud_Gullit busca la vaselina... desde MEDIO CAMPO!!
+          ...  M_N_Cano hace una gran parada
+          ...  Pero no puede retener el balón!
+          ...  Lo atrapa en el segundo intento!
+Min. 72 :(uai) S_Valenti deja sentado a su marcador
+          ...  C_Bortu se juega el físico con una entrada durísima. Era su única opción
+Min. 73 :(arg) L_Mareque espera a que alguien le acompañe en ataque
+          ...  Levanta los brazos, nadie se desmarca!
+          ...  Busca la individual! Prepara el disparo!
+          ...  Rebota en un defensa y cae a pies de D_Manso
+          ...  D_H_Duarte entra con todo... y se lleva el balón limpiamente!
+Min. 74 :(arg) J_Munh combina con F_Guerrero. Le ha metido un buen balón picado
+          ...  F_Guerrero controla el balón, amaga y... dispara! Oh!
+          ...  El disparo coge un efecto envenenado
+          ...  el portero reacciona rápidamente y corrige su posición!!
+          ...  No va a llegar!
+          ...  Pero sale rozando el palo!!
+          ...  el portero estaba batido!
+Min. 77 :(arg) M_Klose se cuela por el extremo derecho
+          ...  Centro medido para C_Bortu
+          ...  C_Gurrieri lo envía al césped
+          ...  Los aficionados reclaman penalti!
+          ...  Pero el arbitro  se desentiende de la jugada!
+Min. 78 :(arg) Ruud_Gullit tiene varias opciones de pase, pero busca la individual
+          ...  Cris_Gonzalez lee la jugada antes de que se produzca y corta el balón
+Min. 80 :(uai) C_Gurrieri tira la pared con su delantero
+          ...  S_Valenti se la queda!
+          ...  Encara a puerta!
+          ...  Corte finísimo y preciso de Ariel_Seltzer
+          ...  Ha medido muy bien
+Min. 80 :(arg) J_Munh hace una bicicleta y cambia el juego hacia Ariel_Seltzer
+          ...  Ariel_Seltzer se lanza en plancha... ! 
+          ...  Qué valentía!
+          ...  Chuta con muy poca precisión
+          ...  El balón se pierde lejos del marco!
+Min. 81 :(arg) D_Manso llega el priimero al balóm suelto
+          ...  Y lo mete en profundidad hacia M_Klose
+          ...  M_Klose coloca el balón al palo largo !
+          ...  Pero el balón se pierde inofensivamente por la línea de meta
+Min. 82 :(arg) C_Bortu se acerca al área
+          ...  Ve a F_Guerrero desmarcarse 
+          ...  Le tira un pase medido
+          ...  F_Guerrero tiene el disparo a punto!
+          ...  Coloca el balón lejos del alcance del portero!! 
+          ...  Pero da en el palo !!
+          ...  Bueno, los palos también juegan!!
+Min. 83 :(arg) F_Guerrero busca a W_Shoojho en profundidad
+          ...  W_Shoojho con un toque de maestro!
+          ...  Se va fuera
+Min. 85 :(arg) Ariel_Seltzer espera a que alguien le acompañe en ataque
+          ...  Levanta los brazos, nadie se desmarca!
+          ...  Busca la individual! Prepara el disparo!
+          ...  Rebota en un defensa y cae a pies de M_Klose
+          ...  M_Klose levanta la cabeza, apunta a la escuadra y... dispara !
+          ...  Pero M_N_Cano rechaza con los pies
+          ...  Podría haberla cogido!
+Min. 86 :(arg) M_Klose asiste a F_Guerrero dentro del área
+          ...  F_Guerrero con un verdadero obús !
+          ...  Pero se las arregla para fallar
+          ...  Los aficionados del el equipo visitante se ríen de él
+Min. 87 :(arg) F_Guerrero encuentra a M_Klose con un pase largo
+          ...  M_Klose le pega con dureza 
+         ...  No ha precisado demasiado !
+          ...  M_N_Cano vuela sobre la línea de gol
+          ...  Y realiza una espectacular parada! Está enchufado!
+Min. 88 :(arg) M_Klose tira hacia arriba
+          ...  M_Klose toca la pelota de primeras!
+          ...  GOOOOOL !! 
+          ...  el portero abronca estrepitosamente a sus defensas
+          ...  uai 0-5 arg ...
+Min. 89 :(arg) Ariel_Seltzer corre metros
+          ...  La defensa rival se ha despistado, hay hueco!!
+          ...  Pone un peligroso balón sobre la entrada de M_Klose
+          ...  M_Klose toca el balón con mucha suavidad !
+          ...  Los aficionados se levantan de sus asientos!
+          ...  El portero no se mueve !!
+          ...  Pero sale a centímetros de la escuadra!
+          ...  el portero respira aliviado!
+Min. 90 :(arg) D_Manso con el saque de banda
+          ...  El defensa pide fuera de juego! Si no hay!
+          ...  M_Klose se escapa!
+          ...  M_Klose suelta una rabona!
+          ...  M_Klose desvía ligeramente el balón
+          ...  Fuera!
+          ...  Lo ha logrado!
+          ...  Saque de puerta? Vi claramente como la tocaba el cancerbero
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : uai  0 arg 24
+tiros a puerta       : uai  0 arg 19
+
+Marcador             : uai  0 arg 5
+
+
+<<< Estadisticas de los jugadores del UAI Urquiza >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+M_N_Cano       GK RLC 15  2  2  2 33 |  90  15   0   0   0   0   0   0   0   0 120   0   0   0 100
+E_Barros      DFC  LC  2 16  6  5 56 |  30   0   1   0   0   0   0   0   0   1   0  60   0   0  55
+E_Diaz        DFC   C  2 14  5  5 27 |  90   0   2   0   0   0   0   0   0   0   0 120   0   0  18
+Cris_Gonzalez DFC  RL  2 14  5  6 66 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  80
+D_H_Duarte    DFC  RC  2 14  5  6 51 |  90   0   7   1   0   0   0   1   0   0   0 444  45  24  52
+Damian_Bogado MFC   R  2  5 17  5 46 |  90   0   0   2   0   0   0   0   0   0   0   0  42   0  43
+Leo_Celiz     MFC   R  2  5 16  4 59 |  53   0   1   1   0   0   0   0   1   0   0  62  23   2  51
+E_Colombano   MFC   R  2  5 14  4 48 |  90   0   0   1   0   0   0   0   0   0   0  23  44  23  59
+Jorge_Coria   MFC   C  2  5 14  5 34 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  23
+W_Garcete     FWC RLC  2  5  6 15 34 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  26
+S_Valenti     FWC RLC  2  6  6 13 31 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  24
+I_Pietrobono   GK RLC 14  2  2  2 55 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Gurrieri    DFC   C  2 14  6  5 43 |  60   0   6   1   0   0   0   0   0   0   0 360  21   0  79
+Maxi_Ferreyra MFC   R  2  5 14  5 49 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  81
+Martin_Ortiz  DFC   L  2 13  5  5 52 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+E_Vidal       FWC   R  2  6  5 13 47 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  98
+Leo_Harkes    MFC   R  2  4 14  5 36 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  96
+C_A_Rodriguez DFC   L  2 11  9  5 50 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                 15  18   7   0   0   0   1   1   1
+
+
+<<< Estadisticas de los jugadores del Argentinos >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+F_Mondragón    GK   C 20  5  3  3 66 |  90   0   0   0   0   0   0   0   0   0  35   0   0   0 100
+J_Munh        DFR   R  4 19  7  9 67 |  90   0   2   4   1   0   0   0   0   0   0 120 119   0  79
+Pateatraseros DFC RLC  3 29  7  6 77 |  40   0   1   2   1   0   0   0   0   1   0  60  77   0  84
+L_Mareque     DFC  LC  3 24  9  6 55 |  90   0   2   3   0   0   0   0   0   0   0 120  63   0  36
+N_Odruska     DFL  LC  4 20 11  9 59 |  90   0   1   0   0   1   0   0   0   0   0 142  47  54  42
+Turco_Grecco  DMC   C  3 15 12  8 54 |   4   0   0   1   0   0   0   0   0   1   0   0  21   0  84
+Oscar         AMR RLC  1  4 25 18 61 |  18   0   0   2   0   1   0   0   0   1   0   0  42   7  66
+Ruud_Gullit   AMC  RC  3  6 22 15 55 |  90   0   0   8   0   5   0   0   0   0   0   0 168  53  56
+D_Manso       AML   L  3  6 16 13 65 |  90   0   0  11   0   4   0   0   0   0   0   0 231  40  77
+M_Klose       FWC   C  5  6 10 34 57 |  90   0   0   4   0  22   4   0   0   0   0   0  84 420  60
+F_Guerrero    FWC   R  5  8  6 20 68 |  90   0   0   4   0   6   1   0   0   0   0  47 131 145  75
+I_Uza          GK   R 18  3  4  4 53 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Bortu       DMC   C  4 17  8  5 48 |  86   0   1   3   0   2   0   0   0   0   0  60  63  26  73
+W_Shoojho     AMR   R  4 22  7  6 41 |  72   0   0   4   0   1   0   0   0   0   0   0  84   7  68
+Ariel_Seltzer DFC   L  1 17 15 10 51 |  50   0   3   4   0   1   0   0   0   0   0 180  84   7  84
+Z_Oto         MFC   L  2  4 15  3 49 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Y_Indoe       FWC   R  5  8 16  8 46 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Il_F_Marelli  FWC   R  3  7 10 20 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0  10  50   2  43   5   0   0   3
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+uai     0     40.13    39.75    24.52
+arg     0     81.17    76.45   127.53
+uai    10     38.40    38.10    23.13
+arg    10     81.24    72.80   122.84
+uai    20     36.70    36.27    21.73
+arg    20     78.79    61.49   111.48
+uai    30     34.97    34.68    20.33
+arg    30     76.29    59.28   107.62
+uai    40     37.60    33.80    19.44
+arg    40     74.23    57.42   103.94
+uai    50     35.12    30.94    17.54
+arg    50     59.00    56.97    99.75
+uai    60     33.08    26.40    16.10
+arg    60     56.31    54.89    96.08
+uai    70     31.58    24.65    14.81
+arg    70     53.97    53.04    93.09
+uai    80     29.82    22.79    13.36
+arg    80     51.47    51.07    89.47
+uai    90     28.12    21.07    11.84
+arg    90     49.46    48.94    85.84
+
+
+1361410622

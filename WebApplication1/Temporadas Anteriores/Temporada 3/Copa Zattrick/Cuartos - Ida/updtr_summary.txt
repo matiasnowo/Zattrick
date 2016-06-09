@@ -1,0 +1,146 @@
+
+
+Injuries:
+---------
+
+Nico_Cabre (vel) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Suspensions:
+------------
+
+Eric_Gerets (boc) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+G_Peruzzi (ind) Tk aumenta su media gracias al skills
+J_Velazquez (ind) Tk aumenta su media gracias al skills
+Dickson_Etuhu (ind) Sh aumenta su media gracias al skills
+F_Parra (ind) Tk aumenta su media gracias al skills
+A_Orion (boc) St aumenta su media gracias al skills
+M_Uglessich (vel) Tk aumenta su media gracias al skills
+L_Castroman (vel) Ps aumenta su media gracias al skills
+G_Bettini (ban) Tk aumenta su media gracias al skills
+Ray_Wilkins (ban) Ps aumenta su media gracias al skills
+El_Misha (riv) Ps aumenta su media gracias al skills
+Espeon (riv) Ps aumenta su media gracias al skills
+JP_Sorin (ald) Tk aumenta su media gracias al skills
+Satanas_Paez (ald) Tk aumenta su media gracias al skills
+Karel_Pesek (alb) Ps aumenta su media gracias al skills
+Dario_Šimic (alb) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:  13
+Red cards:      1
+Injuries:       1
+
+Top performers:
+
+L_Astrada (riv)       0
+D_Villalva (riv)      0
+H_Castellano (ald)    0
+C_L_Diaz (ald)        0
+V_Cuesta (ald)        0
+Satanas_Paez (ald)    0
+Tom_Misaki (ald)      0
+R_Monserrat (ald)     0
+Oliver_Atom (ald)     0
+S_Escudero (ald)      0
+C_Fabbiani (ald)      0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        8     17
+Nico_Martinez (ind)      7     13
+Charizard (alb)          8     12
+Zapdos (alb)             8     10
+H_Crespo (riv)           8      6
+Santi_Anselmo (rac)      7      5
+S_Kun_Aguero (arg)       8      5
+C_Fabbiani (ald)         9      5
+Chelo_Delgado (boc)      3      4
+S_Biglieri (rce)         5      4
+F_Morientes (riv)        8      4
+D_Montenegro (ind)       8      4
+G_B_Leschuk (ars)        9      4
+F_Cavenaghi (fer)        4      3
+L_Monje (rce)            5      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         8    299
+Charizard (alb)          8    247
+S_Staunton (alb)         8    231
+Nico_Blandi (boc)        8    220
+Zapdos (alb)             8    213
+Hitmonlee (alb)          8    209
+H_Castellano (ald)       9    198
+John_A_Riise (alb)       8    186
+Mono_Navarro (tig)       8    186
+P_Ledesma (boc)          8    179
+M_Laudrup (alb)          8    179
+Mati_Brad (boc)          8    165
+Nico_Martinez (ind)      7    157
+E_Carolo (riv)           8    157
+T_Svenssen (alb)         8    156
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         8      7
+S_Staunton (alb)         8      6
+John_A_Riise (alb)       8      5
+P_Ledesma (boc)          8      5
+H_Fredes (ind)           7      4
+Mati_Brad (boc)          8      4
+Aaron_Lennon (rce)       6      3
+M_Ricci (oli)            8      3
+E_Carolo (riv)           8      3
+A_Fernandez (vel)        4      2
+P_Toranzo (rac)          5      2
+P_Vidal (est)            7      2
+Ricardo_Gomez (rce)      7      2
+A_Dominguez (riv)        7      2
+M_Albela (tig)           7      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Éric_Cantona (boc)       8      8
+Gonzalo_Bazan (qui)      6      7
+C_Arano (riv)            7      7
+Steelix (alb)            6      6
+Jota_Eme (vel)           4      5
+M_Mea_Vitali (ban)       8      5
+A_Tarantini (alb)        1      4
+Nacho_Decarli (rac)      4      4
+P_Mannara (oli)          5      4
+Gio_Moreno (rce)         7      4
+Davor_Suker (boc)        8      4
+M_Zarate (vel)           8      4
+M_Brau (ars)             8      4
+Alakazam (rce)           0      3
+O_Ardiles (riv)          1      3
+

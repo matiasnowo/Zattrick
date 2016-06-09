@@ -1,0 +1,145 @@
+
+
+Injuries:
+---------
+
+L_Somoza (boc) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+L_Abecasis (riv) tendra que guardar reposo una semana por molestias en el muslo
+
+
+
+Suspensions:
+------------
+
+G_Peruzzi (ind) no podrá jugar el siguiente partido por sanción
+Steve_Hyuga (ald) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Raikou (alb) Tk aumenta su media gracias al skills
+Playboy (alb) Tk aumenta su media gracias al skills
+A_Matellan (ars) Tk aumenta su media gracias al skills
+M_Mea_Vitali (ban) Ps aumenta su media gracias al skills
+C_Maidana (ban) Ps aumenta su media gracias al skills
+M_Barovero (vel) St aumenta su media gracias al skills
+M_Torsiglieri (vel) Tk aumenta su media gracias al skills
+Burruchaga (vel) Ps aumenta su media gracias al skills
+Éric_Cantona (boc) Ps aumenta su media gracias al skills
+H_Castellano (ald) St aumenta su media gracias al skills
+C_Casteglione (ald) Tk aumenta su media gracias al skills
+Steve_Hyuga (ald) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:  11
+Red cards:      1
+Injuries:       2
+
+Top performers:
+
+Z_Zidane (boc)        0
+Z_Boban (boc)         0
+P_Iarley (boc)        0
+Chelo_Delgado (boc)   0
+A_Gabbarini (ind)     0
+F_Ikube (ind)         0
+G_Vallés (ind)        0
+L_Carrio (ind)        0
+Kun_Aguero (ind)      0
+C_Pellerano (ind)     0
+R_Bochini (ind)       0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)       10     17
+Nico_Martinez (ind)      8     16
+Charizard (alb)         10     16
+Zapdos (alb)            10     14
+H_Crespo (riv)           9      7
+F_Morientes (riv)        8      5
+Santi_Anselmo (rac)      8      5
+S_Kun_Aguero (arg)       9      5
+J_Lujambio (ban)         9      5
+C_Fabbiani (ald)        10      5
+Chelo_Delgado (boc)      3      4
+S_Biglieri (rce)         6      4
+D_Montenegro (ind)       9      4
+G_B_Leschuk (ars)       10      4
+RV_Nistelrooy (ban)      3      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         9    368
+Charizard (alb)         10    295
+Zapdos (alb)            10    259
+S_Staunton (alb)         9    254
+Hitmonlee (alb)          9    243
+Nico_Blandi (boc)       10    224
+P_Ledesma (boc)         10    215
+H_Castellano (ald)      10    207
+John_A_Riise (alb)       9    205
+Mono_Navarro (tig)       9    198
+Mati_Brad (boc)         10    190
+Nico_Martinez (ind)      8    186
+T_Svenssen (alb)         9    183
+M_Laudrup (alb)          8    177
+E_Carolo (riv)           9    165
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         9     11
+S_Staunton (alb)         9      7
+John_A_Riise (alb)       9      6
+H_Fredes (ind)           9      5
+P_Ledesma (boc)         10      5
+Mati_Brad (boc)         10      4
+Aaron_Lennon (rce)       7      3
+E_Carolo (riv)           9      3
+M_Ricci (oli)            9      3
+Mario_Bolatti (ind)      2      2
+Emmanuel_Pío (oli)       2      2
+R_Pereyra (riv)          3      2
+P_Toranzo (rac)          5      2
+A_Fernandez (vel)        5      2
+Oliver_Atom (ald)        7      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Éric_Cantona (boc)      10      8
+C_Arano (riv)            7      7
+Gonzalo_Bazan (qui)      7      7
+Steelix (alb)            6      6
+Jota_Eme (vel)           4      5
+M_Mea_Vitali (ban)       9      5
+C_Ansaldi (vel)          1      4
+A_Tarantini (alb)        2      4
+G_Peruzzi (ind)          3      4
+Nacho_Decarli (rac)      4      4
+P_Mannara (oli)          5      4
+Gio_Moreno (rce)         7      4
+H_Fredes (ind)           9      4
+Berni_Romeo (slo)        9      4
+M_Brau (ars)             9      4
+

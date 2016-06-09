@@ -1,0 +1,173 @@
+Home                           Away
+----                           ----
+
+Estudiantes de La Plata        Ferro                         
+
+GK  Mono_Navarro               GK  S_Bertoli                 
+DFR M_Yepes                    DFR F_Roncaglia               
+DFC M_Laspada                  DFC Ricardo_Gomes             
+DFC E_Figueroa                 DFC M_Barrera                 
+DFL J_Menghini                 DFL Smaug                     
+MFR G_Gigliaza                 DMC Ed_Retamoso               
+MFC Mario_Bolatti              MFR J_Fabbro                  
+MFL P_Vidal                    MFC Emmanuel_Pío              
+AMC Angel_Romano               MFL Matias_Diaz               
+FWC P_Gancedo_Jr               FWC H_Barcos                  
+FWC R_Falcao_G                 FWC E_Fuertes                 
+
+4-3-1-2 Counter Attack         4-1-3-2 Passing                
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  2 :(est) R_Falcao_G con un pase de tiralíneas para M_Laspada
+          ...  Ed_Retamoso llega como un tren y corta el ataque lanzándose al suelo
+Min.  6 :(est) E_Figueroa dispara en carrera!
+          ...  El defensa mete la pierna
+          ...  sale rebotada hacia R_Falcao_G!
+          ...  Ricardo_Gomes va al suelo con los dos pies por delante
+          ...  el arbitro  estaba encima, pero no ha visto falta
+Min. 11 :(est) Mario_Bolatti levanta la cabeza, pasa hacia P_Gancedo_Jr
+          ...  P_Gancedo_Jr trata de sorprender al portero desde fuera del área!
+          ...  S_Bertoli resbala
+          ...  Pero ve como el disparo se pierde lejos de su marco!
+Min. 19 :(est) P_Vidal hace una pared con un compañero y mete de primeras para J_Menghini
+          ...  Pero pisa un charco y cae al suelo!
+          ...  Smaug recoge el balón. Menudo marcaje le está haciendo!
+Min. 19 :(fer) Ed_Retamoso pisa campo contrario. Mete un pase entre los centrales para E_Fuertes
+          ...  J_Menghini entra a ras de suelo
+          ...  El delantero no tiene más remedio que saltar por encima
+          ...  Se ha jugado el físico! Qué tío!
+Min. 24 :(fer) Matias_Diaz hace una bicicleta y cambia el juego hacia Ed_Retamoso
+          ...  Ed_Retamoso impacta el balón con dureza !
+          ...  Mono_Navarro mete la pierna
+          ...  Hay que blocar el balón jefe!
+Min. 34 :(est) E_Figueroa ubica el balón a la espalda de la defensa. Mario_Bolatti busca el desmarque
+          ...  Mario_Bolatti prueba suerte!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  El portero no se mueve !!
+          ...  Pero sale a centímetros de la escuadra!
+          ...  el portero respira aliviado!
+
+El arbitro añadira 0 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 58 :(fer) M_Barrera se coloca en el camino del atacante 
+          ...  el arbitro  pita la falta. Se ha desentendido dla pelota
+          ...  Tuvo suerte de no ver la cartulina
+          ...  "Primer aviso... y último" le espeta el colegiado 
+Min. 60 :(est) R_Falcao_G mete un balón interior para Angel_Romano
+          ...  Pero Ricardo_Gomes cabecea el balón hacia el portero
+Min. 60 :(fer) Matias_Diaz cede atrás para H_Barcos
+          ...  H_Barcos connecta el balón con la cabeza y lo peina hacia atrás!
+          ...  el portero se queda parado. El balón iba lejos del marco!
+Min. 61 :(est) G_Gigliaza combina con R_Falcao_G. Juegan de memoria!
+          ...  Ed_Retamoso arriesgo con una entrada a ras de suelo! Ay! Le ha dado!
+          ...  El árbitro no lo ha visto así!!
+Min. 75 :(est) Mario_Bolatti largo para M_Laspada
+          ...  Pero Ricardo_Gomes corta la acción con contundencia
+Min. 78 :(fer) Ricardo_Gomes tiene campo por delante
+          ...  Pasa a E_Fuertes
+          ...  Angel_Romano despeja sin miramientos
+Min. 81 :(est) G_Gigliaza con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia R_Falcao_G
+          ...  Ricardo_Gomes pone el pie en el momento oportuno y despeja el balón
+Min. 83 :(fer) M_Barrera se deja caer 
+          ...  No hay espacio en Zattrick para este tipo de acciones!!!
+          ...  Se marcha con una simple amonestación
+          ...  Se habrá dejado las targetas en el vestuario???
+Min. 89 :(fer) Ed_Retamoso combina con H_Barcos con espacio por delante
+          ...  M_Yepes se lanza hacia su oponente
+          ...  Y toca el balón! Que clase!
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : est  1 fer 1
+tiros a puerta       : est  1 fer 1
+
+Marcador             : est  0 fer 0
+
+
+<<< Estadisticas de los jugadores del Estudiantes de La Plata >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+Mono_Navarro   GK  RC 27  3  3  3 62 |  90   1   0   0   0   0   0   0   0   0  43   0   0   0 100
+M_Yepes       DFR  RC  3 21  8  6 63 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  75
+M_Laspada     DFC  RC  3 22  9  8 42 |  90   0   0   0   0   0   0   0   0   0   0  35   0   0  65
+E_Figueroa    DFC   C  1 25  7  1 50 |  90   0   0   2   0   0   0   0   0   0   0   0  42   0  71
+J_Menghini    DFL RLC  1 20  7 10 45 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  66
+G_Gigliaza    MFR RLC  2  5 20  4 72 |  90   0   0   2   0   0   0   0   0   0   0   0  42   0  81
+Mario_Bolatti MFC   C  2 15 22 10 38 |  90   0   0   2   0   1   0   0   0   0   0   0  42   7  66
+P_Vidal       MFL   L  4 12 20  6 56 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  74
+Angel_Romano  AMC RLC  2 14 18 23 43 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  69
+P_Gancedo_Jr  FWC   R  4  8  9 20 60 |  90   0   0   0   0   1   0   0   0   0   0   0   0  13  75
+R_Falcao_G    FWC  RC  1  7 11 24 54 |  90   0   0   2   0   0   0   0   0   0   0   0  42   0  73
+D_Grosso       GK   C 17  4  4  5 80 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Contrera    DFC   R  5 21  9  7 40 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+R_Schiavi     DFC   C  2 16  4  4 43 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  93
+JS_Veron      MFC  LC  3 13 14 11 79 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+E_Lavezzi     MFC  RC  3  5 18  6 39 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  92
+Matuzalem     MFC RLC  2  1 14 19 37 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Duvan_Zapata  FWC   C  2  5  6 16 62 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  1   3   9   0   2   0   0   0   0
+
+
+<<< Estadisticas de los jugadores del Ferro >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+S_Bertoli      GK   C 22  4  5  3 79 |  90   1   0   0   0   0   0   0   0   0  43   0   0   0 100
+F_Roncaglia   DFR   R  5 26 10 10 77 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  83
+Ricardo_Gomes DFC   C  3 26  5  4 48 |  90   0   4   1   0   0   0   0   0   0   0 275  21   0  73
+M_Barrera     DFC  RC  5 22  4  7 41 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  69
+Smaug         DFL RLC  2 21  5  6 51 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  69
+Ed_Retamoso   DMC   C  5 22 24  6 53 |  90   0   2   2   0   1   0   0   0   0   0 120  42  13  71
+J_Fabbro      MFR  RC  1 11 22 15 59 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+Emmanuel_Pío  MFC   C  4 10 20  6 49 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  67
+Matias_Diaz   MFL   L  4  6 21  6 64 |  90   0   0   2   0   0   0   0   0   0   0   0  42   0  80
+H_Barcos      FWC   C  5  6  4 26 39 |  90   0   0   0   0   1   0   0   0   0   0   0   0   7  68
+E_Fuertes     FWC   C  1  1  9 24 77 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  84
+G_Burgos       GK   C 17  3  3  3 79 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Clemente      DFC   L  3 20  5  5 60 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+F_Ortiz       DFC   C  1 20  1  4 37 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Jose_Dirceu   MFC   R  3 18  5  7 40 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Gabriel_Roth  MFC  RC  1 11 19 14 56 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  97
+Facu_Ferreyra FWC RLC  3  5  8 21 68 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Q_Braes       FWC   R  4 12 11 19 48 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  94
+-- Total --                                  1   7   5   0   2   0   0   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+est     0    117.05   109.04    81.14
+fer     0    121.96   110.88    66.40
+est    10    113.56   105.86    79.12
+fer    10    118.87   108.10    64.81
+est    20    110.18   102.85    76.95
+fer    20    115.64   105.21    63.04
+est    30    105.83    99.27    74.35
+fer    30    112.13   102.00    61.31
+est    40    101.92    95.88    71.73
+fer    40    108.64    98.78    59.34
+est    50     97.87    92.28    68.72
+fer    50    104.85    95.33    57.20
+est    60     94.11    89.21    66.10
+fer    60    101.76    92.48    55.60
+est    70     90.31    85.84    63.79
+fer    70     97.93    89.15    53.96
+est    80     86.50    82.68    61.43
+fer    80     94.70    86.48    52.14
+est    90     83.12    79.60    58.99
+fer    90     91.26    83.54    50.58
+
+
+1365643856

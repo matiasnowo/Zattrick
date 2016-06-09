@@ -1,0 +1,181 @@
+
+
+Injuries:
+---------
+
+M_Almada (ald) Ya está listo para jugar despues de su lesión
+N_Otamendi (vel) Ya está listo para jugar despues de su lesión
+Jorge_Vila (vel) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+Golem (alb) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+
+
+
+Suspensions:
+------------
+
+Satanas_Paez (ald) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Steelix (alb) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Éric_Cantona (boc) no podrá jugar el siguiente partido por sanción
+Tom_Misaki (ald) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+C_Ayala (riv) Tk aumenta su media gracias al skills
+Mati_Jdm (riv) Tk aumenta su media gracias al skills
+D_Passarella (riv) Tk aumenta su media gracias al skills
+F_Morientes (riv) Ps aumenta su media gracias al skills
+F_Morientes (riv) Sh aumenta su media gracias al skills
+M_Torsiglieri (vel) Tk aumenta su media gracias al skills
+M_Moralez (vel) Ps aumenta su media gracias al skills
+L_Galeano (ind) Tk aumenta su media gracias al skills
+F_Parra (ind) Sh aumenta su media gracias al skills
+J_Insaurralde (boc) Tk aumenta su media gracias al skills
+P_Ledesma (boc) Ps aumenta su media gracias al skills
+C_Orcellet (ars) St aumenta su media gracias al skills
+L_Lopez (ars) Tk aumenta su media gracias al skills
+A_Matellan (ars) Tk aumenta su media gracias al skills
+Javi_Morales (ars) Ps aumenta su media gracias al skills
+Diego_Villar (ars) Ps aumenta su media gracias al skills
+Franco_Jara (ars) Sh aumenta su media gracias al skills
+Scizor (alb) Ps aumenta su media gracias al skills
+Tinto (alb) Sh aumenta su media gracias al skills
+L_Nowogrodzki (ban) Tk aumenta su media gracias al skills
+U_Uclu (ban) Ps aumenta su media gracias al skills
+D_Cvitanich (ban) Sh aumenta su media gracias al skills
+H_Castellano (ald) St aumenta su media gracias al skills
+C_L_Diaz (ald) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          9  (DFs - 1, DMs - 0, MFs - 1, AMs - 0, FWs - 7)
+Assists:        8  (DFs - 1, DMs - 0, MFs - 7, AMs - 0, FWs - 0)
+Yellow cards:   9
+Red cards:      2
+Injuries:       2
+
+Top performers:
+
+J_Yacuzzi (ars)       39
+JP_Carrizo (alb)      39
+Franco_Jara (ars)     37
+M_Rodriguez (ban)     35
+Javi_Morales (ars)    32
+P_Ledesma (boc)       31
+H_Castellano (ald)    27
+A_Matellan (ars)      26
+Diego_Torres (ars)    25
+J_Gandolfi (ars)      24
+R_Pereyra (riv)       23
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   7    5   1   1    12    5    7    16
+2    Aldosivi                7    4   2   1    13    5    8    14
+3    Arsenal                 7    4   1   2    10    5    5    13
+4    Independiente           7    3   2   2     7    5    2    11
+5    All Boys                6    2   3   1     4    6   -2     9
+6    River Plate             6    2   1   3     5    6   -1     7
+7    San Lorenzo             6    1   3   2     4    5   -1     6
+8    Banfield                7    1   3   3     2    6   -4     6
+9    Boca Juniors            7    1   1   5     5   14   -9     4
+10   Argentinos              5    1   0   4     3    8   -5     3
+11   River PLate             1    0   1   0     1    1    0     1
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        7      7
+C_Fabbiani (ald)         8      6
+J_Lujambio (ban)         7      5
+M_Zarate (vel)           7      4
+H_Crespo (riv)           5      3
+Franco_Jara (ars)        7      3
+Charizard (alb)          7      3
+Zapdos (alb)             7      3
+E_Zelaya (ars)           4      2
+M_Regueiro (ald)         5      2
+F_Morientes (riv)        6      2
+M_Palermo (boc)          7      2
+G_B_Leschuk (ars)        1      1
+F_Palopoli (ald)         2      1
+R_Civelli (ban)          2      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+P_Ledesma (boc)          8    159
+H_Castellano (ald)       8    141
+H_Fredes (ind)           7    138
+JP_Carrizo (alb)         8    138
+Mati_Jdm (riv)           8    135
+Wailord (alb)            7    128
+C_L_Diaz (ald)           8    119
+J_Gandolfi (ars)         8    116
+Mati_Brad (boc)          7    113
+Diego_Villar (ars)       8    106
+A_Gabbarini (ind)        8    105
+C_Fabbiani (ald)         8    104
+H_Ibarra (boc)           7    103
+J_Yacuzzi (ars)          8    103
+K_Kamamoto (ban)         7    102
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Javi_Morales (ars)       3      3
+P_Ledesma (boc)          8      3
+S_Escudero (ald)         6      2
+C_Ansaldi (vel)          6      2
+M_Mea_Vitali (ban)       6      2
+Mati_Brad (boc)          7      2
+S_Staunton (alb)         7      2
+R_Pereyra (riv)          1      1
+C_Llama (ald)            1      1
+M_Rodriguez (ban)        2      1
+L_Donovan (ald)          2      1
+O_Ardiles (riv)          4      1
+W_Samuel (boc)           6      1
+F_Morientes (riv)        6      1
+H_Ibarra (boc)           7      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Steelix (alb)            7     10
+D_Montenegro (ind)       5      7
+Nico_Blandi (boc)        7      7
+L_Galeano (ind)          4      6
+M_Materazzi (ban)        7      6
+Éric_Cantona (boc)       8      6
+Tom_Misaki (ald)         2      5
+C_Pellerano (ind)        4      5
+N_Otamendi (vel)         6      5
+F_Morientes (riv)        6      5
+E_Yostik (ars)           0      4
+M_Rodriguez (ban)        2      4
+F_Parra (ind)            3      4
+R_Alvarez (vel)          5      4
+Satanas_Paez (ald)       6      4
+

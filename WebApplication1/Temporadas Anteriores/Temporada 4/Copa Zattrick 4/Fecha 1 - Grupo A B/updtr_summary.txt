@@ -1,0 +1,152 @@
+
+
+Injuries:
+---------
+
+Ivan_Cordoba (qui) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+Hernán_Bruno (qui) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+L_Alario (col) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+N_Odruska (arg) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Suspensions:
+------------
+
+K_Elotya (arg) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+C_Arano (riv) Ps aumenta su media gracias al skills
+C_Ayala (riv) Tk aumenta su media gracias al skills
+C_Ayala (riv) Ps aumenta su media gracias al skills
+Mati_Jdm (riv) Tk aumenta su media gracias al skills
+E_Carolo (riv) Ps aumenta su media gracias al skills
+H_Crespo (riv) Ps aumenta su media gracias al skills
+H_Crespo (riv) Sh aumenta su media gracias al skills
+Hernán_Bruno (qui) Tk aumenta su media gracias al skills
+Jacobo_Urso (qui) Tk aumenta su media gracias al skills
+Duracell (fer) Tk aumenta su media gracias al skills
+Bofur (fer) Tk aumenta su media gracias al skills
+M_Rodriguez (ban) Ps aumenta su media gracias al skills
+H_Ibarra (boc) Tk aumenta su media gracias al skills
+C_Traverso (boc) Sh aumenta su media gracias al skills
+Eric_Gerets (boc) Ps aumenta su media gracias al skills
+C_Doni (boc) Ps aumenta su media gracias al skills
+M_Albela (tig) Tk aumenta su media gracias al skills
+A_Del_Piero (tig) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          1  (DFs - 0, DMs - 0, MFs - 0, AMs - 1, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:  13
+Red cards:      1
+Injuries:       4
+
+Top performers:
+
+A_Carrizo (col)       18
+S_Fosgt (col)         12
+Pablo_Piatti (col)    10
+G_Alcoba (col)        6
+Juli_Barraza (col)    6
+L_Castillo (col)      6
+Adrian_Bastia (col)   6
+I_M_Fabianesi (col)   6
+E_Gigliotti (col)     4
+Ric_Gomez (col)       0
+G_Graciani (col)      0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+J_Lujambio (ban)         1      2
+C_Fabbiani (ald)         1      2
+Kazu_Miura (qui)         1      2
+F_Morientes (riv)        2      2
+Nico_Blandi (boc)        2      2
+L_Castroman (rac)        1      1
+V_Píriz_Alves (rac)      1      1
+Leonardo (fer)           1      1
+Facu_Ferreyra (fer)      1      1
+L_Abraham (new)          1      1
+Nico_Martinez (ind)      1      1
+M_Zarate (vel)           1      1
+Carlos_Duré (ars)        1      1
+A_Chavez (est)           1      1
+N_Nicolay (rce)          1      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Juan_J_Jayo_L (boc)      2     41
+Placente (uni)           1     38
+L_Castroman (rac)        1     37
+A_Carrizo (col)          2     30
+F_Morientes (riv)        2     29
+Nico_Bertolo (qui)       2     29
+J_Lujambio (ban)         1     28
+J_I_Sills (uni)          1     28
+Carlos_Duré (ars)        1     28
+Kasey_Keller (uni)       1     27
+Darío_Larrosa (fer)      1     27
+Kazu_Miura (qui)         1     25
+Edgardo_Bauza (uni)      1     24
+Ray_Wilkins (ban)        1     23
+L_Carrio (ind)           1     23
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Juan_J_Jayo_L (boc)      2      2
+J_Datolo (est)           1      1
+Javier_Lux (rac)         1      1
+J_Cazares (uni)          1      1
+R_Monserrat (ald)        1      1
+Kun_Aguero (ind)         1      1
+R_Saa (qui)              1      1
+M_Almada (ald)           1      1
+R_Alvarez (vel)          1      1
+Angel_Carreño (fer)      1      1
+J_Gandolfi (ars)         1      1
+Ray_Wilkins (ban)        1      1
+L_Castroman (rac)        1      1
+Darío_Larrosa (fer)      1      1
+Nico_Bertolo (qui)       2      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+K_Elotya (arg)           1      3
+Pablo_Lima (rac)         1      3
+C_Alvarez (ald)          1      3
+Leo_da_Silva (ind)       1      3
+G_B_Leschuk (ars)        1      1
+Hasan_Sas (est)          1      1
+H_Ameli (slo)            1      1
+Steelix (alb)            1      1
+R_Martinez (rac)         1      1
+L_G_Pirez (rce)          1      1
+RV_Nistelrooy (ban)      1      1
+Charizard (alb)          1      1
+Max_Rodriguez (new)      1      1
+M_Laspada (est)          1      1
+Isgut (qui)              1      1
+

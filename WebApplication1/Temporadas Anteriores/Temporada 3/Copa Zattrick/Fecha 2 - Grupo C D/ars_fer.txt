@@ -1,0 +1,190 @@
+Home                           Away
+----                           ----
+
+Arsenal                        Ferro                         
+
+GK  C_Orcellet                 GK  M_Preud'homme             
+DFC J_Gandolfi                 DFR Thorin                    
+DFR M_Brau                     DFL Bofur                     
+DFC L_Lopez                    DFC Duracell                  
+DFC A_Matellan                 DFC Jose_Dirceu               
+DFL Adriano_C                  MFL Gran_Trasgo               
+MFR Diego_Torres               MFC Sony                      
+MFC Javi_Morales               MFR El_Caldo                  
+MFC Diego_Villar               FWR Aragon                    
+MFL J_Yacuzzi                  FWC Peregrin_Tuk              
+FWC G_B_Leschuk                FWL Tulkas                    
+
+5-4-1 Normal                   4-3-3 Defensive                
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  2 :(fer) Peregrin_Tuk entra con los tacos por delante 
+          ...  Ufff!! Lleva la marca de la bota impresa en el muslo!!
+          ...  AMARILLA!!
+          ...  Deberá calmarse un poco a partir de ahora
+Min.  7 :(ars) M_Brau dispara en carrera!
+          ...  El defensa mete la pierna
+          ...  sale rebotada hacia G_B_Leschuk!
+          ...  G_B_Leschuk se deshace de su marcador ! 
+          ...  Buen movimiento! Y dispara!
+          ...  Se estrella en el larguero!! 
+          ...  Controla el rebote con el pecho 
+          ...  OHHHHHHHH !! 
+          ...  Un defensa ha estado más rápido y ha enviado el balón fuera
+Min. 16 :(ars) Diego_Torres avanza con el balón controlado
+          ...  Ve el desmarque de un compañero!
+          ...  Cruza el pase!
+          ...  Adriano_C con un control facilísimo
+          ...  Falla en el control
+          ...  y El_Caldo no desaprovecha el regalo
+Min. 18 :(fer) Sony con una entrada asesina 
+          ...  Le ha pegado con toda la mala leche del mundo!!!
+          ...  Ay, ay, ay!!
+          ...  Podría ser expulsado por eso!
+          ...  AMARILLA!
+          ...  Los jugadores rivales increpan al árbitro!
+Min. 21 :(ars) Diego_Villar pisa campo contrario. Mete un pase entre los centrales para G_B_Leschuk
+          ...  Sony entra a ras de suelo
+          ...  El delantero no tiene más remedio que saltar por encima
+          ...  Se ha jugado el físico! Qué tío!
+Min. 26 :(ars) J_Yacuzzi hace una bicicleta y cambia el juego hacia Diego_Torres
+          ...  Tulkas se anticipa a la jugada y se apodera del balón
+Min. 27 :(ars) M_Brau hace una bicicleta y cambia el juego hacia J_Yacuzzi
+          ...  J_Yacuzzi le pega con dureza 
+         ...  No ha precisado demasiado !
+          ...  el portero cubre su ángulo 
+          ...  El balón hace un extraño!
+          ...  el portero ha quedado descolocado 
+          ...  Pero sale desviada !!
+Min. 32 :(fer) Thorin envía largo para Aragon
+          ...  A_Matellan se anticipa a la jugada y se apodera del balón
+Min. 35 :(ars) Javi_Morales para el balón con la planta del pie
+          ...  Qué calidad, tiene un guante en el pie!
+          ...  Se revuelve! Engaña a su par
+          ...  y cruza al balón sobre la llegada de G_B_Leschuk
+          ...  G_B_Leschuk se saca una vaselina magistral de la chistera !
+          ...  M_Preud'homme ve venir el balón
+          ...  Y lo atrapa con facilidad
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 51 :(fer) El_Caldo con una entrada alocada
+          ...  AMARILLA!!
+          ...  Deberá calmarse un poco a partir de ahora
+Min. 53 :(ars) A_Matellan con una entrada asesina
+          ...  AMARILLA!!
+          ...  Se irá a la caseta si repite algo así
+Min. 57 :(ars) Diego_Villar para G_B_Leschuk
+          ...  G_B_Leschuk dispara un verdadero obús !
+          ...  OOOOOOHHHHHHHH 
+          ...  A salido lamiendo el palo
+Min. 59 :(ars) M_Brau tiene campo por delante
+          ...  Pasa a J_Gandolfi
+          ...  Bofur despeja sin miramientos
+Min. 68 :(ars) Diego_Villar con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia L_Lopez
+          ...  Tulkas pone el pie en el momento oportuno y despeja el balón
+Min. 74 :(ars) Javi_Morales inicia el ataque
+          ...  Pase picado por A_Matellan
+          ...  A_Matellan dispara un verdadero obús !
+          ...  Demasiado alta!
+Min. 75 :(ars) A_Matellan se abre un hueco
+          ...  A_Matellan se saca una bicicleta de la nada y chuta!
+          ...  Se estrella en el larguero
+          ...  Y a la grada!
+          ...  el portero tiene a los dioses de su lado!
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : ars  5 fer 0
+tiros a puerta       : ars  1 fer 0
+
+Marcador             : ars  0 fer 0
+
+
+<<< Estadisticas de los jugadores del Arsenal >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+C_Orcellet     GK   R 23  3  3  3 37 |  90   0   0   0   0   0   0   0   0   0  96   0   0   0 100
+J_Gandolfi    DFC RLC  3 22  5  5 72 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+M_Brau        DFR  RC  3 21  6  6 67 |  90   0   0   3   0   0   0   0   0   0   0   0 168   0  63
+L_Lopez       DFC   C  2 18  7  7 60 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  52
+A_Matellan    DFC   C  2 19  7  5 78 |  90   0   1   0   0   2   0   1   0   0   0 134 -10  36  74
+Adriano_C     DFL   L  3 17  6  7 79 |  90   0   0   0   0   0   0   0   0   0   0  96   0   0  77
+Diego_Torres  MFR  RL  3  6 22  6 63 |  90   0   0   1   0   0   0   0   0   0   0   0  56   0  65
+Javi_Morales  MFC   C  3  7 19  7 56 |  90   0   0   2   0   0   0   0   0   0   0   0 112   0  48
+Diego_Villar  MFC   C  2  6 19  4 71 |  90   0   0   3   0   0   0   0   0   0   0   0 168   0  69
+J_Yacuzzi     MFL RLC  2  5 21  4 58 |  90   0   0   1   0   1   0   0   0   0   0   0  56  23  47
+G_B_Leschuk   FWC   C  3  5  8 20 45 |  90   0   0   0   0   3   0   0   0   0   0   0   0  83  19
+A_Limia        GK   C 17  3  3  3 44 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Damian_Perez  DFC   C  2 14  6  5 70 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Trombetta   DFL   R  3 16  6  4 33 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Esmerado    MFC   C  3  7 18  9 69 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Mosca       MFL   L  3  6 15  7 49 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Franco_Jara   FWR   R  2  7  6 19 62 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+E_Zelaya      FWC   C  3  8  7 18 35 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   1  10   0   6   0   1   0   0
+
+
+<<< Estadisticas de los jugadores del Ferro >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+M_Preud'homme  GK RLC 25  3  3  3 32 |  90   1   0   0   0   0   0   0   0   0 123   0   0   0 100
+Thorin        DFR   R  2 15  5  5 52 |  90   0   0   1   0   0   0   0   0   0   0   0  56   0  71
+Bofur         DFL   L  2 15  5  5 39 |  90   0   1   0   0   0   0   0   0   0   0 144   0   0  10
+Duracell      DFC   R  2 10 11  4 56 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  72
+Jose_Dirceu   DFC   R  3 16  5  7 46 |  90   0   0   0   0   0   0   0   0   0   0  96   0   0  58
+Gran_Trasgo   MFL   L  2  5 13  6 36 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  66
+Sony          MFC   C  2  5 13  5 57 |  90   0   1   0   0   0   0   1   0   0   0 134 -10 -10  72
+El_Caldo      MFR RLC  2  4 13  5 30 |  90   0   1   0   0   0   0   1   0   0   0 134 -10 -10  65
+Aragon        FWR   R  2  5  4 11 69 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  81
+Peregrin_Tuk  FWC  RC  2  5  4 14 54 |  90   0   0   0   0   0   0   1   0   0   0 -10 -10 -10  70
+Tulkas        FWL RLC  2  5  6 15 35 |  90   0   2   0   0   0   0   0   0   0   0 288   0   0  65
+G_Burgos       GK   C 16  3  3  3 74 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+F_Roncaglia   DFC   R  5 19  9 10 72 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  92
+Jorge_Vila    MFC   L  3  7 18  7 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  79
+M_Schwarzer   DFC  LC  3 16 15  6 37 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  56
+Thranduil     MFC   R  2  5 13  5 62 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Il_Cavalieri  FWC  LC  3  5  7 16 44 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  47
+Legolas       FWC  RL  2  5  5 16 57 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  1   5   1   0   0   0   3   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+ars     0     91.37    79.72    22.95
+fer     0     69.90    41.84    37.54
+ars    10     89.46    77.52    22.12
+fer    10     67.36    40.44    36.44
+ars    20     87.17    75.01    21.10
+fer    20     64.46    38.94    35.04
+ars    30     84.54    72.51    20.18
+fer    30     61.91    37.47    33.84
+ars    40     82.30    70.11    19.24
+fer    40     59.25    36.05    32.65
+ars    50     79.52    67.44    18.07
+fer    50     56.02    34.33    31.22
+ars    60     77.22    64.89    17.00
+fer    60     53.05    32.79    30.16
+ars    70     75.22    62.74    15.94
+fer    70     50.23    31.44    29.19
+ars    80     73.06    60.51    14.75
+fer    80     47.80    30.05    27.90
+ars    90     71.01    58.11    13.69
+fer    90     45.92    28.69    26.61
+
+
+1341975626

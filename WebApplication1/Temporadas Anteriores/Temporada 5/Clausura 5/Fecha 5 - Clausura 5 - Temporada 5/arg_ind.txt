@@ -1,0 +1,318 @@
+Home                           Away
+----                           ----
+
+Argentinos                     Independiente                 
+
+GK  Faryd_Camilo               GK  A_Gabbarini               
+DFR W_Shoojho                  DFR G_Contrera                
+DFC Pateatraseros              DFC F_Santana                 
+DFC L_Mareque                  DFC L_Carrio                  
+DFL N_Odruska                  DFL G_Vallés                  
+DMC Joe_Corona                 DMC Nemanja_Matic             
+MFR G_Gigliaza                 DMC Mario_Bolatti             
+MFL Oscar                      MFR H_Fredes                  
+AMC E_Biancucchi               MFL Kun_Aguero                
+FWC Luís_Fabiano               FWC C_Benteke                 
+FWC S_Kun_Aguero               FWC Nico_Martinez             
+
+4-1-2-1-2 Attacking            4-2-2-2 Normal                 
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(arg) S_Kun_Aguero se anticipa a su marcador!
+          ...  Creo que lo ha empujado!
+          ...  "Sigan!" Dice el arbitro  
+          ...  S_Kun_Aguero no va a llegar. Sí, mete el pie...!
+          ...  Pero se las arregla para fallar
+          ...  Pone cara de mala leche. Menudo fallo!
+Min.  6 :(arg) E_Biancucchi con el regate
+          ...  Oportunidad clarísima
+          ...  Pierde el control del balón
+          ...  Nemanja_Matic despeja sin miramientos
+Min. 11 :(ind) G_Vallés avanza con el balón controlado
+          ...  Ve el desmarque de un compañero!
+          ...  Cruza el pase!
+          ...  Nico_Martinez con un control facilísimo
+          ...  Nico_Martinez chuta!
+          ...  Busca la escuadra!
+          ...  Ojo con el efecto. El portero no va a llegar!!
+          ...  Pero aterriza en la grada superior de la portería !!
+          ...  el portero sonríe. Estaba batido!
+Min. 16 :(ind) Kun_Aguero con un pase muy fuerte para F_Santana
+          ...  L_Mareque zancadillea a su oponente!!
+          ...  El árbitro se da la vuelta!!
+Min. 17 :(ind) Mario_Bolatti 'placa' a su oponente
+          ...  el arbitro  le hace señas. Esto no pinta bien
+          ...  el arbitro  charla acaloradamente con él
+          ...  AMARILLA!!
+          ...  PENALTI !! el arbitro  huye de los jugadores que le piden explicaciones 
+          ...  Luís_Fabiano ya está en los 11 metros
+          ...  Luís_Fabiano está batido! 
+          ...  GOOOOOL !! 
+          ...  Está desolado!!
+          ...  arg 1-0 ind...
+Min. 24 :(arg) G_Gigliaza con la falta
+          ...  Tiene suerte de no ser amonestado
+          ...  el entrenador respira tranquilo
+          ...  el entrenador se encara con el árbitro árbitro pidiéndole explicaciones
+Min. 26 :(ind) Mario_Bolatti envía largo para Nico_Martinez
+          ...  Nico_Martinez se saca una tijera! Qué bello!
+          ...  Pega en el palo
+          ...  GOOOOOL !!
+          ...  arg 1-1 ind ...
+Min. 29 :(ind) Nico_Martinez con un mal rechace!
+          ...  Hÿ( encara portería!
+          ...  Nico_Martinez toca el balón con mucha sutileza !
+          ...  OOOOOOHHHHHHHH 
+          ...  A salido lamiendo el palo
+Min. 32 :(arg) Joe_Corona mete un balón medido para S_Kun_Aguero
+          ...  Nemanja_Matic levanta al delantero dos metros del suelo!!
+          ...  Ay va! Qué entrada!
+          ...  El colegiado se acerca corriendo!
+          ...  Y le dice al delantero que no haga cuento!
+Min. 36 :(ind) G_Vallés gana metros
+          ...  G_Vallés toca la pelota de primeras!
+          ...  Faryd_Camilo lo para cómodamente
+          ...  El disparo nunca llevó peligro real
+Min. 37 :(arg) Luís_Fabiano para S_Kun_Aguero
+          ...  S_Kun_Aguero dispara un verdadero obús !
+          ...  A_Gabbarini hinca la rodilla en el suelo y despeja
+          ...  Ei! Eso es estilo argentino!
+Min. 39 :(ind) Nico_Martinez tiene campo por delante
+          ...  Pasa a Mario_Bolatti
+          ...  Mario_Bolatti mete la cabeza con valentía !
+          ...  el portero no va a llegar!
+          ...  OH!  Se va fuera! 
+          ...  el portero sonríe
+          ...  Habría llegado al balón?
+Min. 41 :(ind) Kun_Aguero se mete en diagonal a través de los defensas
+          ...  Se va del central que le sale al paso!
+          ...  El extremo se cuela por la espalda del lateral
+          ...  Envía el pase a C_Benteke
+          ...  C_Benteke busca el disparo !
+          ...  Pero le pegó rematadamente mal!
+Min. 41 :(ind) L_Carrio con una entrada asesina 
+          ...  Ha sido un acto frío y deliberado. Indignante!
+          ...  AMARILLA!!
+          ...  Creo que el árbitro se ha pasado de riguroso
+Min. 42 :(arg) E_Biancucchi con el globo
+          ...  Luís_Fabiano la baja con la cabeza
+          ...  Envenenado trallazo de Luís_Fabiano !
+          ...  el portero no llegará a ese balón!  
+          ...  Impacta en el palo!
+          ...  Y se va fuera!
+Min. 42 :(ind) Kun_Aguero está cerrado por tres contrarios
+          ...  Se saca el balón de encima
+          ...  le cae a Nico_Martinez! Suerte o calidad?
+          ...  Nico_Martinez mete el interior del pie con mucha intención!
+          ...  Faryd_Camilo ve venir el balón
+          ...  Y lo atrapa con facilidad
+Min. 44 :(arg) E_Biancucchi se va de dos defensas. Uau! No había sitio
+          ...  E_Biancucchi controla el balón, amaga y... dispara! Oh!
+          ...  E_Biancucchi desvía el balón con el guante izquierdo!! 
+          ...  GOOOOOOL !!
+          ...  No fue suficiente!
+          ...  arg 2-1 ind ...
+Min. 44 :(ind) C_Benteke le gana la espalda a su mrcador
+          ...  Ei, se ha despistado!
+          ...  N_Odruska entra con todo! 
+          ...  Y corta el balón. Ha intimidado al delantero
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+Min. 47 :(arg) Pateatraseros 'placa' a su oponente 
+          ...  El otro día vi una acción así en la NHL!
+          ...  AMARILLA!!
+          ...  Deberá calmarse un poco a partir de ahora
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 46 :(arg) Oscar está cerrado por tres contrarios
+          ...  Se saca el balón de encima
+          ...  le cae a Luís_Fabiano! Suerte o calidad?
+          ...  F_Santana corta
+Min. 48 :(arg) W_Shoojho asiste a S_Kun_Aguero dentro del área
+          ...  Punterazo endiablado de S_Kun_Aguero !
+          ...  Dispara fuera
+Min. 48 :(ind) Nemanja_Matic se abre a la banda y cambie el juego hacia C_Benteke
+          ...  C_Benteke llega forzado al remate !
+          ...  Dispara excesivamente alto!
+          ...  Está horrorizado por lo que falló!
+          ...  No es para menos!
+Min. 51 :(ind) L_Carrio se va de uno, de dos, de tres!
+          ...  Mira a un lado... y pasa hacia C_Benteke al otro lado! OH!
+          ...  L_Mareque intercepta el pase
+Min. 52 :(ind) G_Vallés con un pase entre los centrales
+          ...  Kun_Aguero aparece con velocidad desde atrás!
+          ...  Pero N_Odruska conjura el peligro
+Min. 53 :(ind) H_Fredes pasa de rabona hacia Nico_Martinez. Madre mía! Ha nacido en Brasil?
+          ...  Pateatraseros se interpone entre el delantero y el balón!
+Min. 57 :(arg) Luís_Fabiano para y espera algún apoyo
+          ...  Corre hacia el marco
+          ...  Corte finísimo de F_Santana
+          ...  Y evita el córner! Está en un momento dulce!
+Min. 58 :(ind) C_Benteke con el lanzamiento de la falta
+          ...  Ve el desmarque de su compañero
+          ...  El balón va directo hacia el pie de Nico_Martinez
+          ...  El balón golpea a Pateatraseros en la cara!
+          ...  Peligro despejado! Al defensa no le hace ninguna gracia
+Min. 62 :(arg) S_Kun_Aguero recupera el balón
+          ...  Levanta la cabeza!
+          ...  Ve el desmarque de su compañero
+          ...  Luís_Fabiano recibe un pase increíble
+          ...  Se marcha!
+          ...  Luís_Fabiano busca una de las dos escuadras!
+          ...  Roza el larguero
+          ...  Y se pierde por la línea de fondo
+          ...  Ese disparo llevaba veneno!
+Min. 64 :(ind) Kun_Aguero baja el balón con un cabezazo hacia L_Carrio
+          ...  L_Carrio empalma el balon con una rabona! Qué frivolidad!!
+          ...  Faryd_Camilo se anticipa al remate y lo atrapa con sencillez
+Min. 65 :(arg) Los aficionados rugen cuando J_E_Perez substituye a G_Gigliaza para jugar de MFR
+Min. 65 :(ind) H_Fredes encuentra a C_Benteke
+          ...  C_Benteke con un verdadero obús !
+          ...  El balón se le escurre a el portero de las manos!!
+          ...  GOOOOL !!
+          ...  Menudo error
+          ...  arg 2-2 ind ...
+Min. 66 :(ind) H_Fredes cambia el juego hacia G_Contrera 
+          ...  G_Contrera acomoda su cuerpo y suelta... uau! Qué cañonazo!
+          ...  el portero ve salir el balón demasiado alto!
+          ...  Pero ojo con el efecto!!
+          ...  Pega en el palo !!
+          ...  Y fuera. el portero parece sorprendido!
+Min. 67 :(arg) W_Shoojho pide desesperado un apoyo
+          ...  No aparece nadie! Está rodeado!
+          ...  Abre hacia el extremo!
+          ...  Luís_Fabiano controla la pelota
+          ...  Pero G_Contrera aparece desde atrás y corta el balón
+          ...  El público ruge pidiendo falta. el arbitro  se hace el sueco!
+Min. 69 :(arg) J_E_Perez hace la pared con S_Kun_Aguero
+          ...  L_Carrio chuta la pelota hacia las vallas. Ui! Le ha dado a un pobre fotógrafo!
+Min. 70 :(arg) M_Klose va a entrar por S_Kun_Aguero. Apostaría a que juega de FWC. Sí!
+Min. 75 :(arg) La grada ruge cuando Ariel_Seltzer substituye a Joe_Corona para jugar de DMC
+Min. 75 :(ind) H_Fredes con el saque de banda
+          ...  Ve a un compañero sólo!
+          ...  El balón vuela hacia C_Benteke
+          ...  Pateatraseros va al choque 
+    ...  Y se lleva la pelota. El delantero no sabe si ha sido un contrario o un tren de mercancías!
+Min. 77 :(arg) Luís_Fabiano se abre a la banda y cambie el juego hacia M_Klose
+          ...  Nemanja_Matic va al suelo con los dos pies por delante
+          ...  el arbitro  estaba encima, pero no ha visto falta
+Min. 78 :(ind) L_Carrio inicia el contraataque
+          ...  Sale rápidamente!
+          ...  Y envía un gran pase con la defensa descolocada. C_Benteke recibe sólo
+          ...  C_Benteke se levanta sobre su marcador, prepara el cabezazo, lo suelta... 
+          ...  Peligro!
+          ...  Dispara precipitadamente
+          ...  Fuera! No pudo precisar el remate
+Min. 81 :(ind) L_Carrio mira a la derecha
+          ...  Y cruza a la izquierda para C_Benteke. Eso lo hacía Laudrup!
+          ...  C_Benteke con una preciosa vaselina!
+          ...  Los aficionados de detrás de la portería se levantan!
+          ...  Fuera !! Golpea en las vallas publicitarias
+Min. 83 :(ind) Mario_Bolatti parece lesionado. No va a seguir
+          ...  Esperemos que no sea nada serio
+Min. 83 :(ind) P_Schmeichel sustituye a Mario_Bolatti en la posición de DMC
+Min. 85 :(arg) Oscar llega el priimero al balóm suelto
+          ...  Y lo mete en profundidad hacia M_Klose
+          ...  G_Vallés sale al corte como un búfalo salvaje
+Min. 85 :(ind) Kun_Aguero acelera por la banda izquierda
+          ...  Juega para Nico_Martinez
+          ...  Nico_Martinez se anticipa a su marcador !
+          ...  Pero el balón se pierde inofensivamente por la línea de meta
+Min. 90 :(ind) El defensa resbala!
+          ...  Nico_Martinez se va sólo!
+          ...  Nico_Martinez tiene tiempo y espacio!
+          ...  Chuta!
+          ...  Golpea las vallas publicitarias
+
+El arbitro añadira 3 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : arg  4 ind 10
+tiros a puerta       : arg  2 ind 5
+
+Marcador             : arg  2 ind 2
+
+
+<<< Estadisticas de los jugadores del Argentinos >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+Faryd_Camilo   GK   L 21  4  4  4 33 |  90   3   0   0   0   0   0   0   0   0  39   0   0   0 100
+W_Shoojho     DFR   R  4 24  8  6 51 |  90   0   0   2   0   0   0   0   0   0   0   0  60   0  62
+Pateatraseros DFC RLC  3 34  8  6 77 |  90   0   3   0   0   0   0   1   0   0   0 230   2   2  70
+L_Mareque     DFC  LC  3 27 10  6 58 |  90   0   2   0   0   0   0   0   0   0   0 152   0   0  52
+N_Odruska     DFL  LC  4 23 12  9 59 |  90   0   2   0   0   0   0   0   0   0   0 152   0   0  67
+Joe_Corona    DMC  LC  5 12 29 18 67 |  74   0   0   1   0   0   0   0   0   0   0   0  30   0  75
+G_Gigliaza    MFR RLC  2  5 23  4 72 |  64   0   0   0   0   0   0   0   0   0   0   0   0   0  87
+Oscar         MFL RLC  1  4 29 18 64 |  90   0   0   2   0   0   0   0   0   0   0   0  60   0  55
+E_Biancucchi  AMC  LC  5  2 24 27 76 |  90   0   0   1   0   1   1   0   0   0   0   0  30  82  75
+Luís_Fabiano  FWC RLC  2  2 28 43 62 |  90   0   0   2   0   2   1   0   0   0   0   0  60  85  56
+S_Kun_Aguero  FWC  LC  3  7 14 28 78 |  69   0   0   1   0   3   0   0   0   0   0   0  30  41  87
+P_Ryoemnoije   GK  RL 23  3  3  3 43 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Bortu       DFC   C  4 18  8  5 51 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+J_Munh        DFC  RL  4 21  7  9 70 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Ariel_Seltzer DMC   L  1 18 17 10 48 |  16   0   0   0   0   0   0   0   0   0   0   0   0   0  93
+D_Manso       MFC   L  3  6 17 13 68 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+J_E_Perez     MFR RLC  3  9 20  7 55 |  26   0   0   1   0   0   0   0   0   0   0   0  30   0  91
+M_Klose       FWC   C  1  1  5 31 50 |  21   0   0   0   0   0   0   0   0   0   0   0   0   0  93
+-- Total --                                  3   7  10   0   6   2   1   0   0
+
+
+<<< Estadisticas de los jugadores del Independiente >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+A_Gabbarini    GK RLC 33  3  3  3 60 |  90   1   0   0   0   0   0   0   0   0  13   0   0   0 100
+G_Contrera    DFR   R  5 22  9  7 40 |  90   0   1   0   0   1   0   0   0   0   0  76   0  11  58
+F_Santana     DFC RLC  3 31  4 13 63 |  90   0   2   0   0   0   0   0   0   0   0 152   0   0  74
+L_Carrio      DFC  LC  3 34  9  5 76 |  90   0   1   3   0   1   0   1   0   0   0  78  92  21  81
+G_Vallés      DFL  LC  3 20 16 13 82 |  90   0   1   2   0   1   0   0   0   0   0  76  60  19  82
+Nemanja_Matic DMC RLC  2 25 27 19 68 |  90   0   3   1   0   0   0   0   0   0   0 228  30   0  78
+Mario_Bolatti DMC   C  2 16 24 10 38 |  82   0   0   1   1   1   0   1   0   1   0   2  77  13  65
+H_Fredes      MFR RLC  3  7 40  6 85 |  90   0   0   4   1   0   0   0   0   0   0   0 165   0  84
+Kun_Aguero    MFL RLC  4  9 32 11 90 |  90   0   0   5   0   0   0   0   0   0   0   0 150   0  87
+C_Benteke     FWC RLC  2  5 18 29 85 |  90   0   0   1   0   5   1   0   0   0   0   0  30 126  82
+Nico_Martinez FWC RLC  2  6  9 35 74 |  90   0   0   1   0   6   1   0   0   0   0   0  30 145  72
+V_Enyeama      GK   R 18  3  3  3 91 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+P_Schmeichel  DMC   C  3 29 10  9 45 |   8   0   0   0   0   0   0   0   0   0   0   0   0   0  85
+I_Velez       DFR  RC  3 31  9  5 60 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  93
+P_Rodriguez   MFR  RL  3 10 31 10 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  94
+C_Pellerano   MFC   C  3 12 25  8 60 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Leo_da_Silva  MFC RLC  2  4 18 24 34 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Juan_M_Iturbe FWC RLC  5  4 16 27 84 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  1   8  18   2  15   2   2   0   1
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+arg     0    100.22   130.08   159.53
+ind     0    153.55   142.99    92.22
+arg    10     97.49   127.04   156.20
+ind    10    149.83   140.66    90.66
+arg    20     95.03   124.40   152.48
+ind    20    146.29   137.95    88.72
+arg    30     92.06   120.91   148.30
+ind    30    142.53   134.97    86.67
+arg    40     89.26   116.99   143.18
+ind    40    138.57   131.42    84.26
+arg    50     86.32   113.34   139.15
+ind    50    133.73   128.21    81.82
+arg    60     83.39   109.94   134.93
+ind    60    129.39   125.07    79.70
+arg    70     79.99   106.07   132.45
+ind    70    125.83   122.10    77.49
+arg    80     79.19    90.50   133.91
+ind    80    122.16   119.22    75.78
+arg    90     75.98    87.48   129.44
+ind    90    131.90   111.53    74.29
+
+
+1376010351

@@ -1,0 +1,175 @@
+
+
+Injuries:
+---------
+
+W_Shoojho (arg) Ya está listo para jugar despues de su lesión
+F_Jourdan (col) Ya está listo para jugar despues de su lesión
+Pablo_Piatti (col) Ya está listo para jugar despues de su lesión
+Ariel_Seltzer (arg) se mantendra alejado de los terrenos por 2 partidos debido a tener el tabique nasal roto
+L_Mugni (col) se mantendra alejado de los terrenos por 3 partidos debido a un esguince de tobillo
+B_Ferreira (uni) ino podra jugar los siguientes 2 partidos por una inflamacion de la rodilla
+
+
+
+Suspensions:
+------------
+
+Darío_Larrosa (fer) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Clemente (new) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+V_Píriz_Alves (rac) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Guille_Franco (slo) no podrá jugar el siguiente partido por sanción
+Placente (uni) no podrá jugar el siguiente partido por sanción
+J_Cazares (uni) no podrá jugar el siguiente partido por sanción
+A_Chavez (est) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Pateatraseros (arg) Tk aumenta su media gracias al skills
+Carlos_Netto (slo) Ps aumenta su media gracias al skills
+J_I_Sills (uni) Tk aumenta su media gracias al skills
+M_Lanzini (new) Ps aumenta su media gracias al skills
+G_B_Leschuk (ars) Sh aumenta su media gracias al skills
+J_Datolo (est) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         12  (DFs - 1, DMs - 0, MFs - 2, AMs - 2, FWs - 7)
+Assists:        9  (DFs - 1, DMs - 1, MFs - 4, AMs - 0, FWs - 3)
+Yellow cards:  14
+Red cards:      0
+Injuries:       3
+
+Top performers:
+
+A_Carrizo (col)       36
+R_Funes_Mori (uni)    33
+J_I_Sills (uni)       32
+F_Vargas (uni)        32
+Ronald_D_Boer (ars)   32
+Kurapika (uni)        28
+Angel_Romano (est)    27
+G_B_Leschuk (ars)     27
+M_Donnet (uni)        26
+Pateatraseros (arg)   24
+J_Gandolfi (ars)      24
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Arsenal                 7    4   1   2     9    5    4    13
+4    Independiente           6    3   2   1     7    4    3    11
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             7    1   3   3     4    6   -2     6
+7    Argentinos              6    2   0   4     4    8   -4     6
+8    Banfield                6    1   2   3     1    5   -4     5
+9    River Plate             5    1   1   3     4    6   -2     4
+10   Union de Santa Fe       1    1   0   0     4    1    3     3
+11   Estudiantes de La Plata   1    1   0   0     1    0    1     3
+12   Quilmes                 1    1   0   0     1    0    1     3
+13   River PLate             1    0   1   0     1    1    0     1
+14   Boca Juniors            6    0   1   5     4   14  -10     1
+15   Ferro                   1    0   0   1     0    1   -1     0
+16   Racing                  1    0   0   1     0    1   -1     0
+17   Colon de Santa Fe       1    0   0   1     1    4   -3     0
+18   Newell's Old Boys       1    0   0   1     0    4   -4     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Kazu_Miura (qui)         7      5
+Ronald_D_Boer (ars)      6      4
+Pablo_Piatti (col)       6      4
+Carlos_Duré (ars)        6      4
+Kurapika (uni)           7      4
+G_B_Leschuk (ars)        6      3
+R_Funes_Mori (uni)       6      3
+S_Kun_Aguero (arg)       6      3
+Angel_Romano (est)       7      3
+F_Palopoli (rac)         7      3
+L_Abraham (new)          7      3
+P_Mouche (new)           7      3
+V_Píriz_Alves (rac)      6      2
+Ruben_Ramirez (col)      6      2
+Berni_Romeo (slo)        7      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Placente (uni)           7    148
+Nico_Bertolo (qui)       7    131
+A_Carrizo (col)          7    129
+Pateatraseros (arg)      7    123
+J_I_Sills (uni)          7    118
+J_Yacuzzi (ars)          7    115
+Kasey_Keller (uni)       7    114
+S_Sosa (new)             7    114
+Carlos_Duré (ars)        6    113
+Kurapika (uni)           7    110
+R_Cascini (ars)          7    108
+Iker_Casillas (slo)      7    108
+Ronald_D_Boer (ars)      6    105
+Jose_Chatruc (col)       7    104
+Diego_Torres (ars)       8    104
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Brno_Zuculini (rac)      5      3
+Hasan_Sas (est)          6      3
+F_Rijkaard (uni)         6      2
+Darío_Larrosa (fer)      6      2
+Nico_Bertolo (qui)       7      2
+R_Cascini (ars)          7      2
+S_Fosgt (col)            1      1
+Javier_Lux (rac)         2      1
+N_Odruska (arg)          4      1
+Z_Oto (arg)              4      1
+R_Saa (qui)              5      1
+Chicho_Serna (uni)       5      1
+Carlos_Duré (ars)        6      1
+Ronald_D_Boer (ars)      6      1
+R_Funes_Mori (uni)       6      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+M_Brau (ars)             5      7
+G_B_Leschuk (ars)        6      5
+Angel_Carreño (fer)      6      5
+K_Elotya (arg)           1      4
+N_Odruska (arg)          4      4
+Pablo_Lima (rac)         6      4
+V_Píriz_Alves (rac)      6      4
+Clemente (new)           6      4
+J_Botinelli (qui)        6      4
+N_Ortigoza (slo)         7      4
+E_Fuertes (fer)          7      4
+H_Ameli (slo)            7      4
+Juli_Barraza (col)       3      3
+Z_Oto (arg)              4      3
+Ariel_Zapata (col)       5      3
+

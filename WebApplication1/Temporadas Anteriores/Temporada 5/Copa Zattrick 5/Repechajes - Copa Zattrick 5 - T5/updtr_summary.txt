@@ -1,0 +1,143 @@
+
+
+Injuries:
+---------
+
+L_Mugni (col) se mantendra alejado de los terrenos por 2 partidos debido a un esguince de tobillo
+
+
+
+Suspensions:
+------------
+
+Angel_Carreño (gim) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Philipp_Lahm (col) Ps aumenta su media gracias al skills
+A_Papu_Gomez (col) Ps aumenta su media gracias al skills
+Jose_Chatruc (col) Tk aumenta su media gracias al skills
+Pablo_Piatti (col) Sh aumenta su media gracias al skills
+Ruben_Ramirez (col) Sh aumenta su media gracias al skills
+Ivan_Piris (gim) Tk aumenta su media gracias al skills
+Shizuo_H (gim) Tk aumenta su media gracias al skills
+O_Barsottini (gim) Tk aumenta su media gracias al skills
+Nine_Tails (gim) Ps aumenta su media gracias al skills
+F_Guerrero (gim) Ps aumenta su media gracias al skills
+A_Panenka (new) Ps aumenta su media gracias al skills
+A_Panenka (new) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          5  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 5)
+Assists:        4  (DFs - 4, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   4
+Red cards:      1
+Injuries:       1
+
+Top performers:
+
+Pablo_Piatti (col)    54
+Ariel_Zapata (col)    47
+A_Papu_Gomez (col)    34
+M_N_Cano (uai)        27
+Cris_Gonzalez (uai)   24
+Philipp_Lahm (col)    21
+Jose_Chatruc (col)    18
+Ruben_Ramirez (col)   14
+Gaston_Silva (uai)    12
+Martin_Ortiz (uai)    12
+Q_Joigro (col)        9
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Pablo_Piatti (col)       2      4
+D_Trezeguet (riv)        1      3
+M_Zarate (vel)           1      3
+Nico_Blandi (boc)        1      2
+Pablo_Guiñazú (tig)      1      2
+Franck_Ribéry (ind)      1      1
+Juan_M_Iturbe (ind)      1      1
+F_Estoyanoff (vel)       1      1
+Nico_Martinez (ind)      1      1
+F_Morientes (riv)        1      1
+RV_Nistelrooy (ban)      1      1
+Luís_Fabiano (arg)       1      1
+C_Doni (tig)             1      1
+Ricardo_Noir (tig)       1      1
+F_Segovia (tig)          1      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Pablo_Guiñazú (tig)      1     82
+Pablo_Piatti (col)       2     53
+M_N_Cano (uai)           2     51
+Ariel_Zapata (col)       1     47
+Franck_Ribéry (ind)      1     43
+M_Zarate (vel)           1     42
+A_Fernandez (vel)        1     39
+A_Papu_Gomez (col)       2     38
+P_Mouche (tig)           1     36
+H_Fredes (ind)           1     36
+Cris_Gonzalez (uai)      2     36
+C_Doni (tig)             1     35
+Lucas_Moura (boc)        1     35
+D_Trezeguet (riv)        1     35
+Nico_Blandi (boc)        1     34
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Ariel_Zapata (col)       1      3
+Pablo_Guiñazú (tig)      1      2
+A_Fernandez (vel)        1      2
+Kun_Aguero (ind)         1      2
+A_Machuca (tig)          1      1
+F_Rijkaard (uni)         1      1
+Nico_Bertolo (qui)       1      1
+Dario_Šimic (alb)        1      1
+Mati_Brad (boc)          1      1
+Espeon (riv)             1      1
+Gareth_Bale (riv)        1      1
+Pavel_Nedved (vel)       1      1
+C_Arano (riv)            1      1
+El_Misha (riv)           1      1
+Diego_Villar (ars)       1      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Eric_Gerets (boc)        1      3
+Angel_Carreño (gim)      1      3
+Pablo_Piatti (col)       2      2
+F_Coloccini (slo)        1      1
+L_Mareque (arg)          1      1
+D_Passarella (riv)       1      1
+P_Ledesma (boc)          1      1
+R_Civelli (oli)          1      1
+Massimo_Oddo (oli)       1      1
+Iván_Alonso (uni)        1      1
+Pateatraseros (arg)      1      1
+Erik_Lamela (ban)        1      1
+Alfredo_Ramúa (gim)      1      1
+W_Shoojho (arg)          1      1
+R_Faeck (qui)            1      1
+

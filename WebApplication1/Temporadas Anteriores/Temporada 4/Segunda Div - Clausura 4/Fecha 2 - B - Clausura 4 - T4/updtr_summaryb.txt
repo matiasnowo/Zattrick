@@ -1,0 +1,184 @@
+
+
+Injuries:
+---------
+
+Juan_Rocchia (qui) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+Pablo_Lima (rac) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Suspensions:
+------------
+
+Adrian_Bastia (col) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Ruben_Ramirez (col) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+H_Ameli (slo) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Oscar_Ruggeri (slo) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+J_Munh (arg) no podrá jugar el siguiente partido por sanción
+Angel_Carreño (fer) ha sido suspendido por 2 partidos
+E_Fuertes (fer) ha sido suspendido por 2 partidos
+I_Celaya (ars) no podrá jugar el siguiente partido por sanción
+Ivan_Piris (gim) no podrá jugar el siguiente partido por sanción
+Juan_Cuevas (gim) no podrá jugar el siguiente partido por sanción
+L_Pusineri (slo) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Ruud_Gullit (arg) Ps aumenta su media gracias al skills
+F_Roncaglia (fer) Tk aumenta su media gracias al skills
+Ivan_Cordoba (qui) Ps aumenta su media gracias al skills
+M_Yepes (est) Tk aumenta su media gracias al skills
+M_Laspada (est) Tk aumenta su media gracias al skills
+M_Caceres (rac) Tk aumenta su media gracias al skills
+Victor_Lopez (new) Tk aumenta su media gracias al skills
+C_Orcellet (ars) St aumenta su media gracias al skills
+I_Celaya (ars) Tk aumenta su media gracias al skills
+J_I_Sills (uni) Tk aumenta su media gracias al skills
+M_Donnet (uni) Ps aumenta su media gracias al skills
+F_Vargas (uni) Ps aumenta su media gracias al skills
+Kurapika (uni) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         13  (DFs - 0, DMs - 1, MFs - 0, AMs - 1, FWs - 11)
+Assists:        8  (DFs - 0, DMs - 0, MFs - 3, AMs - 2, FWs - 3)
+Yellow cards:  19
+Red cards:      5
+Injuries:       2
+
+Top performers:
+
+M_N_Cano (uai)        60
+M_Donnet (uni)        56
+J_Cazares (uni)       52
+F_Vargas (uni)        49
+Kurapika (uni)        41
+M_Klose (arg)         35
+B_Ferreira (uni)      30
+J_I_Sills (uni)       30
+M_Laspada (est)       28
+Diego_Jara (uni)      27
+F_Rijkaard (uni)      27
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Arsenal                 7    4   1   2     6    5    1    13
+4    Independiente           6    3   2   1     7    4    3    11
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             7    1   4   2     4    5   -1     7
+7    Argentinos              6    2   0   4     7    9   -2     6
+8    Banfield                6    1   2   3     1    5   -4     5
+9    River Plate             5    1   1   3     4    6   -2     4
+10   Union de Santa Fe       1    1   0   0     3    0    3     3
+11   Quilmes                 1    1   0   0     2    1    1     3
+12   Racing                  1    1   0   0     1    0    1     3
+13   River PLate             1    0   1   0     1    1    0     1
+14   Gimnasia y Esgrima de La Plata   1    0   1   0     0    0    0     1
+15   Boca Juniors            6    0   1   5     4   14  -10     1
+16   Estudiantes de La Plata   1    0   0   1     1    2   -1     0
+17   Colon de Santa Fe       1    0   0   1     0    1   -1     0
+18   Newell's Old Boys       1    0   0   1     0    1   -1     0
+19   Ferro                   1    0   0   1     1    4   -3     0
+20   UAI Urquiza             1    0   0   1     0    3   -3     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Kurapika (uni)          11      8
+Kazu_Miura (qui)        11      6
+G_B_Leschuk (ars)        7      5
+S_Kun_Aguero (arg)      10      5
+M_Klose (arg)            3      4
+Carlos_Duré (ars)        7      4
+R_Funes_Mori (uni)       8      4
+Ronald_D_Boer (ars)      9      4
+Pablo_Piatti (col)       9      4
+Ruben_Ramirez (col)      9      4
+Berni_Romeo (slo)       11      4
+E_Zelaya (ars)           5      3
+Angel_Romano (est)       9      3
+L_Abraham (new)         11      3
+P_Mouche (new)          11      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+F_Vargas (uni)          11    200
+Kurapika (uni)          11    197
+Placente (uni)          10    193
+Nico_Bertolo (qui)      11    191
+J_I_Sills (uni)         11    189
+S_Sosa (new)            11    171
+A_Carrizo (col)         10    168
+Iker_Casillas (slo)     11    159
+J_Cazares (uni)         10    155
+Pateatraseros (arg)     11    155
+F_Rijkaard (uni)        10    150
+R_Cascini (ars)         11    147
+L_Castroman (rac)       11    146
+J_Yacuzzi (ars)          8    145
+S_Bertoli (fer)         11    141
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Hasan_Sas (est)          9      4
+Javi_Morales (ars)       5      3
+Brno_Zuculini (rac)      9      3
+R_Cascini (ars)         11      3
+Chicho_Serna (uni)       8      2
+J_Datolo (est)           9      2
+S_Kun_Aguero (arg)      10      2
+Diego_Villar (ars)      10      2
+R_Martinez (rac)        10      2
+Darío_Larrosa (fer)     10      2
+F_Rijkaard (uni)        10      2
+J_Cazares (uni)         10      2
+Jose_Chatruc (col)      11      2
+Nico_Bertolo (qui)      11      2
+Kurapika (uni)          11      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+G_B_Leschuk (ars)        7      8
+Angel_Carreño (fer)     10      8
+M_Brau (ars)             6      7
+V_Píriz_Alves (rac)      8      7
+H_Ameli (slo)            9      6
+E_Fuertes (fer)         11      6
+N_Odruska (arg)          8      5
+Oscar_Ruggeri (slo)     10      5
+Placente (uni)          10      5
+N_Ortigoza (slo)        11      5
+K_Elotya (arg)           2      4
+Ivan_Piris (gim)         2      4
+L_Ocampos (new)          5      4
+Carlos_Duré (ars)        7      4
+M_Caceres (rac)          8      4
+

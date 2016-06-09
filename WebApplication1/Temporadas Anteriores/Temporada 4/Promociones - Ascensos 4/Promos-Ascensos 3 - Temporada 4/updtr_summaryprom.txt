@@ -1,0 +1,127 @@
+
+
+Suspensions:
+------------
+
+Diego_Villar (ars) no podrá jugar el siguiente partido por sanción
+Carlos_Duré (ars) ha sido suspendido por 2 partidos
+
+
+
+Skill changes:
+--------------
+
+C_Orcellet (ars) St aumenta su media gracias al skills
+Dzsudzsák (oli) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   4
+Red cards:      1
+Injuries:       0
+
+Top performers:
+
+Dzsudzsák (oli)       22
+Shirou_Emiya (oli)    12
+C_Orcellet (ars)      12
+M_Brau (ars)          10
+Diego_Torres (ars)    8
+E_Zelaya (ars)        8
+U_Uclu (oli)          8
+Hitmontop (oli)       8
+A_Matellan (ars)      6
+Adriano_C (ars)       6
+L_Nowogrodzki (oli)   6
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)            18     30
+Nico_Blandi (boc)       15     28
+J_Lujambio (ban)        15     21
+C_Fabbiani (ald)        19     18
+F_Morientes (riv)       18     17
+M_Zarate (vel)          13     15
+Nico_Martinez (ind)     16     14
+Charizard (alb)         17     14
+M_Klose (arg)           11     13
+S_Kun_Aguero (arg)      17     12
+G_B_Leschuk (ars)        9     11
+Chipi_Barijho (ban)     10     11
+D_Trezeguet (riv)       12     11
+R_Funes_Mori (uni)      14     11
+Kurapika (uni)          18     11
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Mono_Navarro (est)      18    657
+O_Ibsi (gim)            11    579
+Zapdos (alb)            18    475
+H_Castellano (ald)      20    447
+F_Vargas (boc)          20    414
+Kun_Aguero (ind)        19    387
+S_Sosa (boc)            20    387
+Nico_Blandi (boc)       15    370
+L_Matthaus (alb)        13    369
+Hitmonlee (alb)         13    358
+J_I_Sills (uni)         19    350
+Nico_Bertolo (qui)      18    343
+JP_Carrizo (alb)        17    342
+A_Fernandez (vel)       15    341
+F_Morientes (riv)       18    336
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Enzito_C (vel)          10      7
+Hitmonlee (alb)         13      7
+S_Staunton (alb)        16      7
+P_Ledesma (boc)         17      7
+R_Monserrat (ald)       18      7
+J_Yacuzzi (ars)         12      6
+M_Moralez (vel)         13      6
+L_Matthaus (alb)        13      6
+John_A_Riise (alb)      16      6
+Nwankwo_Kanu (ban)      18      6
+Hasan_Sas (est)         15      5
+Ray_Wilkins (ban)       16      5
+Espeon (riv)            16      5
+Nico_Bertolo (qui)      18      5
+J_Cazares (uni)         18      5
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+A_Chari (ban)           16     10
+G_B_Leschuk (ars)        9      9
+V_Píriz_Alves (rac)     11      9
+C_Alvarez (ald)         12      9
+Z_Boban (boc)           13      9
+Éric_Cantona (boc)      14      9
+N_Otamendi (vel)        15      9
+N_Ortigoza (slo)        17      9
+E_Andewjh (rce)          9      8
+Angel_Carreño (fer)     15      8
+K_Kamamoto (ban)        17      8
+J_Insaurralde (boc)     17      8
+E_Fuertes (fer)         17      8
+J_Sanguinetti (rce)      7      7
+Steelix (alb)           10      7
+

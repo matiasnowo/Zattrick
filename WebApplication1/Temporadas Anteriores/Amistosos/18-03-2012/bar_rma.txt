@@ -1,0 +1,418 @@
+Home                           Away
+----                           ----
+
+bar                            rma                           
+
+GK  Victor_Valdes              GK  Iker_Casillas             
+DFL Eric_Abidal                DFL F_Coentrao                
+DFC Carles_Puyol               DFC Pepe                      
+DFC Gerard_Pique               DFC R_Carvalho                
+DFR Daniel_Alves               DFR Sergio_Ramos              
+DMC J_Mascherano               DMC Lass_Diarra               
+MFC Xavi_H                     MFR Kaká                      
+MFC Cesc_Fabregas              MFL Mezut_Ozil                
+AMC A_iniesta                  AMC C_Ronaldo                 
+AMC Lionel_Messi               FWC G_Higuain                 
+FWC David_Villa                FWC Karim_Benzema             
+
+4-1-2-2-1 Passing              4-1-2-1-2 Normal               
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(bar) Lionel_Messi con un pase de tiralíneas para Carles_Puyol
+          ...  Carles_Puyol no va a llegar. Sí, mete el pie...!
+          ...  Pero Iker_Casillas hace una gran parada
+          ...  Uau! Estuvo cerca! 
+          ...  Tuvo que emplearse a fondo para evitar el gol!
+Min.  2 :(rma) C_Ronaldo encara a su marcador
+          ...  Lo sienta con una croqueta!
+          ...  Eso lo hacía Michael Laudrup!
+          ...  Y ahora suelta un pase impresionante hacia G_Higuain
+          ...  G_Higuain mira fijamente al marco!
+          ...  Dispara!
+          ...  Es incapaz de chutar a puerta!
+          ...  Ha tardado una eternidad!
+          ...  Será el efecto Matrix????
+Min.  3 :(bar) Lionel_Messi agarra al defensa de la camiseta y se lleva el balón
+          ...  Qué vivo ha estado, el árbitro no pudo ver nada
+          ...  Lionel_Messi se saca una terrible volea!
+          ...  Iker_Casillas llega con la punta de los dedos al balón 
+          ...  y sale rozando el palo!! 
+          ...  Qué gran intervención!
+Min.  6 :(rma) Mezut_Ozil realiza una entrada terrible
+          ...  el arbitro  intenta calmarlo
+Min.  8 :(bar) David_Villa evita la dura entrada de su marcador
+          ...  Lass_Diarra se anticipa a la jugada y se apodera del balón
+Min.  8 :(rma) Sergio_Ramos envía a su oponente al césped!!
+          ...  Menudo trompazo!!
+          ...  AMARILLA!!
+Min. 12 :(bar) J_Mascherano 'placa' a su oponente 
+          ...  De dónde lo han fichado, de los Barcelona Dragons?
+          ...  el arbitro  no lo amonesta! Vaya, yo creo que es de los peores árbitros
+Min. 13 :(bar) Xavi_H salta de cabeza con su rival 
+          ...  Falta! Lo estaba agarrando
+          ...  Habrá targeta y será...
+          ...  AMARILLA!!
+Min. 15 :(bar) Eric_Abidal se coloca en el camino del atacante 
+          ...  el arbitro  pita la falta. Se ha desentendido dla pelota
+          ...  Habrá targeta y será...
+          ...  AMARILLA!!
+Min. 15 :(rma) Karim_Benzema en una demostración de potencia y velocidad!
+          ...  Karim_Benzema con la red entre ceja y ceja!
+          ...  A las nubes!
+          ...  Dejó el cuerpo atrás y no controló bien el disparo!
+Min. 18 :(rma) Sergio_Ramos salta de cabeza con su rival 
+          ...  Falta, le ha impedido saltar
+          ...  AMARILLA!!
+          ...  Tendrá que medir un pocos sus acciones desde este momento
+          ...  Ay, ay, ay... Segunda amarilla ! 
+          ...  EXPULSADO!
+Min. 19 :(bar) David_Villa con un tremendo sprint
+          ...  David_Villa dispara un verdadero obús !
+          ...  Iker_Casillas hinca la rodilla en el suelo y despeja
+          ...  Ei! Eso es estilo argentino!
+Min. 22 :(bar) J_Mascherano tiene campo por delante
+          ...  Pasa a David_Villa
+          ...  David_Villa mete la cabeza con valentía !
+          ...  Se va fuera!
+          ...  No, ha tomado efecto!!
+          ...  GOOOOOL !!
+          ...  bar 1-0 rma ...
+Min. 23 :(bar) Gerard_Pique se mete en diagonal a través de los defensas
+          ...  Se va del central que le sale al paso!
+          ...  El extremo se cuela por la espalda del lateral
+          ...  Envía el pase a David_Villa
+          ...  David_Villa busca el disparo !
+          ...  Iker_Casillas agranda su figura y atrapa la pelota espectacularmente
+Min. 24 :(bar) Cesc_Fabregas combina con Lionel_Messi con espacio por delante
+          ...  Lass_Diarra se lanza hacia su oponente
+          ...  Y toca el balón! Que clase!
+Min. 24 :(rma) Lass_Diarra con el globo
+          ...  C_Ronaldo la baja con la cabeza
+          ...  Carles_Puyol llega como un tren y arrolla a delantero y balón
+Min. 25 :(bar) Cesc_Fabregas encara al defensa
+          ...  Le tira una gambeta!
+          ...  Pone el cuerpo para disparar
+          ...  Pero suelta el pase hacia A_iniesta
+          ...  A_iniesta busca la vaselina... desde MEDIO CAMPO!!
+          ...  Iker_Casillas ha estado afortunado en esa jugada
+Min. 29 :(bar) Daniel_Alves eleva demasiado el pie
+          ...  Eso es targeta aquí, en Argentina y en la China!
+Min. 33 :(bar) Lionel_Messi avanza con el balón y se va de cuantos le salen al paso
+          ...  R_Carvalho sega el césped con una entrada terrorífica!
+          ...  El delantero evita a su rival, pero pierde la pelota!
+Min. 34 :(rma) Kaká mete la pelota en profundidad para la llegada de C_Ronaldo
+          ...  Gerard_Pique entra con todo! 
+          ...  Y corta el balón. Ha intimidado al delantero
+Min. 35 :(bar) Lionel_Messi mete un balón interior para David_Villa
+          ...  David_Villa se lanza en plancha... ! 
+          ...  Qué valentía!
+          ...  Pero Iker_Casillas desvía el lanzamiento 
+          ...  el arbitro  da saque de puerta 
+          ...  Algún oculista en la grada??? Es urgente!!!
+Min. 37 :(bar) Daniel_Alves pica el balón por encima de la defensa hacia A_iniesta
+          ...  Pero Pepe roba la pelota
+Min. 40 :(bar) Cesc_Fabregas suelta un cañonazo! Al larguero!
+          ...  A_iniesta recoge el rebote
+          ...  Envenenado trallazo de A_iniesta !
+          ...  Fuera!
+          ...  Menos fuerza y más puntería chico
+Min. 41 :(bar) A_iniesta le gana la espalda a su mrcador
+          ...  Ei, se ha despistado!
+          ...  A_iniesta tiene tiempo y espacio!
+          ...  Chuta!
+          ...  Iker_Casillas tapa perfectamente el ángulo largo 
+          ...  Y detiene el balón con sobriedad
+Min. 42 :(rma) Kaká se va de dos defensas. Uau! No había sitio
+          ...  J_Mascherano se interpone entre el delantero y el balón!
+Min. 43 :(bar) Xavi_H pasa largo con el interior hacia A_iniesta
+          ...  A_iniesta coloca un preciso disparo !
+          ...  Iker_Casillas pone el cuerpo detrás del balón y lo para
+          ...  Normás básicas de cómo parar!
+Min. 43 :(bar) Daniel_Alves con la falta
+          ...  el arbitro  ignora las vehementes peticiones de targeta
+          ...  el entrenador ha tenido suerte esta vez
+
+El arbitro añadira 4 min. al tiempo reglamentario
+
+Min. 46 :(bar) A_iniesta inicia el contraataque
+          ...  Sale rápidamente!
+          ...  Y envía un gran pase con la defensa descolocada. J_Mascherano recibe sólo
+          ...  J_Mascherano salta con potencia por encima de la defensa !
+          ...  el portero observa como el balón se va lejos de su marco!
+Min. 48 :(bar) Carles_Puyol recupera el balón
+          ...  Levanta la cabeza!
+          ...  Ve el desmarque de su compañero
+          ...  Lionel_Messi recibe un pase increíble
+          ...  Se marcha!
+          ...  Lionel_Messi busca una de las dos escuadras!
+          ...  Iker_Casillas despeja... con la cabeza!!!
+          ...  Estaba despistado! Su entrenador se está comiendo el banquillo
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 47 :(bar) Eric_Abidal se desliza... y derriba a su adversario
+          ...  AMARILLA!!
+          ...  Tendrá que medir un pocos sus acciones desde este momento
+          ...  Segunda amarilla ! EXPULSADO ! 
+          ...  Qué infantil! Sabía que debía tener cuidado después de la primera cartulina!
+Min. 49 :(bar) David_Villa se deshace de su marcador
+          ...  Su velocidad le está creando muchos problemas!
+          ...  David_Villa con un verdadero obús !
+          ...  La manda fuera del estadio!
+Min. 51 :(bar) David_Villa tira hacia arriba
+          ...  R_Carvalho manda el balón a la grada
+Min. 52 :(bar) Xavi_H evita la dura entrada de su marcador
+          ...  Xavi_H remata forzado... con la cabeza !
+          ...  Iker_Casillas despeja... con la cabeza!!!
+          ...  Estaba despistado! Su entrenador se está comiendo el banquillo
+Min. 54 :(bar) David_Villa hace un tremendo control en el línea de medios
+          ...  Corre hacia el área y nadie le sale al paso!
+          ...  Los centrales salen demasiado tarde, va a chutar
+          ...  David_Villa busca el palo largo !
+          ...  Sitúa el balón suavemente lejos del alcance del portero!!
+          ...  Pero va a parar al larguero !!
+          ...  Y fuera!
+          ...  el portero acaricia su portería. No me extraña!!!!
+Min. 54 :(rma) C_Ronaldo debería levantar el pie del acelerador. Se está jugando la roja
+          ...  AMARILLA!! Se la estaba buscando
+          ...  Y más le valdrá que se calme
+Min. 55 :(bar) David_Villa lleva el balón hacia arriba
+          ...  David_Villa busca el palo largo del portero !
+          ...  Pero Iker_Casillas desvía levemente el balón 
+          ...  el arbitro  da saque de puerta 
+          ...  Increíble! El portero la tocó!
+Min. 55 :(rma) El defensa está presionado! Se saca el balón de encima!
+          ...  C_Ronaldo se va sólo!
+          ...  C_Ronaldo se levanta sobre su marcador, prepara el cabezazo, lo suelta... 
+          ...  Peligro!
+          ...  Dispara precipitadamente
+          ...  Fuera! No pudo precisar el remate
+Min. 55 :(rma) Karim_Benzema se coloca en el camino del atacante 
+          ...  el arbitro  pita la falta. Se ha desentendido dla pelota
+          ...  Se marcha con una simple amonestación
+          ...  Se habrá dejado las targetas en el vestuario???
+Min. 56 :(bar) Xavi_H pasa hacia A_iniesta
+          ...  A_iniesta prueba suerte!
+          ...  el portero no va a llegar!
+          ...  OH!  Sale rozando el larguero! 
+          ...  el portero sonríe
+          ...  El que ríe último...
+Min. 59 :(bar) David_Villa hace un regate digno de Garrincha
+          ...  Mezut_Ozil sale al corte como un búfalo salvaje
+Min. 60 :(bar) Lionel_Messi acelera por la banda izquierda
+          ...  Juega para David_Villa
+          ...  David_Villa se anticipa a su marcador !
+          ...  Iker_Casillas cierra el ángulo y atrapa la pelota con facilidad
+Min. 61 :(rma) Kaká se abre a la banda y cambie el juego hacia R_Carvalho
+          ...  R_Carvalho tiene tiempo y espacio!
+          ...  Chuta!
+          ...  Pero Victor_Valdes rechaza con los pies
+          ...  Podría haberla cogido!
+Min. 64 :(bar) Xavi_H para el balón
+          ...  Levanta la vista y ve a un compañero completamente sólo!
+          ...  Le envía el pase con el exterior!
+          ...  David_Villa controla el milimétrico pase. Hasta yo lo hubiera hecho!
+          ...  Punterazo impresionante de David_Villa !
+          ...  el portero ve como el balón se pierde lejos de su marco
+Min. 65 :(bar) Cesc_Fabregas recupera el balón
+          ...  Levanta la cabeza!
+          ...  Ve el desmarque de su compañero
+          ...  David_Villa recibe un pase increíble
+          ...  Se marcha!
+          ...  Pero Lass_Diarra roba la pelota
+Min. 69 :(rma) C_Ronaldo hace una pared con un compañero y mete de primeras para R_Carvalho
+          ...  R_Carvalho trata de ajustar la pelota al palo !
+          ...  GOOOOOL !!
+          ...  Limpió las telarañas de la escuadra!
+          ...  Hace al avioncito para celebrarlo!
+          ...  bar 1-1 rma ...
+Min. 69 :(rma) G_Higuain le mete el codo!!
+          ...  Suena el siblato... falta!!!
+          ...  el arbitro  hace gestos con las manos de que se calme
+Min. 71 :(rma) C_Ronaldo pisa campo contrario. Mete un pase entre los centrales para Karim_Benzema
+          ...  Karim_Benzema le pega con la zurda!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  Pero el balón se va por encima del larguero !!
+Min. 72 :(rma) C_Ronaldo pisa campo contrario. Mete un pase entre los centrales para Karim_Benzema
+          ...  Karim_Benzema chuta con la izquierda!
+          ...  Karim_Benzema lo va a detener cómodamente 
+          ...  Pero el balón bota en el césped y hace un extraño!
+          ...  rma trata de reaccionar 
+          ...  Ha entrado! 
+          ...  GOOOOOOL !!
+          ...  bar 1-2 rma ...
+Min. 73 :(bar) Carles_Puyol se va de uno
+          ...  Regatea a otro!
+          ...  A otro! Parece Maradona contra Inglaterra!
+          ...  Puede marcar! El gol del siglo!
+          ...  Pepe llega como un tren y arrolla a delantero y balón
+Min. 74 :(bar) Xavi_H asiste a David_Villa con espacio por delante
+          ...  David_Villa no va a llegar. Sí, mete el pie...!
+          ...  el portero ve como el balón se pierde lejos de su marco
+Min. 75 :(bar) Lionel_Messi se va de su marcador 
+          ...  Lo está desquiciando!
+          ...  Lionel_Messi se lanza en plancha... ! 
+          ...  Qué valentía!
+          ...  Ay va! Ha tirado a metros de la portería
+          ...  Creo que el míster lo va a poner a patear toda la semana como castigo!!
+Min. 76 :(bar) A_iniesta largo para Lionel_Messi
+          ...  Lionel_Messi prueba suerte con un disparo raso!
+          ...  El balón busca el ángulo! Peligro!!!
+          ...  Iker_Casillas salta con agilidad!
+          ...  Llegará a tiempo?
+          ...  bar detiene el remate con estilo! Su técnico aplaude
+Min. 77 :(bar) Lionel_Messi con el saque de banda
+          ...  Limpia el balón en su camiseta
+          ...  Y saca fuerte hacia David_Villa
+          ...  David_Villa impacta el balón de primeras !
+          ...  el portero detiene el balón con una mano!! 
+          ...  El rebote cae al centro, limpio para el delantero 
+          ...  Remata !!
+          ...  FUERA! Qué fallo! Está desesperado!
+Min. 78 :(rma) Lass_Diarra levanta la cabeza
+          ...  Ve perfectamente a G_Higuain
+          ...  G_Higuain se deshace de su marcador ! 
+          ...  Buen movimiento! Y dispara!
+          ...  Chuta con el exterior!
+          ...  Uhhhhh! Ha salido a metros del marco
+Min. 80 :(bar) Lionel_Messi va directo a puerta
+          ...  Lionel_Messi desde fuera del área !
+          ...  Rebota en el palo!! 
+          ...  Se anticipa al defensa para el rebote 
+          ...  Es gol de Abreu, Abreu, Abreeeeeeeeeeu !! 
+          ...  Ha tirado fuera! Como? Si no había portero!
+Min. 80 :(rma) C_Ronaldo volea la pelota. Va directo hacia Karim_Benzema
+          ...  Daniel_Alves va en carrera y agarra al delantero por la camiseta!!
+          ...  Falta!!
+          ...  El árbitro no lo ha visto
+          ...  El defensa sonríe! El delantero pone cara de incredulidad
+Min. 81 :(bar) Gerard_Pique espera a que alguien le acompañe en ataque
+          ...  Levanta los brazos, nadie se desmarca!
+          ...  Busca la individual! Prepara el disparo!
+          ...  Rebota en un defensa y cae a pies de David_Villa
+          ...  Corte finísimo y preciso de R_Carvalho
+Min. 82 :(bar) Daniel_Alves hace una bicicleta y cambia el juego hacia Lionel_Messi
+          ...  Lionel_Messi se saca una bicicleta de la nada y chuta!
+          ...  UAU! Ha pegado en el larguero y ha botado sobre la misma línea
+          ...  el arbitro  consulta con el asistente. Difícil decisión
+          ...  GOOOOOL !!
+          ...  Los aficonados del el equipo local rugen
+          ...  bar 2-2 rma ...
+Min. 82 :(rma) C_Ronaldo mete la pelota en profundidad para la llegada de Karim_Benzema
+          ...  Pero pisa un charco y cae al suelo!
+          ...  Carles_Puyol recoge el balón. Menudo marcaje le está haciendo!
+Min. 83 :(bar) Lionel_Messi pasa de rabona hacia David_Villa. Madre mía! Ha nacido en Brasil?
+          ...  David_Villa mete el pie antes que su marcador !
+          ...  el portero ve como el balón se pierde lejos de su marco
+Min. 83 :(rma) Kaká se va de uno, de dos, de tres!
+          ...  Mira a un lado... y pasa hacia C_Ronaldo al otro lado! OH!
+          ...  J_Mascherano se recompone y mete el pie
+Min. 86 :(bar) Lionel_Messi cruza la línea de medios
+          ...  Ve un hueco en el flanco
+          ...  Mete el balón sobre la llegada de David_Villa
+          ...  David_Villa con un disparo a ras de suelo!
+          ...  Iker_Casillas se saca una espectacular parada 
+          ...  Su capitán lo felicita por esa intervención
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+Min. 92 :(bar) Daniel_Alves avanza con el balón controlado
+          ...  Ve el desmarque de un compañero!
+          ...  Cruza el pase!
+          ...  Lionel_Messi con un control facilísimo
+          ...  Lionel_Messi hace una diagonal
+          ...  Y suelta un sorprendente disparo!
+          ...  UAU! Ha pegado en el larguero y ha botado sobre la misma línea
+          ...  el arbitro  consulta con el asistente. Difícil decisión
+          ...  GOL ???
+          ...  Se ha equivocado!!!
+          ...  El balón no ha cruzado la línea de meta!
+          ...  bar 3-2 rma ...
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : bar 11 rma 5
+tiros a puerta       : bar 17 rma 3
+
+Marcador             : bar  3 rma 2
+
+
+<<< Estadisticas de los jugadores del bar >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+Victor_Valdes  GK   R 32  3  3  3 49 |  90   1   0   0   0   0   0   0   0   0  11   0   0   0 100
+Eric_Abidal   DFL  LC  2 27  5  5 45 |  46   0   0   0   0   0   0   0   1   0   0  -7  -7  -7  82
+Carles_Puyol  DFC   C  2 44  4 12 50 |  90   0   2   1   0   1   0   0   0   0   0 185  85  80  68
+Gerard_Pique  DFC  RC  3 36 10 10 49 |  90   0   1   2   0   0   0   0   0   0   0 125 105  65  68
+Daniel_Alves  DFR   R  3 28 17 15 72 |  90   0   1   3   2   0   0   0   0   0   0  60 160   0  81
+J_Mascherano  DMC   C  3 37 20  5 84 |  90   0   2   1   1   1   0   0   0   0   0 120  70   7  84
+Xavi_H        MFC  RC  3 19 47 10 71 |  90   0   0   4   0   1   0   1   0   0   0  -5  75  10  77
+Cesc_Fabregas MFC   C  2 10 42  9 52 |  90   0   0   4   0   0   0   0   0   0   0   0  80   0  73
+A_iniesta     AMC  RC  3 10 48 26 52 |  90   0   0   2   0   5   0   0   0   0   0   0  40  59  71
+Lionel_Messi  AMC RLC  2  2 43 57 92 |  90   0   0   6   0   7   2   0   0   0   0   0 120 229  89
+David_Villa   FWC RLC  3  3 10 42 57 |  90   0   0   0   0  13   1   0   0   0   0   0   0 217  70
+Jose_M_Pinto   GK   L 25  3  3  3 77 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Andreu_Fontas DFC   R  3 18  6  8 60 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+I_Afellay     MFC RLC  2  6 36  4 71 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Maxwell       DFC RLC  2 24 11  6 65 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+A_Sanchez     FWC RLC  2  6 14 29 66 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+S_Busquets    MFC  RC  3 23 36  8 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Adriano_C     DFC  RL  3 22  6  6 73 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  1   6  23   3  28   3   1   1   0
+
+
+<<< Estadisticas de los jugadores del rma >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+Iker_Casillas  GK   R 42  3  3  3 49 |  90  14   0   0   0   0   0   0   0   0 144   0   0   0 100
+F_Coentrao    DFL  LC  2 27  5  5 55 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  70
+Pepe          DFC   C  2 40 10  9 50 |  90   0   2   0   0   0   0   0   0   0   0 120   0   0  71
+R_Carvalho    DFC  RC  2 37  9  3 46 |  90   0   3   0   0   2   1   0   0   0   0 170 -10  90  65
+Sergio_Ramos  DFR   R  3 34 26 16 70 |  17   0   0   0   0   0   0   0   1   0   0  -7  -7  -7  96
+Lass_Diarra   DMC RLC  3 35 22  6 52 |  90   0   3   2   0   0   0   0   0   0   0 180  40   0  72
+Kaká          MFR RLC  2  3 47 33 76 |  90   0   0   3   0   0   0   0   0   0   0   0  60   0  81
+Mezut_Ozil    MFL  LC  3  6 42 16 47 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  68
+C_Ronaldo     AMC RLC  2  2 47 50 88 |  90   0   0   6   2   1   0   1   0   0   0  -5 215   2  83
+G_Higuain     FWC   C  3  6  7 46 50 |  90   0   0   0   0   2   0   0   0   0   0   0   0  14  68
+Karim_Benzema FWC   C  3  3 12 40 57 |  90   0   0   0   0   3   1   0   0   0   0   0   0  99  72
+Antonio_Adan   GK   L 27  3  3  3 77 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Xabi_Alonso   DFC   C  3 32 34  5 54 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+H_Altintop    MFC  RC  3  5 36  8 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Vieria      DFC  RC  3 28 12  3 62 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+A_Di_María    FWC  RL  2  9 32 34 60 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Nuri_Sahin    MFC   C  2  4 32  9 52 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Raul_Albiol   DFC  RL  3 26 10  6 63 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                 14   9  11   2   8   2   1   1   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+bar     0    177.80   219.61   116.93
+rma     0    173.25   175.75   154.40
+bar    10    173.08   215.49   115.11
+rma    10    168.52   171.38   150.61
+bar    20    167.60   210.05   112.36
+rma    20    106.82   151.56   140.83
+bar    30    162.19   204.91   109.34
+rma    30    103.34   147.68   137.20
+bar    40    157.27   199.58   106.56
+rma    40     99.67   143.54   133.25
+bar    50    106.49   184.92    99.30
+rma    50     94.89   138.68   127.92
+bar    60    104.00   180.24    96.58
+rma    60     91.12   134.66   123.53
+bar    70    100.31   174.34    93.48
+rma    70     87.79   131.00   119.23
+bar    80     96.70   169.55    90.90
+rma    80     84.27   127.16   115.64
+bar    90     94.25   164.69    88.48
+rma    90     80.55   123.34   112.05
+
+
+1332059011

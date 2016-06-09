@@ -1,0 +1,135 @@
+
+
+Injuries:
+---------
+
+Michael_Rios (uca) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+
+
+
+Suspensions:
+------------
+
+G_Burdisso (bcj) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+F_Eji (riv) St aumenta su media gracias al skills
+C_Arano (riv) Tk aumenta su media gracias al skills
+C_Ayala (riv) Tk aumenta su media gracias al skills
+Espeon (riv) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          2  (DFs - 0, DMs - 0, MFs - 1, AMs - 0, FWs - 1)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   5
+Red cards:      1
+Injuries:       1
+
+Top performers:
+
+J_R_Riquelme (bcj)    29
+R_Valenzuela (uca)    27
+W_Erviti (bcj)        27
+Hans_Martinez (uca)   20
+C_Toselli (uca)       18
+Javier_Garcia (tgr)   18
+N_Paparatto (tgr)     16
+R_Botta (tgr)         16
+E_Albin (bcj)         16
+M_Echeverria (tgr)    16
+M_Mirosevic (uca)     15
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+M_Zarate (vel)           2      4
+Zapdos (alb)             2      3
+Juan_M_Iturbe (ind)      2      3
+E_Fuertes (fer)          2      3
+Berni_Romeo (slo)        2      3
+Nico_Blandi (boc)        2      3
+Luís_Fabiano (arg)       2      3
+D_Trezeguet (riv)        3      3
+P_Mouche (tig)           2      2
+Franck_Ribéry (ind)      2      2
+Nico_Martinez (ind)      2      2
+Guille_Franco (slo)      2      2
+F_Guerrero (gim)         2      2
+RV_Nistelrooy (ban)      2      2
+Pablo_Guiñazú (tig)      2      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+H_Fredes (ind)           2     82
+Pablo_Guiñazú (tig)      2     82
+M_N_Cano (uai)           2     81
+L_Pusineri (slo)         2     66
+Luís_Fabiano (arg)       2     61
+Franck_Ribéry (ind)      2     59
+M_Zarate (vel)           2     57
+J_I_Sills (uni)          2     55
+E_Brunyobt (col)         2     54
+T_Svenssen (alb)         2     54
+A_Orion (boc)            2     54
+Lucas_Moura (boc)        2     52
+A_Fernandez (vel)        2     51
+Ed_Retamoso (fer)        2     51
+H_Castellano (ald)       2     51
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Kun_Aguero (ind)         2      2
+I_Velez (ind)            2      2
+J_Datolo (gim)           2      2
+H_Ameli (slo)            2      2
+A_Fernandez (vel)        2      2
+H_Fredes (ind)           2      2
+Pablo_Guiñazú (tig)      2      2
+L_Pusineri (slo)         2      2
+Pavel_Nedved (vel)       1      1
+Ariel_Zapata (col)       1      1
+Dario_Šimic (alb)        1      1
+C_Villagra (tig)         1      1
+L_Carrio (ind)           2      1
+S_Staunton (alb)         2      1
+Michel_Bastos (uni)      2      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Gino_Peruzzi (new)       2      4
+Angel_Carreño (gim)      0      3
+L_Rodriguez (slo)        1      3
+Eric_Gerets (boc)        1      3
+Wailord (alb)            2      3
+Pablo_Piatti (col)       2      2
+V_Píriz_Alves (rac)      2      2
+Massimo_Oddo (oli)       2      2
+L_Gianetti (new)         0      1
+R_Civelli (oli)          1      1
+Gilbert_Silva (ars)      1      1
+Juan_Rocchia (qui)       1      1
+C_Ansaldi (vel)          1      1
+C_D_Ledesma (col)        1      1
+Dario_Šimic (alb)        1      1
+

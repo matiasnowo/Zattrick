@@ -1,0 +1,170 @@
+
+
+Injuries:
+---------
+
+Lobo_Fischer (qui) Ya está listo para jugar despues de su lesión
+R_Faeck (qui) solo se quedo en un susto y estara apto para el siguiente partido
+P_Toranzo (rac) solo se quedo en un susto y estara apto para el siguiente partido
+M_Schwarzer (fer) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+L_Mareque (arg) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+
+
+
+Suspensions:
+------------
+
+P_Mannara (oli) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+R_Civelli (oli) Ps aumenta su media gracias al skills
+Tauros (rce) Tk aumenta su media gracias al skills
+Carlos_Netto (slo) Ps aumenta su media gracias al skills
+J_Botinelli (qui) Tk aumenta su media gracias al skills
+G_Mendez (qui) Tk aumenta su media gracias al skills
+Ricardo_Gomes (fer) Tk aumenta su media gracias al skills
+F_Cavenaghi (fer) Ps aumenta su media gracias al skills
+Turco_Grecco (arg) Tk aumenta su media gracias al skills
+H_Losada (arg) Ps aumenta su media gracias al skills
+J_Gandolfi (ars) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          2  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 2)
+Assists:        1  (DFs - 0, DMs - 0, MFs - 0, AMs - 1, FWs - 0)
+Yellow cards:   6
+Red cards:      1
+Injuries:       4
+
+Top performers:
+
+Tauros (rce)          24
+D_De_Rossi (rac)      21
+J_Dudek (rce)         21
+M_Ricci (oli)         20
+Jorge_Vila (fer)      18
+L_Monje (rce)         18
+Gonzalo_Bazan (qui)   16
+N_Ortigoza (slo)      15
+R_Civelli (oli)       13
+Ruud_Gullit (arg)     13
+E_Andewjh (rce)       12
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Independiente           6    3   2   1     7    4    3    11
+4    Arsenal                 7    3   1   3     5    6   -1    10
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             7    1   4   2     4    5   -1     7
+7    Argentinos              6    2   0   4     4    8   -4     6
+8    Banfield                6    1   2   3     1    5   -4     5
+9    River Plate             5    1   1   3     4    6   -2     4
+10   Olimpo                  1    1   0   0     1    0    1     3
+11   River PLate             1    0   1   0     1    1    0     1
+12   Ferro                   1    0   1   0     0    0    0     1
+13   Quilmes                 1    0   1   0     0    0    0     1
+14   Racing                  1    0   1   0     0    0    0     1
+15   Boca Juniors            6    0   1   5     4   14  -10     1
+16   Rosario Central         1    0   0   1     0    1   -1     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+G_B_Leschuk (ars)        4      3
+Moltres (oli)            4      2
+Legolas (fer)            3      1
+Cadorna (oli)            3      1
+Lobo_Cordone (oli)       3      1
+H_Losada (arg)           4      1
+Leonardo (fer)           4      1
+Sergio_Araujo (rac)      4      1
+Santi_Anselmo (rac)      4      1
+S_Kun_Aguero (arg)       4      1
+Il_F_Marelli (arg)       4      1
+A_Morón (arg)            4      1
+L_Gonzales (oli)         0      0
+B_Buticce (qui)          0      0
+D_Ramirez (oli)          0      0
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Diego_Torres (ars)       4     73
+F_Coloccini (slo)        4     68
+M_Ricci (oli)            4     59
+C_Leiva (oli)            4     56
+Jorge_Vila (fer)         4     55
+G_B_Leschuk (ars)        4     53
+L_Nowogrodzki (oli)      4     52
+L_Mareque (arg)          4     52
+Tauros (rce)             4     47
+Diego_Villar (ars)       4     45
+S_Kun_Aguero (arg)       4     44
+D_De_Rossi (rac)         4     43
+Ivan_Cordoba (qui)       4     42
+R_Civelli (oli)          4     41
+Pateatraseros (arg)      4     40
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Gio_Moreno (rce)         4      1
+P_Toranzo (rac)          4      1
+Ruud_Gullit (arg)        4      1
+Il_F_Marelli (arg)       4      1
+Diego_Villar (ars)       4      1
+Adriano_C (ars)          4      1
+Jorge_Vila (fer)         4      1
+C_Leiva (oli)            4      1
+M_Ricci (oli)            4      1
+Duracell (fer)           0      0
+Thorin (fer)             0      0
+Bambino_Veira (slo)      0      0
+W_Montillo (qui)         0      0
+Pipo_Gorosito (qui)      0      0
+C_Ledesma (qui)          0      0
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Nacho_Decarli (rac)      3      4
+Gonzalo_Bazan (qui)      3      4
+P_Mannara (oli)          4      4
+Alakazam (rce)           0      3
+J_Gandolfi (ars)         4      3
+Berni_Romeo (slo)        4      3
+Mario_Santana (slo)      4      3
+F_Peppino (rce)          2      2
+Ivan_Cordoba (qui)       4      2
+D_Manusovich (slo)       4      2
+Oscar_Ruggeri (slo)      4      2
+M_Martinez (rac)         4      2
+M_Brau (ars)             4      2
+C_Leiva (oli)            4      2
+Il_F_Marelli (arg)       4      2
+

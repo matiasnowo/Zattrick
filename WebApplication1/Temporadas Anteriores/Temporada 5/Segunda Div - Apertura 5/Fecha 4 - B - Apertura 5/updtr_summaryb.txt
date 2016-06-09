@@ -1,0 +1,182 @@
+
+
+Injuries:
+---------
+
+R_Falcao_G (est) Ya está listo para jugar despues de su lesión
+A_Ortega (new) Ya está listo para jugar despues de su lesión
+Ivan_Cordoba (qui) estara de baja una semana por una micro-rotura
+Berni_Romeo (slo) tendra que guardar reposo una semana por molestias en el muslo
+
+
+
+Suspensions:
+------------
+
+C_D_Ledesma (col) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+M_Martinez (rac) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+R_Cascini (ars) no podrá jugar el siguiente partido por sanción
+Matias_Diaz (fer) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+M_Brau (ars) Ps aumenta su media gracias al skills
+Diego_Villar (ars) Sh aumenta su media gracias al skills
+Alpay_Ozalan (rce) Tk aumenta su media gracias al skills
+E_Figueroa (est) Tk aumenta su media gracias al skills
+E_Figueroa (est) Ps aumenta su media gracias al skills
+M_Laspada (est) Ps aumenta su media gracias al skills
+E_Ryodsamn (est) Sh aumenta su media gracias al skills
+S_Sosa (tig) St aumenta su media gracias al skills
+F_Segovia (tig) Tk aumenta su media gracias al skills
+jm (tig) Tk aumenta su media gracias al skills
+Pablo_Piatti (col) Ps aumenta su media gracias al skills
+N_Ortigoza (slo) Tk aumenta su media gracias al skills
+M_Albela (new) Tk aumenta su media gracias al skills
+A_Chavez (new) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         14  (DFs - 0, DMs - 0, MFs - 2, AMs - 0, FWs - 12)
+Assists:        5  (DFs - 0, DMs - 0, MFs - 3, AMs - 1, FWs - 1)
+Yellow cards:  17
+Red cards:      2
+Injuries:       2
+
+Top performers:
+
+F_Segovia (tig)       36
+N_Ortigoza (slo)      36
+E_Ryodsamn (est)      35
+A_Panenka (new)       30
+Pablo_Piatti (col)    30
+Edgar_Davids (new)    28
+E_Zelaya (ars)        28
+M_N_Cano (uai)        24
+E_Figueroa (est)      24
+A_Papu_Gomez (col)    23
+J_Fabbro (fer)        23
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Arsenal                 8    4   2   2     8    5    3    14
+3    Aldosivi                6    4   1   1    12    4    8    13
+4    Independiente           6    3   2   1     7    4    3    11
+5    San Lorenzo             8    2   4   2     6    6    0    10
+6    All Boys                5    2   3   0     4    1    3     9
+7    Colon de Santa Fe       2    2   0   0     9    1    8     6
+8    Estudiantes de La Plata   2    2   0   0     4    0    4     6
+9    Banfield                6    1   2   3     1    5   -4     5
+10   Newell's Old Boys       2    1   1   0     2    0    2     4
+11   River Plate             5    1   1   3     4    6   -2     4
+12   Union de Santa Fe       1    1   0   0     5    2    3     3
+13   Gimnasia y Esgrima de La Plata   2    1   0   1     3    9   -6     3
+14   Argentinos              6    1   0   5     5   13   -8     3
+15   River PLate             1    0   1   0     1    1    0     1
+16   Ferro                   2    0   1   1     1    2   -1     1
+17   UAI Urquiza             2    0   1   1     0    1   -1     1
+18   Quilmes                 2    0   1   1     0    3   -3     1
+19   Boca Juniors            6    0   1   5     4   14  -10     1
+20   Rosario Central         1    0   0   1     1    2   -1     0
+21   Tigre                   1    0   0   1     0    2   -2     0
+22   Racing                  2    0   0   2     0    4   -4     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Berni_Romeo (slo)        3      4
+A_Chavez (new)           4      4
+E_Fuertes (fer)          4      4
+Carlos_Duré (ars)        2      3
+E_Zelaya (ars)           3      3
+L_Castroman (new)        4      3
+F_Guerrero (gim)         4      3
+A_Sánchez (gim)          4      3
+E_Ryodsamn (est)         3      2
+Pablo_Guiñazú (tig)      3      2
+Pablo_Piatti (col)       4      2
+A_Papu_Gomez (col)       4      2
+P_Mouche (tig)           4      2
+Guille_Franco (slo)      4      2
+Kazu_Miura (qui)         4      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+M_N_Cano (uai)           4    159
+M_Albela (new)           4    100
+A_Panenka (new)          3     97
+L_Pusineri (slo)         4     97
+Cris_Gonzalez (uai)      4     96
+A_Chavez (new)           4     81
+Pablo_Guiñazú (tig)      3     80
+J_Yacuzzi (ars)          4     79
+C_Gurrieri (uai)         4     78
+Juan_Forlin (gim)        4     78
+F_Segovia (tig)          4     75
+Edgar_Davids (new)       4     75
+L_Castroman (new)        4     74
+F_Guerrero (gim)         4     72
+Martin_Ortiz (uai)       4     70
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+A_Panenka (new)          3      3
+L_Pusineri (slo)         4      3
+Pablo_Guiñazú (tig)      3      2
+Diego_Villar (ars)       3      2
+M_Albela (new)           4      2
+J_Datolo (gim)           4      2
+H_Ameli (slo)            4      2
+T_Vuvroapr (new)         1      1
+Ariel_Zapata (col)       2      1
+A_Machuca (tig)          3      1
+Pablo_Piatti (col)       4      1
+Nico_Bertolo (qui)       4      1
+F_Coloccini (slo)        4      1
+P_Mouche (tig)           4      1
+Carlos_Netto (slo)       4      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+C_D_Ledesma (col)        2      4
+Gino_Peruzzi (new)       3      4
+R_Cascini (ars)          4      4
+Angel_Carreño (gim)      0      3
+L_Rodriguez (slo)        2      3
+M_Martinez (rac)         3      3
+Matias_Diaz (fer)        4      3
+Gilbert_Silva (ars)      3      2
+Oscar_Ruggeri (slo)      4      2
+C_Villagra (tig)         4      2
+V_Píriz_Alves (rac)      4      2
+E_Vidal (uai)            4      2
+F_Coloccini (slo)        4      2
+Pablo_Piatti (col)       4      2
+Javier_Lux (rac)         4      2
+

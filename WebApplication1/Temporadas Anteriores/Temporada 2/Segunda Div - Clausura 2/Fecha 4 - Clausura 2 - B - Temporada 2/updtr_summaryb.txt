@@ -1,0 +1,143 @@
+
+
+Injuries:
+---------
+
+Iker_Casillas (slo) se mantendra alejado de los terrenos por 2 partidos debido a un esguince de tobillo
+Gran_Trasgo (fer) no podra jugar los siguientes 2 partidos a causa de una rotura fibrilar
+
+
+
+Suspensions:
+------------
+
+Il_F_Marelli (arg) no podrá jugar el siguiente partido por sanción
+Mario_Santana (slo) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+L_Mareque (arg) Tk aumenta su media gracias al skills
+S_Kun_Aguero (arg) Sh aumenta su media gracias al skills
+J_Barraza (tig) Tk aumenta su media gracias al skills
+J_Manteca (tig) Ps aumenta su media gracias al skills
+G_Gigliaza (tig) Ps aumenta su media gracias al skills
+M_Martinez (rac) Tk aumenta su media gracias al skills
+Oscar_Ruggeri (slo) Tk aumenta su media gracias al skills
+L_Pusineri (slo) Tk aumenta su media gracias al skills
+M_Bravo (qui) Ps aumenta su media gracias al skills
+Lobo_Fischer (qui) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          2  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 2)
+Assists:        1  (DFs - 0, DMs - 0, MFs - 1, AMs - 0, FWs - 0)
+Yellow cards:  10
+Red cards:      1
+Injuries:       2
+
+Top performers:
+
+Ivan_Cordoba (qui)    24
+Oscar_Ruggeri (slo)   24
+J_Manteca (tig)       22
+Origüela (rac)        20
+Pateatraseros (arg)   19
+Z_Jaebr (rac)         19
+N_Odruska (arg)       18
+M_Lanzini (arg)       17
+L_Mareque (arg)       16
+A_Chari (tig)         14
+Bofur (fer)           14
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+R_Palacio (tig)          9      5
+Tulkas (fer)            10      3
+Legolas (fer)           10      3
+Santi_Anselmo (rac)      4      2
+A_Del_Piero (tig)        4      2
+Sergio_Araujo (rac)      7      2
+Lobo_Fischer (qui)       9      2
+C_D_Biaggio (slo)        4      1
+Pipo_Gorosito (qui)      4      1
+G_Oberman (qui)          4      1
+T_Henry (tig)            5      1
+D_M_Vilariño (arg)       5      1
+Aragon (fer)             5      1
+Pancho_Abba (rac)        6      1
+C_Bassedas (qui)         7      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Pateatraseros (arg)      9    107
+M_Caceres (rac)         10    107
+F_Coloccini (slo)        9    100
+Oscar_Ruggeri (slo)      9     95
+G_Gigliaza (tig)         9     88
+Ivan_Cordoba (qui)       9     81
+Iker_Casillas (slo)      9     81
+Carlos_Netto (slo)       9     81
+Mono_Navarro (tig)       9     78
+N_Ortigoza (slo)         9     77
+M_Martinez (rac)        10     76
+A_Chari (tig)            7     73
+R_Palacio (tig)          9     70
+Sergio_Araujo (rac)      7     69
+Smaug (fer)              9     69
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Pancho_Abba (rac)        6      2
+H_Losada (arg)           6      2
+G_Gigliaza (tig)         9      2
+R_Faeck (qui)            9      2
+Duracell (fer)           3      1
+P_Nicolini (tig)         4      1
+A_Del_Piero (tig)        4      1
+M_Caneo (tig)            5      1
+E_Lavezzi (arg)          6      1
+K_Elotya (arg)           7      1
+Mario_Santana (slo)      9      1
+L_Pusineri (slo)         9      1
+M_Bravo (qui)            9      1
+J_Manteca (tig)          9      1
+Beorn (fer)              9      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+A_Chari (tig)            7      7
+H_Ameli (slo)            7      6
+G_Mendez (qui)           8      5
+S_Kun_Aguero (arg)      10      5
+C_D_Biaggio (slo)        4      4
+T_Henry (tig)            5      4
+P_Rotchen (arg)          6      4
+J_Botinelli (qui)        9      4
+Smaug (fer)              9      4
+Beorn (fer)              9      4
+Il_F_Marelli (arg)      10      4
+Z_Oto (arg)              2      3
+Duracell (fer)           3      3
+Origüela (rac)           6      3
+Oscar_Ruggeri (slo)      9      3
+

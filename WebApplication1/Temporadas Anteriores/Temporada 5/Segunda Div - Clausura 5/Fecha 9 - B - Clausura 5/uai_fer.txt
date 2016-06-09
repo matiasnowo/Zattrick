@@ -1,0 +1,417 @@
+Home                           Away
+----                           ----
+
+UAI Urquiza                    Ferro                         
+
+GK  M_N_Cano                   GK  S_Bertoli                 
+DFC Martin_Ortiz               DFR Smaug                     
+DFC Cris_Gonzalez              DFC Lean_Gioda                
+DFC C_Gurrieri                 DFC M_Palopoli                
+DFC C_A_Rodriguez              DFL E_Mas                     
+MFC Leo_Harkes                 MFC B_Enyu                    
+MFC Maxi_Ferreyra              MFR F_Abba                    
+MFC Ema_Ibañez                 MFL Matias_Diaz               
+MFC Gaston_Silva               MFC Gabriel_Roth              
+FWC David_Ledesma              FWR Q_Braes                   
+FWC E_Vidal                    FWC H_Barcos                  
+
+4-4-2 Normal                   4-4-2 Passing                  
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(fer) B_Enyu con un pase de tiralíneas para H_Barcos
+          ...  H_Barcos no va a llegar. Sí, mete el pie...!
+          ...  Pero se las arregla para fallar
+          ...  Pone cara de mala leche. Menudo fallo!
+Min.  2 :(fer) B_Enyu encara a su marcador
+          ...  Lo sienta con una croqueta!
+          ...  Eso lo hacía Michael Laudrup!
+          ...  Y ahora suelta un pase impresionante hacia Gabriel_Roth
+          ...  Gabriel_Roth mira fijamente al marco!
+          ...  Dispara!
+          ...  Es incapaz de chutar a puerta!
+          ...  Ha tardado una eternidad!
+          ...  Será el efecto Matrix????
+Min.  4 :(fer) B_Enyu se la pone a Q_Braes en el pie
+          ...  Q_Braes se saca una terrible volea!
+          ...  GOOOOOL !!
+          ...  Limpió las telarañas de la escuadra!
+          ...  Hace al avioncito para celebrarlo!
+          ...  uai 0-1 fer ...
+Min.  7 :(fer) F_Abba pisa campo contrario. Mete un pase entre los centrales para Gabriel_Roth
+          ...  Gabriel_Roth suelta un disparo muy débil !
+          ...  el portero no va a llegar!
+          ...  OH!  Se pierde por encima del larguero! 
+          ...  el portero sonríe
+          ...  Sabía que iba fuera? No se, no se...
+Min.  8 :(fer) B_Enyu pasa largo con el interior hacia H_Barcos
+          ...  H_Barcos controla el balón, amaga y... dispara! Oh!
+          ...  Busca la escuadra!
+          ...  Ojo con el efecto. El portero no va a llegar!!
+          ...  Pero aterriza en la grada superior de la portería !!
+          ...  el portero sonríe. Estaba batido!
+Min. 10 :(fer) Q_Braes cambia el juego
+          ...  H_Barcos recibe con campo por delante!
+          ...  H_Barcos con un sorprendente remate !
+          ...  H_Barcos mira como el balón sale demasiado alto!
+          ...  Ha medido mal!!
+          ...  GOOOOOL !!
+          ...  fer mira el balón fijamente! Está desolado!
+          ...  uai 0-2 fer ...
+Min. 11 :(fer) F_Abba para el balón con la planta del pie
+          ...  Qué calidad, tiene un guante en el pie!
+          ...  Se revuelve! Engaña a su par
+          ...  y cruza al balón sobre la llegada de Q_Braes
+          ...  Q_Braes se saca una vaselina magistral de la chistera !
+          ...  M_N_Cano ve venir el balón
+          ...  Y lo atrapa con facilidad
+Min. 13 :(fer) F_Abba mete un balón interior para Q_Braes
+          ...  Q_Braes con la red entre ceja y ceja!
+          ...  M_N_Cano para sin demasiadas dificultades
+Min. 15 :(uai) Ema_Ibañez cuelga de primeras para Leo_Harkes
+          ...  Gabriel_Roth pone el pie en el momento oportuno y despeja el balón
+Min. 15 :(fer) H_Barcos mete el pie y se lleva el balón. Ojo!
+          ...  H_Barcos busca el gol!
+          ...  Se mueve la red!
+          ...  GOOOOL !!
+          ...  Hace una voltereta, dos, tres!!!
+          ...  Parece un saltimbanqui!
+          ...  uai 0-3 fer ...
+Min. 16 :(fer) F_Abba avanza metros
+          ...  Mira el extremo derecho!
+          ...  Y le pone un pase de oro a H_Barcos en el otro lado! Qué clase!
+          ...  H_Barcos no va a llegar. Sí, mete el pie...!
+          ...  H_Barcos desvía el balón con el guante izquierdo!! 
+          ...  Va a pegar en el palo... 
+          ...  GOOOOOOL !!
+          ...  uai 0-4 fer ...
+Min. 17 :(fer) Gabriel_Roth con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia H_Barcos
+          ...  Martin_Ortiz pone el pie en el momento oportuno y despeja el balón
+Min. 19 :(uai) Leo_Harkes inicia el ataque
+          ...  Pase picado por E_Vidal
+          ...  F_Abba le roba la pelota
+Min. 21 :(fer) Matias_Diaz combina con H_Barcos con espacio por delante
+          ...  H_Barcos se precipita en su remate!
+          ...  el portero detiene la pelota espectacularmente!! 
+          ...  El rebote cae al centro, claro para el delantero 
+          ...  OHHHHHHHH !! 
+          ...  Le pegó mal
+Min. 23 :(fer) Matias_Diaz asiste a E_Mas dentro del área
+          ...  Suelta un latigazo con su pierna izquierda!
+          ...  El balón impacta en el palo!! 
+          ...  Se mueve la red !!
+          ...  GOOOOOL !!
+          ...  uai 0-5 fer ...
+Min. 24 :(uai) E_Vidal envía un pase en profundidad hacia Maxi_Ferreyra
+          ...  Lean_Gioda despeja el balón hacia la grada
+          ...  Ei! Un aficionado se lleva el balón! Al ladrón
+Min. 24 :(fer) E_Mas se va de dos defensas. Uau! No había sitio
+          ...  E_Mas controla el balón, amaga y... dispara! Oh!
+          ...  E_Mas desvía el balón con el guante izquierdo!! 
+          ...  GOOOOOOL !!
+          ...  No fue suficiente!
+          ...  uai 0-6 fer ...
+Min. 25 :(uai) Martin_Ortiz le pone la zancadilla!!
+          ...  Qué entrada más ruin!
+          ...  el arbitro  hace gestos con las manos de que se calme
+Min. 26 :(uai) Gaston_Silva se desliza... y derriba a su adversario
+          ...  AMARILLA!!
+          ...  Se irá a la caseta si repite algo así
+Min. 27 :(fer) H_Barcos hace una inteligente pared con un compañero
+          ...  Le sale al paso un defensa
+          ...  Se va de él y mira la portería!
+          ...  H_Barcos impacta la pelota al primer toque!
+          ...  M_N_Cano ha estado afortunado en esa jugada
+Min. 28 :(fer) B_Enyu suelta un cañonazo! Al larguero!
+          ...  M_Palopoli recoge el rebote
+          ...  Envenenado trallazo de M_Palopoli !
+          ...  M_N_Cano ha estado afortunado en esa jugada
+Min. 29 :(fer) Gabriel_Roth con un pase impresionante hacia Q_Braes
+          ...  Q_Braes tiene tiempo y espacio!
+          ...  Chuta!
+          ...  M_N_Cano tapa perfectamente el ángulo largo 
+          ...  Y detiene el balón con sobriedad
+Min. 34 :(fer) Q_Braes se va de dos defensas. Uau! No había sitio
+          ...  Potente chut de Q_Braes !
+          ...  M_N_Cano se zambulle hacia su izquierda 
+          ...  Sale rozando el palo 
+          ...   el arbitro  dice que no ha tocado el balón 
+          ...  Acertó !
+Min. 36 :(fer) B_Enyu con un pase entre los centrales
+          ...  H_Barcos aparece con velocidad desde atrás!
+          ...  H_Barcos suelta un cañonazo. Problemas para el portero !
+          ...  M_N_Cano despeja con problemas
+Min. 40 :(fer) Matias_Diaz con el saque de banda
+          ...  Limpia el balón en su camiseta
+          ...  Y saca fuerte hacia E_Mas
+          ...  E_Mas empalma con la zurda. Colocó mal el cuerpo !
+          ...  Pero M_N_Cano se saca de la manga la parada del partido
+Min. 42 :(fer) Gabriel_Roth con el lanzamiento de la falta
+          ...  Ve el desmarque de su compañero
+          ...  El balón va directo hacia el pie de Q_Braes
+          ...  Q_Braes regatea a uno, dos y chuta!
+          ...  Dispara fuera
+Min. 43 :(fer) E_Mas cruza la línea de medios
+          ...  Ve un hueco en el flanco
+          ...  Mete el balón sobre la llegada de H_Barcos
+          ...  H_Barcos connecta el balón con la cabeza y lo peina hacia atrás!
+          ...  M_N_Cano lo para cómodamente
+          ...  El disparo nunca llevó peligro real
+Min. 45 :(fer) Smaug de tacón para Matias_Diaz
+          ...  Matias_Diaz chuta sin mirar al portero !
+          ...  Lo envía al córner!!! Qué fallo!!! 
+          ...  "QUÉ MALO ERES" cantan los aficionados del el equipo visitante
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+Min. 46 :(fer) B_Enyu se mete en diagonal a través de los defensas
+          ...  Se va del central que le sale al paso!
+          ...  El extremo se cuela por la espalda del lateral
+          ...  Envía el pase a Lean_Gioda
+          ...  Lean_Gioda impacta el balón con una volea defectuosa!
+          ...  Lo envía al córner!!! Qué fallo!!! 
+          ...  "QUÉ MALO ERES" cantan los aficionados del el equipo visitante
+Min. 46 :(fer) Smaug agarra a su rival de la camiseta!!
+          ...  el arbitro  detiene el juego
+          ...  Bien visto el arbitro !
+          ...  Se marcha con una simple amonestación
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 47 :(fer) B_Enyu hace una bicicleta y cambia el juego hacia H_Barcos
+          ...  H_Barcos suelta un disparo con el exterior del pie!
+          ...  GOOOOOL !! 
+          ...  el portero se encara con el líbero
+          ...  uai 0-7 fer ...
+Min. 48 :(fer) F_Abba se abre a la banda y cambie el juego hacia Q_Braes
+          ...  Q_Braes regatea a su marcador y busca el gol !
+          ...  Los aficionados se levantan de sus asientos!
+          ...  El portero no se mueve !!
+          ...  Pero sale a centímetros de la escuadra!
+          ...  el portero respira aliviado!
+Min. 50 :(fer) Q_Braes lleva el balón hacia arriba
+          ...  Q_Braes busca el palo largo del portero !
+          ...  Ve al portero adelantado y le pica el balón!
+          ...  GOOOOOL !! 
+          ...  Sus compañeros corren a limpiarle la bota. No es para menos!!
+          ...  uai 0-8 fer ...
+Min. 51 :(fer) El defensa está presionado! Se saca el balón de encima!
+          ...  H_Barcos se va sólo!
+          ...  H_Barcos se levanta sobre su marcador, prepara el cabezazo, lo suelta... 
+          ...  Peligro!
+          ...  GOOOOOL !! 
+          ...  Los aficionados enloquecen!
+          ...  uai 0-9 fer ...
+Min. 52 :(fer) Matias_Diaz aprovecha un fallo defensivo
+          ...  El entrenador está abroncando a su defensa
+          ...  Matias_Diaz con una preciosa vaselina!
+          ...  Los aficionados de detrás de la portería se levantan!
+          ...  Fuera !! Golpea en las vallas publicitarias
+Min. 54 :(fer) B_Enyu con una entrada asesina 
+          ...  Falta! Ha jugado al límite del reglamento!
+          ...  Está en problemas!!
+          ...  AMARILLA!
+Min. 55 :(fer) B_Enyu llega el priimero al balóm suelto
+          ...  Y lo mete en profundidad hacia H_Barcos
+          ...  H_Barcos mira al portero!
+          ...  Trata de superarlo por el palo largo!
+          ...  M_N_Cano despeja con problemas
+          ...  El líbero mete la cabeza y aleja la pelota
+Min. 56 :(fer) Q_Braes envía largo para H_Barcos
+          ...  H_Barcos busca el palo por bajo !
+          ...  El balón hace un mal bote sobre el césped y su disparo se va fuera
+Min. 58 :(fer) H_Barcos aprovecha un fallo defensivo
+          ...  El entrenador está abroncando a su defensa
+          ...  Cris_Gonzalez va en carrera y agarra al delantero por la camiseta!!
+          ...  Falta!!
+          ...  El árbitro no lo ha visto
+          ...  El defensa sonríe! El delantero pone cara de incredulidad
+Min. 59 :(fer) B_Enyu para el balón
+          ...  Levanta la vista y ve a un compañero completamente sólo!
+          ...  Le envía el pase con el exterior!
+          ...  E_Mas controla el milimétrico pase. Hasta yo lo hubiera hecho!
+          ...  Punterazo impresionante de E_Mas !
+          ...  el portero ve como el balón se pierde lejos de su marco
+Min. 60 :(fer) B_Enyu recupera el balón
+          ...  Levanta la cabeza!
+          ...  Ve el desmarque de su compañero
+          ...  Q_Braes recibe un pase increíble
+          ...  Se marcha!
+          ...  Q_Braes resuelve la jugada con un taconazo!
+          ...  El disparo coge un efecto envenenado
+          ...  el portero reacciona rápidamente y corrige su posición!!
+          ...  No va a llegar!
+          ...  Pero sale rozando el palo!!
+          ...  el portero estaba batido!
+Min. 61 :(fer) Matias_Diaz encuentra a Q_Braes
+          ...  Q_Braes se anticipa a su marcador !
+          ...  Pero M_N_Cano alcanza la pelota con el puño 
+          ...  Ha demostrado mucha valentía en esa acción
+Min. 62 :(fer) H_Barcos encara al defensa
+          ...  Frena un poco y arranca por el otro lado!
+          ...  Uau! Vaya cambio de ritmo!
+          ...  H_Barcos no va a llegar. Sí, mete el pie...!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  El portero no se mueve !!
+          ...  Pero sale a centímetros de la escuadra!
+          ...  el portero respira aliviado!
+Min. 65 :(fer) El balón queda suelto! 
+          ...  Q_Braes llega antes que nadie y se dispone a chutar de primeras
+          ...  Cris_Gonzalez despeja sin miramientos
+Min. 66 :(uai) E_Vidal con un giro rapidísimo
+          ...  Le enseña el dorsal al defensa
+          ...  Lean_Gioda arriesga con una entrada a ras de suelo
+          ...  OOOHHHH!!
+          ...  El balón le queda rebotado al delantero
+          ...  Pero mete el pie de nuevo!
+Min. 66 :(fer) B_Enyu cambia el juego hacia Q_Braes 
+          ...  Q_Braes prueba suerte!
+          ...  M_N_Cano palmea a córner 
+          ...  el arbitro  pita saque de puerta 
+          ...  Increíble!
+Min. 67 :(fer) B_Enyu pisa campo contrario. Mete un pase entre los centrales para Q_Braes
+          ...  C_A_Rodriguez llega como un tren y corta el ataque lanzándose al suelo
+Min. 68 :(fer) Gabriel_Roth toca de primeras al área para E_Mas
+          ...  Cris_Gonzalez mete la puntera de la bota y aleja la pelota
+Min. 69 :(fer) M_Palopoli avanza pegado a la línea de banda
+          ...  Mete el balón al área Q_Braes
+          ...  Q_Braes se saca una terrible volea!
+          ...  el portero no va a llegar!
+          ...  El esférico se estrella en el palo!
+          ...  Y fuera!
+Min. 70 :(fer) Q_Braes se va en un arranque de genio
+          ...  Q_Braes con un tremendo cabezazo !
+          ...  el portero detiene el balón con una mano!! 
+          ...  El rebote cae al centro, limpio para el delantero 
+          ...  Remata !!
+          ...  FUERA! Qué fallo! Está desesperado!
+Min. 71 :(fer) B_Enyu envía largo para H_Barcos
+          ...  H_Barcos se va de su defensor, mete el pie!
+          ...  Es incapaz de chutar a puerta!
+          ...  Un defensa le arrebató el balón en el último momento!
+          ...  Este tío juega a cámara lenta!
+Min. 72 :(fer) Matias_Diaz tiene varias opciones de pase, pero busca la individual
+          ...  Matias_Diaz busca la escuadra derecha !
+          ...  Qué agilidad!!! M_N_Cano ha estado tremendo!
+Min. 74 :(fer) Matias_Diaz se la saca de encima!
+          ...  el balón le cae a Hÿ(!
+          ...  Potente chut de Matias_Diaz !
+          ...  M_N_Cano mete la mano y alcanza el balón con la punta de los dedos
+Min. 79 :(fer) Q_Braes espera a que alguien le acompañe en ataque
+          ...  Levanta los brazos, nadie se desmarca!
+          ...  Busca la individual! Prepara el disparo!
+          ...  Rebota en un defensa y cae a pies de F_Abba
+          ...  F_Abba empalma el balon con una rabona! Qué frivolidad!!
+          ...  F_Abba para! PEro el balón queda muerto!
+          ...  GOOOOOL !!
+          ...  Error en cadena de la defensa!
+          ...  uai 0-10 fer ...
+Min. 82 :(fer) B_Enyu se cuela por la banda
+          ...  Centra hacia Q_Braes
+          ...  Q_Braes con un sutil toque de puntera!
+          ...  Pero M_N_Cano alcanza la pelota con el puño 
+          ...  Ha demostrado mucha valentía en esa acción
+Min. 85 :(fer) F_Abba ve a Q_Braes completamente sólo!
+          ...  Q_Braes se escapa! Cuidado!
+          ...  GOOOOOL !!
+          ...  Regateó a el defensa
+          ...  uai 0-11 fer ...
+Min. 86 :(uai) E_Vidal se cambia el balón de pierna
+          ...  Regatea al defensa
+          ...  Vaya pieza de museo!
+          ...  E_Mas reacciona con una tremenda velocidad y controla el balón
+Min. 90 :(uai) Leo_Harkes con una entrada desmesurada 
+          ...  Creo que buscaba el balón, pero debería calmarse un poquito
+          ...  el arbitro  le avisa: "Es la última vez"
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : uai  0 fer 17
+tiros a puerta       : uai  0 fer 26
+
+Marcador             : uai  0 fer 11
+
+
+<<< Estadisticas de los jugadores del UAI Urquiza >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+M_N_Cano       GK RLC 18  2  2  2 33 |  90  15   0   0   0   0   0   0   0   0 120   0   0   0 100
+Martin_Ortiz  DFC   L  2 16  5  5 55 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  73
+Cris_Gonzalez DFC  RL  2 19  5  6 66 |  90   0   3   0   0   0   0   0   0   0   0 180   0   0  76
+C_Gurrieri    DFC   C  2 19  6  5 43 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  30
+C_A_Rodriguez DFC   L  2 13  9  5 50 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  73
+Leo_Harkes    MFC   R  2  4 14  5 36 |  90   0   0   1   0   0   0   0   0   0   0  26  47  26  49
+Maxi_Ferreyra MFC   R  2  5 14  5 52 |  90   0   0   0   0   0   0   0   0   0   0  26  26  26  70
+Ema_Ibañez    MFC   R  2  4 10  7 63 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  81
+Gaston_Silva  MFC   C  2  9  9  4 26 |  90   0   0   0   0   0   0   1   0   0   0   1   1   1  23
+David_Ledesma FWC   L  2  5  6 14 25 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  13
+E_Vidal       FWC   R  2  6  5 13 47 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  69
+I_Pietrobono   GK RLC 14  2  2  2 55 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+D_H_Duarte    DFC  RC  2 16  5  6 54 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  92
+Damian_Bogado MFC   R  2  5 17  5 46 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  89
+N_Martinez    DFC   R  2  5  9  9 29 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+W_Garcete     FWC RLC  2  5  6 15 34 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  85
+E_Colombano   MFC   R  2  5 14  4 51 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  92
+E_Diaz        DFC   C  2 15  5  5 30 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  81
+-- Total --                                 15   5   3   0   0   0   1   0   0
+
+
+<<< Estadisticas de los jugadores del Ferro >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+S_Bertoli      GK   C 23  4  5  3 79 |  90   0   0   0   0   0   0   0   0   0  35   0   0   0 100
+Smaug         DFR RLC  2 22  5  6 51 |  90   0   0   1   0   0   0   0   0   0   0  35  21   0  69
+Lean_Gioda    DFC   C  2 22 10  3 48 |  90   0   2   0   0   1   0   0   0   0   0 120   0   7  70
+M_Palopoli    DFC   C  4 19  7  7 68 |  90   0   0   1   0   1   0   0   0   0   0   0  21  13  77
+E_Mas         DFL  LC  4 16  7  8 60 |  90   0   1   1   0   4   2   0   0   0   0 107  68 193  73
+B_Enyu        MFC   C  4  6 20 10 73 |  90   0   0  15   2   0   0   1   0   0   0   1 386   1  81
+F_Abba        MFR RLC  4 10 19  9 45 |  90   0   1   6   2   1   1   0   0   0   0  60 196  63  70
+Matias_Diaz   MFL   L  4  6 22  6 64 |  90   0   0   4   1   4   0   0   0   0   0   0 119  40  76
+Gabriel_Roth  MFC  RC  1 11 20 14 56 |  90   0   1   4   0   2   0   0   0   0   0  60  84  14  70
+Q_Braes       FWR   R  4 12 11 20 48 |  90   0   0   3   2  15   3   0   0   0   0  47 180 362  71
+H_Barcos      FWC   C  5  6  4 26 39 |  90   0   0   0   0  15   5   0   0   0   0   0   0 409  67
+G_Burgos       GK   C 17  3  3  3 79 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Barrera     DFC  RC  5 24  4  7 41 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  63
+Diego_RDa_Luz DFC   L  2 27 11 10 64 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  83
+J_J_Barkero   MFC  LC  2  5 35 23 46 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  63
+Darío_Larrosa MFC RLC  1  1 18  7 29 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Abraham     FWC   C  1  1  1 20 21 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Facu_Ferreyra FWC RLC  3  6  9 22 68 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  89
+-- Total --                                  0   5  35   7  43  11   1   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+uai     0     49.50    39.32    24.47
+fer     0     91.20   111.61    52.52
+uai    10     48.01    37.98    23.51
+fer    10     88.79   108.91    51.22
+uai    20     46.22    36.45    22.48
+fer    20     86.32   106.29    49.56
+uai    30     44.71    34.92    21.30
+fer    30     83.76   103.46    48.08
+uai    40     43.00    33.52    20.28
+fer    40     81.14   100.19    46.60
+uai    50     41.00    31.96    19.06
+fer    50     77.96    96.73    44.91
+uai    60     39.15    30.61    17.99
+fer    60     74.77    93.36    43.14
+uai    70     37.46    29.18    16.98
+fer    70     71.96    89.88    41.31
+uai    80     35.57    27.68    15.95
+fer    80     69.70    87.14    39.75
+uai    90     33.82    26.08    14.74
+fer    90     67.06    83.62    37.76
+
+
+1377046789

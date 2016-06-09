@@ -1,0 +1,118 @@
+
+
+Skill changes:
+--------------
+
+P_Vidal (uni) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   0
+Red cards:      0
+Injuries:       0
+
+Top performers:
+
+J_Burrai (uni)        0
+Playboy (uni)         0
+Milton_Casco (uni)    0
+Luq_Rodriguez (uni)   0
+G_Simeone (uni)       0
+M_Donnet (uni)        0
+E_Gonzalez (uni)      0
+P_Vidal (uni)         0
+Anangono (uni)        0
+J_Caicedo (uni)       0
+I_Scocco (uni)        0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+A_Sánchez (gim)          1      3
+Roger (riv)              1      3
+Kurapika (uni)           1      3
+Charizard (alb)          1      3
+A_Chavez (gim)           1      2
+Nico_Martinez (ind)      1      2
+Zapdos (alb)             1      2
+R_Funes_Mori (uni)       1      2
+Laucha_Acosta (gim)      2      2
+P_Iarley (boc)           1      1
+C_Benteke (ind)          1      1
+I_Blanco (oli)           1      1
+D_Villalva (oli)         1      1
+Jackson_Mrtnz (ald)      1      1
+M_Regueiro (ald)         1      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         1     68
+Charizard (alb)          1     62
+A_Chavez (gim)           1     52
+A_Sánchez (gim)          1     51
+Kurapika (uni)           1     43
+Roger (riv)              1     40
+Búho (uni)               1     39
+Jadson (alb)             1     39
+C_L_Diaz (ald)           1     37
+H_Castellano (ald)       1     36
+E_Carolo (riv)           1     35
+G_Lorenzetti (gim)       1     35
+Zapdos (alb)             1     32
+Arturo_Vidal (vel)       1     30
+S_Romero (new)           1     30
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         1      2
+G_Lorenzetti (gim)       1      2
+Michel_Bastos (gim)      1      2
+G_Peruzzi (ind)          1      1
+S_Escudero (ald)         1      1
+Droopy_Gomez (uni)       1      1
+J_Iturbe (uni)           1      1
+C_Ayala (riv)            1      1
+F_Santana (ind)          1      1
+L_Pusineri (slo)         1      1
+Diego_Torres (ars)       1      1
+Shirou_Emiya (oli)       1      1
+S_Staunton (alb)         1      1
+Gilbert_Silva (ars)      1      1
+Douglas_Costa (ind)      1      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+C_Milla (rce)            1      3
+Fabian_Monzon (rce)      1      3
+L_Melgarejo (tig)        1      3
+jm (tig)                 1      3
+C_Arano (riv)            1      1
+Placente (uni)           1      1
+C_Nasuti (alb)           1      1
+H_Eze (new)              1      1
+C_D_Ledesma (col)        1      1
+M_Dos_Santos (ban)       1      1
+M_Mea_Vitali (ban)       1      1
+E_Colombano (uai)        1      1
+D_De_Rossi (rac)         1      1
+Q_Joigro (col)           1      1
+J_Gandolfi (ars)         1      1
+

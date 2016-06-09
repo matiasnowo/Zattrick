@@ -1,0 +1,181 @@
+
+
+Injuries:
+---------
+
+JP_Carrizo (alb) Ya está listo para jugar despues de su lesión
+Wailord (alb) Ya está listo para jugar despues de su lesión
+A_Chari (tig) Ya está listo para jugar despues de su lesión
+M_Posniak (tig) estara de baja una semana por una micro-rotura
+
+
+
+Suspensions:
+------------
+
+H_Fredes (ind) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+A_Del_Piero (tig) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+C_Ansaldi (vel) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+L_Castroman (vel) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Abidal (tig) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+J_Barraza (tig) Tk aumenta su media gracias al skills
+G_Gigliaza (tig) Ps aumenta su media gracias al skills
+L_Carrio (ind) Tk aumenta su media gracias al skills
+L_Carrio (ind) Ps aumenta su media gracias al skills
+P_Rodriguez (ind) Ps aumenta su media gracias al skills
+P_Vidal (ind) Ps aumenta su media gracias al skills
+C_Pellerano (ind) Ps aumenta su media gracias al skills
+Nico_Martinez (ind) Sh aumenta su media gracias al skills
+C_Arano (riv) Tk aumenta su media gracias al skills
+D_Passarella (riv) Tk aumenta su media gracias al skills
+A_Dominguez (riv) Ps aumenta su media gracias al skills
+Steelix (alb) Tk aumenta su media gracias al skills
+T_Svenssen (alb) Tk aumenta su media gracias al skills
+T_Svenssen (alb) Sh aumenta su media gracias al skills
+M_Laudrup (alb) Ps aumenta su media gracias al skills
+Charizard (alb) Tk aumenta su media gracias al skills
+Charizard (alb) Ps aumenta su media gracias al skills
+Charizard (alb) Sh aumenta su media gracias al skills
+J_Lujambio (ban) Tk aumenta su media gracias al skills
+E_Berizzo (vel) Tk aumenta su media gracias al skills
+H_Castellano (ald) St aumenta su media gracias al skills
+J_Insaurralde (boc) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         18  (DFs - 0, DMs - 0, MFs - 1, AMs - 2, FWs - 15)
+Assists:       12  (DFs - 2, DMs - 0, MFs - 8, AMs - 1, FWs - 1)
+Yellow cards:   9
+Red cards:      0
+Injuries:       1
+
+Top performers:
+
+Nico_Martinez (ind)   65
+F_Eji (riv)           36
+P_Rodriguez (ind)     34
+T_Svenssen (alb)      33
+D_Montenegro (ind)    33
+Kun_Aguero (ind)      33
+M_Laudrup (alb)       32
+Charizard (alb)       30
+L_Matthaus (alb)      28
+Venasaur (alb)        28
+Julio_Cesar (alb)     27
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   7    5   2   0    13    5    8    17
+2    Independiente           7    4   2   1    16    5   11    14
+3    Aldosivi                7    4   1   2    13    6    7    13
+4    All Boys                6    3   3   0     6    2    4    12
+5    Arsenal                 6    3   1   2     5    5    0    10
+6    San Lorenzo             6    1   3   2     4    5   -1     6
+7    Banfield                7    1   3   3     2    6   -4     6
+8    River Plate             6    1   1   4     5    8   -3     4
+9    Boca Juniors            7    1   1   5     6   15   -9     4
+10   Argentinos              5    1   0   4     3    8   -5     3
+11   River PLate             1    0   1   0     1    1    0     1
+12   Tigre                   1    0   0   1     1    9   -8     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Martinez (ind)      4     11
+Nico_Blandi (boc)        4      9
+Charizard (alb)          4      7
+Chelo_Delgado (boc)      2      4
+D_Montenegro (ind)       4      3
+F_Morientes (riv)        4      3
+H_Crespo (riv)           4      3
+G_Vallés (ind)           3      2
+J_Lujambio (ban)         4      2
+Zapdos (alb)             4      2
+Pavel_Nedved (vel)       4      2
+M_Palermo (boc)          4      2
+T_Henry (tig)            1      1
+M_Caneo (tig)            1      1
+P_Iarley (boc)           1      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Nico_Martinez (ind)      4    130
+Nico_Blandi (boc)        4    121
+Charizard (alb)          4    105
+P_Ledesma (boc)          4    101
+E_Carolo (riv)           4    100
+H_Castellano (ald)       4     90
+L_Carrio (ind)           4     86
+F_Morientes (riv)        4     84
+M_Moralez (vel)          4     83
+Mati_Brad (boc)          4     82
+T_Svenssen (alb)         4     81
+L_Matthaus (alb)         4     79
+P_Rodriguez (ind)        4     76
+Kun_Aguero (ind)         4     72
+L_Somoza (boc)           4     71
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+P_Ledesma (boc)          4      4
+H_Fredes (ind)           3      3
+M_Albela (ban)           3      2
+S_Staunton (alb)         4      2
+Espeon (riv)             4      2
+P_Rodriguez (ind)        4      2
+L_Matthaus (alb)         4      2
+Mati_Brad (boc)          4      2
+B_Lizarazu (boc)         4      2
+E_Carolo (riv)           4      2
+KH_Rummenigge (tig)      1      1
+F_Vargas (boc)           1      1
+Z_Boban (boc)            1      1
+E_Gonzalez (boc)         1      1
+J_Datolo (boc)           1      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+C_Arano (riv)            3      4
+Jota_Eme (vel)           4      4
+L_Castroman (vel)        0      3
+C_Ansaldi (vel)          0      3
+H_Fredes (ind)           3      3
+Abidal (tig)             3      3
+A_Del_Piero (tig)        3      3
+Éric_Cantona (boc)       4      3
+D_Montenegro (ind)       4      3
+Steelix (alb)            4      2
+Mati_Jdm (riv)           4      2
+M_Materazzi (ban)        4      2
+M_Mea_Vitali (ban)       4      2
+Kun_Aguero (ind)         4      2
+R_Monserrat (ald)        4      2
+

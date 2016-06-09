@@ -1,0 +1,324 @@
+Home                           Away
+----                           ----
+
+Velez                          Argentinos                    
+
+GK  M_Barovero                 GK  W_Caballero               
+DFR C_Ansaldi                  DFR K_Elotya                  
+DFC Mats_Hummels               DFC Pateatraseros             
+DFC E_Berizzo                  DFC L_Mareque                 
+DFL M_Torsiglieri              DFL J_Munh                    
+DMC P_Larraquy                 DMC Joe_Corona                
+DMC Arturo_Vidal               MFR Ruud_Gullit               
+MFL M_Moralez                  MFL Oscar                     
+MFR A_Fernandez                AMC E_Biancucchi              
+FWL M_Zarate                   FWC Luís_Fabiano              
+FWR F_Estoyanoff               FWC S_Kun_Aguero              
+
+4-2-2-2 Passing                4-1-2-1-2 Attacking            
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  4 :(arg) Luís_Fabiano con un pase de tiralíneas para S_Kun_Aguero
+          ...  Mats_Hummels llega como un tren y corta el ataque lanzándose al suelo
+Min.  5 :(vel) Mats_Hummels dispara en carrera!
+          ...  El defensa mete la pierna
+          ...  sale rebotada hacia M_Zarate!
+          ...  M_Zarate se deshace de su marcador ! 
+          ...  Buen movimiento! Y dispara!
+          ...  Se estrella en el larguero!! 
+          ...  Controla el rebote con el pecho 
+          ...  OHHHHHHHH !! 
+          ...  Un defensa ha estado más rápido y ha enviado el balón fuera
+Min.  5 :(arg) E_Biancucchi avanza con el balón controlado
+          ...  Ve el desmarque de un compañero!
+          ...  Cruza el pase!
+          ...  S_Kun_Aguero con un control facilísimo
+          ...  Falla en el control
+          ...  y M_Torsiglieri no desaprovecha el regalo
+Min.  9 :(vel) El balón queda suelto! 
+          ...  F_Estoyanoff llega antes que nadie y se dispone a chutar de primeras
+          ...  Pero pisa un charco y cae al suelo!
+          ...  L_Mareque recoge el balón. Menudo marcaje le está haciendo!
+Min. 10 :(vel) A_Fernandez realiza una entrada terrible
+          ...  el arbitro  intenta calmarlo
+Min. 10 :(arg) Joe_Corona hace una bicicleta y cambia el juego hacia S_Kun_Aguero
+          ...  S_Kun_Aguero impacta el balón con dureza !
+          ...  M_Barovero mete la pierna
+          ...  Hay que blocar el balón jefe!
+Min. 12 :(vel) M_Moralez controla de espaldas a la portería
+          ...  Se protege del defensa con los brazos
+          ...  Gira... y se lo lleva!
+          ...  K_Elotya lo envía al césped
+          ...  Los aficionados reclaman penalti!
+          ...  Pero el arbitro  se desentiende de la jugada!
+Min. 12 :(arg) S_Kun_Aguero envía largo para Luís_Fabiano
+          ...  Luís_Fabiano se saca una tijera! Qué bello!
+          ...  Pero M_Barovero manda el balón a córner 
+          ...  el arbitro  indicará córner 
+          ...  No! Marca saque de puerta! Madre mía!
+Min. 13 :(vel) M_Moralez centra desde la banda, encuentra a M_Zarate en el área
+          ...  M_Zarate toca el balón con mucha sutileza !
+          ...  W_Caballero está tapado. No verá el balón! 
+          ...  Qué reflejos! Lo ha atrapado!
+Min. 16 :(arg) J_Munh con una entrada asesina 
+          ...  Le ha pegado con toda la mala leche del mundo!!!
+          ...  Recibe una charla conciliadora de el arbitro  
+          ...  Aquí ha estado bien el árbitro
+Min. 18 :(vel) C_Ansaldi cuelga de primeras para M_Zarate
+          ...  M_Zarate toca la pelota de primeras!
+          ...  Rebota en el palo!! 
+          ...  Se anticipa al defensa para el rebote 
+          ...  Es gol de Abreu, Abreu, Abreeeeeeeeeeu !! 
+          ...  Ha tirado fuera! Como? Si no había portero!
+Min. 20 :(arg) Luís_Fabiano para Joe_Corona
+          ...  Joe_Corona dispara un verdadero obús !
+          ...  OOOOOOHHHHHHHH 
+          ...  A salido lamiendo el palo
+Min. 25 :(vel) M_Zarate tiene campo por delante
+          ...  Pasa a Arturo_Vidal
+          ...  Arturo_Vidal mete la cabeza con valentía !
+          ...  W_Caballero resbala
+          ...  Pero ve como el disparo se pierde lejos de su marco!
+Min. 25 :(arg) Oscar se mete en diagonal a través de los defensas
+          ...  Se va del central que le sale al paso!
+          ...  El extremo se cuela por la espalda del lateral
+          ...  Envía el pase a Luís_Fabiano
+          ...  Mats_Hummels se lleva por delante a su rival!!
+          ...  PENALT!!!
+          ...  No! El colegiado da saque de puerta!
+          ...  Se buscan gafas para el árbitro! Urgente!
+Min. 30 :(arg) E_Biancucchi con un inteligente cambio de dirección
+          ...  E_Biancucchi impacta el balón con dureza !
+          ...  Pero el balón se pierde inofensivamente por la línea de meta
+Min. 31 :(vel) M_Torsiglieri para en seco y busca apoyos
+          ...  Un compañero lo dobla
+          ...  Aprovecha el espacio que le ha abierto para colarse entre la defensa!
+          ...  Joe_Corona llega como un tren y arrolla a delantero y balón
+Min. 36 :(vel) M_Zarate encara al defensa
+          ...  Le tira una gambeta!
+          ...  Pone el cuerpo para disparar
+          ...  Pero suelta el pase hacia F_Estoyanoff
+          ...  F_Estoyanoff busca la vaselina... desde MEDIO CAMPO!!
+          ...  GOOOOOL !! 
+          ...  Qué bien lo ha buscado!
+          ...  vel 1-0 arg ...
+Min. 39 :(arg) Ruud_Gullit encuentra a Luís_Fabiano con un pase largo
+          ...  Pero P_Larraquy lo aparta del balón con el codo. El delantero se queja, el defensa, sonríe
+Min. 41 :(vel) M_Moralez hace una bicicleta y cambia el juego hacia M_Zarate
+          ...  K_Elotya sega el césped con una entrada terrorífica!
+          ...  El delantero evita a su rival, pero pierde la pelota!
+Min. 42 :(vel) M_Zarate le gana la espalda a su mrcador
+          ...  Ei, se ha despistado!
+          ...  M_Zarate mira al portero!
+          ...  Trata de superarlo por el palo largo!
+          ...  W_Caballero lo para cómodamente
+          ...  El disparo nunca llevó peligro real
+Min. 42 :(arg) Oscar controla un balón complicadísimo
+          ...  Levanta la cabeza y busca el pase
+          ...  Pero se decide por la jugada individual
+          ...  Arturo_Vidal intuye el peligro y corta la acción
+Min. 43 :(arg) ... oooooh! Que entrada más dura de S_Kun_Aguero 
+          ...  "FUERA, FUERA, FUERA" ruge el estadio
+          ...  el arbitro  le pide que se acerque
+          ...  Luego que se calme
+          ...  el entrenador no verá la targeta
+Min. 44 :(vel) Arturo_Vidal suelta un cañonazo! Al larguero!
+          ...  F_Estoyanoff recoge el rebote
+          ...  Pateatraseros despeja sin miramientos
+Min. 45 :(vel) A_Fernandez ubica el balón a la espalda de la defensa. M_Zarate busca el desmarque
+          ...  M_Zarate remata forzado... con la rodilla!
+          ...  La manda fuera del estadio!
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 46 :(vel) A_Fernandez se va de uno, de dos, de tres!
+          ...  Mira a un lado... y pasa hacia F_Estoyanoff al otro lado! OH!
+          ...  F_Estoyanoff salta con potencia por encima de la defensa !
+          ...  Golpea en el larguero 
+          ...  Bota hacia abajo 
+          ...  el portero la atrapa 
+          ...  Evitó el gol! 
+          ...  Parte de la grada reclama el tanto!!!
+Min. 47 :(vel) M_Zarate regatea a su marcador y pasa rápidamente a F_Estoyanoff
+          ...  K_Elotya llega antes al balón
+Min. 49 :(vel) P_Larraquy con el saque de banda
+          ...  Limpia el balón en su camiseta
+          ...  Y saca fuerte hacia M_Zarate
+          ...  M_Zarate empalma con la zurda. Colocó mal el cuerpo !
+          ...  OOOOOOHHHHHHHH 
+          ...  A salido lamiendo el palo
+Min. 53 :(arg) ... oooooh! Que entrada más dura de Joe_Corona 
+          ...  No hay espacio en Zattrick para este tipo de acciones!!!
+          ...  AMARILLA!!
+          ...  Tendrá que medir un pocos sus acciones desde este momento
+Min. 56 :(arg) Oscar recupera el balón
+          ...  Levanta la cabeza!
+          ...  Ve el desmarque de su compañero
+          ...  Luís_Fabiano recibe un pase increíble
+          ...  Se marcha!
+          ...  Mats_Hummels despeja el balón hacia la grada
+          ...  Ei! Un aficionado se lleva el balón! Al ladrón
+Min. 57 :(vel) M_Zarate regatea a su marcador
+          ...  Va a disparar!
+          ...  No! Pasa hacia Arturo_Vidal! Ha engañado a todos
+          ...  Corte finísimo y preciso de K_Elotya
+Min. 58 :(arg) J_Munh de tacón para Luís_Fabiano
+          ...  El balón golpea a Mats_Hummels en la cara!
+          ...  Peligro despejado! Al defensa no le hace ninguna gracia
+Min. 59 :(vel) A ver qué inventa A_Fernandez ahora. Pase de interior hacia M_Zarate
+          ...  M_Zarate cruza la línea de medios, avanza, mira al portero y chuta!
+          ...  Fuera!
+          ...  Menos fuerza y más puntería chico
+Min. 63 :(vel) F_Estoyanoff Con un pase demasiado fuerte. M_Moralez va a llegar!
+          ...  Corte finísimo y preciso de Pateatraseros
+          ...  Ha medido muy bien
+Min. 65 :(arg) W_Caballero parece lesionado. Ha tenido un tirón
+          ...  Esperemos que sea eso y no una rotura de fibras
+Min. 65 :(arg) El ayudante del entrenador llama a P_Ryoemnoije
+          ...  W_Caballero va a ser sustituído
+          ...  El técnico le indica que juegue de GK
+Min. 65 :(arg) H_Ijevr sustituye a un descontento S_Kun_Aguero para jugar de FWC
+Min. 66 :(vel) F_Estoyanoff hace una bicicleta y cambia el juego hacia C_Ansaldi
+          ...  C_Ansaldi suelta un disparo con el exterior del pie!
+          ...  Pero P_Ryoemnoije rechaza con los pies
+          ...  Podría haberla cogido!
+Min. 70 :(vel) Enzito_C va a entrar por M_Moralez. Apostaría a que juega de MFL. Sí!
+Min. 70 :(vel) La grada ruge cuando Burruchaga substituye a A_Fernandez para jugar de MFR
+Min. 70 :(vel) Se veía venir. vel ahora jugará C
+Min. 70 :(arg) Joe_Corona de tacón para H_Ijevr
+          ...  Mats_Hummels corta
+Min. 73 :(vel) F_Estoyanoff se va de su marcador
+          ...  Lo lleva por el camino de la amargura
+          ...  F_Estoyanoff suelta un terrible disparo por debajo de las piernas de su marcador !
+          ...  Pero P_Ryoemnoije alcanza la pelota con el puño 
+          ...  Tuvo suerte de llegar a ese disparo
+Min. 74 :(vel) Enzito_C pone el balón a la espalda de los centrales
+          ...  M_Zarate se cuela desde atrás!
+          ...  M_Zarate impacta la pelota en un alarde de calidad !
+          ...  Ay va! Ha tirado a metros de la portería
+          ...  Creo que el míster lo va a poner a patear toda la semana como castigo!!
+Min. 75 :(vel) F_Estoyanoff se va de tres contrarios
+          ...  F_Estoyanoff prueba suerte!
+          ...  el portero no va a llegar!
+          ...  OH!  Sale rozando el larguero! 
+          ...  el portero sonríe
+          ...  El que ríe último...
+Min. 75 :(arg) Ariel_Seltzer va a entrar por Joe_Corona. Apostaría a que juega de DMC. Sí!
+Min. 78 :(vel) Burruchaga se hace con el balón suelto
+          ...  Burruchaga hace un gran control!
+          ...  Y dispara!
+          ...  P_Ryoemnoije hace una parada sencillita
+          ...  El disparo no llevaba mucho peligro
+Min. 78 :(vel) E_Berizzo corta limpiamente el balón 
+          ...  Suena el silbato! Se ha equivocado!
+          ...  AMARILLA!!
+          ...  Por unos momentos lo vi expulsado!
+          ...  el entrenador parece asombrado de que no fuera roja!
+Min. 85 :(vel) F_Estoyanoff aprovecha un fallo defensivo
+          ...  El entrenador está abroncando a su defensa
+          ...  F_Estoyanoff impacta la pelota en un alarde de calidad !
+          ...  el portero cubre su ángulo 
+          ...  El balón hace un extraño!
+          ...  el portero ha quedado descolocado 
+          ...  Pero sale desviada !!
+Min. 87 :(vel) Mats_Hummels le pone la zancadilla!!
+          ...  Ohhh! Le ha dejado un recadito
+          ...  el arbitro  hace gestos con las manos de que se calme
+
+El arbitro añadira 5 min. al tiempo reglamentario
+
+Min. 93 :(vel) E_Berizzo suelta un cañonazo! Al larguero!
+          ...  Burruchaga recoge el rebote
+          ...  Burruchaga impacta la pelota en un alarde de calidad !
+          ...  Pero le pegó rematadamente mal!
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : vel 10 arg 2
+tiros a puerta       : vel  7 arg 2
+
+Marcador             : vel  1 arg 0
+
+
+<<< Estadisticas de los jugadores del Velez >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+M_Barovero     GK   C 26  3  4  4 80 |  90   2   0   0   0   0   0   0   0   0  75   0   0   0 100
+C_Ansaldi     DFR  RL  3 22  9  9 47 |  90   0   0   1   0   1   0   0   0   0   0   0  30  19  69
+Mats_Hummels  DFC   C  3 29  2 16 56 |  90   0   5   1   0   0   0   0   0   0   0 380  30   0  71
+E_Berizzo     DFC   C  3 26  8  7 60 |  90   0   0   1   0   0   0   1   0   0   0 118  99  69  74
+M_Torsiglieri DFL  RL  3 23 12  9 74 |  90   0   1   0   0   0   0   0   0   0   0  76   0   0  80
+P_Larraquy    DMC   C  4 24 14 13 75 |  90   0   1   1   0   0   0   0   0   0   0 143  97  67  78
+Arturo_Vidal  DMC   C  5 18 24 13 53 |  90   0   1   1   0   1   0   0   0   0   0  76  30  19  73
+M_Moralez     MFL  LC  3  9 40 10 70 |  69   0   0   2   0   0   0   0   0   0   0   0  60   0  82
+A_Fernandez   MFR RLC  3  8 34 10 70 |  69   0   0   3   0   0   0   0   0   0   0   0  90   0  84
+M_Zarate      FWL  RL  3  8 12 35 67 |  90   0   0   4   1   8   0   0   0   0   0   0 165 104  80
+F_Estoyanoff  FWR RLC  1  3 23 24 64 |  90   0   0   2   0   5   1   0   0   0   0   0  60 134  74
+Oliver_Kahn    GK   R 24  3  3  3 42 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+E_Olivera     DFC   C  4 20 11 10 67 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Nico_Cabre    DFL RLC  4 18 12  7 58 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Enzito_C      MFL   L  5 13 23  6 64 |  21   0   0   1   0   0   0   0   0   0   0   0  30   0  93
+Burruchaga    MFR   R  5 13 22 11 67 |  21   0   0   0   0   2   0   0   0   0   0   0   0  30  93
+Pato_Camps    FWL   C  5 11 16 16 51 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Flordelmundo  FWR  RL  3 12 17 20 85 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  2   8  17   1  17   1   1   0   0
+
+
+<<< Estadisticas de los jugadores del Argentinos >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+W_Caballero    GK RLC 35  3  3  3 42 |  64   3   0   0   0   0   0   0   0   1  39   0   0   0 100
+K_Elotya      DFR  RC  3 23  6  7 47 |  90   0   4   0   0   0   0   0   0   0   0 304   0   0  68
+Pateatraseros DFC RLC  3 33  8  6 77 |  90   0   2   0   0   0   0   0   0   0   0 152   0   0  80
+L_Mareque     DFC  LC  3 27 10  6 58 |  90   0   1   0   0   0   0   0   0   0   0  76   0   0  72
+J_Munh        DFL  RL  4 21  7  9 70 |  90   0   0   1   0   0   0   0   0   0   0  41  71  41  79
+Joe_Corona    DMC  LC  5 12 29 18 67 |  74   0   1   2   0   1   0   1   0   0   0  78  62  13  79
+Ruud_Gullit   MFR RLC  3  6 26 15 58 |  90   0   0   1   0   0   0   0   0   0   0   0  30   0  60
+Oscar         MFL RLC  1  4 28 18 64 |  90   0   0   2   0   0   0   0   0   0   0   0  60   0  70
+E_Biancucchi  AMC  LC  5  2 24 27 76 |  90   0   0   1   0   1   0   0   0   0   0   0  30  11  83
+Luís_Fabiano  FWC RLC  2  2 27 43 62 |  90   0   0   2   0   1   0   0   0   0   0   0  60  19  74
+S_Kun_Aguero  FWC  LC  3  7 14 27 78 |  64   0   0   1   0   1   0   0   0   0   0   0  30  19  87
+P_Ryoemnoije   GK  RL 23  3  3  3 43 |  26   3   0   0   0   0   0   0   0   0  80   0   0   0  91
+C_Bortu       DFC   C  4 18  8  5 51 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Iha         DFC  RL  3 17  8  8 66 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Ariel_Seltzer DMC   L  1 18 17 10 48 |  16   0   0   0   0   0   0   0   0   0   0   0   0   0  93
+D_Manso       MFC   L  3  6 17 13 68 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Gigliaza    MFC RLC  2  5 23  4 72 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+H_Ijevr       FWC   L  4  9  8 22 31 |  26   0   0   0   0   0   0   0   0   0   0   0   0   0  86
+-- Total --                                  6   8  10   0   4   0   1   0   1
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+vel     0    144.47   158.34    85.12
+arg     0    109.59   137.48   183.83
+vel    10    140.91   155.14    83.70
+arg    10    107.39   134.39   180.14
+vel    20    137.08   151.19    82.07
+arg    20    104.49   130.65   175.43
+vel    30    133.32   147.18    80.04
+arg    30    101.56   127.35   171.34
+vel    40    129.82   143.28    77.85
+arg    40     99.03   123.68   166.96
+vel    50    125.25   138.59    75.26
+arg    50     95.54   120.40   163.15
+vel    60    121.74   134.67    73.12
+arg    60     92.75   116.49   157.86
+vel    70    117.86   131.16    71.13
+arg    70     89.29   108.59   142.53
+vel    80    124.07   102.03    82.00
+arg    80     88.42    97.41   133.35
+vel    90    119.74    98.86    79.23
+arg    90     85.61    93.91   128.76
+
+
+1375409491

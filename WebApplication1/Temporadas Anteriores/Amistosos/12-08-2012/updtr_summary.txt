@@ -1,0 +1,136 @@
+
+
+Injuries:
+---------
+
+M_Galarza (ban) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+W_Samuel (boc) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+E_Zelaya (ars) solo se quedo en un susto y estara apto para el siguiente partido
+M_Ballack (riv) solo se quedo en un susto y estara apto para el siguiente partido
+D_Villalva (riv) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Skill changes:
+--------------
+
+B_Leyenda (ban) St aumenta
+Dzsudzsák (ban) Tk aumenta
+Clemente (boc) Tk aumenta
+Eric_Gerets (boc) Tk aumenta
+Hitmonchan (alb) Ps aumenta
+P_Ferrari (riv) Tk aumenta
+L_Abecasis (riv) Tk aumenta
+R_Pereyra (riv) Ps aumenta
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   0
+Red cards:      0
+Injuries:       5
+
+Top performers:
+
+Kasey_Keller (rce)    0
+Golem (rce)           0
+J_Sanguinetti (rce)   0
+N_Valentini (rce)     0
+M_Bustamante (rce)    0
+Aaron_Lennon (rce)    0
+F_Vismara (rce)       0
+J_Dudek (rce)         0
+Gio_Moreno (rce)      0
+M_Galvaliz (rce)      0
+S_Biglieri (rce)      0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        7     16
+Nico_Martinez (ind)      6     12
+Charizard (alb)          7     10
+Zapdos (alb)             7      8
+H_Crespo (riv)           8      6
+Santi_Anselmo (rac)      6      5
+C_Fabbiani (ald)         7      5
+S_Kun_Aguero (arg)       7      5
+Chelo_Delgado (boc)      3      4
+S_Biglieri (rce)         6      4
+D_Montenegro (ind)       7      4
+F_Cavenaghi (fer)        4      3
+L_Monje (rce)            5      3
+A_Otroory (rac)          6      3
+F_Morientes (riv)        6      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         7    262
+Charizard (alb)          7    212
+S_Staunton (alb)         7    211
+Nico_Blandi (boc)        7    206
+Hitmonlee (alb)          7    189
+Zapdos (alb)             7    181
+M_Laudrup (alb)          8    179
+H_Castellano (ald)       7    177
+Mono_Navarro (tig)       7    174
+John_A_Riise (alb)       7    160
+E_Carolo (riv)           7    149
+P_Ledesma (boc)          7    145
+Nico_Martinez (ind)      6    142
+Mati_Brad (boc)          7    140
+T_Svenssen (alb)         7    133
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         7      6
+S_Staunton (alb)         7      6
+P_Ledesma (boc)          7      5
+H_Fredes (ind)           6      4
+Aaron_Lennon (rce)       6      3
+John_A_Riise (alb)       7      3
+E_Carolo (riv)           7      3
+Mati_Brad (boc)          7      3
+M_Ricci (oli)            8      3
+P_Toranzo (rac)          5      2
+Oliver_Atom (ald)        5      2
+Espeon (riv)             6      2
+M_Albela (tig)           6      2
+P_Vidal (ind)            6      2
+M_Almada (ald)           7      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Gonzalo_Bazan (qui)      5      7
+Éric_Cantona (boc)       7      7
+Steelix (alb)            5      6
+C_Arano (riv)            5      6
+Jota_Eme (vel)           4      5
+M_Mea_Vitali (ban)       7      5
+Nacho_Decarli (rac)      4      4
+P_Mannara (oli)          5      4
+Gio_Moreno (rce)         8      4
+C_Ansaldi (vel)          0      3
+Alakazam (rce)           0      3
+L_Castroman (vel)        1      3
+O_Ardiles (riv)          1      3
+Q_Uka (rac)              2      3
+Abidal (tig)             4      3
+

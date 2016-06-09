@@ -1,0 +1,155 @@
+Home                           Away
+----                           ----
+
+Aldosivi                       Rosario Central               
+
+GK  H_Castellano               GK  T_Azuasusht               
+DFR C_Alvarez                  DFR E_Andewjh                 
+DFC C_L_Diaz                   DFC Wacali                    
+DFC JP_Sorin                   DFC Ronald_Raldes             
+DFL Satanas_Paez               DFL J_Sanguinetti             
+MFR M_Almada                   DFC N_Valentini               
+MFC R_Monserrat                MFC F_Vismara                 
+MFL S_Escudero                 MFC J_P_Francia               
+AMC David_Beckham              MFR Sidd                      
+FWC C_Fabbiani                 MFL Ricardo_Gomez             
+FWC Jackson_Mrtnz              FWC S_Biglieri                
+
+4-3-1-2 Long Ball              5-4-1 Defensive                
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min. 11 :(rce) Wacali con un pase de tiralíneas para S_Biglieri
+          ...  C_Alvarez llega como un tren y corta el ataque lanzándose al suelo
+Min. 14 :(rce) Sidd choca y envía a su oponente al suelo 
+          ...  Falta? Este árbitro lo más redondo que ha visto es un melón. Si no fue falta!
+          ...  AMARILLA!!
+          ...  Por unos momentos lo vi expulsado!
+          ...  el entrenador parece asombrado de que no fuera roja!
+Min. 20 :(rce) J_P_Francia entra con los tacos por delante 
+          ...  el arbitro  lo llama inmediatamente
+          ...  Se lleva una AMARILLA!!
+Min. 34 :(ald) M_Almada efectúa un espectacular tackle 
+          ...  pero el arbitro  el colegiado pita falta del delantero!
+          ...  Se marcha con una simple amonestación
+          ...  Se habrá dejado las targetas en el vestuario???
+          ...  el entrenador está desesperado. Vaya arbitraje!!
+Min. 34 :(rce) E_Andewjh suelta una entrada muy bien medida 
+          ...  pero el arbitro  está cortando demasiado fino hoy. Falta!
+          ...  el arbitro  no lo amonesta! Vaya, yo creo que es de los peores árbitros
+Min. 43 :(rce) Sidd en carrera con su marcador. Mete el hombro
+          ...  Lo aparta dla pelota!
+          ...  Continúa avanzando
+          ...  Balón para la entrada de J_Sanguinetti
+          ...  J_Sanguinetti controla el balón, amaga y... dispara! Oh!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  H_Castellano vuela y bloca la pelota
+          ...  Grande chico, grande!
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 72 :(rce) E_Andewjh cambia el juego
+          ...  S_Biglieri recibe con campo por delante!
+          ...  C_Alvarez arriesgo con una entrada a ras de suelo! Ay! Le ha dado!
+          ...  El árbitro no lo ha visto así!!
+Min. 74 :(ald) S_Escudero mete un balón interior para JP_Sorin
+          ...  Pero Wacali cuelga el balón a la grada Z!
+Min. 77 :(ald) C_Alvarez centra desde la banda, encuentra a Jackson_Mrtnz en el área
+          ...  N_Valentini envía el balón suelto a las nubues. Cuidado con los pájaros!
+Min. 85 :(rce) E_Andewjh envía a su oponente al césped!!
+          ...  Menudo trompazo!!
+          ...  Eso será targeta y con todo merecimiento
+          ...  AMARILLA!!
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : ald  0 rce 0
+tiros a puerta       : ald  0 rce 1
+
+Marcador             : ald  0 rce 0
+
+
+<<< Estadisticas de los jugadores del Aldosivi >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+H_Castellano   GK   L 34  2  2  2 48 |  90   1   0   0   0   0   0   0   0   0  82   0   0   0 100
+C_Alvarez     DFR   R  4 25 12  7 44 |  90   0   2   1   0   0   0   0   0   0   0 180  45   0  45
+C_L_Diaz      DFC  RC  2 32  8  7 64 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  63
+JP_Sorin      DFC  LC  3 32  9  7 57 |  90   0   0   0   0   0   0   0   0   0   0  65   0   0  63
+Satanas_Paez  DFL   L  2 24  5  5 44 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  49
+M_Almada      MFR   R  1  3 29  2 54 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  54
+R_Monserrat   MFC   C  2  6 28  4 45 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  55
+S_Escudero    MFL RLC  2  7 25  6 51 |  90   0   0   1   0   0   0   0   0   0   0   0  45   0  52
+David_Beckham AMC  RC  2  1 22 16 47 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  52
+C_Fabbiani    FWC  LC  2  7  5 36 85 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  79
+Jackson_Mrtnz FWC RLC  2  4  5 27 58 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  61
+N_Friedlander  GK   C 17  3  3  3 86 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Casteglione DFC   C  5 22 11 12 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Tom_Misaki    MFR   R  5 11 21 12 70 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Oliver_Atom   MFC  RC  3  4 24  6 56 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Llama       MFL   L  4  9 21 10 70 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Regueiro    FWC  LC  3  7  8 24 65 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Steve_Hyuga   FWC   C  3  6  5 21 52 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  1   2   2   0   0   0   0   0   0
+
+
+<<< Estadisticas de los jugadores del Rosario Central >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+T_Azuasusht    GK   R 21  4  3  4 42 |  90   0   0   0   0   0   0   0   0   0  65   0   0   0 100
+E_Andewjh     DFR   R  2 22  6  4 58 |  90   0   0   1   0   0   0   1   0   0   0  68  48   3  75
+Wacali        DFC   C  4 20 10 11 42 |  90   0   1   1   0   0   0   0   0   0   0  90  45   0  68
+Ronald_Raldes DFC   C  1 20  1  3 40 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  68
+J_Sanguinetti DFL RLC  3 19  5  9 70 |  90   0   0   0   0   1   0   0   0   0   0   0   0  24  68
+N_Valentini   DFC   C  2 16  5  5 58 |  90   0   1   0   0   0   0   0   0   0   0  90   0   0  76
+F_Vismara     MFC   C  2  5 14  4 45 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  71
+J_P_Francia   MFC   C  5 14 18 10 32 |  90   0   0   0   0   0   0   1   0   0   0   3   3   3  33
+Sidd          MFR   R  2  6 15  4 50 |  90   0   0   1   0   0   0   1   0   0   0   3  48   3  72
+Ricardo_Gomez MFL   L  2  6 16  5 47 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  69
+S_Biglieri    FWC   C  2  6  4 15 32 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  63
+Jorge_Broun    GK  RL 14  2  2  2 29 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Lichtsteiner  DFC   R  3 30 19  3 47 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  81
+Alpay_Ozalan  DFC   C  2 22  8 11 49 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  83
+G_Karagounis  MFC  RC  2  1 21 14 56 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  82
+A_Isyowj      MFC   L  5 12 18  9 86 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  97
+N_Nicolay     MFC RLC  1  1  9 16 23 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  63
+D_Montenegro  FWC  RL  3  5  5 23 50 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  80
+-- Total --                                  0   2   3   0   1   0   3   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+ald     0    102.58    94.37    95.69
+rce     0    171.76    57.35    23.93
+ald    10     99.28    91.38    93.76
+rce    10    167.26    55.64    23.24
+ald    20     95.79    87.77    91.07
+rce    20    161.94    53.72    22.43
+ald    30     92.54    84.07    88.48
+rce    30    156.82    51.58    21.61
+ald    40     89.17    81.15    86.73
+rce    40    151.25    49.50    20.78
+ald    50     84.97    77.03    84.00
+rce    50    144.25    47.21    19.63
+ald    60     81.42    73.76    80.92
+rce    60    138.78    45.03    18.71
+ald    70     78.40    70.16    78.90
+rce    70    133.46    42.86    17.84
+ald    80     74.66    66.65    75.86
+rce    80    128.28    40.94    16.98
+ald    90     70.90    63.16    73.73
+rce    90    123.02    39.08    16.09
+
+
+1367198345

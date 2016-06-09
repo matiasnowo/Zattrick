@@ -1,0 +1,197 @@
+Home                           Away
+----                           ----
+
+Argentinos                     Banfield                      
+
+GK  S_Romero                   GK  B_Leyenda                 
+DFR A_Garce                    DFL M_Dos_Santos              
+DFC Pateatraseros              DFR E_Andewjh                 
+DFL Clemente                   DFC J_Barraza                 
+DFC jm                         DFC M_Bustamante              
+MFC E_Lavezzi                  DMR D_M_Vilariño              
+MFC E_Cambiasso                MFC Nwankwo_Kanu              
+MFL L_Messi                    MFC I_Uyi                     
+MFR Kaka                       MFL C_Maidana                 
+FWR Il_F_Marelli               FWR J_Lujambio                
+FWL S_Kun_Aguero               FWC D_Cvitanich               
+
+4-4-2 Long Ball                4-1-3-2 Normal                 
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(arg) Clemente se ha lesionado! Cambio...
+Min.  1 :(arg) Cambio! G_Milito es el elegido en lugar de Clemente. El técnico le ordena que juegue de DFL
+Min.  3 :(arg) Kaka regatea a un rival
+          ...  A otro! Esté en racha!
+          ...  Y mete el pase hacia S_Kun_Aguero
+          ...  D_M_Vilariño va al suelo con los dos pies por delante
+          ...  el arbitro  estaba encima, pero no ha visto falta
+Min. 10 :(arg) E_Lavezzi espera apoyos
+          ...  Il_F_Marelli sale de la cueva. Para él va el balón
+          ...  Il_F_Marelli trata de sorprender al portero desde fuera del área!
+          ...  B_Leyenda resbala
+          ...  Pero ve como el disparo se pierde lejos de su marco!
+Min. 20 :(ban) El balón queda suelto! 
+          ...  J_Lujambio llega antes que nadie y se dispone a chutar de primeras
+          ...  J_Lujambio pisa el balón, se lo acomoda a la derecha y... chuta!
+          ...  GOOOOOL !! 
+          ...  Se quita la camiseta y la lanza al público. Lo adoran!
+          ...  arg 0-1 ban ...
+Min. 24 :(arg) Il_F_Marelli pasa largo con el interior hacia Pateatraseros
+          ...  Pateatraseros controla el balón, amaga y... dispara! Oh!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  B_Leyenda vuela y bloca la pelota
+          ...  Grande chico, grande!
+Min. 28 :(arg) Kaka en carrera con su marcador. Mete el hombro
+          ...  Lo aparta dla pelota!
+          ...  Continúa avanzando
+          ...  Balón para la entrada de Il_F_Marelli
+          ...  E_Andewjh chuta la pelota hacia las vallas. Ui! Le ha dado a un pobre fotógrafo!
+Min. 32 :(ban) D_Cvitanich corre hacia la portería
+          ...  Vaya mirada! Tiene el gol en mente
+          ...  G_Milito arriesgo con una entrada a ras de suelo! Ay! Le ha dado!
+          ...  El árbitro no lo ha visto así!!
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 46 :(arg) jm se coloca en el camino del atacante 
+          ...  el arbitro  pita la falta. Se ha desentendido dla pelota
+          ...  Habrá targeta y será...
+          ...  AMARILLA!!
+Min. 49 :(ban) J_Barraza se ha torcido gravemente la rodilla!
+          ...  Parece que va a seguir...
+          ...  No! Se dirige al banquillo y pide el cambio
+Min. 49 :(ban) L_Nowogrodzki va a tener su oportunidad en este partido
+          ...  J_Barraza deja el terreno de juego con cara de pocos amigos
+          ...  Su sustituto jugará de DFC
+Min. 51 :(arg) Il_F_Marelli se deshace de su marcador
+          ...  Se va directo a puerta
+          ...  M_Bustamante llega como un tren y corta el ataque lanzándose al suelo
+Min. 53 :(arg) A_Garce se planta en la frontal del área
+          ...  A_Garce ve al portero adelantado !
+          ...  B_Leyenda hace una parada sencillita 
+          ...  Todo lo que hace parece sencillo. Qué classe!
+Min. 53 :(arg) Kaka agarra de la camiseta a su rival
+          ...  Eso es targeta aquí, en Argentina y en la China!
+Min. 55 :(arg) Kaka controla el balón en una demostración de clase
+          ...  Abre el juego a la izquierda!
+          ...  Il_F_Marelli es el destinatario!
+          ...  E_Andewjh despeja sin miramientos
+Min. 55 :(arg) S_Kun_Aguero envía a su oponente al césped!!
+          ...  Menudo trompazo!!
+          ...  AMARILLA!!
+          ...  Tendrá que medir un pocos sus acciones desde este momento
+Min. 66 :(ban) D_Cvitanich hace ostensibles gestos de dolor. Habrá cambio
+Min. 66 :(ban) S_Fernandez se despoja del chándal. Entrará por D_Cvitanich 
+          ...  Jugará de FWC 
+          ...  El entrenador reza para que el cambio de sus frutos
+Min. 73 :(arg) E_Lavezzi se saca un pase en diagonal para jm
+          ...  jm se precipita en su remate!
+          ...  Pero B_Leyenda bloca el remate con mucha seguridad
+Min. 79 :(ban) E_Andewjh levanta la cabeza, pasa hacia J_Lujambio
+          ...  Suelta un latigazo con su pierna izquierda!
+          ...  el portero ve salir el balón demasiado alto!
+          ...  Pero ojo con el efecto!!
+          ...  Pega en el palo !!
+          ...  Y fuera. el portero parece sorprendido!
+Min. 80 :(arg) S_Kun_Aguero se deshace de su marcador
+          ...  Esta noche va a aparecer en sus pesadillas
+          ...  E_Andewjh despeja el balón hacia la grada
+          ...  Ei! Un aficionado se lleva el balón! Al ladrón
+Min. 80 :(ban) I_Uyi con el saque de banda
+          ...  Ve a un compañero sólo!
+          ...  El balón vuela hacia S_Fernandez
+          ...  Pero A_Garce roba la pelota
+
+El arbitro añadira 4 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : arg  0 ban 1
+tiros a puerta       : arg  4 ban 1
+
+Marcador             : arg  0 ban 1
+
+
+<<< Estadisticas de los jugadores del Argentinos >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+S_Romero       GK   L 16  3  3  3 49 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+A_Garce       DFR   R  3 13  6  6 64 |  90   0   1   0   0   1   0   0   0   0   0  61  -7  28  75
+Pateatraseros DFC RLC  3 16  5  5 71 |  90   0   0   0   0   1   0   0   0   0   0  -7  -7  28  79
+Clemente      DFL   L  3 14  4  5 52 |   0   0   0   0   0   0   0   0   0   1   0   0   0   0  99
+jm            DFC   R  3 15  6  7 58 |  90   0   0   0   0   1   0   1   0   0   0   0   0  35  73
+E_Lavezzi     MFC  RC  3  5 16  6 39 |  90   0   0   2   0   0   0   0   0   0   0   0  76   0  21
+E_Cambiasso   MFC   C  3  9  9  7 26 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+L_Messi       MFL   L  3  8 11  6 46 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  41
+Kaka          MFR   R  3  6 12  6 45 |  90   0   0   3   0   0   0   0   0   0   0   0 114   0  62
+Il_F_Marelli  FWR   R  3  7  8 17 51 |  90   0   0   1   0   1   0   0   0   0   0   0  38  35  69
+S_Kun_Aguero  FWL   L  3  6  8 15 72 |  90   0   0   0   0   0   0   1   0   0   0   0   0   0  78
+E_Banega       GK   L 14  3  3  3 30 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Milito      DFL   L  3 12  6  6 61 |  90   0   1   0   0   0   0   0   0   0   0  68   0   0  74
+A_Di_Maria    MFC   L  3  5 11  5 42 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Rodriguez   DFC  LC  3 11  4  4 44 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+D_Milito      FWC   L  3  6  6 11 39 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Suplente6     FWC   C  0  0  0  0 38 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Suplente7     FWC   C  0  0  0  0 38 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   2   6   0   4   0   2   0   1
+
+
+<<< Estadisticas de los jugadores del Banfield >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+B_Leyenda      GK   L 18  3  3  3 36 |  90   4   0   0   0   0   0   0   0   0 375   0   0   0 100
+M_Dos_Santos  DFL   L  2 16  4  3 44 |  90   0   0   0   0   0   0   0   0   0   0  80   0   0  51
+E_Andewjh     DFR   R  2 13  4  4 58 |  90   0   3   1   0   0   0   0   0   0   0 204  38   0  75
+J_Barraza     DFC   C  2 12  4  3 33 |  48   0   0   0   0   0   0   0   0   1   0   0   0   0  74
+M_Bustamante  DFC  LC  2 12  4  4 58 |  90   0   1   0   0   0   0   0   0   0   0  68   0   0  67
+D_M_Vilariño  DMR   R  3 12 10  6 28 |  90   0   1   0   0   0   0   0   0   0   0  68   0   0  63
+Nwankwo_Kanu  MFC  LC  3  7 15  6 50 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  62
+I_Uyi         MFC   C  2  4 12  4 42 |  90   0   0   1   0   0   0   0   0   0   0  95 133  95  70
+C_Maidana     MFL   L  2  5 12  4 73 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  80
+J_Lujambio    FWR   R  2  5  5 16 56 |  90   0   0   0   0   2   1   0   0   0   0   0   0 265  75
+D_Cvitanich   FWC   C  2  4  4 14 37 |  65   0   0   0   0   0   0   0   0   1   0   0   0   0  55
+C_Lucchetti    GK  RL 16  2  2  2 58 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Nowogrodzki DFC   L  3 13  5  4 50 |  42   0   0   0   0   0   0   0   0   0   0   0   0   0  78
+M_Quinteros   MFC   R  2  4 13  4 31 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  59
+M_Gallardo    AML   L  3  5  9  9 56 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  95
+S_Fernandez   FWC   C  2  4  5 12 48 |  25   0   0   0   0   0   0   0   0   0   0   0   0   0  60
+Suplente6     FWC   C  0  0  0  0 38 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Suplente7     FWC   C  0  0  0  0 38 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  4   5   2   0   2   1   0   0   2
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+arg     0     66.24    44.49    54.76
+ban     0     61.10    42.93    28.56
+arg    10     62.57    43.31    53.60
+ban    10     59.29    41.77    27.69
+arg    20     60.55    41.29    52.04
+ban    20     57.14    40.20    26.73
+arg    30     58.67    39.39    50.22
+ban    30     55.15    38.93    25.73
+arg    40     56.85    37.30    48.54
+ban    40     53.21    37.81    24.85
+arg    50     54.86    34.97    46.60
+ban    50     50.98    36.59    23.91
+arg    60     52.94    32.80    44.74
+ban    60     48.89    35.28    22.93
+arg    70     51.02    30.73    42.93
+ban    70     47.10    34.32    22.57
+arg    80     49.26    28.80    41.22
+ban    80     45.17    32.88    21.79
+arg    90     47.37    27.07    39.72
+ban    90     43.28    31.56    20.96
+
+
+1316744166

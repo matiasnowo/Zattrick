@@ -1,0 +1,160 @@
+
+
+Injuries:
+---------
+
+M_Bustamante (ban) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+U_Uclu (ban) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+
+
+
+Suspensions:
+------------
+
+C_Ansaldi (vel) no podrá jugar el siguiente partido por sanción
+L_Castroman (vel) no podrá jugar el siguiente partido por sanción
+H_Fredes (ind) no podrá jugar el siguiente partido por sanción
+A_Del_Piero (tig) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+G_Vilariño (vel) Tk aumenta su media gracias al skills
+Enzito_C (vel) Ps aumenta su media gracias al skills
+C_Bassedas (vel) Sh aumenta su media gracias al skills
+R_Alvarez (vel) Ps aumenta su media gracias al skills
+L_Castroman (vel) Ps aumenta su media gracias al skills
+Flordelmundo (vel) Sh aumenta su media gracias al skills
+A_Ortega (vel) Sh aumenta su media gracias al skills
+Kasey_Keller (rce) St aumenta su media gracias al skills
+Alakazam (rce) Tk aumenta su media gracias al skills
+D_Manusovich (slo) Tk aumenta su media gracias al skills
+F_Vargas (boc) Ps aumenta su media gracias al skills
+P_Iarley (boc) Sh aumenta su media gracias al skills
+G_Vallés (ind) Tk aumenta su media gracias al skills
+Kun_Aguero (ind) Ps aumenta su media gracias al skills
+R_Saa (ind) Sh aumenta su media gracias al skills
+L_Tombolini (oli) St aumenta su media gracias al skills
+R_Civelli (oli) Tk aumenta su media gracias al skills
+C_Leiva (oli) Tk aumenta su media gracias al skills
+P_Gerez (oli) Tk aumenta su media gracias al skills
+A_Barijho (oli) Sh aumenta su media gracias al skills
+M_Posniak (tig) Tk aumenta su media gracias al skills
+U_Uclu (ban) Ps aumenta su media gracias al skills
+M_Mea_Vitali (ban) Ps aumenta su media gracias al skills
+C_Maidana (ban) Tk aumenta su media gracias al skills
+C_Maidana (ban) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:  14
+Red cards:      3
+Injuries:       2
+
+Top performers:
+
+M_Rolle (oli)         0
+R_Martinez (oli)      0
+O_Vizcarrondo (oli)   0
+L_Nowogrodzki (oli)   0
+S_Guzman (oli)        0
+A_Delorte (oli)       0
+A_Barijho (oli)       0
+Z_Sisko (oli)         0
+D_Vega (oli)          0
+M_Ricci (oli)         0
+P_Gerez (oli)         0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        3      7
+Nico_Martinez (ind)      3      5
+Charizard (alb)          3      5
+Chelo_Delgado (boc)      3      4
+F_Morientes (riv)        3      3
+G_B_Leschuk (ars)        3      3
+H_Crespo (riv)           3      2
+Zapdos (alb)             3      2
+G_Vallés (ind)           3      2
+J_Lujambio (ban)         3      2
+M_Palermo (boc)          3      2
+T_Henry (tig)            1      1
+Rocko (alb)              1      1
+Lobo_Cordone (oli)       2      1
+P_Iarley (boc)           2      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+E_Carolo (riv)           3     98
+Nico_Blandi (boc)        3     97
+Mati_Brad (boc)          3     78
+P_Ledesma (boc)          3     76
+L_Carrio (ind)           4     76
+F_Morientes (riv)        3     75
+Charizard (alb)          3     75
+H_Castellano (ald)       3     72
+H_Fredes (ind)           4     69
+Nico_Martinez (ind)      3     65
+M_Moralez (vel)          3     63
+Diego_Torres (ars)       3     61
+L_Somoza (boc)           3     58
+F_Coloccini (slo)        4     58
+A_Gabbarini (ind)        4     54
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+P_Ledesma (boc)          3      4
+H_Fredes (ind)           4      3
+E_Carolo (riv)           3      2
+L_Matthaus (alb)         3      2
+Mati_Brad (boc)          3      2
+B_Lizarazu (boc)         3      2
+S_Staunton (alb)         3      2
+M_Albela (ban)           3      2
+KH_Rummenigge (tig)      1      1
+A_Fernandez (vel)        1      1
+F_Vargas (boc)           2      1
+Z_Boban (boc)            2      1
+J_Datolo (boc)           2      1
+E_Gonzalez (boc)         2      1
+A_Dominguez (riv)        2      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+C_Arano (riv)            2      4
+Gonzalo_Bazan (qui)      2      4
+Jota_Eme (vel)           3      4
+Alakazam (rce)           1      3
+C_Ansaldi (vel)          1      3
+L_Castroman (vel)        1      3
+Nacho_Decarli (rac)      2      3
+Mario_Santana (slo)      3      3
+J_Gandolfi (ars)         3      3
+Éric_Cantona (boc)       3      3
+Berni_Romeo (slo)        3      3
+D_Montenegro (ind)       3      3
+A_Del_Piero (tig)        4      3
+H_Fredes (ind)           4      3
+M_Martinez (rac)         3      2
+

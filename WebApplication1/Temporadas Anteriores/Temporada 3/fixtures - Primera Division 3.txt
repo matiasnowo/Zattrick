@@ -1,0 +1,98 @@
+1.
+
+Boca Juniors - Tigre
+River Plate - Independiente
+Banfield - All Boys
+Aldosivi - Velez
+
+2.
+
+River Plate - Boca Juniors
+Tigre - Banfield
+Independiente - Aldosivi
+All Boys - Velez
+
+3.
+
+Boca Juniors - Banfield
+Aldosivi - River Plate
+Velez - Tigre
+All Boys - Independiente
+
+4.
+
+Aldosivi - Boca Juniors
+Banfield - Velez
+River Plate - All Boys
+Tigre - Independiente
+
+5.
+
+Boca Juniors - Velez
+All Boys - Aldosivi
+Independiente - Banfield
+Tigre - River Plate
+
+6.
+
+All Boys - Boca Juniors
+Velez - Independiente
+Aldosivi - Tigre
+Banfield - River Plate
+
+7.
+
+Boca Juniors - Independiente
+Tigre - All Boys
+River Plate - Velez
+Banfield - Aldosivi
+
+8.
+
+Tigre - Boca Juniors
+Independiente - River Plate
+All Boys - Banfield
+Velez - Aldosivi
+
+9.
+
+Boca Juniors - River Plate
+Banfield - Tigre
+Aldosivi - Independiente
+Velez - All Boys
+
+10.
+
+Banfield - Boca Juniors
+River Plate - Aldosivi
+Tigre - Velez
+Independiente - All Boys
+
+11.
+
+Boca Juniors - Aldosivi
+Velez - Banfield
+All Boys - River Plate
+Independiente - Tigre
+
+12.
+
+Velez - Boca Juniors
+Aldosivi - All Boys
+Banfield - Independiente
+River Plate - Tigre
+
+13.
+
+Boca Juniors - All Boys
+Independiente - Velez
+Tigre - Aldosivi
+River Plate - Banfield
+
+14.
+
+Independiente - Boca Juniors
+All Boys - Tigre
+Velez - River Plate
+Aldosivi - Banfield
+

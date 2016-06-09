@@ -1,0 +1,42 @@
+
+Ferro 2 - 0 Arsenal
+H_Barcos (fer) 30'
+Inj: J_Yacuzzi (ars) 33'
+H_Barcos (fer) 52'
+
+
+Newell's Old Boys 0 - 6 Colon de Santa Fe
+Pablo_Piatti (col) 14' pen
+Pablo_Piatti (col) 15'
+A_Papu_Gomez (col) 47'
+Pablo_Piatti (col) 49'
+A_Papu_Gomez (col) 51'
+Pablo_Piatti (col) 66'
+
+
+Racing 1 - 4 Estudiantes de La Plata
+Y_Zuñiga (est) 16'
+V_Píriz_Alves (rac) 16' pen
+Y_Zuñiga (est) 23'
+Y_Zuñiga (est) 25' pen
+Inj: M_Caceres (rac) 28'
+Y_Zuñiga (est) 28'
+Red: R_Falcao_G (est) 90'
+
+
+San Lorenzo 0 - 3 Gimnasia y Esgrima de La Plata
+F_Guerrero (gim)  4'
+A_Sánchez (gim) 64'
+F_Guerrero (gim) 76'
+Red: Mario_Santana (slo) 84'
+
+
+UAI Urquiza 0 - 1 Quilmes
+Kazu_Miura (qui) 18'
+
+
+Tigre 2 - 0 Rosario Central
+Red: N_Nicolay (rce) 49'
+Pablo_Aimar (tig) 76'
+jm (tig) 87'
+

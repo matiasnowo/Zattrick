@@ -1,0 +1,158 @@
+
+
+Injuries:
+---------
+
+Bofur (fer) estara de baja una semana por una micro-rotura
+Gio_Moreno (rac) estara de baja una semana por una micro-rotura
+
+
+
+Suspensions:
+------------
+
+A_Chari (tig) no podrá jugar el siguiente partido por sanción
+R_Faeck (qui) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Kíli (fer) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          4  (DFs - 1, DMs - 1, MFs - 0, AMs - 0, FWs - 2)
+Assists:        3  (DFs - 0, DMs - 0, MFs - 3, AMs - 0, FWs - 0)
+Yellow cards:   4
+Red cards:      1
+Injuries:       2
+
+Top performers:
+
+U_Uclu (fer)          31
+Tulkas (fer)          21
+P_Nicolini (tig)      16
+C_Barriga (tig)       14
+B_Schelotto (fer)     14
+Ivan_Cordoba (qui)    14
+L_Licht (rac)         13
+G_Gigliaza (tig)      11
+Kíli (fer)            11
+G_Mendez (qui)        10
+V_Viola (rac)         10
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Independiente           6    3   2   1     7    4    3    11
+4    Arsenal                 6    3   1   2     5    5    0    10
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             6    1   3   2     4    5   -1     6
+7    Banfield                6    1   2   3     1    5   -4     5
+8    River Plate             5    1   1   3     4    6   -2     4
+9    Ferro                   1    1   0   0     2    0    2     3
+10   Argentinos              5    1   0   4     3    8   -5     3
+11   Quilmes                 1    0   1   0     1    1    0     1
+12   River PLate             1    0   1   0     1    1    0     1
+13   Tigre                   1    0   1   0     1    1    0     1
+14   Boca Juniors            6    0   1   5     4   14  -10     1
+15   Racing                  1    0   0   1     0    2   -2     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+F_Manteca (tig)          4      1
+Ivan_Cordoba (qui)       5      1
+Legolas (fer)            5      1
+J_Sanfilippo (qui)       5      1
+Lobo_Fischer (qui)       5      1
+P_Nicolini (tig)         5      1
+Tulkas (fer)             6      1
+B_Schelotto (fer)        7      1
+U_Uclu (fer)            12      1
+T_Rollan (tig)           0      0
+G_Rodriguez (qui)        0      0
+E_Bolotnicoff (tig)      0      0
+Sapo_Villar (qui)        0      0
+R_Albretch (qui)         0      0
+Aldo_paredes (qui)       0      0
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+U_Uclu (fer)            12    112
+R_Faeck (qui)           12     79
+G_Gigliaza (tig)         5     64
+Kíli (fer)               5     50
+Pipo_Gorosito (qui)      5     47
+G_Mendez (qui)           5     46
+P_Nicolini (tig)         5     45
+Bofur (fer)              5     44
+C_Kletnicki (rac)        5     42
+J_Botinelli (qui)        5     39
+Beorn (fer)              6     38
+P_Onhurt (rac)           6     38
+H_Navarro (tig)          7     36
+Tulkas (fer)             6     35
+B_Schelotto (fer)        7     35
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+G_Gigliaza (tig)         5      2
+U_Uclu (fer)            12      2
+Pipo_Gorosito (qui)      5      1
+F_Galetto (qui)          5      1
+N_Trepe (fer)            0      0
+Bilbo_Bolsón (fer)       0      0
+T_Rollan (tig)           0      0
+G_Rodriguez (qui)        0      0
+E_Bolotnicoff (tig)      0      0
+Sapo_Villar (qui)        0      0
+G_Espinoza (rac)         0      0
+R_Albretch (qui)         0      0
+Aldo_paredes (qui)       0      0
+Luis_Fariña (rac)        0      0
+P_Aveldaño (rac)         0      0
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+A_Chari (tig)            5      5
+Thranduil (fer)          2      3
+J_Manteca (tig)          5      3
+U_Uclu (fer)            12      3
+R_Faeck (qui)           12      3
+I_Sekagya (rac)          3      2
+Duracell (fer)           4      2
+Legolas (fer)            5      2
+J_Sanfilippo (qui)       5      2
+Thorin (fer)             2      1
+M_Martinez (rac)         3      1
+F_Marasco (tig)          3      1
+L_Zaifrani (tig)         4      1
+Gran_Trasgo (fer)        4      1
+Lobo_Fischer (qui)       5      1
+

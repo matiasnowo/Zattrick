@@ -1,0 +1,180 @@
+
+
+Injuries:
+---------
+
+Dario_Šimic (alb) Ya está listo para jugar despues de su lesión
+P_Rodriguez (ind) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+Lando_Griffin (alb) solo se quedo en un susto y estara apto para el siguiente partido
+R_Civelli (oli) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+Moltres (oli) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+
+
+
+Suspensions:
+------------
+
+Mati_Brad (boc) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+H_Fredes (ind) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Massimo_Oddo (oli) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+I_Blanco (oli) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+N_Otamendi (vel) ha sido suspendido por 2 partidos
+E_Andewjh (rce) no podrá jugar el siguiente partido por sanción
+Z_Boban (boc) ha sido suspendido por 2 partidos
+P_Ledesma (boc) ha sido suspendido por 2 partidos
+
+
+
+Skill changes:
+--------------
+
+M_Uglessich (vel) Tk aumenta su media gracias al skills
+A_Chari (tig) Tk aumenta su media gracias al skills
+N_Burdisso (tig) Tk aumenta su media gracias al skills
+L_Carrio (ind) Tk aumenta su media gracias al skills
+L_Carrio (ind) Sh aumenta su media gracias al skills
+Wacali (rce) Tk aumenta su media gracias al skills
+F_Vismara (rce) Ps aumenta su media gracias al skills
+JP_Carrizo (alb) St aumenta su media gracias al skills
+José_Sosa (riv) Ps aumenta su media gracias al skills
+Gareth_Bale (riv) Ps aumenta su media gracias al skills
+A_Dominguez (riv) Ps aumenta su media gracias al skills
+O_Ardiles (riv) Sh aumenta su media gracias al skills
+H_Crespo (riv) Sh aumenta su media gracias al skills
+Franco_Baresi (oli) Tk aumenta su media gracias al skills
+L_Nowogrodzki (oli) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          6  (DFs - 1, DMs - 0, MFs - 1, AMs - 0, FWs - 4)
+Assists:        3  (DFs - 0, DMs - 0, MFs - 2, AMs - 0, FWs - 1)
+Yellow cards:  12
+Red cards:      2
+Injuries:       4
+
+Top performers:
+
+Mono_Navarro (tig)    48
+JP_Carrizo (alb)      45
+Gareth_Bale (riv)     40
+José_Sosa (riv)       35
+Kun_Aguero (ind)      34
+B_Lizarazu (boc)      33
+Juan_M_Iturbe (ind)   30
+G_Mercado (riv)       27
+D_Villalva (riv)      27
+L_Carrio (ind)        26
+H_Crespo (riv)        25
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   7    5   1   1    12    6    6    16
+2    Aldosivi                7    4   2   1    12    4    8    14
+3    Independiente           7    4   2   1     9    4    5    14
+4    Arsenal                 6    3   1   2     5    5    0    10
+5    All Boys                6    2   3   1     4    3    1     9
+6    Banfield                7    2   2   3     3    5   -2     8
+7    River Plate             6    2   1   3     6    6    0     7
+8    San Lorenzo             6    1   3   2     4    5   -1     6
+9    Argentinos              5    1   0   4     3    8   -5     3
+10   Boca Juniors            7    0   2   5     4   14  -10     2
+11   River PLate             1    0   1   0     1    1    0     1
+12   Olimpo                  1    0   1   0     0    0    0     1
+13   Rosario Central         1    0   1   0     0    0    0     1
+14   Tigre                   1    0   0   1     0    2   -2     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)       14     25
+Zapdos (alb)            15     25
+J_Lujambio (ban)        15     21
+C_Fabbiani (ald)        16     16
+F_Morientes (riv)       15     15
+Charizard (alb)         14     11
+D_Trezeguet (riv)        9     10
+Nico_Martinez (ind)     12      9
+F_Estoyanoff (vel)      12      9
+M_Zarate (vel)          10      8
+M_Palermo (boc)         14      7
+RV_Nistelrooy (ban)     14      7
+Jackson_Mrtnz (ald)     14      6
+H_Crespo (riv)           8      5
+I_Blanco (oli)          14      5
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Mono_Navarro (tig)      15    579
+Zapdos (alb)            15    385
+Nico_Blandi (boc)       14    325
+J_Lujambio (ban)        15    309
+Kun_Aguero (ind)        15    306
+L_Matthaus (alb)        11    305
+F_Morientes (riv)       15    290
+Hitmonlee (alb)         12    265
+P_Ledesma (boc)         16    260
+JP_Carrizo (alb)        15    258
+Charizard (alb)         14    256
+S_Staunton (alb)        13    244
+B_Lizarazu (boc)        15    240
+JP_Sorin (ald)          15    230
+M_Moralez (vel)         10    227
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+R_Monserrat (ald)       15      7
+L_Matthaus (alb)        11      6
+Hitmonlee (alb)         12      6
+S_Staunton (alb)        13      6
+P_Ledesma (boc)         16      6
+Enzito_C (vel)           8      5
+John_A_Riise (alb)      13      5
+Espeon (riv)            14      5
+Ray_Wilkins (ban)       15      5
+Kun_Aguero (ind)        15      5
+Nwankwo_Kanu (ban)      17      5
+M_Moralez (vel)         10      4
+R_Pereyra (riv)         11      4
+Z_Boban (boc)           13      4
+Éric_Cantona (boc)      13      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Éric_Cantona (boc)      13      8
+C_Alvarez (ald)         10      7
+A_Chari (tig)           13      7
+RV_Nistelrooy (ban)     14      7
+J_Sanguinetti (rce)      5      6
+Leo_da_Silva (ind)       6      6
+Steelix (alb)            9      6
+Z_Boban (boc)           13      6
+C_Arano (riv)           13      6
+N_Otamendi (vel)        14      6
+J_Insaurralde (boc)     14      6
+Jackson_Mrtnz (ald)     14      6
+Nico_Blandi (boc)       14      6
+F_Marasco (tig)         14      6
+P_Ledesma (boc)         16      6
+

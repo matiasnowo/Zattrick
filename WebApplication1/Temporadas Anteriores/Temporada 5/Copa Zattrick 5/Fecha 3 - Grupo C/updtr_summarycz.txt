@@ -1,0 +1,148 @@
+
+
+Injuries:
+---------
+
+F_Eji (riv) estara de baja durante 2 partidos por una fractura en el brazo
+H_Castellano (ald) solo se quedo en un susto y estara apto para el siguiente partido
+R_Martinez (rac) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+
+
+
+Suspensions:
+------------
+
+E_Carolo (riv) no podrá jugar el siguiente partido por sanción
+David_Beckham (ald) no podrá jugar el siguiente partido por sanción
+S_Biglieri (rce) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+D_Passarella (riv) Tk aumenta su media gracias al skills
+E_Carolo (riv) Ps aumenta su media gracias al skills
+Espeon (riv) Ps aumenta su media gracias al skills
+Gareth_Bale (riv) Ps aumenta su media gracias al skills
+F_Morientes (riv) Sh aumenta su media gracias al skills
+D_Trezeguet (riv) Ps aumenta su media gracias al skills
+D_Trezeguet (riv) Sh aumenta su media gracias al skills
+C_Alvarez (ald) Tk aumenta su media gracias al skills
+C_L_Diaz (ald) Tk aumenta su media gracias al skills
+M_Almada (ald) Tk aumenta su media gracias al skills
+M_Almada (ald) Sh aumenta su media gracias al skills
+N_Friedlander (ald) St aumenta su media gracias al skills
+Paulo_Rink (rce) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   6
+Red cards:      3
+Injuries:       3
+
+Top performers:
+
+N_Friedlander (ald)   15
+N_Nicolay (rce)       0
+P_Becker (rce)        0
+M_Galvaliz (rce)      0
+Ricardo_Gomez (rce)   0
+N_Valentini (rce)     0
+L_Abecasis (rce)      0
+Jorge_Broun (rce)     0
+D_Montenegro (rce)    0
+A_Isyowj (rce)        0
+G_Karagounis (rce)    0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)             9     18
+Charizard (alb)          7     15
+Luís_Fabiano (arg)       9     12
+E_Fuertes (fer)         10     12
+M_Zarate (vel)           8     10
+D_Trezeguet (riv)       10      9
+RV_Nistelrooy (ban)      8      8
+Franck_Ribéry (ind)      9      8
+F_Morientes (riv)        9      8
+A_Papu_Gomez (col)      10      8
+R_Falcao_G (est)         7      7
+Juan_M_Iturbe (ind)      9      7
+Nico_Blandi (boc)        5      6
+A_Sánchez (gim)          8      6
+F_Guerrero (gim)         9      6
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         8    348
+M_N_Cano (uai)          10    324
+Franck_Ribéry (ind)      9    260
+H_Fredes (ind)           9    259
+Luís_Fabiano (arg)       9    257
+Zapdos (alb)             9    252
+H_Castellano (ald)      10    249
+Charizard (alb)          7    229
+Ed_Retamoso (fer)        9    215
+Iker_Casillas (slo)     10    198
+M_Zarate (vel)           8    191
+J_Fabbro (fer)           9    189
+J_I_Sills (uni)          9    189
+S_Staunton (alb)         9    184
+A_Papu_Gomez (col)      10    180
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         8     13
+S_Staunton (alb)         9      6
+H_Fredes (ind)           9      5
+Kun_Aguero (ind)         9      5
+JS_Veron (est)           5      4
+A_Panenka (new)          6      4
+El_Misha (riv)           7      4
+M_Moralez (vel)          7      4
+Lucas_Moura (boc)        8      4
+Ruud_Gullit (arg)        8      4
+John_A_Riise (alb)       9      4
+J_Fabbro (fer)           9      4
+G_Gigliaza (est)        10      4
+Gabriel_Roth (fer)       5      3
+Hitmonlee (alb)          9      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+R_Cascini (ars)          8      8
+Gino_Peruzzi (new)       8      7
+F_Galetto (qui)          3      5
+C_D_Ledesma (col)        7      5
+C_Arano (riv)            8      5
+Matias_Diaz (fer)        9      5
+Oscar_Ruggeri (slo)      9      5
+A_Dominguez (riv)        1      4
+L_Rodriguez (slo)        5      4
+Iván_Alonso (uni)        5      4
+M_Mea_Vitali (ban)       6      4
+J_Insaurralde (boc)      6      4
+Joe_Corona (arg)         6      4
+N_Otamendi (vel)         6      4
+W_Samuel (boc)           6      4
+

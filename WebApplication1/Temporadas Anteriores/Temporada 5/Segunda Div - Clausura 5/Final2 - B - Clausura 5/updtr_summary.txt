@@ -1,0 +1,126 @@
+
+
+Suspensions:
+------------
+
+Alfredo_Ramúa (gim) no podrá jugar el siguiente partido por sanción
+Facundo_Sava (gim) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Mono_Navarro (est) St aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          2  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 2)
+Assists:        1  (DFs - 0, DMs - 0, MFs - 1, AMs - 0, FWs - 0)
+Yellow cards:   4
+Red cards:      0
+Injuries:       0
+
+Top performers:
+
+M_Laspada (est)       20
+JS_Veron (est)        19
+M_Yepes (est)         16
+J_Datolo (gim)        16
+A_Sánchez (gim)       16
+O_Barsottini (gim)    12
+E_Figueroa (est)      10
+E_Ryodsamn (est)      10
+Mono_Navarro (est)    9
+Alfredo_Ramúa (gim)   8
+Facundo_Sava (gim)    8
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)            15     28
+Charizard (alb)         12     26
+Luís_Fabiano (arg)      16     19
+Nico_Blandi (boc)       12     16
+F_Morientes (riv)       16     16
+F_Guerrero (gim)        20     15
+M_Zarate (vel)          15     14
+D_Trezeguet (riv)       17     13
+A_Sánchez (gim)         17     13
+S_Rondón (fer)           8     12
+Pablo_Piatti (col)      16     12
+J_Lujambio (ban)        16     12
+G_B_Leschuk (ars)       18     12
+H_Barcos (fer)          10     11
+A_Papu_Gomez (col)      19     11
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+M_N_Cano (uai)          22    567
+L_Matthaus (alb)        15    554
+Luís_Fabiano (arg)      16    465
+Ed_Retamoso (fer)       19    424
+Charizard (alb)         12    408
+Iker_Casillas (slo)     22    408
+J_Fabbro (fer)          19    403
+Alfredo_Ramúa (gim)     19    397
+Zapdos (alb)            15    391
+H_Castellano (ald)      17    381
+H_Fredes (ind)          14    368
+F_Guerrero (gim)        20    353
+Kun_Aguero (ind)        17    336
+M_Moralez (vel)         14    325
+M_Zarate (vel)          15    316
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)        15     19
+John_A_Riise (alb)      12      9
+S_Staunton (alb)        15      8
+Diego_Villar (ars)      18      8
+Alfredo_Ramúa (gim)     19      8
+M_Moralez (vel)         14      7
+Hitmonlee (alb)         16      7
+Lucas_Moura (boc)       16      7
+Ed_Retamoso (fer)       19      7
+H_Fredes (ind)          14      6
+JS_Veron (est)          18      6
+J_Fabbro (fer)          19      6
+J_Datolo (gim)          20      6
+A_Panenka (new)         15      5
+C_D_Ledesma (col)       15      5
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Pablo_Piatti (col)      16     10
+C_Arano (riv)           13      9
+J_Bosingwa (ban)        13      9
+R_Cascini (ars)         17      9
+A_Papu_Gomez (col)      19      9
+Steelix (alb)           14      8
+Ivan_Piris (gim)        15      8
+R_Falcao_G (est)        17      8
+Gino_Peruzzi (new)      18      8
+Philipp_Lahm (col)      19      8
+E_Figueroa (est)        20      8
+W_Samuel (boc)           8      7
+Davor_Suker (boc)       11      7
+N_Otamendi (vel)        12      7
+Massimo_Oddo (oli)      13      7
+

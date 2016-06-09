@@ -1,0 +1,132 @@
+
+
+Injuries:
+---------
+
+Il_F_Marelli (arg) se mantendra alejado de los terrenos por 3 partidos debido a un esguince de tobillo
+
+
+
+Suspensions:
+------------
+
+Z_Oto (arg) ha sido suspendido por 2 partidos
+
+
+
+Skill changes:
+--------------
+
+A_Del_Piero (tig) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          4  (DFs - 0, DMs - 0, MFs - 0, AMs - 4, FWs - 0)
+Assists:        2  (DFs - 1, DMs - 0, MFs - 1, AMs - 0, FWs - 0)
+Yellow cards:   3
+Red cards:      1
+Injuries:       1
+
+Top performers:
+
+A_Del_Piero (tig)     34
+Pateatraseros (arg)   20
+J_Barraza (tig)       17
+M_Lanzini (arg)       14
+P_Ryoemnoije (arg)    12
+F_Marasco (tig)       10
+Z_Oto (arg)           9
+A_Chari (tig)         6
+L_Mareque (arg)       6
+J_Manteca (tig)       5
+S_Kun_Aguero (arg)    4
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+A_Del_Piero (tig)        6      5
+R_Palacio (tig)         11      5
+Legolas (fer)           10      3
+Tulkas (fer)            10      3
+Santi_Anselmo (rac)      5      2
+Sergio_Araujo (rac)      8      2
+M_Lanzini (arg)          9      2
+Lobo_Fischer (qui)      10      2
+Pipo_Gorosito (qui)      4      1
+G_Oberman (qui)          5      1
+C_D_Biaggio (slo)        5      1
+Aragon (fer)             5      1
+D_M_Vilariño (arg)       5      1
+E_Stewart (fer)          5      1
+Pancho_Abba (rac)        6      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Pateatraseros (arg)     11    135
+G_Gigliaza (tig)        11    108
+M_Caceres (rac)         10    107
+Oscar_Ruggeri (slo)     10    107
+F_Coloccini (slo)       10    104
+A_Del_Piero (tig)        6    102
+Ivan_Cordoba (qui)      10     87
+Mono_Navarro (tig)      11     87
+A_Chari (tig)            9     85
+Carlos_Netto (slo)      10     82
+Iker_Casillas (slo)      9     81
+R_Palacio (tig)         11     81
+M_Lanzini (arg)          9     78
+N_Ortigoza (slo)        10     77
+M_Martinez (rac)        10     76
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Pancho_Abba (rac)        6      2
+H_Losada (arg)           8      2
+R_Faeck (qui)           10      2
+G_Gigliaza (tig)        11      2
+Duracell (fer)           3      1
+P_Nicolini (tig)         4      1
+Z_Oto (arg)              4      1
+M_Caneo (tig)            5      1
+A_Del_Piero (tig)        6      1
+E_Lavezzi (arg)          6      1
+J_Barraza (tig)          7      1
+K_Elotya (arg)           7      1
+Mario_Santana (slo)      9      1
+L_Pusineri (slo)        10      1
+M_Bravo (qui)           10      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+A_Chari (tig)            9      7
+Z_Oto (arg)              4      6
+H_Ameli (slo)            8      6
+G_Mendez (qui)           9      5
+S_Kun_Aguero (arg)      11      5
+C_D_Biaggio (slo)        5      4
+P_Rotchen (arg)          6      4
+T_Henry (tig)            7      4
+J_Botinelli (qui)       10      4
+Smaug (fer)             10      4
+Beorn (fer)             10      4
+Il_F_Marelli (arg)      10      4
+Pateatraseros (arg)     11      4
+Duracell (fer)           3      3
+Origüela (rac)           7      3
+

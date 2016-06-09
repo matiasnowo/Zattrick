@@ -26,6 +26,7 @@ namespace AppWeb.Public
                 Session.Add("name", name);
 
                 NamePlayer.Text = name;
+            Title = "Jugador - " + name;
 
             JugadorDAO JD = new JugadorDAO();
 

@@ -1,0 +1,183 @@
+Home                           Away
+----                           ----
+
+Rosario Central                Tigre                         
+
+GK  T_Azuasusht                GK  S_Sosa                    
+DFR Lichtsteiner               DFL C_Villagra                
+DFC L_G_Pirez                  DFC F_Segovia                 
+DFC Alpay_Ozalan               DFC A_Machuca                 
+DFL Fabian_Monzon              DFR jm                        
+MFC J_P_Francia                MFL J_Manteca                 
+MFC Paulo_Rink                 MFC Pablo_Guiñazú             
+MFR G_Karagounis               MFR C_Doni                    
+AML A_Isyowj                   FWR Ricardo_Noir              
+FWC P_Becker                   FWL Nico_Chetti               
+FWR D_Montenegro               FWC P_Mouche                  
+
+4-3-1-2 Counter Attack         4-3-3 Normal                   
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(tig) Pablo_Guiñazú con un pase de tiralíneas para Nico_Chetti
+          ...  Nico_Chetti no va a llegar. Sí, mete el pie...!
+          ...  Pero T_Azuasusht hace una gran parada
+          ...  Uau! Estuvo cerca! 
+          ...  Tuvo que emplearse a fondo para evitar el gol!
+Min.  2 :(rce) Fabian_Monzon está en el suelo
+          ...  El fisio del club entra rápidamente
+          ...  Llama a la camilla. Cambio!
+Min.  2 :(rce) Aparece el cartel electrónico - L_Abecasis entra por Fabian_Monzon y jugará de DFL
+Min. 13 :(rce) Alpay_Ozalan agarra a su rival de la camiseta!!
+          ...  el arbitro  hace sonar el silbato
+          ...  el arbitro  está pitando bien hoy!
+          ...  el arbitro  saca el tarjetero y se lo muestra. Una imagen vale más que mil plabaras
+Min. 30 :(tig) C_Doni hace una pared con un compañero y mete de primeras para P_Mouche
+          ...  P_Mouche pisa el balón, se lo acomoda a la derecha y... chuta!
+          ...  Pero T_Azuasusht bloca la pelota con mucha tranquilidad
+Min. 33 :(tig) Pablo_Guiñazú en carrera con su marcador. Mete el hombro
+          ...  Lo aparta dla pelota!
+          ...  Continúa avanzando
+          ...  Balón para la entrada de P_Mouche
+          ...  D_Montenegro va al choque 
+    ...  Y desplaza al delantero!
+Min. 34 :(tig) P_Mouche se ha lesionado! Cambio...
+Min. 34 :(tig) B_Schelotto entrará en el campo. Está impaciente por demostrar su clase!
+          ...  P_Mouche se marcha en su lugar
+          ...  No acaba de estar del todo satisfecho consigo mismo
+          ...  Su compañero jugará de FWC
+Min. 35 :(tig) Pablo_Guiñazú con la falta
+          ...  Tiene suerte de no ser amonestado
+          ...  el entrenador respira tranquilo
+          ...  el entrenador se encara con el árbitro árbitro pidiéndole explicaciones
+Min. 37 :(tig) C_Villagra envía largo para Ricardo_Noir
+          ...  Ricardo_Noir se saca una tijera! Qué bello!
+          ...  Pero T_Azuasusht manda el balón a córner 
+          ...  el arbitro  indicará córner 
+          ...  No! Marca saque de puerta! Madre mía!
+Min. 38 :(tig) C_Doni se coloca en el camino del atacante 
+          ...  el arbitro  pita la falta. Se ha desentendido dla pelota
+          ...  Habrá targeta y será...
+          ...  AMARILLA!!
+Min. 44 :(rce) A_Isyowj mete un balón interior para L_Abecasis
+          ...  Pero A_Machuca cabecea el balón hacia el portero
+
+El arbitro añadira 4 min. al tiempo reglamentario
+
+Min. 49 :(rce) A_Isyowj cuelga de primeras para Paulo_Rink
+          ...  F_Segovia pone el pie en el momento oportuno y despeja el balón
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 61 :(rce) G_Karagounis para D_Montenegro
+          ...  C_Villagra reacciona con una tremenda velocidad y controla el balón
+Min. 63 :(tig) Nico_Chetti avanza metros
+          ...  Mira el extremo derecho!
+          ...  Y le pone un pase de oro a Ricardo_Noir en el otro lado! Qué clase!
+          ...  Ricardo_Noir no va a llegar. Sí, mete el pie...!
+          ...  Coloca el balón lejos del alcance del portero!! 
+          ...  Pero da en el palo !!
+          ...  Bueno, los palos también juegan!!
+Min. 65 :(tig) Pablo_Guiñazú con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia Ricardo_Noir
+          ...  L_Abecasis pone el pie en el momento oportuno y despeja el balón
+Min. 84 :(rce) Paulo_Rink inicia el ataque
+          ...  Pase picado por Alpay_Ozalan
+          ...  jm le roba la pelota
+Min. 88 :(tig) jm combina con Ricardo_Noir con espacio por delante
+          ...  Ricardo_Noir se precipita en su remate!
+          ...  el portero detiene la pelota espectacularmente!! 
+          ...  El rebote cae al centro, claro para el delantero 
+          ...  OHHHHHHHH !! 
+          ...  Le pegó mal
+
+El arbitro añadira 0 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : rce  0 tig 2
+tiros a puerta       : rce  0 tig 3
+
+Marcador             : rce  0 tig 0
+
+
+<<< Estadisticas de los jugadores del Rosario Central >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+T_Azuasusht    GK   R 21  4  3  4 42 |  90   3   0   0   0   0   0   0   0   0  59   0   0   0 100
+Lichtsteiner  DFR   R  3 31 19  3 47 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  15
+L_G_Pirez     DFC RLC  4 22  7 10 51 |  90   0   0   0   0   0   0   0   0   0   0  35   0   0  21
+Alpay_Ozalan  DFC   C  2 24  8 11 49 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  47
+Fabian_Monzon DFL   L  1 25 18 10 63 |   1   0   0   0   0   0   0   0   0   1   0   0   0   0  83
+J_P_Francia   MFC   C  5 14 18 10 32 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+Paulo_Rink    MFC RLC  3  6 20 14 68 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  61
+G_Karagounis  MFR  RC  2  1 21 14 56 |  90   0   0   1   0   0   0   0   0   0   0   0  21   0  35
+A_Isyowj      AML   L  5 12 18  9 86 |  90   0   0   2   0   0   0   0   0   0   0   0  42   0  85
+P_Becker      FWC   C  2  5  7  9 59 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  76
+D_Montenegro  FWR  RL  3  5  5 23 50 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  16
+Jorge_Broun    GK  RL 14  2  2  2 29 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Abecasis    DFL   R  3 21  7  5 69 |  89   0   1   0   0   0   0   0   0   0   0  60   0   0  80
+J_Sanguinetti DFC RLC  3 19  5  9 70 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Ricardo_Gomez MFC   L  2  6 16  5 47 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Galvaliz    MFC   L  2  6 10 10 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+E_Andewjh     MFC   R  2 22  6  4 58 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+N_Nicolay     FWC RLC  1  1  9 16 23 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  40
+-- Total --                                  3   2   4   0   0   0   0   0   1
+
+
+<<< Estadisticas de los jugadores del Tigre >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+S_Sosa         GK   R 23  4  3  4 83 |  90   0   0   0   0   0   0   0   0   0  35   0   0   0 100
+C_Villagra    DFL RLC  2 19  4  5 54 |  90   0   1   1   0   0   0   0   0   0   0  95  21   0  69
+F_Segovia     DFC RLC  4 23  9  9 80 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  83
+A_Machuca     DFC   C  2 19  6  4 52 |  90   0   1   0   0   0   0   0   0   0   0  60   0   0  24
+jm            DFR   R  3 20  6  7 64 |  90   0   1   1   0   0   0   0   0   0   0  60  21   0  71
+J_Manteca     MFL   L  2  4 19  5 57 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  35
+Pablo_Guiñazú MFC  LC  5 22 26 16 56 |  90   0   0   3   0   0   0   0   0   0   0   0  63   0  26
+C_Doni        MFR RLC  2  4 23 12 40 |  90   0   0   1   0   0   0   1   0   0   0   1  22   1  13
+Ricardo_Noir  FWR   R  4  7  9 20 70 |  90   0   0   0   0   3   0   0   0   0   0   0   0  27  78
+Nico_Chetti   FWL   R  5  7  6 17 82 |  90   0   0   1   0   1   0   0   0   0   0   0  21  13  85
+P_Mouche      FWC   C  2  6  6 21 47 |  33   0   0   0   0   1   0   0   0   1   0   0   0  13  88
+K_Chigo        GK RLC 15  2  2  2 37 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+O_Shakrap     DFC RLC  2 16  5  5 70 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+X_Kribsurtoi  DFC   C  2 15  5  4 69 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+O_Ahumada     MFC RLC  3 13 16  6 81 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Hernán_Bruno  MFL   C  3 13 15  8 76 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+B_Schelotto   FWC   R  3  6  8 16 68 |  57   0   0   0   0   0   0   0   0   0   0   0   0   0  86
+G_Krotroakr   FWC   R  2  6  5 14 31 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   4   7   0   5   0   1   0   1
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+rce     0     73.36    57.53    29.00
+tig     0     84.45    56.25    69.18
+rce    10     65.21    50.68    26.82
+tig    10     82.52    53.89    67.72
+rce    20     62.34    48.57    25.62
+tig    20     80.10    51.17    65.71
+rce    30     58.92    46.08    24.30
+tig    30     77.77    48.30    63.54
+rce    40     55.73    43.65    23.09
+tig    40     74.18    45.72    54.75
+rce    50     51.98    40.99    21.76
+tig    50     70.90    41.72    52.73
+rce    60     49.17    39.20    20.49
+tig    60     68.44    39.42    51.37
+rce    70     46.59    37.62    19.43
+tig    70     65.73    36.85    49.99
+rce    80     43.75    35.99    18.27
+tig    80     63.40    34.21    48.33
+rce    90     41.02    34.48    17.26
+tig    90     60.89    31.69    46.89
+
+
+1371085937

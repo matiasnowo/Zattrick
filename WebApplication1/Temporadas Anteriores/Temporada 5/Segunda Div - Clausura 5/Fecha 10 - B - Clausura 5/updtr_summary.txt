@@ -1,0 +1,198 @@
+
+
+Injuries:
+---------
+
+T_Taiwo (est) Ya está listo para jugar despues de su lesión
+Diego_Villar (ars) tendra que guardar reposo una semana por molestias en el muslo
+Mono_Navarro (est) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+Ema_Ibañez (uai) solo se quedo en un susto y estara apto para el siguiente partido
+F_Segovia (tig) ino podra jugar los siguientes 2 partidos por una inflamacion de la rodilla
+I_Lity (qui) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Suspensions:
+------------
+
+Pablo_Piatti (col) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+L_Ocampos (gim) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+A_Panenka (new) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+M_Caceres (rac) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+L_Melgarejo (tig) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Ronald_D_Boer (ars) ha sido suspendido por 2 partidos
+A_Chavez (new) no podrá jugar el siguiente partido por sanción
+Diego_RDa_Luz (fer) no podrá jugar el siguiente partido por sanción
+Facu_Ferreyra (fer) no podrá jugar el siguiente partido por sanción
+S_Rondón (fer) no podrá jugar el siguiente partido por sanción
+M_Martinez (rac) ha sido suspendido por 2 partidos
+Carlos_Netto (slo) no podrá jugar el siguiente partido por sanción
+R_Schiavi (est) no podrá jugar el siguiente partido por sanción
+Hasan_Sas (est) no podrá jugar el siguiente partido por sanción
+E_Ryodsamn (est) no podrá jugar el siguiente partido por sanción
+C_Gurrieri (uai) no podrá jugar el siguiente partido por sanción
+Juan_Forlin (gim) no podrá jugar el siguiente partido por sanción
+Luis_Ibañez (tig) no podrá jugar el siguiente partido por sanción
+D_Montenegro (rce) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Luis_Calvo (fer) Ps aumenta su media gracias al skills
+J_J_Barkero (fer) Ps aumenta su media gracias al skills
+Facu_Ferreyra (fer) Sh aumenta su media gracias al skills
+S_Rondón (fer) Sh aumenta su media gracias al skills
+Pablo_Lima (rac) Tk aumenta su media gracias al skills
+Iker_Casillas (slo) St aumenta su media gracias al skills
+F_Coloccini (slo) Tk aumenta su media gracias al skills
+Hasan_Sas (est) Ps aumenta su media gracias al skills
+Alfredo_Ramúa (gim) Ps aumenta su media gracias al skills
+Alfredo_Ramúa (gim) Sh aumenta su media gracias al skills
+Facundo_Sava (gim) Sh aumenta su media gracias al skills
+Ricardo_Noir (tig) Sh aumenta su media gracias al skills
+Isgut (qui) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         11  (DFs - 0, DMs - 0, MFs - 1, AMs - 1, FWs - 9)
+Assists:        8  (DFs - 1, DMs - 0, MFs - 5, AMs - 1, FWs - 1)
+Yellow cards:  23
+Red cards:      4
+Injuries:       5
+
+Top performers:
+
+C_Kletnicki (rac)     54
+S_Rondón (fer)        52
+J_J_Barkero (fer)     50
+F_Coloccini (slo)     36
+Luis_Calvo (fer)      34
+JR_Riquelme (new)     30
+M_N_Cano (uai)        30
+jm (tig)              30
+Ed_Retamoso (fer)     28
+J_Fabbro (fer)        28
+F_Roncaglia (fer)     27
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Arsenal                 8    3   3   2     5    5    0    12
+4    Independiente           6    3   2   1     7    4    3    11
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             8    1   5   2     4    5   -1     8
+7    Estudiantes de La Plata   2    2   0   0     3    0    3     6
+8    Banfield                6    1   2   3     1    5   -4     5
+9    Colon de Santa Fe       2    1   1   0     8    1    7     4
+10   Ferro                   2    1   1   0     3    1    2     4
+11   River Plate             5    1   1   3     4    6   -2     4
+12   Union de Santa Fe       1    1   0   0     5    2    3     3
+13   Rosario Central         1    1   0   0     3    0    3     3
+14   Gimnasia y Esgrima de La Plata   2    1   0   1     3    9   -6     3
+15   Argentinos              6    1   0   5     5   13   -8     3
+16   Newell's Old Boys       2    0   2   0     0    0    0     2
+17   River PLate             1    0   1   0     1    1    0     1
+18   UAI Urquiza             2    0   1   1     0    1   -1     1
+19   Quilmes                 2    0   1   1     0    3   -3     1
+20   Boca Juniors            6    0   1   5     4   14  -10     1
+21   Tigre                   1    0   0   1     1    2   -1     0
+22   Racing                  2    0   0   2     1    5   -4     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+F_Guerrero (gim)        19     13
+S_Rondón (fer)           8     12
+A_Sánchez (gim)         15     12
+G_B_Leschuk (ars)       17     12
+E_Zelaya (ars)          14      9
+R_Falcao_G (est)        16      9
+A_Papu_Gomez (col)      18      9
+C_Milla (rce)            7      8
+H_Barcos (fer)           8      8
+Pablo_Piatti (col)      15      8
+Carlos_Duré (ars)        6      7
+Laucha_Acosta (gim)     15      7
+A_Chavez (new)          20      7
+Facundo_Sava (gim)       8      6
+Q_Braes (fer)            8      6
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+M_N_Cano (uai)          21    558
+Ed_Retamoso (fer)       17    406
+J_Fabbro (fer)          17    371
+Alfredo_Ramúa (gim)     17    351
+Iker_Casillas (slo)     21    351
+F_Guerrero (gim)        19    325
+JS_Veron (est)          16    295
+Diego_Villar (ars)      18    295
+Cris_Gonzalez (uai)     20    292
+Edgar_Davids (new)      20    286
+J_Datolo (gim)          18    270
+S_Rondón (fer)           8    264
+A_Sánchez (gim)         15    264
+F_Coloccini (slo)       17    261
+F_Segovia (tig)         20    260
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Alfredo_Ramúa (gim)     17      8
+Diego_Villar (ars)      18      8
+Ed_Retamoso (fer)       17      7
+J_Datolo (gim)          18      6
+A_Panenka (new)         14      5
+JS_Veron (est)          16      5
+J_Fabbro (fer)          17      5
+A_Isyowj (rce)          19      5
+Pablo_Guiñazú (tig)     13      4
+Matias_Diaz (fer)       13      4
+Nine_Tails (gim)         7      3
+Q_Braes (fer)            8      3
+H_Mattiuzzo (tig)        8      3
+Gabriel_Roth (fer)       9      3
+O_Barsottini (gim)      10      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Pablo_Piatti (col)      15      9
+R_Cascini (ars)         16      9
+Gino_Peruzzi (new)      17      8
+A_Papu_Gomez (col)      18      8
+Ivan_Piris (gim)        13      7
+C_D_Ledesma (col)       14      7
+F_Coloccini (slo)       17      7
+Philipp_Lahm (col)      18      7
+E_Figueroa (est)        18      7
+D_Macaluso (qui)        14      6
+Ronald_D_Boer (ars)     14      6
+A_Panenka (new)         14      6
+L_Ocampos (gim)         15      6
+Jose_Chatruc (col)      16      6
+Alpay_Ozalan (rce)      17      6
+

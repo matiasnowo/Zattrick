@@ -1,0 +1,336 @@
+Home                           Away
+----                           ----
+
+Rosario Central                Argentinos                    
+
+GK  Kasey_Keller               GK  P_Ryoemnoije              
+DFR E_Andewjh                  DFR K_Elotya                  
+DFC Tauros                     DFC Pateatraseros             
+DFC F_Peppino                  DFC N_Odruska                 
+DFL J_Dudek                    DFL L_Mareque                 
+MFR Sidd                       DMC Turco_Grecco              
+MFL Ricardo_Gomez              MFL B_Braksoc                 
+MFC J_Mendez                   MFR H_Losada                  
+AMR Gio_Moreno                 AMC Ruud_Gullit               
+AML R_Salinas                  FWR Il_F_Marelli              
+FWC A_Medina                   FWL S_Kun_Aguero              
+
+4-3-2-1 Normal                 4-1-2-1-2 Attacking            
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  3 :(arg) S_Kun_Aguero se anticipa a su marcador!
+          ...  Creo que lo ha empujado!
+          ...  "Sigan!" Dice el arbitro  
+          ...  S_Kun_Aguero no va a llegar. Sí, mete el pie...!
+          ...  Pero se las arregla para fallar
+          ...  Pone cara de mala leche. Menudo fallo!
+Min.  4 :(rce) F_Peppino encara a su marcador
+          ...  Lo sienta con una croqueta!
+          ...  Eso lo hacía Michael Laudrup!
+          ...  Y ahora suelta un pase impresionante hacia Ricardo_Gomez
+          ...  Ricardo_Gomez mira fijamente al marco!
+          ...  Dispara!
+          ...  Pero P_Ryoemnoije bloca el remate con mucha seguridad
+Min.  5 :(arg) S_Kun_Aguero agarra al defensa de la camiseta y se lleva el balón
+          ...  Qué vivo ha estado, el árbitro no pudo ver nada
+          ...  S_Kun_Aguero se saca una terrible volea!
+          ...  Kasey_Keller llega con la punta de los dedos al balón 
+          ...  y sale rozando el palo!! 
+          ...  Qué gran intervención!
+Min.  8 :(arg) H_Losada pisa campo contrario. Mete un pase entre los centrales para Il_F_Marelli
+          ...  Il_F_Marelli suelta un disparo muy débil !
+          ...  Kasey_Keller despeja... con la cabeza!!!
+          ...  Estaba despistado! Su entrenador se está comiendo el banquillo
+Min.  9 :(arg) El balón queda suelto! 
+          ...  S_Kun_Aguero gana la posesión
+          ...  S_Kun_Aguero controla el balón, amaga y... dispara! Oh!
+          ...  Busca la escuadra!
+          ...  Ojo con el efecto. El portero no va a llegar!!
+          ...  Pero aterriza en la grada superior de la portería !!
+          ...  el portero sonríe. Estaba batido!
+Min. 11 :(arg) Ruud_Gullit corre hacia la portería
+          ...  Vaya mirada! Tiene el gol en mente
+          ...  E_Andewjh arriesgo con una entrada a ras de suelo! Ay! Le ha dado!
+          ...  El árbitro no lo ha visto así!!
+Min. 12 :(rce) Ricardo_Gomez se aprovecha un horrible pase hacia atrás
+          ...  Pero L_Mareque cuelga el balón a la grada Z!
+Min. 13 :(arg) B_Braksoc centra desde la banda, encuentra a S_Kun_Aguero en el área
+          ...  S_Kun_Aguero toca el balón con mucha sutileza !
+          ...  OOOOOOHHHHHHHH 
+          ...  A salido lamiendo el palo
+Min. 16 :(arg) Il_F_Marelli hace dos bicicletas y engaña al defensa
+          ...  Il_F_Marelli cruza la línea de medios, avanza, mira al portero y chuta!
+          ...  Impacta la pelota con precisión y suavidad!! 
+          ...  GOOOOOL !!
+          ...  Levanta los brazos!
+          ...  Qué frialdad! Qué calidad! Qué golazo!
+          ...  rce 0-1 arg ...
+Min. 18 :(arg) Il_F_Marelli combina con S_Kun_Aguero. Juegan de memoria!
+          ...  S_Kun_Aguero ve al portero adelantado !
+          ...  GOOOOOL !! 
+          ...  Salta con el puño hacia el cielo
+          ...  rce 0-2 arg ...
+Min. 19 :(arg) Turco_Grecco largo para Ruud_Gullit
+          ...  Ruud_Gullit mete la cabeza con valentía !
+          ...  Los aficionados se levantan de sus asientos!
+          ...  Pero el balón se va por encima del larguero !!
+Min. 21 :(arg) Pateatraseros hace una bicicleta y cambia el juego hacia Turco_Grecco
+          ...  Espectacular remate de Turco_Grecco !
+          ...  Kasey_Keller mete los puños y manda la pelota al centro del campo
+Min. 22 :(rce) Ricardo_Gomez inicia el ataque
+          ...  Pase picado por R_Salinas
+          ...  Pateatraseros le roba la pelota
+Min. 23 :(rce) Sidd combina con Gio_Moreno con espacio por delante
+          ...  K_Elotya se lanza hacia su oponente
+          ...  Y toca el balón! Que clase!
+Min. 27 :(arg) Ruud_Gullit con el globo
+          ...  N_Odruska la baja con la cabeza
+          ...  Envenenado trallazo de N_Odruska !
+          ...  el portero no llegará a ese balón!  
+          ...  Impacta en el palo!
+          ...  Y se va fuera!
+Min. 28 :(rce) J_Dudek supera al defensor
+          ...  J_Dudek mete el interior del pie con mucha intención!
+          ...  Fuera!
+          ...  De qué sirve tanta potencia si el disparo va fuera???
+Min. 29 :(arg) B_Braksoc se cuela hasta la línea de fondo
+          ...  Centra al segundo palo
+          ...  S_Kun_Aguero entra el remate
+          ...  S_Kun_Aguero controla el balón, amaga y... dispara! Oh!
+          ...  Kasey_Keller bloca el balón con sobriedad
+Min. 30 :(rce) Gio_Moreno le gana la espalda a su mrcador
+          ...  Ei, se ha despistado!
+          ...  L_Mareque entra con todo! 
+          ...  Y corta el balón. Ha intimidado al delantero
+Min. 32 :(arg) Ruud_Gullit mete un balón interior para S_Kun_Aguero
+          ...  S_Kun_Aguero se lanza en plancha... ! 
+          ...  Qué valentía!
+          ...  el portero está sorprendido!
+          ...  Lo ha pillado fuera de posición!
+          ...  OH! Impacta en las vallas publicitarias 
+          ...  Gran disparo!
+          ...  Merecía el gol
+Min. 33 :(arg) Ruud_Gullit pica el balón por encima de la defensa hacia B_Braksoc
+          ...  Pero E_Andewjh roba la pelota
+Min. 33 :(arg) L_Mareque eleva demasiado el pie
+          ...  AMARILLA!!
+Min. 37 :(rce) J_Mendez ubica el balón a la espalda de la defensa. A_Medina busca el desmarque
+          ...  A_Medina remata forzado... con la rodilla!
+          ...  La manda fuera del estadio!
+Min. 38 :(arg) Il_F_Marelli se va de uno
+          ...  Regatea a otro!
+          ...  A otro! Parece Maradona contra Inglaterra!
+          ...  Puede marcar! El gol del siglo!
+          ...  Pero Ricardo_Gomez se hace con el balón
+          ...  Gran anticipación!
+Min. 44 :(rce) E_Andewjh está en el suelo
+          ...  El fisio del club entra rápidamente
+          ...  Dice que no con la cabeza. Cambio!
+Min. 44 :(rce) Matias_Lequi se despoja del chándal. Entrará por E_Andewjh 
+          ...  Jugará de DFR 
+          ...  El entrenador reza para que el cambio de sus frutos
+Min. 45 :(arg) B_Braksoc con un pase entre los centrales
+          ...  S_Kun_Aguero aparece con velocidad desde atrás!
+          ...  S_Kun_Aguero suelta un cañonazo. Problemas para el portero !
+          ...  Kasey_Keller despeja con problemas
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+Min. 47 :(arg) Il_F_Marelli conduce por la línea de medios
+          ...  Pasa hacia B_Braksoc
+          ...  Corte finísimo de F_Peppino
+          ...  Y evita el córner! Está en un momento dulce!
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 46 :(arg) K_Elotya acelera por la banda izquierda
+          ...  Juega para S_Kun_Aguero
+          ...  S_Kun_Aguero chuta!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  Kasey_Keller vuela y bloca la pelota
+          ...  Grande chico, grande!
+Min. 47 :(arg) Il_F_Marelli frena el contraataque y espera algún apoyo
+          ...  No recibe ninguno. Se desespera!
+          ...  Se decide por la jugada individual!
+          ...  Il_F_Marelli empalma el balón a la perfección!
+          ...  Kasey_Keller para el balón, que queda muerto
+          ...  arg se levanta rápidamente y para el segundo remate! Qué bueno!
+Min. 52 :(arg) H_Losada con un preciso cambio de ritmo
+          ...  Punterazo endiablado de H_Losada !
+          ...  H_Losada no va a llegar! 
+          ...  GOOOOOL !! 
+          ...  Gran remate!!!
+          ...  rce 0-3 arg ...
+Min. 55 :(arg) S_Kun_Aguero recibe un gran pase
+          ...  Matias_Lequi sale al corte... lo logra!
+Min. 56 :(arg) Ruud_Gullit cambia el juego hacia S_Kun_Aguero 
+          ...  S_Kun_Aguero acomoda su cuerpo y suelta... uau! Qué cañonazo!
+          ...  el portero ve salir el balón demasiado alto!
+          ...  Pero ojo con el efecto!!
+          ...  Pega en el palo !!
+          ...  Y fuera. el portero parece sorprendido!
+Min. 59 :(arg) H_Losada pide desesperado un apoyo
+          ...  No aparece nadie! Está rodeado!
+          ...  Abre hacia el extremo!
+          ...  Il_F_Marelli controla la pelota
+          ...  Il_F_Marelli trata de sorprender al portero desde fuera del área!
+          ...  Roza el palo!
+          ...  Y fuera
+          ...  Buen disparo, mala suerte!
+Min. 60 :(arg) Il_F_Marelli está cerrado por tres contrarios
+          ...  Abre a la banda para romper la presión
+          ...  H_Losada recibe con campo por delante
+          ...  H_Losada tiene una oportunidad de oro!
+          ...  El balón hace un mal bote sobre el césped y su disparo se va fuera
+Min. 61 :(arg) Ruud_Gullit con el saque de banda
+          ...  Ve a un compañero sólo!
+          ...  El balón vuela hacia Il_F_Marelli
+          ...  Il_F_Marelli empalma el balon con una rabona! Qué frivolidad!!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  Pero el balón se va por encima del larguero !!
+Min. 64 :(arg) B_Braksoc cuelga de primeras para S_Kun_Aguero
+          ...  J_Dudek se recompone y mete el pie
+Min. 68 :(rce) J_Mendez pasa hacia Matias_Lequi
+          ...  Turco_Grecco aparece de la nada. El delantero aún está buscando el balón!
+Min. 73 :(arg) S_Kun_Aguero mira a la derecha
+          ...  Y cruza a la izquierda para B_Braksoc. Eso lo hacía Laudrup!
+          ...  Matias_Lequi va en carrera y agarra al delantero por la camiseta!!
+          ...  Falta!!
+          ...  El árbitro no lo ha visto
+          ...  El defensa sonríe! El delantero pone cara de incredulidad
+Min. 74 :(arg) Turco_Grecco pasa hacia L_Mareque
+          ...  L_Mareque prueba suerte!
+          ...  Kasey_Keller alcanza la pelota. Buena parada
+          ...  El árbitro pita falta sobre arg , de todas maneras
+Min. 75 :(arg) S_Kun_Aguero hace un regate digno de Garrincha
+          ...  S_Kun_Aguero mira al portero!
+          ...  Trata de superarlo por el palo largo!
+          ...  Coloca el balón lejos del alcance del portero!! 
+          ...  Pero da en el palo !!
+          ...  Bueno, los palos también juegan!!
+Min. 75 :(arg) H_Olaya va a tener su oportunidad en este partido
+          ...  H_Losada  se va del campo
+          ...  Le niega el saludo a su mánager. Vaya cabreo! 
+          ...  Su sustituto jugará de MFR
+Min. 75 :(arg) El ayudante del entrenador llama a A_Morón
+          ...  Il_F_Marelli va a ser sustituído
+          ...  El técnico le indica que juegue de FWR
+Min. 75 :(arg) Confirmado! Hay cambio 
+          ...  R_Chaert entrará en lugar de Ruud_Gullit. Se ubica como AMC
+Min. 76 :(arg) A_Morón de taco hacia S_Kun_Aguero. Gran pase!
+          ...  Gio_Moreno va en carrera y agarra al delantero por la camiseta!!
+          ...  Falta!!
+          ...  El árbitro no lo ha visto
+          ...  El defensa sonríe! El delantero pone cara de incredulidad
+Min. 78 :(rce) Sidd para el balón
+          ...  Levanta la vista y ve a un compañero completamente sólo!
+          ...  Le envía el pase con el exterior!
+          ...  Gio_Moreno controla el milimétrico pase. Hasta yo lo hubiera hecho!
+          ...  K_Elotya pone el pie y se apodera del balón
+Min. 84 :(arg) L_Mareque mete un balón interior para S_Kun_Aguero
+          ...  S_Kun_Aguero chuta!
+          ...  Ay va! Ha tirado a metros de la portería
+          ...  Creo que el míster lo va a poner a patear toda la semana como castigo!!
+Min. 85 :(arg) A_Morón con un tremendo sprint
+          ...  A_Morón trata de ajustar la pelota al palo !
+          ...  Kasey_Keller se saca una espectacular parada de la manga 
+          ...  Cómo hizo para llegar a ese balón?
+Min. 86 :(arg) Pateatraseros pone el balón a la espalda de los centrales
+          ...  A_Morón se cuela desde atrás!
+          ...  A_Morón le pega 'mordida'!
+          ...  El balón va haciendo extraños en el aire
+          ...  Kasey_Keller hace una gran parada
+          ...  Pero no puede retener el balón!
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+Min. 91 :(rce) Sidd regatea a su marcador y pasa rápidamente a Tauros
+          ...  Pateatraseros despeja sin miramientos
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : rce  2 arg 12
+tiros a puerta       : rce  1 arg 13
+
+Marcador             : rce  0 arg 3
+
+
+<<< Estadisticas de los jugadores del Rosario Central >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+Kasey_Keller   GK   L 18  3  3  3 34 |  90  10   0   0   0   0   0   0   0   0 130   0   0   0 100
+E_Andewjh     DFR   R  2 19  5  4 58 |  43   0   2   0   0   0   0   0   0   1   0 144   0   0  88
+Tauros        DFC   C  2 15  4  5 65 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  62
+F_Peppino     DFC  LC  2 10  4  5 61 |  90   0   1   1   0   0   0   0   0   0   0  72  28   0  75
+J_Dudek       DFL   L  4 12 14 10 62 |  90   0   1   0   0   1   0   0   0   0   0  72   0  11  72
+Sidd          MFR   R  2  6 14  4 44 |  90   0   0   3   0   0   0   0   0   0   0   0  84   0  57
+Ricardo_Gomez MFL   L  2  6 15  5 44 |  90   0   1   1   0   1   0   0   0   0   0  72  28  18  67
+J_Mendez      MFC   C  2  6 12  5 29 |  90   0   0   2   0   0   0   0   0   0   0   0  56   0  47
+Gio_Moreno    AMR   R  2  5 11 11 57 |  90   0   1   0   0   0   0   0   0   0   0  52 -20 -20  74
+R_Salinas     AML   L  2  5  6 12 35 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  64
+A_Medina      FWC  RL  2  5  5 11 42 |  90   0   0   0   0   1   0   0   0   0   0   0   0  11  58
+Jorge_Broun    GK  RL 14  2  2  2 32 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Matias_Lequi  DFR   R  2 13  4  4 56 |  47   0   2   0   0   0   0   0   0   0   0 124 -20 -20  79
+Golem         DFC   R  2 15  5  5 39 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  90
+M_Lombardi    MFC  RC  2  4 12  4 56 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  91
+L_Talamonti   MFC   R  2 11  5  4 32 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Omar_Zarif    MFC   R  2 13  6  4 42 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+R_Alderete    FWC   L  2  5 11  6 50 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  90
+-- Total --                                 10   8   7   0   3   0   0   0   1
+
+
+<<< Estadisticas de los jugadores del Argentinos >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+P_Ryoemnoije   GK  RL 19  3  3  3 37 |  90   1   0   0   0   0   0   0   0   0  61   0   0   0 100
+K_Elotya      DFR  RC  3 19  6  7 46 |  90   0   2   1   0   0   0   0   0   0   0 144  28   0  63
+Pateatraseros DFC RLC  3 22  6  5 77 |  90   0   2   2   0   0   0   0   0   0   0 144  56   0  82
+N_Odruska     DFC  LC  4 18 10  9 57 |  90   0   0   0   0   1   0   0   0   0   0   0   0  11  73
+L_Mareque     DFL  LC  3 20  8  6 53 |  90   0   2   1   0   1   0   1   0   0   0 182  18   8  71
+Turco_Grecco  DMC   C  3 13 11  8 52 |  90   0   1   2   0   1   0   0   0   0   0  72  56  18  70
+B_Braksoc     MFL   L  4  6 15 11 33 |  90   0   0   4   0   0   0   0   0   0   0   0 112   0  56
+H_Losada      MFR   R  3  6 16  7 35 |  74   0   0   2   0   2   1   0   0   0   0   0  56  93  71
+Ruud_Gullit   AMC  RC  3  6 19 14 53 |  74   0   0   5   0   1   0   0   0   0   0  78 218  89  77
+Il_F_Marelli  FWR   R  3  7  9 19 57 |  74   0   0   3   1   5   1   0   0   0   0  78 206 218  80
+S_Kun_Aguero  FWL   L  3  7 10 20 78 |  90   0   0   1   0  12   1   0   0   0   0   0  28 231  83
+A_Carrizo      GK  RC 19  3  3  3 52 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+E_Broedn      DFC   R  3 14  5  7 42 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+P_Rotchen     DFC   C  3 16  6  5 28 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+H_Olaya       MFR   R  3  6 16  7 43 |  16   0   0   0   0   0   0   0   0   0   0   0   0   0  95
+R_Chaert      AMC  RL  3  7 13 15 70 |  16   0   0   0   0   0   0   0   0   0   0   0   0   0  96
+A_Morón       FWR   C  3  6  4 16 60 |  16   0   0   1   0   2   0   0   0   0   0   0  28  36  95
+M_Vuosso      FWC   R  2  4  4 13 32 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  1   7  22   1  25   3   1   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+rce     0     62.32    65.99    37.54
+arg     0     84.72    83.51   105.77
+rce    10     60.61    63.70    36.35
+arg    10     83.01    81.31   103.39
+rce    20     58.70    61.52    35.12
+arg    20     80.76    78.63   100.50
+rce    30     57.27    59.17    34.01
+arg    30     78.19    76.10    97.95
+rce    40     55.42    57.00    32.71
+arg    40     75.75    73.56    95.26
+rce    50     49.10    54.29    31.58
+arg    50     72.75    70.14    91.87
+rce    60     47.30    51.91    30.32
+arg    60     70.33    67.56    89.09
+rce    70     45.55    49.54    28.90
+arg    70     67.71    64.82    86.15
+rce    80     43.92    47.10    27.47
+arg    80     65.28    59.54    80.74
+rce    90     42.09    44.69    26.20
+arg    90     62.92    57.42    78.25
+
+
+1340330832

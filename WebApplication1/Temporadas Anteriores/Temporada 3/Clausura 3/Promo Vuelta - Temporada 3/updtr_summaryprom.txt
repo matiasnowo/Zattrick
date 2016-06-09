@@ -1,0 +1,142 @@
+
+
+Injuries:
+---------
+
+D_Bazan_Vera (fer) estara de baja una semana por una micro-rotura
+
+
+
+Suspensions:
+------------
+
+K_Kamamoto (ban) ha sido suspendido por 2 partidos
+Diego_Torres (ars) no podrá jugar el siguiente partido por sanción
+M_Albela (tig) ha sido suspendido por 2 partidos
+E_Fuertes (fer) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+M_Materazzi (ban) Tk aumenta su media gracias al skills
+J_Lujambio (ban) Sh aumenta su media gracias al skills
+M_Brau (ars) Tk aumenta su media gracias al skills
+J_Yacuzzi (ars) Ps aumenta su media gracias al skills
+A_Chari (tig) Tk aumenta su media gracias al skills
+J_Manteca (tig) Ps aumenta su media gracias al skills
+F_Roncaglia (fer) Tk aumenta su media gracias al skills
+Tulkas (fer) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          4  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 4)
+Assists:        1  (DFs - 0, DMs - 0, MFs - 1, AMs - 0, FWs - 0)
+Yellow cards:   9
+Red cards:      1
+Injuries:       1
+
+Top performers:
+
+Ricardo_Gomes (fer)   36
+J_Lujambio (ban)      32
+M_Mea_Vitali (ban)    27
+F_Roncaglia (fer)     24
+Adriano_C (ars)       23
+M_Materazzi (ban)     21
+Ray_Wilkins (ban)     20
+K_Kamamoto (ban)      17
+A_Matellan (ars)      16
+RV_Nistelrooy (ban)   15
+M_Brau (ars)          12
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Charizard (alb)         12     23
+Nico_Martinez (ind)     13     20
+Nico_Blandi (boc)       14     18
+Zapdos (alb)            12     17
+J_Lujambio (ban)        15     12
+C_Fabbiani (ald)        14     11
+S_Kun_Aguero (arg)      16     10
+H_Crespo (riv)          10      8
+G_B_Leschuk (ars)       16      8
+S_Biglieri (rce)        11      7
+Moltres (oli)           16      7
+F_Morientes (riv)        9      6
+E_Fuertes (fer)         11      6
+Santi_Anselmo (rac)     13      6
+Chelo_Delgado (boc)      7      5
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)        12    474
+Charizard (alb)         12    400
+S_Staunton (alb)        12    339
+Zapdos (alb)            12    319
+Hitmonlee (alb)         12    310
+Mono_Navarro (tig)      16    303
+H_Castellano (ald)      14    273
+S_Kun_Aguero (arg)      16    268
+F_Roncaglia (fer)       18    264
+M_Mea_Vitali (ban)      12    263
+P_Ledesma (boc)         14    260
+A_Chari (tig)           14    256
+John_A_Riise (alb)      12    253
+Nico_Martinez (ind)     13    253
+Nico_Blandi (boc)       14    252
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)        12     12
+S_Staunton (alb)        12      9
+John_A_Riise (alb)      12      7
+H_Fredes (ind)          13      6
+P_Ledesma (boc)         14      6
+M_Almada (ald)          14      5
+Javi_Morales (ars)      17      5
+Jorge_Vila (fer)        18      5
+Mati_Brad (boc)         12      4
+R_Pereyra (riv)          7      3
+Emmanuel_Pío (oli)       7      3
+A_Fernandez (vel)        8      3
+A_Dominguez (riv)        8      3
+R_Martinez (rac)         9      3
+R_Cascini (ars)          9      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Éric_Cantona (boc)      14     10
+W_Shoojho (arg)          9      9
+M_Mea_Vitali (ban)      12      9
+Gonzalo_Bazan (qui)     13      9
+K_Kamamoto (ban)        15      8
+C_Arano (riv)            8      7
+Steelix (alb)            9      6
+J_Insaurralde (boc)      9      6
+Rubén_Ferrer (rac)      12      6
+M_Albela (tig)          13      6
+Jacobo_Urso (qui)       14      6
+Guille_Franco (slo)     15      6
+M_Brau (ars)            15      6
+J_Gandolfi (ars)        17      6
+Jota_Eme (col)           4      5
+

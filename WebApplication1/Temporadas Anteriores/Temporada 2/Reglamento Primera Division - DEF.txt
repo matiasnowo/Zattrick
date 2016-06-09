@@ -1,0 +1,362 @@
+Horarios:
+
+Cada dia de la semana se realizaran las distintas acciones:
+Lunes: Partido Amitstoso/Copa - Cobro por partido - Actualizacion 100% (Copa 50%) - Finalizacion de Subasta (23:59)
+Martes: Gastos economicos - Cobro de auspiciantes - Renovacion de subasta (00:00 hrs)
+Miercoles: Juvenil
+Jueves: Partidos Primera Division - Cobro por partido - Actualizacion 50%
+
+(TODOS LOS PARTIDOS SE REALIZARAN ENTRE LAS 20:00 Y LAS 22:30)
+
+
+Auspiciantes:
+
+Los auspiciantes son los que mantienen vivo a un club y es esencial que estos te pagen los suficiente.
+El pago semanal se pagara por cada partido que juegues, y pagaran cada ves mas.
+claro que tambien depende de como te vaya:
+
+Todos los equipos comienzan con un auspiciante que paga: $30000
+
+Partido Perdido: sumas $3000
+Partido Empatado: sumas $4000
+Partido Ganado: sumas $5000
+
+Campeonato ganado: sumas $20000
+Campeonato seg puesto: sumas $10000
+Campeonato ultimo puesto: restas $5000
+
+
+Estadio:
+
+- Todos empezaran con 10.000 Lugares, y las entradas para el publico estarian 10 pesos. (A cancha llena en el comienzo seria 10000 x $10 = $100.000)
+
+- La cantidad de gente que valla a tu cancha va a depender de el porcentaje de popularidad actual (el cual seria exactamente el mismo porcentaje correspiendente a la
+cantidad de personas que vallan).
+
+- En los amistosos se llenara el estadio en un 10% de la popularidad actual y las ganancias es mitad para cada equipo, a menos que se especifique lo contrario.
+
+- Tambien existe otra variante a la hora de llevar gente a la cancha, esta se llama Valor Historico:
+este varia segun los Titulos que vas ganando:
+
+Campeon: +15%
+Sub-Campeon: +5%
+Por cada Temporada que no ganes NINGUN titulo, tu valor historico, disminuira en un 2%
+
+- La popularidad actual es afectada unicamente por los partidos de la Temporada vigente.
+
+- Los partidos de la ultima fecha del campeonato, que influyan en quien podria ser campeon, o quien podria descender, llenaran el estadio.
+El primer partido de local de cada Temporada siempre se llenara en un 50% (hay que tener en cuenta tambien el valor historico, por ejemplo, si saliste campeon llenarias en un 50% + 15% = 65%)
+
+- Variacion de la POPULARIDAD ACTUAL:
+
+Siempre se comenzara con un 50%
+
+- Ganar un partido te dara un 20% de porcentaje mas para el siguiente partido de asistencia.
+Ejemplo: Tengo 50%, gane, el proximo partido tendre un 60% de asistencia.
+
+- Perder un partido te quitara un 25% de porcentaje menos para el siguiente partido de asistencia.
+Ejemplo: Tengo 50%, perdi, el proximo partido tendre un 37%.
+
+- El partido que juegue el equipo puntero siempre tendra un plus del 10%
+
+
+- Ampliacion:
+Para ampliar el mismo se debe ir a Peticiones (o contactando algun Consejero o Administrador), y pedir un prespuesto de lo que se desea ampliar.
+Cada vez que se quiera ampliar un estadio solo se podra ampliar hasta el 50% de la capacidad del mismo, esto significa que si este tiene capacidad de 10000, entonces se puede ampliar 5000.
+cada asiento nuevo en el estadio costara 100 pesos, pero SIEMPRE se deberan pagar 80.000 por Mano de obra.
+Al ampliarlo, el estadio estara en construccion durante 3 semanas, por lo tanto su capacidad maxima (por esas 3 semanas) pasa a ser de un 50% de la capacidad que tenia.
+
+A tener en cuenta, que cada asiento siempre costara un 1% de la cantidad de lugares (se comienza con 10.000 lugares, por lo que la construccion de cada asiento nuevo sale $100, si uno tiene 15.000 lugares, la construccion de cada nuevo asiento costara $150)
+
+
+- Mantenimiento:
+El costo de Manutencion del mismo sera del 240% de los lugares del estadio, osea, que si tenes 10.000 lugares, se te cobraran 24.000 y si tienes 15.000 lugares, se te cobraran $36.000.
+
+- Cambio de nombre: El nombre del estadio se puede cambiar pero esto afectaria y mucho a los auspiciantes (disminucion del 5% de la paga), y tendria un costo de 80.000.
+Aunque si el nombre del estadio se cambia por el nombre de una leyenda, podria ser un cambio beneficioso*, esto mejoraria en un 2% de valor historico por campeonato ganado y un 1% por cada vez que haya terminado como goleador dicho jugador
+
+*(los gastos hay que hacerlos igual)
+
+
+Mercado de Fichajes:
+
+En el sub-foro Mercado de fichajes se realiza todo lo que tenga que ver con negociaciones, tambien se puede hacer en cada plantilla, pero este seria el lugar especifico.
+Ahi se deben postear los despidos de los jugadores. El juego tendra Periodos de Fichajes, en los cuales seran los unicos momentos que se podran fichar jugadores (fichar jugadores se tienen en cuenta ya sean contratos, prestamos, o compras), estos periodos seran en las Pre-Temporadas.
+
+- Habra un limite de 7 Fichajes, y en la Pre-Temporada que hay entre Temporadas, no habra limite.
+
+- En cuanto a las cesion de jugadores, el club que tenga al jugador en su plantel es el que
+tendra que pagarle el sueldo entero.
+
+- Los despidos SOLO podran realizarse en este periodo.
+
+- Los sueldos a pagar seran los de los jugadores que comienzen la Temporada en el plantel. (Los juveniles no se les pagara el sueldo, hasta el siguiente torneo).
+
+- El limite de extranjeros es de 10 jugadores.
+
+Retiros de jugadores:
+
+Los jugadores como ya dijimos al ser despedidos pasan a quedar libres, pero si este jugador
+tiene entre 30 y 36 años se quedara libre durante un torneo (media temporada) y si nadie lo
+contrata este se retirara. Si el jugador despedido tiene 36 años o mayor edad se retirara.
+
+
+Sueldos:
+
+A)
+Arquero: Hab St 220, Tk 4, Ps 4, Sh 4.
+Defensor: Hab St 4, Tk 160, Ps 35, Sh 12.
+MedioDef: Hab St 4, Tk 120, Ps 120, Sh 25.
+Volante: Hab St 4, Tk 25, Ps 160, Sh 25.
+Enganche: Hab St 4, Tk 25, Ps 120, Sh 120.
+Delantero: Hab St 4, Tk 8, Ps 30, Sh 200.
+
+B) Si el jugador puede jugar por dos bandas, se sumara un plus al sueldo de 15%, y si juega por las 3 se sumara un 25%.
+
+C) La stamina da un plus, usualmente da al rededor de 1 peso por punto.
+
+D) Si el jugador tiene mas de 35 años cobrara como maximo 500 pesos.
+
+E) La edad ahora influye bastante, mientras mas joven mas plus.
+
+F) Extranjeros tienen 20% de plus en el sueldo.
+
+- Los sueldos se actualizaran al comenzar cada Temporada.
+- Al salir campeon, los jugadores aumentan su sueldo en un 20%. (Es posible que no sea 20% en todas las competencias)
+
+Los sueldos se mostraran en un apartado mostrando cada jugador y su sueldo, explicando en detalle por que cobra lo que cobra.
+
+
+Sistema de juveniles:
+
+Las Opciones de pagos son de:
+
+10000: 10 Puntos de experiencia en Inferiores por semana
+
+20000: 12 Puntos de experiencia en Inferiores por semana
+
+30000: 15 Puntos de experiencia en Inferiores por semana
+
+40000: 20 Puntos de experiencia en Inferiores por semana
+
+50000: 25 Puntos de experiencia en Inferiores por semana
+
+60000: 30 Puntos de experiencia en Inferiores por semana
+
+- Sera obligatorio pagar la suma de $10.000 por cada nivel previamente alcanzado para mantener las juveniles activas al nivel actual.
+
+(cada 100 puntos se pasa de nivel)
+
+lvl1: Son jugadores al azar entre 19 y 21 años.
+
+lvl2: Son jugadores al azar entre 18 y 20 años.
+
+lvl3: Son jugadores al azar entre 17 y 19 años.
+
+lvl4: Son jugadores al azar entre 16 y 18 años.
+
+lvl5: Son jugadores al azar entre 16 y 21 años. (Con un nivel un tanto mayor)
+
+lvl6: Son jugadores al azar entre 16 y 19 años. (Con un nivel un tanto mayor)
+
+lvl7: Son jugadores al azar entre 16 y 17 años. (Con un nivel un tanto mayor)
+
+lvl8: Son jugadores al azar entre 16 y 21 años. (Con un nivel mayor)
+
+lvl9: Son jugadores al azar entre 16 y 19 años. (Con un nivel mayor)
+
+lvl10: Son jugadores al azar entre 16 y 17 años. (Con un nivel mayor)
+
+lvl11: Son jugadores al azar de 16 años. (Con un gran nivel)
+
+lvl12: Se crean escuelas del club por los distintos sectores del pais, logrando asi, una segunda cantera de lvl1.
+
+Una ves por semanas un juvenil se te va a ser presentado y decidiras si aceptarlo o no
+
+Se pueden pedir jugadores todos los Miercoles por $15.000; al subir un jugador se le escoge el nombre.
+
+La opcion de pago solo podra ser modificable en la Pre-Temporada.
+
+Se aclara que por cada cantera de juveniles se sacara un jugador por semana.
+
+
+Stamina:
+
+Los jugadores al cumplir de 17 a 22 años, le subira en 3 la estamina.
+Los jugadores al cumplir de 28 años en adelante, le bajara 3 la estamina.
+
+
+Premios:
+
+Por salir Campeon, se te otorgaran 1.000.000,
+Pos salir Segundo, se te otorgaran 500.000,
+Por salir Tercero, se te otorgaran 100.000
+
+Por tener el goleador del torneo, se te otorgaran 75.000
+Por tener el segundo goleador del torneo, se te otorgaran 50.000
+
+Al final de la Temporada se le pagaran 1.000.000 al mejor equipo de la tabla general.
+
+
+Descenso:
+
+Mirando la tabla de promedios, el equipo que termine 8° desciende directo, y los equipos 7° y 6° juegan una promocion equipos de la B.
+
+
+Partidos:
+
+al armar una alineacion se podra poner hasta 5 suplentes y se pueden hacer hasta 3 cambios.
+Se peuden programar hasta 6 cambios en la formacion ejemplo:
+Delantero que pasa a jugar al medio llegado tal minuto o por alguna roja. Ademas, podria ser, llegados a los 80 mins entra un jugadore de X posicion para que salga X jugador.
+
+A la hora de armar la alineacion no se sientan con restricciones ya que se pueden poner varias pocisiones:
+
+---------------DEF IZQ----MED DEFIZQ----MED IZQ-----MED OFEIZQ---DEL IZQ
+------------DEF CEN---------MEDIO-----------MED OFE-----------------DEL CEN
+ARQUERO---DEF CEN-----MED DEF--MEDIO---------MED OFE-----------------DEL CEN
+------------DEF CEN----------MEDIO----------MED OFE-----------------DEL CEN
+---------------DEF DER----MEDDEFDER----MED DER----MED OFEDER--DEL DER
+
+Siempre poner un pateador de penales y tiros libres.
+
+
+ARQUERO: solo necesita stop
+DEF IZQ: necesita tener tacleo, y poder jugar por L
+DEF CEN: necesita tener tacleo y poder jugar por C
+DEF DER: necesita tener tacleo y poder jugar por R
+MED DEF IZQ: necesita tener tacleo, pases, y poder jugar por L
+MED DEFCEN: necesita tener tacleo, pases, y poder jugar por C
+MED DEFDER: necesita tener tacleo, pases, y poder jugar por R
+MED IZQ: necesita tener pases, y poder jugar por L
+MEDIO: necesita tener pases, y poder jugar por C
+MED DER: necesita tener pases, y poder jugar por R
+MED OFE: necesita tener pases, tiros, y poder jugar por C
+MED OFEIZQ: necesita tener pases, tiros, y poder jugar por L
+MED OFEDER: necesita tener pases, tiros, y poder jugar por R
+DEL IZQ: necesita tener tiros, y poder jugar por L
+DEL CEN: necesita tener tiros, y poder jugar por C
+DEL DER: necesita tener tiros, y poder jugar por R
+
+Minimos y Maximos de cantidad de jugadores por pocision:
+
+Min Defensores = 3
+Max Defensores = 6
+Max Medios Defensivos = 6
+Min Mediocampistas = 0
+Max Mediocampistas = 6
+Max Medios Ofensivos = 6
+Min Delanteros = 0
+Max Delanteros = 5
+
+
+Hay 6 tipos de tacticas:
+
+N - Normal: No tiene ni beneficios ni perjucios es la mas Standard.
+
+D - Defensiva: Esta tactica es muy buena jugando contra alguien que va a jugar con pases largos.
+
+A - Ofensiva: Se descudia la defensa pero se intenta atacar todo el tiempo.
+
+P - A los pases: Esta tactica es muy buena contra los que usan pase en largo y ademas brinda defensa y ataque bonus al equipo.
+
+C - Contra: Es buena contra la ofensiva y la que juega a los pases. Esta tactica brinda buen juego en el medio y en el ataque.
+
+L - Pase Largo: Es buena tactica contra los que usen el contraataque. Brinda buena movilidad en la defensa y en el medio.
+
+
+Finanzas:
+
+Los equipos empiezan con 550.000.
+Si un equipo, entra en deudas (Cantidad de plata en Negativo "-") entonces, se le cobrara un interes, semanalmente, del 25% de la cantidad que ya debe.
+Un Tecnico es echado de un equipo, cuando las Finanzas del mismo llegan al numero de -500.000 y no sale de eso durante 2 semanas.
+Cuando un tecnico es despedido, automaticamente los jugadores son dejados libres, y el equipo empieza a no presentar equipo saliendo asi todos los partidos 3 - 0 abajo.
+
+
+Marca Deportiva:
+
+Se tiene que elegir una Marca para vestir a tu equipo, estas pondran condiciones y premios para firmar el contrato, las opciones se detallaran en un Sub-Foro y cada equipo tendra que elegir una marca.
+
+
+Marketing:
+
+Esta sera simplemente una ganancia mas (MENSUAL), dependiendo de varios factores/logros alcanzados durante ese mes:
+
+- Primera Division: +15.000
+- Segunda Division: +5.000
+- Jugador de la semana en mi plantilla: +20.000
+- Jugador de la Temporada: +40.000 (se sigue cobrando durante la siguiente temporada)
+- Ser el ultimo Campeon: +15.000 (se sigue cobrando durante el siguiente torneo)
+- Ser el ultimo Campeon Seg Div: +5.000
+- Puntero: +20.000 (Se activa si se estuvo puntero al menos una vez durante el mes)
+
+- Al numero que de resultado se le sumara el porcentaje de valor historico de su estadio, y eso sera lo que cada equipo cobre Mensualmente.
+
+
+Sistema de Canteras y Mecenas:
+
+Se podran armar contratos entre equipos, para que durante una cantidad determinada de Temporadas, un equipo ("de division mayor"), le mande a otro ("de division menor"),
+jugadores cedidos (no contarian como fichajes, asi que puede enviar los que quiera), sin que el otro equipo tenga la obligacion de usarlos, para que pueda entrenarlos (Estos se envian en cualquier periodo de fichajes).
+Si hay una oferta publica por un jugador del equipo de mayor division, el equipo de menor division, puede ofrecer la misma cantidad de dinero, y la oferta tiene que ser aceptada si o si. la cantidad de plata que el chico tiene que pagarle al grande por temporada, la arreglan ellos (tiene que ser mayor a los 350.000)
+
+
+Subasta de jugadores:
+
+Cada semana se subastara un jugador, el precio inicial del mismo sera de 15.000 si este no recibe ninguna oferta quedara libre.
+Vos tambien podes subastar un jugador, podes elegir el tiempo que queda subastado y el precio inicial, pero si este no recibio ofertas en el tiempo que especificaste se te cobrara un 50% del precio inicial indicado (el precio inicial minimo a indicar es de 10.000)
+Por cada oferta se deberan aumentar como minimo un 10% de lo que va.
+al comprar el jugador no se puede utilizar inmediatamente, hay que esperar al proximo Periodo de Fichajes, lo que se tiene del jugador hasta ese momento es el Pase. el cual se puede negociar tambien.
+Todas las subastas, luego de "terminadas" si la ultima oferta fue antes de los 3 ultimos minutos, entonces se agregan 3 minutos mas a partir de la ultima oferta.
+
+
+Jugadores Libres:
+
+Habra una plantilla de estos jugadores y se agregara cualquier jugador que sea desdpedido.
+ATENCION: Se pueden fichar hasta dos jugadores por dia!
+
+
+Entrenamiento Especial:
+
+Esto funciona dependiendo de tus instalaciones de entrenamiento, las cuales segun tu nivel, son los tiempos y precios:
+
+Nivel 1:
+- Se podra entrenar una nueva banda para un jugador menor o igual a 23 años pagando $100.000.
+- Esto tardara un torneo, osea media Temporada.
+- Esto solo se puede hacer durante la PreTemporada.
+- Como maximo se puede entrenar de a un jugadores.
+
+Nivel 2:
+- Se podra entrenar una nueva banda para un jugador menor o igual a 24 años pagando $60.000.
+- Esto tardara un torneo, osea media Temporada.
+- Esto solo se puede hacer durante la PreTemporada.
+- Como maximo se puede entrenar de a dos jugadores.
+
+Nivel 3:
+- Se podra entrenar una nueva banda para un jugador menor o igual a 25 años pagando $30.000.
+- Esto tardara 1 mes.
+- Se puede hacer en cualquier momento.
+- Como maximo se puede entrenar de a tres jugadores.
+
+Nivel 4:
+- Se podra entrenar una nueva banda para un jugador menor o igual a 26 años pagando $10.000.
+- Esto tardara 1 mes.
+- Se puede hacer en cualquier momento.
+- Como maximo se puede entrenar de a cuatro jugador.
+
+
+Para mejorar las instalaciones de entrenamiento, se puede invertir dinero, en cualquier momento, lo unico que hay que hacer es llegar al siguiente dinero:
+
+Nivel 1: $0
+Nivel 2: $500.000
+Nivel 3: $2.000.000
+Nivel 4: $5.500.000
+
+- Esto es acumulable, por lo cual si se llega a Nivel 2 ($500.000), la cuenta NO vuelve a 0, se mantiene en $500.000, por lo cual restan agregar $1.500.000 para llegar a Nivel 3.
+- Lo que se pague para un entrenamiento suma a lo invertido.
+
+
+Multas por no presentar equipo:
+
+Si la alineacion no fue presentada por su Tecnico antes de las 22:30 del dia del partido, este recibe la siguiente multa:
+
+Paga por organizacion del partido fallida: -$50.000
+Desconfianza de los auspiciantes: -$5.000

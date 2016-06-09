@@ -1,0 +1,129 @@
+
+
+Suspensions:
+------------
+
+Sanchez_Miño (bcj) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+C_Ayala (riv) Tk aumenta su media gracias al skills
+P_Ferrari (riv) Ps aumenta su media gracias al skills
+L_Carrio (ind) Tk aumenta su media gracias al skills
+H_Fredes (ind) Ps aumenta su media gracias al skills
+Kun_Aguero (ind) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          5  (DFs - 0, DMs - 0, MFs - 2, AMs - 0, FWs - 3)
+Assists:        5  (DFs - 1, DMs - 1, MFs - 3, AMs - 0, FWs - 0)
+Yellow cards:   8
+Red cards:      1
+Injuries:       0
+
+Top performers:
+
+Bruno_Peres (sto)     35
+P_Rodriguez (sto)     28
+Neymar (sto)          26
+J_M_Martinez (bcj)    25
+J_R_Riquelme (bcj)    24
+Durval (sto)          22
+Arouca (sto)          20
+V_A_Santos (sto)      19
+M_Caruzzo (bcj)       19
+P_Ledesma (bcj)       18
+Agustin_Orion (bcj)   15
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Charizard (alb)         11     25
+Zapdos (alb)            12     23
+Luís_Fabiano (arg)      12     16
+Nico_Blandi (boc)        9     12
+M_Zarate (vel)          11     12
+A_Sánchez (gim)         12     12
+D_Trezeguet (riv)       14     12
+F_Guerrero (gim)        15     11
+F_Morientes (riv)       13     10
+RV_Nistelrooy (ban)     10      9
+A_Papu_Gomez (col)      14      9
+E_Zelaya (ars)          10      8
+R_Falcao_G (est)        12      8
+G_B_Leschuk (ars)       13      8
+Nico_Martinez (ind)     14      8
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)        13    495
+M_N_Cano (uai)          16    447
+Charizard (alb)         11    392
+Luís_Fabiano (arg)      12    329
+Ed_Retamoso (fer)       13    324
+H_Fredes (ind)          13    323
+Zapdos (alb)            12    317
+Alfredo_Ramúa (gim)     14    313
+H_Castellano (ald)      13    309
+F_Guerrero (gim)        15    285
+Iker_Casillas (slo)     16    267
+J_Fabbro (fer)          13    262
+M_Zarate (vel)          11    259
+Kun_Aguero (ind)        14    254
+Edgar_Davids (new)      16    249
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)        13     17
+S_Staunton (alb)        12      7
+Alfredo_Ramúa (gim)     14      7
+M_Moralez (vel)         10      6
+Lucas_Moura (boc)       12      6
+A_Panenka (new)         12      5
+JS_Veron (est)          12      5
+Ed_Retamoso (fer)       13      5
+H_Fredes (ind)          13      5
+J_Datolo (gim)          14      5
+Kun_Aguero (ind)        14      5
+Jadson (alb)             4      4
+John_A_Riise (alb)       9      4
+G_Gigliaza (arg)        11      4
+Ruud_Gullit (arg)       11      4
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+R_Cascini (ars)         14      9
+J_Bosingwa (ban)        11      8
+C_Arano (riv)           11      8
+Pablo_Piatti (col)      13      8
+Gino_Peruzzi (new)      13      8
+A_Papu_Gomez (col)      14      8
+Davor_Suker (boc)        8      7
+C_D_Ledesma (col)       10      7
+Steelix (alb)           12      7
+N_Otamendi (vel)         8      6
+J_Insaurralde (boc)      9      6
+D_Macaluso (qui)        10      6
+Massimo_Oddo (oli)      10      6
+Ivan_Piris (gim)        10      6
+W_Shoojho (arg)         10      6
+

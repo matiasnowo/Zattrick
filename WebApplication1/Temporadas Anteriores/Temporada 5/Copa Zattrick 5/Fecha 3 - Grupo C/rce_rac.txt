@@ -1,0 +1,183 @@
+Home                           Away
+----                           ----
+
+Rosario Central                Racing                        
+
+GK  T_Azuasusht                GK  C_Kletnicki               
+DFR Lichtsteiner               DFC G_Mendez                  
+DFC L_G_Pirez                  DFC Pablo_Lima                
+DFC J_Sanguinetti              DFC I_Istaj                   
+DFL Fabian_Monzon              DFC W_Gund                    
+MFC J_P_Francia                MFC R_Martinez                
+MFC Paulo_Rink                 MFC Javier_Lux                
+MFR G_Karagounis               MFC D_De_Rossi                
+AML A_Isyowj                   MFC T_Joblobru                
+FWC S_Biglieri                 FWC V_Píriz_Alves             
+FWR D_Montenegro               FWC Santi_Anselmo             
+
+4-3-1-2 Counter Attack         4-4-2 Normal                   
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min. 22 :(rce) Lichtsteiner entra con los tacos por delante 
+          ...  Ufff!! Lleva la marca de la bota impresa en el muslo!!
+          ...  AMARILLA!!
+          ...  Deberá calmarse un poco a partir de ahora
+Min. 25 :(rac) Javier_Lux dispara en carrera!
+          ...  El defensa mete la pierna
+          ...  sale rebotada hacia Santi_Anselmo!
+          ...  Santi_Anselmo se deshace de su marcador ! 
+          ...  Buen movimiento! Y dispara!
+          ...  Se estrella en el larguero!! 
+          ...  Controla el rebote con el pecho 
+          ...  OHHHHHHHH !! 
+          ...  Un defensa ha estado más rápido y ha enviado el balón fuera
+Min. 33 :(rce) S_Biglieri agarra a su rival de la camiseta!!
+          ...  el arbitro  hace sonar el silbato
+          ...  el arbitro  está pitando bien hoy!
+          ...  Se lleva una AMARILLA!!
+Min. 36 :(rce) Fabian_Monzon hace una pared con un compañero y mete de primeras para A_Isyowj
+          ...  Pero pisa un charco y cae al suelo!
+          ...  I_Istaj recoge el balón. Menudo marcaje le está haciendo!
+Min. 36 :(rac) Javier_Lux pisa campo contrario. Mete un pase entre los centrales para V_Píriz_Alves
+          ...  Lichtsteiner entra a ras de suelo
+          ...  El delantero no tiene más remedio que saltar por encima
+          ...  Se ha jugado el físico! Qué tío!
+Min. 38 :(rce) Paulo_Rink hace una bicicleta y cambia el juego hacia S_Biglieri
+          ...  Pablo_Lima se anticipa a la jugada y se apodera del balón
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 46 :(rce) D_Montenegro corre hacia la portería
+          ...  Vaya mirada! Tiene el gol en mente
+          ...  T_Joblobru arriesgo con una entrada a ras de suelo! Ay! Le ha dado!
+          ...  El árbitro no lo ha visto así!!
+Min. 50 :(rce) Paulo_Rink mete un balón interior para S_Biglieri
+          ...  Pero Javier_Lux cuelga el balón a la grada Z!
+Min. 50 :(rac) R_Martinez se retuerce de dolor sobre el césped!
+          ...  Su entrenador no tendrá más remedio que cambiarlo!
+Min. 50 :(rac) El ayudante del entrenador llama a L_Donati
+          ...  R_Martinez va a ser sustituído
+          ...  Aplaude al público
+          ...  Su sustituto se ubica en MFC
+Min. 55 :(rce) Paulo_Rink mete un balón interior para J_Sanguinetti
+          ...  Pero I_Istaj cabecea el balón hacia el portero
+Min. 60 :(rce) J_Sanguinetti con una entrada alocada
+          ...  Se marcha con una simple amonestación
+          ...  Se habrá dejado las targetas en el vestuario???
+          ...  el entrenador está desesperado. Vaya arbitraje!!
+Min. 67 :(rac) Javier_Lux combina con V_Píriz_Alves. Juegan de memoria!
+          ...  V_Píriz_Alves ve al portero adelantado !
+          ...  Es incapaz de chutar a puerta!
+          ...  Ha tardado una eternidad!
+          ...  Será el efecto Matrix????
+Min. 69 :(rce) Paulo_Rink largo para D_Montenegro
+          ...  Pero W_Gund corta la acción con contundencia
+Min. 69 :(rce) Paulo_Rink con una entrada desmesurada 
+          ...  Creo que buscaba el balón, pero debería calmarse un poquito
+          ...  AMARILLA!!
+Min. 70 :(rce) Paulo_Rink con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia S_Biglieri
+          ...  S_Biglieri con un verdadero obús !
+          ...  C_Kletnicki adivina la direeción del balón y lo retiene
+Min. 80 :(rce) S_Biglieri llega segundos tarde al corte 
+          ...  Se ha pasado dos pueblos!!!
+          ...  AMARILLA!!
+          ...  Creo que el árbitro se ha pasado de riguroso
+          ...  La segunda ! A la calle ! 
+          ...  Se encara de mala manera con el colegiado!
+          ...  Sus compañeros lo reducen. Ojo que esto podría costarle caro!
+
+El arbitro añadira 3 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : rce  0 rac 2
+tiros a puerta       : rce  1 rac 0
+
+Marcador             : rce  0 rac 0
+
+
+<<< Estadisticas de los jugadores del Rosario Central >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+T_Azuasusht    GK   R 21  4  3  4 42 |  90   0   0   0   0   0   0   0   0   0  65   0   0   0 100
+Lichtsteiner  DFR   R  3 31 19  3 47 |  90   0   1   0   0   0   0   1   0   0   0  93   3   3  23
+L_G_Pirez     DFC RLC  4 22  7 10 51 |  90   0   0   0   0   0   0   0   0   0   0  65   0   0  29
+J_Sanguinetti DFC RLC  3 19  5  9 70 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  79
+Fabian_Monzon DFL   L  1 25 18 10 63 |  90   0   0   1   0   0   0   0   0   0   0   0  45   0  63
+J_P_Francia   MFC   C  5 14 18 10 32 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+Paulo_Rink    MFC RLC  3  6 19 14 68 |  90   0   0   5   0   0   0   1   0   0   0   3 228   3  62
+G_Karagounis  MFR  RC  2  1 21 14 56 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  42
+A_Isyowj      AML   L  5 12 18  9 86 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  84
+S_Biglieri    FWC   C  2  6  4 16 32 |  79   0   0   0   0   1   0   0   1   0   0   6   6  30  67
+D_Montenegro  FWR  RL  3  5  5 23 50 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  25
+Jorge_Broun    GK  RL 14  2  2  2 29 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  81
+L_Abecasis    DFC   R  3 21  7  5 69 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+N_Valentini   DFC   C  2 16  5  5 58 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Ricardo_Gomez MFC   L  2  6 16  5 47 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Galvaliz    MFC   L  2  6 10 10 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+P_Becker      MFC   C  2  5  7  9 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+N_Nicolay     FWC RLC  1  1  9 16 23 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  20
+-- Total --                                  0   1   6   0   1   0   2   1   0
+
+
+<<< Estadisticas de los jugadores del Racing >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+C_Kletnicki    GK   R 23  2  2  2 42 |  90   1   0   0   0   0   0   0   0   0  82   0   0   0 100
+G_Mendez      DFC   C  1 20  3  4 27 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  62
+Pablo_Lima    DFC   L  1 23  1 11 55 |  90   0   1   0   0   0   0   0   0   0   0  90   0   0  46
+I_Istaj       DFC  LC  2 16  4  4 61 |  90   0   2   0   0   0   0   0   0   0   0 245   0   0  73
+W_Gund        DFC   C  1 16  3  3 39 |  90   0   1   0   0   0   0   0   0   0   0  90   0   0  66
+R_Martinez    MFC RLC  1  4 17  4 64 |  49   0   0   0   0   0   0   0   0   1   0   0   0   0  88
+Javier_Lux    MFC RLC  2 15 16  7 40 |  90   0   1   3   0   0   0   0   0   0   0  90 135   0  68
+D_De_Rossi    MFC RLC  3 12 16  7 66 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  76
+T_Joblobru    MFC   C  2  3 16  4 54 |  90   0   1   0   0   0   0   0   0   0   0  90   0   0  72
+V_Píriz_Alves FWC   C  1  1  1 18 39 |  90   0   0   0   0   1   0   0   0   0   0   0   0  16  69
+Santi_Anselmo FWC   R  3  7  4 17 47 |  90   0   0   0   0   1   0   0   0   0   0   0   0  16  68
+Seba_Saja      GK   L 17  4  4  5 76 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Martinez    DFC   C  2 21  5  6 57 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  71
+L_Donati      MFC   R  3  6 16  5 49 |  41   0   0   0   0   0   0   0   0   0   0   0   0   0  84
+M_Caceres     DFC RLC  2 23  6  4 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  66
+Tomi_Rollan   FWC   C  2  4  3 16 22 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Brno_Zuculini MFC   C  3  7 18  6 62 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  84
+J_M_Calvo     DFC   R  3 19  6  7 48 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  80
+-- Total --                                  1   6   3   0   2   0   0   0   1
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+rce     0     82.93    59.48    36.86
+rac     0     70.14    64.99    43.35
+rce    10     80.13    57.42    35.60
+rac    10     67.72    63.18    42.08
+rce    20     76.93    55.11    33.91
+rac    20     65.49    61.42    40.68
+rce    30     73.69    52.90    32.31
+rac    30     63.02    59.34    39.16
+rce    40     70.58    50.89    30.60
+rac    40     60.41    57.77    37.73
+rce    50     66.91    48.37    28.91
+rac    50     57.75    55.69    36.22
+rce    60     63.53    45.98    27.38
+rac    60     55.84    50.85    34.86
+rce    70     60.11    43.83    26.05
+rac    70     53.48    49.09    33.63
+rce    80     56.62    41.52    24.64
+rac    80     51.11    47.24    32.20
+rce    90     52.10    38.72    15.59
+rac    90     48.42    45.39    30.75
+
+
+1370827476

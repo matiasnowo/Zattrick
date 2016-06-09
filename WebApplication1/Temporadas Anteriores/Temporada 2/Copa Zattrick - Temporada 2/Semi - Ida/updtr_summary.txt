@@ -1,0 +1,141 @@
+
+
+Injuries:
+---------
+
+J_Insaurralde (boc) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+
+
+
+Skill changes:
+--------------
+
+M_Mea_Vitali (ban) Tk aumenta su media gracias al skills
+Nwankwo_Kanu (ban) Ps aumenta su media gracias al skills
+K_Kamamoto (ban) Sh aumenta su media gracias al skills
+J_Lujambio (ban) Sh aumenta su media gracias al skills
+P_Mouche (ban) Sh aumenta su media gracias al skills
+Wailord (alb) Tk aumenta su media gracias al skills
+Venasaur (alb) Tk aumenta su media gracias al skills
+John_A_Riise (alb) Ps aumenta su media gracias al skills
+L_Matthaus (alb) Ps aumenta su media gracias al skills
+L_Matthaus (alb) Sh aumenta su media gracias al skills
+Hitmonlee (alb) Ps aumenta su media gracias al skills
+S_Staunton (alb) Ps aumenta su media gracias al skills
+Charizard (alb) Sh aumenta su media gracias al skills
+Zapdos (alb) Sh aumenta su media gracias al skills
+H_Castellano (ald) St aumenta su media gracias al skills
+C_L_Diaz (ald) Tk aumenta su media gracias al skills
+M_Almada (ald) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   2
+Red cards:      0
+Injuries:       1
+
+Top performers:
+
+Articuno (alb)        0
+Alakazam (alb)        0
+A_Panenka (alb)       0
+Dario_Šimic (alb)     0
+T_Hirano (alb)        0
+Steelix (alb)         0
+Julio_Cesar (alb)     0
+Rocko (alb)           0
+Zapdos (alb)          0
+S_Staunton (alb)      0
+Hitmonlee (alb)       0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+M_Zarate (vel)           9      9
+Nico_Blandi (boc)       10      9
+J_Lujambio (ban)        10      7
+C_Fabbiani (ald)        11      6
+R_Palacio (tig)          8      5
+H_Crespo (riv)           7      4
+M_Palermo (boc)         10      4
+Zapdos (alb)             8      3
+Charizard (alb)          8      3
+Franco_Jara (ars)        9      3
+Legolas (fer)            9      3
+A_Del_Piero (tig)        3      2
+Santi_Anselmo (rac)      3      2
+G_B_Leschuk (ars)        3      2
+Articuno (alb)           3      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+P_Ledesma (boc)         11    193
+M_Moralez (vel)         10    185
+H_Castellano (ald)      11    177
+JP_Carrizo (alb)        11    174
+M_Zarate (vel)           9    170
+Mati_Brad (boc)         11    163
+K_Kamamoto (ban)        10    159
+Mati_Jdm (riv)          10    159
+H_Fredes (ind)           9    155
+C_L_Diaz (ald)          11    144
+J_Yacuzzi (ars)         10    129
+Wailord (alb)            8    128
+R_Monserrat (ald)       10    123
+J_Lujambio (ban)        10    121
+Nico_Blandi (boc)       10    119
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+A_Fernandez (vel)        5      4
+M_Moralez (vel)         10      4
+Mati_Brad (boc)         11      4
+Javi_Morales (ars)       5      3
+P_Ledesma (boc)         11      3
+H_Losada (arg)           5      2
+Pancho_Abba (rac)        6      2
+C_Ansaldi (vel)          7      2
+W_Samuel (boc)           8      2
+G_Gigliaza (tig)         8      2
+S_Staunton (alb)         8      2
+L_Somoza (boc)           9      2
+S_Escudero (ald)         9      2
+M_Mea_Vitali (ban)       9      2
+K_Kamamoto (ban)        10      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Steelix (alb)            7     11
+D_Montenegro (ind)       7      7
+Nico_Blandi (boc)       10      7
+M_Materazzi (ban)       10      7
+L_Galeano (ind)          4      6
+A_Chari (tig)            6      6
+C_Pellerano (ind)        6      6
+H_Ameli (slo)            7      6
+Éric_Cantona (boc)      11      6
+Tom_Misaki (ald)         4      5
+N_Otamendi (vel)         8      5
+F_Morientes (riv)        8      5
+H_Ibarra (boc)           9      5
+S_Kun_Aguero (arg)       9      5
+E_Yostik (ars)           0      4
+

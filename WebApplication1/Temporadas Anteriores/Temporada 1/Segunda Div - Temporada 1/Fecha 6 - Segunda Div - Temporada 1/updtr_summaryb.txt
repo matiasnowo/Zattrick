@@ -1,0 +1,164 @@
+
+
+Injuries:
+---------
+
+Bofur (fer) Ya está listo para jugar despues de su lesión
+Gio_Moreno (rac) Ya está listo para jugar despues de su lesión
+G_Mendez (qui) estara de baja durante 2 partidos por una fractura en el brazo
+
+
+
+Suspensions:
+------------
+
+R_Faeck (qui) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+A_Chari (tig) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+J_Sanfilippo (qui) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+H_Navarro (tig) St aumenta su media gracias al skills
+M_Andrizzi (tig) Ps aumenta su media gracias al skills
+B_Schelotto (fer) Tk aumenta su media gracias al skills
+B_Schelotto (fer) Ps aumenta su media gracias al skills
+C_Kletnicki (rac) St aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          2  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 2)
+Assists:        1  (DFs - 0, DMs - 0, MFs - 1, AMs - 0, FWs - 0)
+Yellow cards:   7
+Red cards:      1
+Injuries:       1
+
+Top performers:
+
+Tulkas (fer)          21
+G_Rodriguez (qui)     18
+F_Marasco (tig)       18
+Thorin (fer)          16
+Umbreon (rac)         16
+Ivan_Cordoba (qui)    16
+Legolas (fer)         13
+M_Andrizzi (tig)      13
+M_Martinez (rac)      12
+H_Navarro (tig)       12
+P_Nicolini (tig)      12
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Independiente           6    3   2   1     7    4    3    11
+4    Arsenal                 6    3   1   2     5    5    0    10
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             6    1   3   2     4    5   -1     6
+7    Banfield                6    1   2   3     1    5   -4     5
+8    River Plate             5    1   1   3     4    6   -2     4
+9    Ferro                   1    1   0   0     2    0    2     3
+10   Argentinos              5    1   0   4     3    8   -5     3
+11   River PLate             1    0   1   0     1    1    0     1
+12   Quilmes                 1    0   1   0     0    0    0     1
+13   Racing                  1    0   1   0     0    0    0     1
+14   Boca Juniors            6    0   1   5     4   14  -10     1
+15   Tigre                   1    0   0   1     0    2   -2     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Legolas (fer)            6      2
+Tulkas (fer)             7      2
+F_Manteca (tig)          5      1
+P_Nicolini (tig)         6      1
+Ivan_Cordoba (qui)       6      1
+Lobo_Fischer (qui)       6      1
+J_Sanfilippo (qui)       6      1
+B_Schelotto (fer)        8      1
+U_Uclu (fer)            13      1
+B_Buticce (qui)          0      0
+Sapo_Villar (qui)        0      0
+R_Albretch (qui)         0      0
+Aldo_paredes (qui)       0      0
+P_Zabaleta (qui)         0      0
+P_Aveldaño (rac)         0      0
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+U_Uclu (fer)            13    123
+R_Faeck (qui)           12     79
+G_Gigliaza (tig)         6     72
+P_Nicolini (tig)         6     57
+Kíli (fer)               6     56
+Tulkas (fer)             7     56
+Ivan_Cordoba (qui)       6     49
+H_Navarro (tig)          8     48
+Pipo_Gorosito (qui)      6     47
+G_Mendez (qui)           6     46
+C_Kletnicki (rac)        6     45
+J_Botinelli (qui)        6     45
+Bofur (fer)              5     44
+Beorn (fer)              7     42
+B_Schelotto (fer)        8     42
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+U_Uclu (fer)            13      3
+G_Gigliaza (tig)         6      2
+F_Galetto (qui)          6      1
+Pipo_Gorosito (qui)      6      1
+A_Rangugni (tig)         0      0
+E_Bolotnicoff (tig)      0      0
+T_Rollan (tig)           0      0
+I_Colombini (rac)        0      0
+B_Buticce (qui)          0      0
+Sapo_Villar (qui)        0      0
+G_Lux (fer)              0      0
+R_Albretch (qui)         0      0
+Khazad_dûm (fer)         0      0
+Aldo_paredes (qui)       0      0
+Gandalf (fer)            0      0
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+A_Chari (tig)            5      5
+J_Sanfilippo (qui)       6      5
+J_Manteca (tig)          6      4
+Thranduil (fer)          3      3
+R_Faeck (qui)           12      3
+U_Uclu (fer)            13      3
+Thorin (fer)             3      2
+I_Sekagya (rac)          4      2
+Duracell (fer)           4      2
+Legolas (fer)            6      2
+Gonzalo_Bazan (qui)      6      2
+M_Mastronardi (tig)      2      1
+M_Martinez (rac)         4      1
+Gran_Trasgo (fer)        4      1
+F_Marasco (tig)          4      1
+

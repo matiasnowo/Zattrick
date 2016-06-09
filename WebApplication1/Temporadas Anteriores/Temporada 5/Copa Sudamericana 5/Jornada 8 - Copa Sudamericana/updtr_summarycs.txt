@@ -1,0 +1,134 @@
+
+
+Injuries:
+---------
+
+Ch_Aranguiz (udc) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Suspensions:
+------------
+
+J_Bosingwa (ban) ha sido suspendido por 2 partidos
+L_Civelli (udc) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+W_Samuel (boc) Ps aumenta su media gracias al skills
+Z_Boban (boc) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          3  (DFs - 0, DMs - 0, MFs - 1, AMs - 1, FWs - 1)
+Assists:        2  (DFs - 0, DMs - 0, MFs - 1, AMs - 1, FWs - 0)
+Yellow cards:   3
+Red cards:      2
+Injuries:       1
+
+Top performers:
+
+W_D_Montillo (sto)    52
+Jh_Herrera (udc)      33
+E_N_Miralles (sto)    29
+Arouca (sto)          27
+V_A_Santos (sto)      25
+Neymar (sto)          23
+M_N_Rodriguez (udc)   20
+C_Vergara (udc)       12
+G_Lorenzetti (udc)    12
+E_Dracena (sto)       12
+P_Rodriguez (sto)     11
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)             9     18
+Charizard (alb)          7     15
+Luís_Fabiano (arg)       9     12
+E_Fuertes (fer)         10     12
+M_Zarate (vel)           8     10
+D_Trezeguet (riv)        9      9
+F_Morientes (riv)        8      8
+RV_Nistelrooy (ban)      9      8
+Franck_Ribéry (ind)      9      8
+A_Papu_Gomez (col)      10      8
+R_Falcao_G (est)         7      7
+Juan_M_Iturbe (ind)      9      7
+Nico_Blandi (boc)        6      6
+A_Sánchez (gim)          8      6
+Nico_Martinez (ind)      9      6
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         8    348
+M_N_Cano (uai)          10    324
+Franck_Ribéry (ind)      9    260
+H_Fredes (ind)           9    259
+Luís_Fabiano (arg)       9    257
+Zapdos (alb)             9    252
+H_Castellano (ald)       9    249
+Charizard (alb)          7    229
+Ed_Retamoso (fer)        9    215
+Iker_Casillas (slo)     10    198
+M_Zarate (vel)           8    191
+J_I_Sills (uni)          9    189
+J_Fabbro (fer)           9    189
+S_Staunton (alb)         9    184
+A_Papu_Gomez (col)      10    180
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         8     13
+S_Staunton (alb)         9      6
+H_Fredes (ind)           9      5
+Kun_Aguero (ind)         9      5
+JS_Veron (est)           5      4
+A_Panenka (new)          6      4
+El_Misha (riv)           7      4
+M_Moralez (vel)          7      4
+Lucas_Moura (boc)        8      4
+Ruud_Gullit (arg)        8      4
+John_A_Riise (alb)       9      4
+J_Fabbro (fer)           9      4
+G_Gigliaza (est)        10      4
+Gabriel_Roth (fer)       5      3
+Gareth_Bale (riv)        8      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+R_Cascini (ars)          8      8
+Gino_Peruzzi (new)       8      7
+J_Bosingwa (ban)         8      6
+F_Galetto (qui)          3      5
+J_Insaurralde (boc)      7      5
+C_D_Ledesma (col)        7      5
+Matias_Diaz (fer)        9      5
+Oscar_Ruggeri (slo)      9      5
+A_Dominguez (riv)        1      4
+L_Rodriguez (slo)        5      4
+Iván_Alonso (uni)        5      4
+Joe_Corona (arg)         6      4
+N_Otamendi (vel)         6      4
+M_Mea_Vitali (ban)       7      4
+W_Samuel (boc)           7      4
+

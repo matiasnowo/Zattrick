@@ -1,0 +1,44 @@
+
+Olimpo 0 - 3 Aldosivi
+C_Fabbiani (ald) 13'
+C_Fabbiani (ald) 18'
+C_Fabbiani (ald) 83' pen
+
+
+Boca Juniors 2 - 0 Union de Santa Fe
+Nico_Blandi (boc) 25'
+Inj: Nico_Blandi (boc) 35'
+Lucas_Moura (boc) 85'
+
+
+All Boys 7 - 4 River Plate
+Charizard (alb) 16'
+Charizard (alb) 21'
+F_Morientes (riv) 22'
+Charizard (alb) 30'
+Inj: C_Arano (riv) 35'
+F_Morientes (riv) 36'
+D_Trezeguet (riv) 43'
+Inj: Mati_Jdm (riv) 43'
+D_Trezeguet (riv) 60'
+Zapdos (alb) 64'
+Charizard (alb) 71'
+Charizard (alb) 75'
+Charizard (alb) 82'
+
+
+Banfield 3 - 1 Independiente
+RV_Nistelrooy (ban) 32'
+RV_Nistelrooy (ban) 39'
+Rocko (ban) 77'
+Juan_M_Iturbe (ind) 86'
+
+Argentinos 4 - 2 Velez
+N_Otamendi (vel)  2'
+Luís_Fabiano (arg)  7'
+Luís_Fabiano (arg) 32'
+Luís_Fabiano (arg) 56'
+Inj: Joe_Corona (arg) 61'
+F_Estoyanoff (vel) 67' pen
+M_Klose (arg) 77'
+

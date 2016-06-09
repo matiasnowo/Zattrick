@@ -1,0 +1,133 @@
+
+
+Injuries:
+---------
+
+P_Schmeichel (ind) tendra que guardar reposo una semana por molestias en el muslo
+E_Broedn (arg) ino podra jugar los siguientes 2 partidos por una inflamacion de la rodilla
+D_Villalva (riv) tendra que guardar reposo una semana por molestias en el muslo
+B_Urribarri (col) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Skill changes:
+--------------
+
+A_Barijho (oli) Sh aumenta su media gracias al skills
+G_Peruzzi (ind) Tk aumenta su media gracias al skills
+H_Fredes (ind) Ps aumenta su media gracias al skills
+K_Elotya (arg) Tk aumenta su media gracias al skills
+B_Braksoc (arg) Ps aumenta su media gracias al skills
+R_Pereyra (riv) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   0
+Red cards:      0
+Injuries:       4
+
+Top performers:
+
+Lev_Yashin (riv)      0
+Sergi (riv)           0
+P_Ferrari (riv)       0
+G_Mercado (riv)       0
+L_Abecasis (riv)      0
+O_Ardiles (riv)       0
+R_Pereyra (riv)       0
+M_Platini (riv)       0
+M_Ballack (riv)       0
+D_Trezeguet (riv)     0
+D_Villalva (riv)      0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Leo_Jara (est)           0      0
+M_Gonzalez (est)         0      0
+Maxi_Nuñez (est)         0      0
+Lean_Benitez (est)       0      0
+J_Datolo (est)           0      0
+Hasan_Sas (est)          0      0
+P_Vidal (est)            0      0
+J_Schunke (est)          0      0
+Agus_Alayes (est)        0      0
+Raul_Iberbia (est)       0      0
+L_Desábato (est)         0      0
+M_Yepes (est)            0      0
+L_Orban (est)            0      0
+E_Ruiz (est)             0      0
+M_Laspada (est)          0      0
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Wailord (alb)            0      0
+T_Svenssen (alb)         0      0
+I_Velez (ind)            0      0
+F_Ikube (ind)            0      0
+L_Galeano (ind)          0      0
+J_Velazquez (ind)        0      0
+M_Velazquez (ind)        0      0
+C_Matheu (ind)           0      0
+Ever_Ludueña (ind)       0      0
+Mario_Bolatti (ind)      0      0
+F_Monserrat (ind)        0      0
+M_Ferreyra (ind)         0      0
+F_Fazio (ind)            0      0
+A_Argacha (ind)          0      0
+R_Bochini (ind)          0      0
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Lean_Gonzalez (est)      0      0
+Duvan_Zapata (est)       0      0
+Leo_Jara (est)           0      0
+M_Gonzalez (est)         0      0
+Maxi_Nuñez (est)         0      0
+Lean_Benitez (est)       0      0
+J_Datolo (est)           0      0
+Hasan_Sas (est)          0      0
+P_Vidal (est)            0      0
+J_Schunke (est)          0      0
+Agus_Alayes (est)        0      0
+Raul_Iberbia (est)       0      0
+L_Desábato (est)         0      0
+M_Yepes (est)            0      0
+L_Orban (est)            0      0
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Julio_Cesar (alb)        0      0
+Z_Boban (boc)            0      0
+Wailord (alb)            0      0
+T_Svenssen (alb)         0      0
+I_Velez (ind)            0      0
+F_Ikube (ind)            0      0
+L_Galeano (ind)          0      0
+J_Velazquez (ind)        0      0
+M_Velazquez (ind)        0      0
+C_Matheu (ind)           0      0
+Ever_Ludueña (ind)       0      0
+Mario_Bolatti (ind)      0      0
+F_Monserrat (ind)        0      0
+M_Ferreyra (ind)         0      0
+F_Fazio (ind)            0      0
+

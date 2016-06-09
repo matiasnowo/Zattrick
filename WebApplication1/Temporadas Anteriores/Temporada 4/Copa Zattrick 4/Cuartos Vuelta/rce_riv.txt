@@ -1,0 +1,156 @@
+Home                           Away
+----                           ----
+
+Rosario Central                River Plate                   
+
+GK  P_Ryoemnoije               GK  F_Eji                     
+DFR E_Andewjh                  DFL C_Arano                   
+DFC Ronald_Raldes              DFC C_Ayala                   
+DFC N_Valentini                DFC Mati_Jdm                  
+DFC Wacali                     DFR D_Passarella              
+DFL J_Sanguinetti              MFR El_Misha                  
+MFC P_Becker                   MFL Espeon                    
+MFC F_Vismara                  MFC E_Carolo                  
+MFR Ricardo_Gomez              MFC Gareth_Bale               
+MFL Sidd                       FWC F_Morientes               
+FWC S_Biglieri                 FWC D_Trezeguet               
+
+5-4-1 Defensive                4-4-2 Attacking                
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(riv) D_Trezeguet se anticipa a su marcador!
+          ...  Creo que lo ha empujado!
+          ...  "Sigan!" Dice el arbitro  
+          ...  D_Trezeguet no va a llegar. Sí, mete el pie...!
+          ...  GOOOOOL !!
+          ...  Qué golazo! Es para hacerle un monumento!
+          ...  rce 0-1 riv ...
+Min.  4 :(riv) C_Ayala se lanza al corte 
+          ...  el arbitro  lo llama inmediatamente
+          ...  el arbitro  le muestra la amarilla!!
+          ...  Madre mía, qué malos son los árbitros de aca!
+Min.  7 :(riv) F_Morientes esquiva una entrada asesina
+          ...  Va directo a puerta!
+          ...  Falla en el control
+          ...  y Wacali no desaprovecha el regalo
+Min. 12 :(rce) Ricardo_Gomez hace una pared con un compañero y mete de primeras para J_Sanguinetti
+          ...  Pero pisa un charco y cae al suelo!
+          ...  C_Ayala recoge el balón. Menudo marcaje le está haciendo!
+Min. 22 :(riv) Espeon pisa campo contrario. Mete un pase entre los centrales para F_Morientes
+          ...  F_Morientes suelta un disparo muy débil !
+          ...  GOOOOOL !!
+          ...  Buscó el disparo raso y ajustado al palo!
+          ...  rce 0-2 riv ...
+Min. 39 :(riv) El balón queda suelto! 
+          ...  F_Morientes gana la posesión
+          ...  Pero N_Valentini está más atento y corta el balón
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 51 :(riv) E_Carolo envía largo para D_Trezeguet
+          ...  Ronald_Raldes se anticipa a la jugada y se apodera del balón
+Min. 68 :(riv) Gareth_Bale para el balón con la planta del pie
+          ...  Qué calidad, tiene un guante en el pie!
+          ...  Se revuelve! Engaña a su par
+          ...  y cruza al balón sobre la llegada de C_Ayala
+          ...  C_Ayala se saca una vaselina magistral de la chistera !
+          ...  Busca la vaselina 
+          ...  A las nubes! Se habrá cambiado hoy de botas?
+Min. 70 :(riv) E_Carolo mete un balón interior para F_Morientes
+          ...  Pero J_Sanguinetti cabecea el balón hacia el portero
+Min. 77 :(rce) J_Sanguinetti cede atrás para Ronald_Raldes
+          ...  C_Arano llega como un tren y corta el ataque lanzándose al suelo
+
+El arbitro añadira 0 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : rce  0 riv 1
+tiros a puerta       : rce  0 riv 2
+
+Marcador             : rce  0 riv 2
+
+
+<<< Estadisticas de los jugadores del Rosario Central >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+P_Ryoemnoije   GK  RL 22  3  3  3 40 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+E_Andewjh     DFR   R  2 21  6  4 58 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+Ronald_Raldes DFC   C  2 22  1  6 43 |  90   0   1   0   0   0   0   0   0   0   0  90   0   0  71
+N_Valentini   DFC   C  2 16  5  5 58 |  90   0   1   0   0   0   0   0   0   0   0  90   0   0  73
+Wacali        DFC   C  4 19 10 11 39 |  90   0   1   0   0   0   0   0   0   0   0  90   0   0  67
+J_Sanguinetti DFL RLC  3 18  5  9 67 |  90   0   1   1   0   0   0   0   0   0   0  90  45   0  76
+P_Becker      MFC   C  2  5  7  9 59 |  90   0   0   0   0   0   0   0   0   0   0  92  92  92  74
+F_Vismara     MFC   C  2  5 13  4 45 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  70
+Ricardo_Gomez MFR   L  2  6 16  5 47 |  90   0   0   1   0   0   0   0   0   0   0   0  45   0  73
+Sidd          MFL   R  2  6 15  4 47 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  73
+S_Biglieri    FWC   C  2  6  4 15 32 |  90   0   0   0   0   0   0   0   0   0   0  92  92  92  62
+Jorge_Broun    GK  RL 14  2  2  2 32 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_G_Pirez     DFC RLC  4 20  7 10 48 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  50
+Fabian_Monzon DFC   L  1 23 17 10 63 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  69
+J_P_Francia   MFC   C  5 14 18 10 32 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  30
+M_Galvaliz    MFC   L  2  6 10 10 59 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Paulo_Rink    MFC RLC  3  6 18 14 68 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  71
+N_Nicolay     FWC RLC  5  4 13 20 30 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  56
+-- Total --                                  0   4   2   0   0   0   0   0   0
+
+
+<<< Estadisticas de los jugadores del River Plate >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+F_Eji          GK  RC 30  2  2  2 59 |  90   0   0   0   0   0   0   0   0   0 164   0   0   0 100
+C_Arano       DFL RLC  3 29  9  7 67 |  90   0   1   0   0   0   0   0   0   0   0  90   0   0  79
+C_Ayala       DFC RLC  3 29  6 11 68 |  90   0   1   0   0   1   0   1   0   0   0  93   3  19  56
+Mati_Jdm      DFC RLC  3 30  8  9 81 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+D_Passarella  DFR RLC  3 28  7  8 70 |  90   0   0   0   0   0   0   0   0   0   0 164  99  99  54
+El_Misha      MFR RLC  3  7 29  5 67 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+Espeon        MFL RLC  2  6 27  5 69 |  90   0   0   1   1   0   0   0   0   0   0   0 105   0  77
+E_Carolo      MFC RLC  3  5 26 10 70 |  90   0   0   2   0   0   0   0   0   0   0   0  90   0  67
+Gareth_Bale   MFC  LC  3 19 21 17 82 |  90   0   0   1   0   0   0   0   0   0   0   0  45   0  77
+F_Morientes   FWC   C  3  6 11 32 78 |  90   0   0   0   0   1   1   0   0   0   0   0   0 102  67
+D_Trezeguet   FWC  RC  4 10  8 26 80 |  90   0   0   0   0   1   1   0   0   0   0   0   0 102  72
+Lev_Yashin     GK   C 26  1  1  1 86 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Sergi         DFC RLC  2 25 17 10 64 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  71
+P_Ferrari     DFC RLC  3 24  6  6 69 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  94
+O_Ardiles     MFR  RC  3  9 20 20 74 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+A_Dominguez   MFC  RC  1  3 25  8 48 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  78
+José_Sosa     MFL  RL  1  3 24 18 55 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  85
+D_Villalva    FWC   C  3  7 10 22 76 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   2   4   1   3   2   1   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+rce     0    141.74    46.85    24.87
+riv     0     97.69   121.75   115.02
+rce    10    137.67    45.53    24.09
+riv    10     96.03   118.84   112.77
+rce    20    133.12    44.13    23.09
+riv    20     93.61   116.10   110.71
+rce    30    128.82    42.51    22.22
+riv    30     91.17   113.68   108.56
+rce    40    124.77    41.04    21.32
+riv    40     88.80   111.15   106.29
+rce    50    120.19    39.60    20.39
+riv    50     86.73   108.43   103.77
+rce    60    115.78    38.18    19.56
+riv    60     84.76   105.50   101.05
+rce    70    111.46    36.83    18.77
+riv    70     82.47   102.37    98.27
+rce    80    107.59    35.48    17.91
+riv    80     79.91    99.81    95.67
+rce    90    103.00    34.02    17.01
+riv    90     76.85    96.47    92.75
+
+
+1358733225

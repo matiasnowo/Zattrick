@@ -1,0 +1,124 @@
+
+
+Skill changes:
+--------------
+
+JP_Carrizo (alb) St aumenta su media gracias al skills
+T_Svenssen (alb) Sh aumenta su media gracias al skills
+L_Matthaus (alb) Ps aumenta su media gracias al skills
+A_Orion (boc) St aumenta su media gracias al skills
+Davor_Suker (boc) Ps aumenta su media gracias al skills
+B_Lizarazu (boc) Ps aumenta su media gracias al skills
+C_Ayala (riv) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   0
+Red cards:      0
+Injuries:       0
+
+Top performers:
+
+Facu_Ferreyra (ban)   0
+E_Stewart (ban)       0
+Esteban_Buján (ban)   0
+M_Schwarzer (ban)     0
+M_Bustamante (ban)    0
+L_Nowogrodzki (ban)   0
+C_Lucchetti (ban)     0
+P_Mouche (ban)        0
+J_Lujambio (ban)      0
+K_Kamamoto (ban)      0
+Ray_Wilkins (ban)     0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+M_Pellegrino (vel)       0      0
+M_Torsiglieri (vel)      0      0
+G_Vilariño (vel)         0      0
+R_Trotta (vel)           0      0
+C_Ansaldi (vel)          0      0
+N_Otamendi (vel)         0      0
+J_L_Chilavert (vel)      0      0
+G_Sessa (vel)            0      0
+Oliver_Kahn (vel)        0      0
+Raul_Estevez (slo)       0      0
+C_D_Biaggio (slo)        0      0
+Guille_Franco (slo)      0      0
+Berni_Romeo (slo)        0      0
+N_Ortigoza (slo)         0      0
+Carlos_Netto (slo)       0      0
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Donovan (ald)          0      0
+C_Tevez (arg)            0      0
+C_Ronaldo (arg)          0      0
+Il_F_Marelli (arg)       0      0
+S_Kun_Aguero (arg)       0      0
+G_O_Batistuta (arg)      0      0
+G_Higuain (arg)          0      0
+D_Milito (arg)           0      0
+C_Orcellet (ars)         0      0
+A_Limia (ars)            0      0
+Mario_Cuenca (ars)       0      0
+J_Gandolfi (ars)         0      0
+M_Brau (ars)             0      0
+A_Matellan (ars)         0      0
+L_Lopez (ars)            0      0
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Marcelo_Gomez (vel)      0      0
+M_Pellegrino (vel)       0      0
+M_Torsiglieri (vel)      0      0
+G_Vilariño (vel)         0      0
+R_Trotta (vel)           0      0
+C_Ansaldi (vel)          0      0
+N_Otamendi (vel)         0      0
+J_L_Chilavert (vel)      0      0
+G_Sessa (vel)            0      0
+Oliver_Kahn (vel)        0      0
+Raul_Estevez (slo)       0      0
+C_D_Biaggio (slo)        0      0
+Guille_Franco (slo)      0      0
+Berni_Romeo (slo)        0      0
+N_Ortigoza (slo)         0      0
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Maxi_Laso (ald)          0      0
+L_Donovan (ald)          0      0
+C_Tevez (arg)            0      0
+C_Ronaldo (arg)          0      0
+Il_F_Marelli (arg)       0      0
+S_Kun_Aguero (arg)       0      0
+G_O_Batistuta (arg)      0      0
+G_Higuain (arg)          0      0
+D_Milito (arg)           0      0
+C_Orcellet (ars)         0      0
+A_Limia (ars)            0      0
+Mario_Cuenca (ars)       0      0
+J_Gandolfi (ars)         0      0
+M_Brau (ars)             0      0
+A_Matellan (ars)         0      0
+

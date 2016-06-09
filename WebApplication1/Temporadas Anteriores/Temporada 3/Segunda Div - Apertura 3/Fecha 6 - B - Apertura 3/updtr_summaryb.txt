@@ -1,0 +1,178 @@
+
+
+Injuries:
+---------
+
+A_Morón (arg) Ya está listo para jugar despues de su lesión
+Iker_Casillas (slo) Ya está listo para jugar despues de su lesión
+Oscar_Ruggeri (slo) solo se quedo en un susto y estara apto para el siguiente partido
+R_Civelli (oli) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+
+
+
+Suspensions:
+------------
+
+Il_F_Marelli (arg) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+G_Mendez (qui) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Q_Uka (rac) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+L_Pusineri (slo) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+D_Manusovich (slo) no podrá jugar el siguiente partido por sanción
+Gonzalo_Bazan (qui) ha sido suspendido por 2 partidos
+Jacobo_Urso (qui) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+C_Kletnicki (rac) St aumenta su media gracias al skills
+Santi_Anselmo (rac) Sh aumenta su media gracias al skills
+D_Manusovich (slo) Tk aumenta su media gracias al skills
+Ruud_Gullit (arg) Ps aumenta su media gracias al skills
+M_Lanzini (arg) Sh aumenta su media gracias al skills
+J_Krupoviesa (oli) Tk aumenta su media gracias al skills
+C_Leiva (oli) Ps aumenta su media gracias al skills
+L_Donovan (oli) Ps aumenta su media gracias al skills
+F_Cavenaghi (fer) Sh aumenta su media gracias al skills
+Kasey_Keller (rce) St aumenta su media gracias al skills
+J_Botinelli (qui) Tk aumenta su media gracias al skills
+F_Galetto (qui) Ps aumenta su media gracias al skills
+J_Yacuzzi (ars) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         16  (DFs - 0, DMs - 0, MFs - 1, AMs - 5, FWs - 10)
+Assists:        8  (DFs - 2, DMs - 2, MFs - 3, AMs - 0, FWs - 1)
+Yellow cards:  11
+Red cards:      2
+Injuries:       2
+
+Top performers:
+
+Santi_Anselmo (rac)   52
+G_Campagnuolo (slo)   42
+A_Otroory (rac)       42
+H_Losada (arg)        40
+D_De_Rossi (rac)      37
+Rubén_Ferrer (rac)    35
+Tropius (rac)         29
+Origüela (rac)        25
+F_Cavenaghi (fer)     25
+Ricardo_Gomez (rce)   24
+M_Schwarzer (fer)     23
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Independiente           6    3   2   1     7    4    3    11
+4    Arsenal                 7    3   2   2     5    5    0    11
+5    All Boys                5    2   3   0     4    1    3     9
+6    Argentinos              6    2   0   4     8    8    0     6
+7    San Lorenzo             7    1   3   3     4   13   -9     6
+8    Banfield                6    1   2   3     1    5   -4     5
+9    River Plate             5    1   1   3     4    6   -2     4
+10   Racing                  1    1   0   0     8    0    8     3
+11   Ferro                   1    1   0   0     2    1    1     3
+12   River PLate             1    0   1   0     1    1    0     1
+13   Quilmes                 1    0   1   0     0    0    0     1
+14   Boca Juniors            6    0   1   5     4   14  -10     1
+15   Rosario Central         1    0   0   1     1    2   -1     0
+16   Olimpo                  1    0   0   1     0    5   -5     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Santi_Anselmo (rac)      5      5
+S_Kun_Aguero (arg)       6      5
+L_Monje (rce)            4      3
+S_Biglieri (rce)         4      3
+G_B_Leschuk (ars)        6      3
+M_Lanzini (arg)          1      2
+F_Cavenaghi (fer)        3      2
+Rubén_Ferrer (rac)       4      2
+Lobo_Cordone (oli)       5      2
+A_Otroory (rac)          5      2
+Moltres (oli)            6      2
+H_Losada (arg)           6      2
+G_O_Batistuta (arg)      1      1
+Sergio_Araujo (rac)      5      1
+Legolas (fer)            5      1
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Diego_Torres (ars)       6    105
+S_Kun_Aguero (arg)       6    100
+Ricardo_Gomez (rce)      6    100
+F_Coloccini (slo)        6     98
+C_Leiva (oli)            6     91
+F_Roncaglia (fer)        6     85
+J_Dudek (rce)            6     82
+D_De_Rossi (rac)         5     80
+Pateatraseros (arg)      6     78
+Ruud_Gullit (arg)        6     76
+Tropius (rac)            4     75
+Ivan_Cordoba (qui)       6     74
+Diego_Villar (ars)       6     74
+Santi_Anselmo (rac)      5     72
+Tauros (rce)             6     72
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Aaron_Lennon (rce)       4      2
+Ricardo_Gomez (rce)      6      2
+Ruud_Gullit (arg)        6      2
+J_Dudek (rce)            6      2
+W_Shoojho (arg)          2      1
+M_Cahais (rac)           3      1
+Origüela (rac)           3      1
+P_Toranzo (rac)          4      1
+D_De_Rossi (rac)         5      1
+Il_F_Marelli (arg)       5      1
+N_Odruska (arg)          5      1
+R_Chaert (arg)           5      1
+M_Schwarzer (fer)        6      1
+Gio_Moreno (rce)         6      1
+Javi_Morales (ars)       6      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Gonzalo_Bazan (qui)      5      7
+Nacho_Decarli (rac)      4      4
+P_Mannara (oli)          4      4
+Gio_Moreno (rce)         6      4
+Alakazam (rce)           0      3
+Q_Uka (rac)              1      3
+L_Pusineri (slo)         5      3
+G_Mendez (qui)           5      3
+Il_F_Marelli (arg)       5      3
+Berni_Romeo (slo)        6      3
+D_Manusovich (slo)       6      3
+Mario_Santana (slo)      6      3
+Jacobo_Urso (qui)        6      3
+J_Gandolfi (ars)         6      3
+F_Peppino (rce)          2      2
+

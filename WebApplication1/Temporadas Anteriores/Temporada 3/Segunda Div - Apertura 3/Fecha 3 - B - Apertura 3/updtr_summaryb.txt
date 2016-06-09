@@ -1,0 +1,163 @@
+
+
+Injuries:
+---------
+
+E_Andewjh (rce) Ya está listo para jugar despues de su lesión
+N_Ortigoza (slo) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+
+
+
+Suspensions:
+------------
+
+Gonzalo_Bazan (qui) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Mario_Santana (slo) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+Diego_Torres (ars) Ps aumenta su media gracias al skills
+L_Mareque (arg) Tk aumenta su media gracias al skills
+F_Coloccini (slo) Tk aumenta su media gracias al skills
+F_Roncaglia (fer) Tk aumenta su media gracias al skills
+Smaug (fer) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          1  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 1)
+Assists:        1  (DFs - 1, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:  15
+Red cards:      1
+Injuries:       1
+
+Top performers:
+
+F_Coloccini (slo)     36
+F_Roncaglia (fer)     30
+C_Leiva (oli)         29
+M_Cahais (rac)        24
+L_Mareque (arg)       20
+J_Krupoviesa (oli)    20
+Ivan_Cordoba (qui)    20
+Diego_Torres (ars)    19
+Ricardo_Gomes (fer)   18
+Smaug (fer)           18
+A_Matellan (ars)      14
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Independiente           6    3   2   1     7    4    3    11
+4    Arsenal                 7    3   2   2     5    5    0    11
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             7    1   4   2     4    5   -1     7
+7    Banfield                6    1   2   3     1    5   -4     5
+8    River Plate             5    1   1   3     4    6   -2     4
+9    Argentinos              6    1   1   4     3    8   -5     4
+10   Olimpo                  1    1   0   0     1    0    1     3
+11   River PLate             1    0   1   0     1    1    0     1
+12   Quilmes                 1    0   1   0     0    0    0     1
+13   Racing                  1    0   1   0     0    0    0     1
+14   Rosario Central         1    0   1   0     0    0    0     1
+15   Boca Juniors            6    0   1   5     4   14  -10     1
+16   Ferro                   1    0   0   1     0    1   -1     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+G_B_Leschuk (ars)        3      3
+Cadorna (oli)            2      1
+Lobo_Cordone (oli)       2      1
+H_Losada (arg)           3      1
+Legolas (fer)            3      1
+Leonardo (fer)           3      1
+Sergio_Araujo (rac)      3      1
+Santi_Anselmo (rac)      3      1
+Moltres (oli)            3      1
+S_Kun_Aguero (arg)       3      1
+Il_F_Marelli (arg)       3      1
+L_Gonzales (oli)         0      0
+B_Buticce (qui)          0      0
+D_Ramirez (oli)          0      0
+P_Zabaleta (qui)         0      0
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Diego_Torres (ars)       3     61
+F_Coloccini (slo)        3     58
+G_B_Leschuk (ars)        3     52
+C_Leiva (oli)            3     52
+L_Nowogrodzki (oli)      3     50
+L_Mareque (arg)          3     46
+Diego_Villar (ars)       3     41
+Smaug (fer)              3     40
+M_Ricci (oli)            3     39
+S_Kun_Aguero (arg)       3     39
+Il_F_Marelli (arg)       3     37
+Jorge_Vila (fer)         3     37
+S_Guzman (oli)           2     36
+Kasey_Keller (rce)       3     36
+Gio_Moreno (rce)         3     35
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+C_Leiva (oli)            3      1
+Gio_Moreno (rce)         3      1
+P_Toranzo (rac)          3      1
+Diego_Villar (ars)       3      1
+Adriano_C (ars)          3      1
+M_Ricci (oli)            3      1
+Il_F_Marelli (arg)       3      1
+Jorge_Vila (fer)         3      1
+F_A_Batista (slo)        0      0
+R_Oveja_Telch (slo)      0      0
+P_Michelini (slo)        0      0
+G_Rivarola (slo)         0      0
+RC_Montserrat (slo)      0      0
+Bambino_Veira (slo)      0      0
+Paulo_Silas (slo)        0      0
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Gonzalo_Bazan (qui)      2      4
+Alakazam (rce)           0      3
+Berni_Romeo (slo)        2      3
+Nacho_Decarli (rac)      2      3
+J_Gandolfi (ars)         3      3
+Mario_Santana (slo)      3      3
+Il_F_Marelli (arg)       3      2
+Ivan_Cordoba (qui)       3      2
+M_Martinez (rac)         3      2
+M_Brau (ars)             3      2
+C_Leiva (oli)            3      2
+A_Delorte (oli)          1      1
+Golem (rce)              1      1
+E_Faccioli (oli)         1      1
+Rubén_Ferrer (rac)       2      1
+

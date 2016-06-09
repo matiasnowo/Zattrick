@@ -1,0 +1,153 @@
+
+
+Injuries:
+---------
+
+A_Matellan (ars) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+D_Villalva (riv) estara de baja durante 3 partidos por una fractura en el brazo
+W_Shoojho (arg) se mantendra alejado de los terrenos por 3 partidos debido a tener el tabique nasal roto
+
+
+
+Suspensions:
+------------
+
+G_Funes_Mori (riv) no podrá jugar el siguiente partido por sanción
+J_Botinelli (qui) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+J_Gandolfi (ars) Tk aumenta su media gracias al skills
+R_Cascini (ars) Ps aumenta su media gracias al skills
+A_Gabbarini (ind) St aumenta su media gracias al skills
+L_Galeano (ind) Tk aumenta su media gracias al skills
+R_Bochini (ind) Ps aumenta su media gracias al skills
+Cadorna (oli) Ps aumenta su media gracias al skills
+M_Laspada (est) Tk aumenta su media gracias al skills
+A_Chavez (est) Sh aumenta su media gracias al skills
+L_Abecasis (riv) Tk aumenta su media gracias al skills
+O_Ardiles (riv) Sh aumenta su media gracias al skills
+M_Platini (riv) Ps aumenta su media gracias al skills
+Ruud_Gullit (arg) Ps aumenta su media gracias al skills
+Il_F_Marelli (arg) Ps aumenta su media gracias al skills
+J_Botinelli (qui) Tk aumenta su media gracias al skills
+Milton_Casco (qui) Tk aumenta su media gracias al skills
+Nico_Bertolo (qui) Ps aumenta su media gracias al skills
+R_Saa (qui) Sh aumenta su media gracias al skills
+A_Chari (tig) Tk aumenta su media gracias al skills
+R_Palacio (tig) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   9
+Red cards:      2
+Injuries:       3
+
+Top performers:
+
+H_Crespo (riv)        0
+F_Mondragón (arg)     0
+W_Shoojho (arg)       0
+Pateatraseros (arg)   0
+K_Elotya (arg)        0
+N_Odruska (arg)       0
+Ariel_Seltzer (arg)   0
+B_Braksoc (arg)       0
+H_Olaya (arg)         0
+Ruud_Gullit (arg)     0
+S_Kun_Aguero (arg)    0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        4      8
+C_Fabbiani (ald)         4      7
+F_Estoyanoff (vel)       4      6
+J_Lujambio (ban)         4      5
+Carlos_Duré (ars)        4      4
+Zapdos (alb)             4      4
+Jackson_Mrtnz (ald)      4      3
+L_Abraham (new)          4      3
+Kurapika (uni)           4      3
+Charizard (alb)          4      3
+F_Morientes (riv)        4      3
+M_Zarate (vel)           2      2
+Berni_Romeo (slo)        4      2
+S_Kun_Aguero (arg)       4      2
+V_Píriz_Alves (rac)      4      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Mono_Navarro (tig)       5    123
+A_Fernandez (vel)        4    112
+M_Moralez (vel)          4    109
+F_Estoyanoff (vel)       4    108
+R_Monserrat (ald)        4    101
+Placente (uni)           4    100
+Nico_Blandi (boc)        4     97
+P_Ledesma (boc)          4     89
+C_Fabbiani (ald)         4     88
+Zapdos (alb)             4     87
+J_Yacuzzi (ars)          5     85
+JP_Carrizo (alb)         4     84
+A_Carrizo (col)          4     84
+S_Escudero (ald)         4     82
+Hitmonlee (alb)          4     80
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+R_Monserrat (ald)        4      4
+P_Ledesma (boc)          4      3
+Hasan_Sas (est)          5      3
+Enzito_C (vel)           2      2
+Juan_J_Jayo_L (boc)      2      2
+R_Pereyra (riv)          3      2
+Ray_Wilkins (ban)        4      2
+M_Moralez (vel)          4      2
+S_Staunton (alb)         4      2
+S_Escudero (ald)         4      2
+R_Alvarez (vel)          4      2
+Darío_Larrosa (fer)      4      2
+V_Cuesta (ald)           1      1
+F_Mec (ban)              1      1
+E_Berizzo (vel)          2      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+M_Brau (ars)             3      7
+Leo_da_Silva (ind)       2      4
+C_Alvarez (ald)          2      4
+N_Odruska (arg)          3      4
+N_Ortigoza (slo)         4      4
+J_Botinelli (qui)        5      4
+M_Rodriguez (ban)        0      3
+Nico_Cabre (vel)         0      3
+Lobo_Cordone (oli)       1      3
+K_Elotya (arg)           1      3
+J_Sanguinetti (rce)      1      3
+G_Funes_Mori (riv)       1      3
+Juli_Barraza (col)       3      3
+N_Nicolay (rce)          3      3
+Pablo_Lima (rac)         3      3
+

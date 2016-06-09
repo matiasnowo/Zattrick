@@ -39,6 +39,25 @@ namespace DataAcces
         }
 
 
+        public string GetNombreEquipoporNombreArchivo(string Archivo)
+        {
+            string nombrete = "";
+            string query = "SELECT Nombre FROM Equipos WHERE Archivo = '" + Archivo + "'";
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
+
+            while (dr.Read())
+            {
+
+                nombrete = (string)dr["Nombre"];
+
+
+            }
+            dr.Close();
+
+            return nombrete;
+        }
+
+
 
         public int GetNivelInstalacionesDeEquipo(string Nombre)
         {

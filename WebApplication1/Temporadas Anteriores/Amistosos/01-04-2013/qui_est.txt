@@ -1,0 +1,192 @@
+Home                           Away
+----                           ----
+
+Quilmes                        Estudiantes de La Plata       
+
+GK  D_Vega                     GK  Mono_Navarro              
+DFC Ivan_Cordoba               DFR G_Contrera                
+DFC D_Macaluso                 DFC R_Schiavi                 
+DFC J_Botinelli                DFC JS_Veron                  
+DFC Gonzalo_Bazan              DFL L_Orban                   
+MFC Nico_Bertolo               MFR G_Gigliaza                
+MFC W_Jhokusht                 MFC Lean_Benitez              
+MFC Isgut                      MFL M_Gelabert                
+MFC F_Galetto                  AMC R_Falcao_G                
+FWC Kazu_Miura                 FWC E_Ryodsamn                
+FWC D_Akerman                  FWC Duvan_Zapata              
+
+4-4-2 Normal                   4-3-1-2 Normal                 
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  9 :(est) L_Orban se anticipa a su marcador!
+          ...  Creo que lo ha empujado!
+          ...  "Sigan!" Dice el arbitro  
+          ...  J_Botinelli llega como un tren y corta el ataque lanzándose al suelo
+Min. 13 :(est) R_Falcao_G gana metros
+          ...  R_Falcao_G se deshace de su marcador ! 
+          ...  Buen movimiento! Y dispara!
+          ...  Se mueve la red!
+          ...  GOOOOL !!
+          ...  Corre enloquecido hacia las gradas!
+          ...  Y se tira hacia el público! Qué loco!
+          ...  qui 0-1 est ...
+Min. 18 :(est) G_Gigliaza agarra a su rival de la camiseta!!
+          ...  el arbitro  hace sonar el silbato
+          ...  el arbitro  está pitando bien hoy!
+          ...  Se lleva una AMARILLA!!
+Min. 21 :(qui) Nico_Bertolo hace una pared con un compañero y mete de primeras para D_Akerman
+          ...  Pero pisa un charco y cae al suelo!
+          ...  G_Contrera recoge el balón. Menudo marcaje le está haciendo!
+Min. 24 :(est) JS_Veron realiza una entrada terrible
+          ...  AMARILLA!!
+          ...  Por unos momentos lo vi expulsado!
+          ...  el entrenador parece asombrado de que no fuera roja!
+Min. 25 :(est) R_Falcao_G entra con los tacos por delante 
+          ...  Ufff!! Lleva la marca de la bota impresa en el muslo!!
+          ...  Oh no! Expulsión!!
+          ...  ROJA!!
+Min. 35 :(est) Duvan_Zapata se anticipa a su marcador!
+          ...  Menuda explosividad!
+          ...  D_Macaluso chuta la pelota hacia las vallas. Ui! Le ha dado a un pobre fotógrafo!
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 46 :(qui) J_Botinelli salta de cabeza con su rival 
+          ...  Falta! Lo estaba agarrando
+          ...  el arbitro  saca el tarjetero y se lo muestra. Una imagen vale más que mil plabaras
+Min. 48 :(qui) D_Akerman se coloca en el camino del atacante 
+          ...  el arbitro  pita la falta. Se ha desentendido dla pelota
+          ...  Tuvo suerte de no ver la cartulina
+          ...  "Primer aviso... y último" le espeta el colegiado 
+Min. 51 :(est) G_Contrera envía a su oponente al césped!!
+          ...  Menudo trompazo!!
+          ...  Se marcha con una simple amonestación
+Min. 53 :(est) JS_Veron se deshace de su marcador
+          ...  Se va directo a puerta
+          ...  D_Macaluso llega como un tren y corta el ataque lanzándose al suelo
+Min. 60 :(qui) F_Galetto con una entrada asesina
+          ...  el arbitro  ignora las vehementes peticiones de targeta
+          ...  el entrenador ha tenido suerte esta vez
+Min. 72 :(est) G_Contrera corta el juego con una falta táctica 
+          ...  Y ahora qué? Amarilla?
+          ...  Recibe una charla conciliadora de el arbitro 
+Min. 79 :(qui) Nico_Bertolo avanza metros
+          ...  Mira el extremo derecho!
+          ...  Y le pone un pase de oro a Kazu_Miura en el otro lado! Qué clase!
+          ...  Kazu_Miura no va a llegar. Sí, mete el pie...!
+          ...  Coloca el balón lejos del alcance del portero!! 
+          ...  Pero da en el palo !!
+          ...  Bueno, los palos también juegan!!
+Min. 82 :(qui) Isgut con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia Kazu_Miura
+          ...  L_Orban pone el pie en el momento oportuno y despeja el balón
+Min. 83 :(est) M_Gelabert inicia el ataque
+          ...  Pase picado por L_Orban
+          ...  J_Botinelli le roba la pelota
+Min. 84 :(est) L_Orban combina con E_Ryodsamn con espacio por delante
+          ...  D_Macaluso se lanza hacia su oponente
+          ...  Y toca el balón! Que clase!
+Min. 89 :(qui) Gonzalo_Bazan agarra a su rival de la camiseta!!
+          ...  Bien visto por al árbitro
+          ...  AMARILLA!!
+
+El arbitro añadira 3 min. al tiempo reglamentario
+
+Min. 93 :(qui) Nico_Bertolo está cerrado por tres contrarios
+          ...  Se saca el balón de encima
+          ...  le cae a Kazu_Miura! Suerte o calidad?
+          ...  Kazu_Miura mete el interior del pie con mucha intención!
+          ...  Fuera!
+          ...  De qué sirve tanta potencia si el disparo va fuera???
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : qui  2 est 0
+tiros a puerta       : qui  0 est 1
+
+Marcador             : qui  0 est 1
+
+
+<<< Estadisticas de los jugadores del Quilmes >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+D_Vega         GK   L 22  3  3  3 61 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Ivan_Cordoba  DFC RLC  2 26  6  5 73 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  75
+D_Macaluso    DFC  RC  5 26  2  9 39 |  90   0   3   0   0   0   0   0   0   0   0 129   0   0  42
+J_Botinelli   DFC   R  3 22  9  8 68 |  90   0   2   0   0   0   0   0   0   0   0  86   0   0  72
+Gonzalo_Bazan DFC  RL  2 20  7  4 53 |  90   0   0   0   0   0   0   0   0   0   0  18  18  18  73
+Nico_Bertolo  MFC   R  1  1 26 14 68 |  90   0   0   3   0   0   0   0   0   0   0  18  54  18  69
+W_Jhokusht    MFC   R  2  5 16  5 39 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  65
+Isgut         MFC RLC  2  5 17  5 52 |  90   0   0   1   0   0   0   0   0   0   0   0  12   0  52
+F_Galetto     MFC   L  2  4 14  5 68 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  80
+Kazu_Miura    FWC RLC  2  2  6 23 62 |  90   0   0   0   0   2   0   0   0   0   0   0   0   8  69
+D_Akerman     FWC RLC  2  2 10 19 38 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  63
+B_Buticce      GK   L 13  2  2  2 51 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Juan_Rocchia  DFC  LC  2 22  4 13 42 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  77
+R_Faeck       MFC   R  2  4 17  4 41 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  81
+G_Rodriguez   DFC   R  2 14  4  5 56 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Alustiza    FWC RLC  2  6 12 21 58 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  88
+P_Zabaleta    MFC   C  2  5 13  5 37 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Jacobo_Urso   DFC   C  2 13 11  5 72 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   5   4   0   2   0   0   0   0
+
+
+<<< Estadisticas de los jugadores del Estudiantes de La Plata >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+Mono_Navarro   GK  RC 27  3  3  3 59 |  90   0   0   0   0   0   0   0   0   0  26   0   0   0 100
+G_Contrera    DFR   R  5 21  9  7 37 |  90   0   1   0   0   0   0   0   0   0   0  43   0   0  67
+R_Schiavi     DFC   C  2 16  4  4 43 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  66
+JS_Veron      DFC  LC  3 13 14 11 76 |  90   0   0   0   0   0   0   0   0   0   0  58  32  32  83
+L_Orban       DFL  RL  3 19  6  7 46 |  90   0   1   1   0   0   0   0   0   0   0  43  12   0  65
+G_Gigliaza    MFR RLC  2  5 20  4 69 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  80
+Lean_Benitez  MFC   C  2  5 17  5 49 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  21
+M_Gelabert    MFL   L  4  9 17  9 33 |  90   0   0   1   0   0   0   0   0   0   0   0  12   0  54
+R_Falcao_G    AMC  RC  1  7 11 24 54 |  24   0   0   0   0   1   1   0   0   0   0   0   0  48  73
+E_Ryodsamn    FWC   C  4  9 11 21 35 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  49
+Duvan_Zapata  FWC   C  2  5  6 16 62 |  90   0   0   0   0   0   0   0   0   0   0  32  32  32  75
+D_Grosso       GK   C 17  4  4  5 77 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+J_Menghini    DFC RLC  2 23 10 13 48 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  40
+T_Taiwo       DFC   R  3 18  8  7 62 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Hasan_Sas     MFC   C  2 12 24 14 32 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  81
+Matuzalem     MFC RLC  5  4 17 22 38 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  42
+P_Vidal       MFC   L  4 12 20  6 53 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  66
+M_Ajheble     FWC   R  3  6  6 17 33 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  68
+-- Total --                                  0   2   2   0   1   1   0   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+qui     0     72.54    63.14    53.27
+est     0     83.03    76.66    67.21
+qui    10     70.80    61.47    51.64
+est    10     80.50    74.13    65.01
+qui    20     68.48    59.52    50.05
+est    20     77.62    71.47    62.18
+qui    30     65.92    57.53    48.22
+est    30     73.54    61.89    44.66
+qui    40     63.95    55.32    46.86
+est    40     70.58    59.13    42.93
+qui    50     61.63    53.31    44.83
+est    50     67.16    56.47    40.97
+qui    60     59.21    51.65    43.22
+est    60     64.51    53.97    39.31
+qui    70     57.05    49.78    41.61
+est    70     61.75    51.78    37.27
+qui    80     54.74    47.70    40.17
+est    80     59.14    49.65    35.54
+qui    90     52.44    45.89    38.44
+est    90     56.89    47.61    34.16
+
+
+1364873071

@@ -1,0 +1,66 @@
+ACLARACION: TODO LO QUE NO FIGURE EN ESTE REGLAMENTO ES POR QUE FUNCIONA DE IGUAL MANERA A LA PRIMERA DIVISION.
+
+Auspiciantes:
+
+Todos los equipos comienzan con un auspiciante que paga: $30000
+
+Partido Perdido: sumas $1000
+Partido Empatado: sumas $2000
+Partido Ganado: sumas $3000
+
+Campeonato ganado: sumas $8000
+Campeonato seg puesto: sumas $4000
+Campeonato ultimo puesto: restas $6000
+
+
+Estadio:
+
+Valor de las entradas: $5
+
+Valor historico:
+
+Campeon: +5%
+
+Por cada Temporada que no ganes NINGUN titulo, tu valor historico, disminuira en un 5%
+
+
+- Ampliacion:
+
+Cada vez que se quiera ampliar un estadio solo se podra ampliar hasta el 25% de la capacidad del mismo, esto significa que si este tiene capacidad de 10000, entonces se puede ampliar 2500.
+
+
+Sueldos:
+
+Un 20% mas baratos que en Primera.
+
+
+Ascenso:
+
+El ganador del Apertura y el del Clausura juegan un unico partido para decidir el ascenso directo, el perdedor de este partido junto con el mejor de la tabla general son los que juegan la promocion para ascender.
+En caso que el ganado del Apertura y el Clausura sea el mismo, este equipo asciende directo y los siguientes 2 en la tabla general juegan la promocion para ascneder.
+
+
+Juveniles, las Opciones de pagos son de:
+
+10000: 5 Puntos de experiencia en Inferiores por semana
+
+20000: 7 Puntos de experiencia en Inferiores por semana
+
+30000: 10 Puntos de experiencia en Inferiores por semana
+
+40000: 12 Puntos de experiencia en Inferiores por semana
+
+50000: 15 Puntos de experiencia en Inferiores por semana
+
+60000: 20 Puntos de experiencia en Inferiores por semana
+
+
+Premios:
+
+Por salir Campeon, se te otorgaran 400.000,
+Pos salir Segundo, se te otorgaran 200.000
+
+Por tener el goleador del torneo, se te otorgaran 10.000
+Por tener el segundo goleador del torneo, se te otorgaran 5.000
+
+Al final de la Temporada se le pagaran 300.000 al mejor equipo de la tabla general. 

@@ -1,0 +1,135 @@
+Contratados Libres:
+
+Tigre:
+
+jm
+B_Schelotto (1.5)
+A_Machuca
+J_Manteca
+
+Newell's:
+
+R_Saa (2)
+s_romero (1.5)
+M_Schwarzer
+C_Tula
+T_Hirano (1.55)
+
+Ferro:
+
+L_Abraham
+J_Fabbro
+M_Barrera 
+
+Estudiantes:
+
+Mono_Navarro
+E_Figueroa
+E_Lavezzi (1.5)
+
+Union:
+
+F_Marasco
+A_Del_Piero
+L_Chichizola
+T_Henry
+Milton_Casco
+R_Chaert (1.5)
+Q_Egu
+I_Scocco
+F_Monserrat (1.5)
+Dickson_Etuhu (1.5)
+
+Olimpo:
+
+N_Burdisso
+
+
+Prestamos:
+
+Newell's:
+
+Edgar_Davids - viene de Banfield
+A_Chavez - viene de Banfield
+M_Albela - viene de Banfield
+Gino_Peruzzi - viene de Velez
+L_Gianetti - viene de Velez
+Jota_Eme - viene de Velez
+L_Castroman - viene de Velez
+A_Ortega - viene de Velez
+
+Estudiantes:
+
+G_Contrera - viene de Independiente
+R_Falcao_G - viene de Independiente
+G_Gigliaza - viene de Argentinos
+P_Gancedo_Jr - viene de River
+
+Gimnasia:
+
+T_Henry - viene de Union
+A_Franzoia - viene de Union
+Diego_Jara - viene de Union
+Shizuo_H - viene de Banfield
+E_Gonzalez - viene de Banfield
+L_Ocampos - viene de Banfield
+Nine_Tails - viene de Argentinos
+F_Guerrero - viene de Argentinos
+Angel_Carreño - viene de Ferro
+F_Mondragón - viene de Argentinos
+
+Union:
+
+R_funes_mori - viene de Banfield
+
+Ferro:
+
+J_Munh - viene de Argentinos
+Emmanuel_Pío - viene de Banfield
+Matias_Diaz - viene de Banfield
+Clemente - viene de Boca
+
+Olimpo:
+
+L_Nowogrodzki - viene de Banfield
+C_Leiva - viene de Banfield 
+R_Civelli - viene de Banfield 
+
+
+Ventas:
+
+Tigre:
+
+C_Maidana - viene de Banfield
+
+Union:
+
+Sills - viene de Velez
+Kurapika - viene de Banfield
+J_Iturbe viene de River
+
+Gimnasia:
+
+J_Datolo - viene de Boca
+Laucha_Acosta - viene de Boca 
+
+Olimpo:
+
+Dzsudzsák - viene de Banfield
+
+A NO SUMAR EDAD!
+
+Gilbert_Silva (ARS)
+Lucas Moura (BOC)
+Michel_Bastos (UNI)
+W_Caballero (ARG)
+E_Biancucchi (ARG)
+Ed_Retamoso (FER)
+Lichtsteiner (RCE)
+F_Santana (IND)
+Alfredo_Ramúa (GIM)
+Joe_Corona (ARG)
+Iván_Alonso (UNI)
+A_Sánchez (GIM)
+Pablo_Guiñazú (TIG)
+Franck_Ribéry (IND)

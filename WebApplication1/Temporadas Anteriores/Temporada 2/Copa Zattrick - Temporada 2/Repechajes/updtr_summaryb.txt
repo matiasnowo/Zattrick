@@ -1,0 +1,120 @@
+
+
+Skill changes:
+--------------
+
+J_Sanfilippo (qui) Sh aumenta su media gracias al skills
+R_Faeck (qui) Ps aumenta su media gracias al skills
+M_Martinez (rac) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          2  (DFs - 0, DMs - 0, MFs - 0, AMs - 1, FWs - 1)
+Assists:        2  (DFs - 0, DMs - 0, MFs - 2, AMs - 0, FWs - 0)
+Yellow cards:   8
+Red cards:      0
+Injuries:       0
+
+Top performers:
+
+G_Burgos (fer)        21
+M_Bravo (qui)         20
+R_Faeck (qui)         19
+Kíli (fer)            18
+Smaug (fer)           16
+G_Gigliaza (tig)      14
+M_Caceres (rac)       12
+Pancho_Abba (rac)     12
+M_Martinez (rac)      11
+G_Oberman (qui)       11
+Pipo_Gorosito (qui)   11
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Pipo_Gorosito (qui)      1      1
+G_Oberman (qui)          1      1
+R_Palacio (tig)          2      1
+G_Rodriguez (qui)        0      0
+R_Albretch (qui)         0      0
+P_Zabaleta (qui)         0      0
+C_Ledesma (qui)          0      0
+F_Galetto (qui)          0      0
+Ruben_Insua (qui)        0      0
+W_Montillo (qui)         0      0
+G_Gonzalez (qui)         0      0
+F_Lugo (tig)             0      0
+Abidal (tig)             0      0
+M_Posniak (tig)          0      0
+C_Quirosta (tig)         0      0
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+G_Burgos (fer)           2     36
+M_Bravo (qui)            2     32
+G_Gigliaza (tig)         2     29
+Thorin (fer)             2     28
+Tulkas (fer)             2     25
+Kíli (fer)               2     24
+I_Sekagya (rac)          2     24
+Smaug (fer)              2     22
+M_Caceres (rac)          2     22
+Esteban_Buján (qui)      2     20
+R_Faeck (qui)            1     19
+M_Martinez (rac)         2     17
+Sergio_Araujo (rac)      2     16
+Naoki_Matsuda (qui)      2     14
+J_Sanfilippo (qui)       2     14
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+R_Faeck (qui)            1      1
+M_Bravo (qui)            2      1
+G_Gigliaza (tig)         2      1
+Duracell (fer)           0      0
+Tom_Bombadil (fer)       0      0
+Elrond (fer)             0      0
+Gran_Trasgo (fer)        0      0
+Bofur (fer)              0      0
+P_Luguercio (rac)        0      0
+G_Hauche (rac)           0      0
+G_Espinoza (rac)         0      0
+Gio_Moreno (rac)         0      0
+P_Onhurt (rac)           0      0
+P_Aveldaño (rac)         0      0
+F_Galetto (qui)          0      0
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+L_Licht (rac)            1      1
+Origüela (rac)           2      1
+P_Toranzo (rac)          2      1
+A_Chari (tig)            2      1
+M_Martinez (rac)         2      1
+Smaug (fer)              2      1
+Gonzalo_Bazan (qui)      2      1
+Ivan_Cordoba (qui)       2      1
+Lobo_Fischer (qui)       2      1
+R_Palacio (tig)          2      1
+J_Botinelli (qui)        2      1
+C_Barriga (tig)          2      1
+T_Rollan (tig)           0      0
+Fede_Buffa (rac)         0      0
+R_J_Fernandez (rac)      0      0
+

@@ -1,0 +1,183 @@
+
+
+Injuries:
+---------
+
+JP_Carrizo (alb) Ya está listo para jugar despues de su lesión
+Nico_Martinez (ind) Ya está listo para jugar despues de su lesión
+A_Del_Piero (tig) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+Espeon (riv) se mantendra alejado de los terrenos por 2 partidos debido a un esguince de tobillo
+F_Morientes (riv) tendra que guardar reposo una semana por molestias en el muslo
+
+
+
+Suspensions:
+------------
+
+Steelix (alb) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Kun_Aguero (ind) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+J_Insaurralde (boc) no podrá jugar el siguiente partido por sanción
+M_Mea_Vitali (ban) no podrá jugar el siguiente partido por sanción
+C_Arano (riv) ha sido suspendido por 2 partidos
+
+
+
+Skill changes:
+--------------
+
+C_L_Diaz (ald) Tk aumenta su media gracias al skills
+M_Almada (ald) Ps aumenta su media gracias al skills
+R_Monserrat (ald) Ps aumenta su media gracias al skills
+Oliver_Atom (ald) Ps aumenta su media gracias al skills
+C_Fabbiani (ald) Sh aumenta su media gracias al skills
+M_Regueiro (ald) Sh aumenta su media gracias al skills
+A_Chari (tig) Tk aumenta su media gracias al skills
+F_Marasco (tig) Tk aumenta su media gracias al skills
+I_Velez (ind) Tk aumenta su media gracias al skills
+D_Montenegro (ind) Sh aumenta su media gracias al skills
+T_Svenssen (alb) Tk aumenta su media gracias al skills
+L_Matthaus (alb) Ps aumenta su media gracias al skills
+M_Laudrup (alb) Sh aumenta su media gracias al skills
+Charizard (alb) Sh aumenta su media gracias al skills
+Éric_Cantona (boc) Tk aumenta su media gracias al skills
+Davor_Suker (boc) Ps aumenta su media gracias al skills
+Mati_Brad (boc) Tk aumenta su media gracias al skills
+Mati_Brad (boc) Ps aumenta su media gracias al skills
+P_Ledesma (boc) Ps aumenta su media gracias al skills
+M_Mea_Vitali (ban) Ps aumenta su media gracias al skills
+C_Ayala (riv) Sh aumenta su media gracias al skills
+Mati_Jdm (riv) Ps aumenta su media gracias al skills
+E_Carolo (riv) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         10  (DFs - 0, DMs - 0, MFs - 1, AMs - 0, FWs - 9)
+Assists:        8  (DFs - 3, DMs - 0, MFs - 4, AMs - 1, FWs - 0)
+Yellow cards:   8
+Red cards:      2
+Injuries:       3
+
+Top performers:
+
+Oliver_Atom (ald)     50
+Mati_Brad (boc)       50
+C_Fabbiani (ald)      48
+M_Almada (ald)        42
+Hitmonlee (alb)       42
+Mono_Navarro (tig)    39
+Nico_Blandi (boc)     36
+A_Chari (tig)         36
+J_Insaurralde (boc)   33
+P_Ledesma (boc)       32
+C_Arano (riv)         29
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Aldosivi                7    5   1   1    16    4   12    16
+2    Velez                   7    5   1   1    12    5    7    16
+3    Independiente           7    4   2   1     8    4    4    14
+4    Arsenal                 6    3   1   2     5    5    0    10
+5    All Boys                6    2   3   1     5    4    1     9
+6    River Plate             6    2   1   3     5    6   -1     7
+7    San Lorenzo             6    1   3   2     4    5   -1     6
+8    Banfield                7    1   2   4     1    6   -5     5
+9    Boca Juniors            7    1   1   5     7   15   -8     4
+10   Argentinos              5    1   0   4     3    8   -5     3
+11   River PLate             1    0   1   0     1    1    0     1
+12   Tigre                   1    0   0   1     0    4   -4     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        6     12
+Nico_Martinez (ind)      5     11
+Charizard (alb)          6      9
+H_Crespo (riv)           6      6
+C_Fabbiani (ald)         6      5
+Chelo_Delgado (boc)      2      4
+Zapdos (alb)             6      4
+D_Montenegro (ind)       6      3
+F_Morientes (riv)        6      3
+J_Lujambio (ban)         6      3
+T_Henry (tig)            3      2
+G_Vallés (ind)           5      2
+S_Staunton (alb)         6      2
+Pavel_Nedved (vel)       6      2
+M_Palermo (boc)          6      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Charizard (alb)          6    179
+L_Matthaus (alb)         6    163
+Nico_Blandi (boc)        6    157
+H_Castellano (ald)       6    156
+S_Staunton (alb)         6    155
+Hitmonlee (alb)          6    150
+E_Carolo (riv)           6    145
+Mati_Brad (boc)          6    136
+P_Ledesma (boc)          6    133
+Nico_Martinez (ind)      5    131
+M_Almada (ald)           6    123
+M_Laudrup (alb)          6    121
+Mono_Navarro (tig)       6    108
+John_A_Riise (alb)       6    108
+Zapdos (alb)             6    107
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+P_Ledesma (boc)          6      5
+S_Staunton (alb)         6      4
+H_Fredes (ind)           5      3
+L_Matthaus (alb)         6      3
+E_Carolo (riv)           6      3
+Mati_Brad (boc)          6      3
+Oliver_Atom (ald)        4      2
+M_Albela (ban)           5      2
+Espeon (riv)             6      2
+B_Lizarazu (boc)         6      2
+P_Rodriguez (ind)        6      2
+M_Laudrup (alb)          6      2
+M_Almada (ald)           6      2
+J_Datolo (boc)           1      1
+E_Gonzalez (boc)         1      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+C_Arano (riv)            5      6
+Jota_Eme (vel)           4      5
+M_Mea_Vitali (ban)       6      5
+Éric_Cantona (boc)       6      4
+C_Ansaldi (vel)          0      3
+O_Ardiles (riv)          0      3
+L_Castroman (vel)        1      3
+Abidal (tig)             4      3
+Steelix (alb)            5      3
+A_Del_Piero (tig)        5      3
+G_Vallés (ind)           5      3
+J_Insaurralde (boc)      5      3
+Kun_Aguero (ind)         5      3
+H_Fredes (ind)           5      3
+D_Montenegro (ind)       6      3
+

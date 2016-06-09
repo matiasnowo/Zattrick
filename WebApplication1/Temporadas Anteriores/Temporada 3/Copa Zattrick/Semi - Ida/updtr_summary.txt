@@ -1,0 +1,124 @@
+
+
+Skill changes:
+--------------
+
+Maxi_Batman (boc) Tk aumenta su media gracias al skills
+P_Ledesma (boc) Ps aumenta su media gracias al skills
+Nico_Blandi (boc) Ps aumenta su media gracias al skills
+Mati_Jdm (riv) Tk aumenta su media gracias al skills
+E_Carolo (riv) Ps aumenta su media gracias al skills
+F_Morientes (riv) Ps aumenta su media gracias al skills
+R_Trotta (ban) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   2
+Red cards:      0
+Injuries:       0
+
+Top performers:
+
+RV_Nistelrooy (ban)   0
+Chipi_Barijho (ban)   0
+Ray_Wilkins (ban)     0
+E_Gonzalez (ban)      0
+M_Dos_Santos (ban)    0
+K_Kamamoto (ban)      0
+A_Carrizo (ban)       0
+J_Lujambio (ban)      0
+M_Rodriguez (ban)     0
+Hernán_Bruno (ban)    0
+L_Álvarez (ban)       0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Charizard (alb)         12     21
+Nico_Martinez (ind)     10     18
+Nico_Blandi (boc)       12     17
+Zapdos (alb)            12     17
+H_Crespo (riv)          11      8
+S_Kun_Aguero (arg)      12      7
+S_Biglieri (rce)         7      6
+F_Morientes (riv)       10      6
+C_Fabbiani (ald)        11      6
+J_Lujambio (ban)        12      6
+G_B_Leschuk (ars)       11      5
+D_Montenegro (ind)      11      5
+Santi_Anselmo (rac)     11      5
+Moltres (oli)           12      5
+E_Ryodsamn (est)         4      4
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)        12    435
+Charizard (alb)         12    371
+S_Staunton (alb)        12    324
+Zapdos (alb)            12    307
+Hitmonlee (alb)         12    259
+Mono_Navarro (tig)      11    246
+John_A_Riise (alb)      12    244
+H_Castellano (ald)      11    243
+Nico_Blandi (boc)       12    241
+P_Ledesma (boc)         12    233
+Nico_Martinez (ind)     10    219
+Mati_Brad (boc)         10    207
+T_Svenssen (alb)        12    195
+M_Almada (ald)          11    192
+H_Fredes (ind)          10    190
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)        12     12
+S_Staunton (alb)        12      9
+John_A_Riise (alb)      12      7
+H_Fredes (ind)          10      6
+P_Ledesma (boc)         12      5
+Mati_Brad (boc)         10      4
+Emmanuel_Pío (oli)       4      3
+R_Martinez (est)         5      3
+A_Fernandez (vel)        6      3
+Kun_Aguero (ind)         8      3
+A_Dominguez (riv)        9      3
+Aaron_Lennon (rce)       9      3
+L_Somoza (boc)          11      3
+B_Lizarazu (boc)        11      3
+M_Almada (ald)          11      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Éric_Cantona (boc)      11      9
+Gonzalo_Bazan (qui)     10      8
+C_Arano (riv)            9      7
+M_Mea_Vitali (ban)       9      6
+Steelix (alb)            9      6
+Jota_Eme (vel)           4      5
+M_Schwarzer (fer)       10      5
+H_Fredes (ind)          10      5
+M_Brau (ars)            11      5
+C_Ansaldi (vel)          0      4
+G_Peruzzi (ind)          2      4
+A_Tarantini (alb)        2      4
+Massimo_Oddo (oli)       3      4
+Nacho_Decarli (rac)      4      4
+P_Mannara (oli)          5      4
+

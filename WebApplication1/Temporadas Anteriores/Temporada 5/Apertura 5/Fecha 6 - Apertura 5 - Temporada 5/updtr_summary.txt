@@ -1,0 +1,193 @@
+
+
+Injuries:
+---------
+
+JP_Sorin (ald) Ya está listo para jugar despues de su lesión
+Joe_Corona (arg) Ya está listo para jugar despues de su lesión
+Nwankwo_Kanu (ban) Ya está listo para jugar despues de su lesión
+B_Ferreira (uni) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+J_Insaurralde (boc) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+Nico_Blandi (boc) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+
+
+
+Suspensions:
+------------
+
+M_Ballack (oli) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+F_Marasco (uni) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+N_Otamendi (vel) no podrá jugar el siguiente partido por sanción
+M_Uglessich (vel) no podrá jugar el siguiente partido por sanción
+C_Arano (riv) no podrá jugar el siguiente partido por sanción
+F_Morientes (riv) no podrá jugar el siguiente partido por sanción
+M_Mea_Vitali (ban) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+M_Uglessich (vel) Tk aumenta su media gracias al skills
+M_Moralez (vel) Ps aumenta su media gracias al skills
+Pavel_Nedved (vel) Ps aumenta su media gracias al skills
+C_L_Diaz (ald) Tk aumenta su media gracias al skills
+Danilo_Gerlo (ald) Tk aumenta su media gracias al skills
+F_Rijkaard (uni) Tk aumenta su media gracias al skills
+Dickson_Etuhu (uni) Tk aumenta su media gracias al skills
+C_Arano (riv) Tk aumenta su media gracias al skills
+C_Ayala (riv) Tk aumenta su media gracias al skills
+Mati_Jdm (riv) Tk aumenta su media gracias al skills
+D_Passarella (riv) Ps aumenta su media gracias al skills
+R_Pereyra (riv) Ps aumenta su media gracias al skills
+Loco_Vivaldo (oli) St aumenta su media gracias al skills
+L_Nowogrodzki (oli) Tk aumenta su media gracias al skills
+H_Ibarra (boc) Tk aumenta su media gracias al skills
+M_Mea_Vitali (ban) Ps aumenta su media gracias al skills
+K_Kamamoto (ban) Ps aumenta su media gracias al skills
+L_Mareque (arg) Ps aumenta su media gracias al skills
+Wailord (alb) Tk aumenta su media gracias al skills
+T_Svenssen (alb) Tk aumenta su media gracias al skills
+L_Matthaus (alb) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         15  (DFs - 0, DMs - 0, MFs - 0, AMs - 2, FWs - 13)
+Assists:        8  (DFs - 3, DMs - 0, MFs - 5, AMs - 0, FWs - 0)
+Yellow cards:  10
+Red cards:      1
+Injuries:       3
+
+Top performers:
+
+H_Castellano (ald)    45
+A_Fernandez (vel)     37
+A_Orion (boc)         33
+M_Moralez (vel)       32
+C_L_Diaz (ald)        30
+Espeon (riv)          29
+M_Zarate (vel)        29
+Franck_Ribéry (ind)   28
+H_Fredes (ind)        28
+El_Misha (riv)        28
+Charizard (alb)       28
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   7    5   2   0    13    5    8    17
+2    Aldosivi                7    4   2   1    13    5    8    14
+3    Independiente           7    4   2   1    10    4    6    14
+4    All Boys                6    3   3   0     7    3    4    12
+5    Arsenal                 7    3   2   2     5    5    0    11
+6    River Plate             6    2   1   3     6    7   -1     7
+7    San Lorenzo             7    1   4   2     4    5   -1     7
+8    Banfield                7    1   3   3     2    6   -4     6
+9    Colon de Santa Fe       1    1   0   0     8    1    7     3
+10   Union de Santa Fe       2    1   0   1     6    4    2     3
+11   Estudiantes de La Plata   1    1   0   0     2    0    2     3
+12   Argentinos              7    1   0   6     7   16   -9     3
+13   Boca Juniors            7    0   2   5     5   15  -10     2
+14   River PLate             1    0   1   0     1    1    0     1
+15   Ferro                   1    0   1   0     0    0    0     1
+16   Newell's Old Boys       1    0   1   0     0    0    0     1
+17   Quilmes                 1    0   1   0     0    0    0     1
+18   UAI Urquiza             1    0   1   0     0    0    0     1
+19   Racing                  1    0   0   1     0    2   -2     0
+20   Olimpo                  1    0   0   1     0    3   -3     0
+21   Gimnasia y Esgrima de La Plata   1    0   0   1     1    8   -7     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Charizard (alb)          4     11
+Zapdos (alb)             6     10
+D_Trezeguet (riv)        6      9
+M_Zarate (vel)           5      8
+Luís_Fabiano (arg)       6      8
+Nico_Blandi (boc)        5      6
+Juan_M_Iturbe (ind)      6      6
+F_Morientes (riv)        6      6
+RV_Nistelrooy (ban)      6      6
+Franck_Ribéry (ind)      6      5
+C_Fabbiani (ald)         6      5
+Nico_Martinez (ind)      6      4
+F_Estoyanoff (vel)       6      3
+R_Funes_Mori (uni)       6      2
+J_Lujambio (ban)         6      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         5    216
+H_Fredes (ind)           6    171
+Franck_Ribéry (ind)      6    169
+Charizard (alb)          4    155
+Luís_Fabiano (arg)       6    155
+Zapdos (alb)             6    143
+M_Zarate (vel)           5    139
+D_Trezeguet (riv)        6    139
+T_Svenssen (alb)         6    136
+El_Misha (riv)           6    131
+H_Castellano (ald)       6    126
+Hitmonlee (alb)          6    121
+J_I_Sills (uni)          6    119
+Lucas_Moura (boc)        6    113
+M_Moralez (vel)          5    111
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         5      9
+H_Fredes (ind)           6      4
+El_Misha (riv)           6      4
+M_Moralez (vel)          5      3
+John_A_Riise (alb)       6      3
+S_Staunton (alb)         6      3
+Lucas_Moura (boc)        6      3
+Ruud_Gullit (arg)        6      3
+Kun_Aguero (ind)         6      2
+F_Rijkaard (uni)         6      2
+Espeon (riv)             6      2
+L_Mareque (arg)          6      2
+I_Velez (ind)            6      2
+A_Fernandez (vel)        6      2
+Franck_Ribéry (ind)      6      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Nico_Cabre (vel)         0      3
+F_Marasco (uni)          2      3
+Eric_Gerets (boc)        3      3
+N_Otamendi (vel)         4      3
+M_Mea_Vitali (ban)       4      3
+Wailord (alb)            5      3
+W_Samuel (boc)           5      3
+M_Ballack (oli)          5      3
+J_Insaurralde (boc)      5      3
+C_Arano (riv)            6      3
+F_Morientes (riv)        6      3
+M_Uglessich (vel)        6      3
+Arruabarrena (ban)       4      2
+J_Bosingwa (ban)         5      2
+Ariel_Zarate (oli)       5      2
+

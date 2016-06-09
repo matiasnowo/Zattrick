@@ -1,0 +1,145 @@
+
+
+Injuries:
+---------
+
+Chipi_Barijho (ban) estara de baja una semana por una micro-rotura
+
+
+
+Suspensions:
+------------
+
+M_Materazzi (ban) no podrá jugar el siguiente partido por sanción
+D_Trezeguet (riv) no podrá jugar el siguiente partido por sanción
+W_Samuel (boc) ha sido suspendido por 2 partidos
+
+
+
+Skill changes:
+--------------
+
+J_Bosingwa (ban) Ps aumenta su media gracias al skills
+J_Lujambio (ban) Sh aumenta su media gracias al skills
+F_Eji (riv) St aumenta su media gracias al skills
+C_Arano (riv) Tk aumenta su media gracias al skills
+D_Trezeguet (riv) Sh aumenta su media gracias al skills
+Davor_Suker (boc) Tk aumenta su media gracias al skills
+Éric_Cantona (boc) Tk aumenta su media gracias al skills
+I_Velez (ind) Tk aumenta su media gracias al skills
+Nemanja_Matic (ind) Ps aumenta su media gracias al skills
+Kun_Aguero (ind) Ps aumenta su media gracias al skills
+H_Fredes (ind) Ps aumenta su media gracias al skills
+C_Benteke (ind) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   5
+Red cards:      1
+Injuries:       1
+
+Top performers:
+
+B_Lizarazu (boc)      0
+Chelo_Delgado (boc)   0
+Facundo_Erpen (boc)   0
+L_Somoza (boc)        0
+H_Ibarra (boc)        0
+M_Preud'homme (boc)   0
+P_Iarley (boc)        0
+M_Palermo (boc)       0
+Z_Boban (boc)         0
+Lucas_Moura (boc)     0
+Mati_Brad (boc)       0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Charizard (alb)         12     25
+Zapdos (alb)            13     25
+Luís_Fabiano (arg)      13     17
+M_Zarate (vel)          12     13
+F_Guerrero (gim)        16     13
+Nico_Blandi (boc)       10     12
+A_Sánchez (gim)         12     12
+D_Trezeguet (riv)       14     12
+F_Morientes (riv)       14     10
+RV_Nistelrooy (ban)     11      9
+A_Papu_Gomez (col)      14      9
+Nico_Martinez (ind)     14      9
+E_Zelaya (ars)          11      8
+R_Falcao_G (est)        12      8
+J_Lujambio (ban)        13      8
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)        14    523
+M_N_Cano (uai)          17    462
+Charizard (alb)         12    395
+Zapdos (alb)            13    349
+Luís_Fabiano (arg)      13    348
+H_Fredes (ind)          13    346
+Ed_Retamoso (fer)       14    329
+H_Castellano (ald)      14    327
+Alfredo_Ramúa (gim)     15    317
+F_Guerrero (gim)        16    309
+J_Fabbro (fer)          14    290
+M_Moralez (vel)         11    287
+Iker_Casillas (slo)     17    276
+M_Zarate (vel)          12    275
+Kun_Aguero (ind)        14    274
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)        14     18
+M_Moralez (vel)         11      7
+S_Staunton (alb)        13      7
+Alfredo_Ramúa (gim)     15      7
+H_Fredes (ind)          13      6
+Lucas_Moura (boc)       13      6
+J_Datolo (gim)          15      6
+A_Panenka (new)         12      5
+JS_Veron (est)          13      5
+Ed_Retamoso (fer)       14      5
+Hitmonlee (alb)         14      5
+Kun_Aguero (ind)        14      5
+Jadson (alb)             5      4
+John_A_Riise (alb)       9      4
+Ruud_Gullit (arg)       11      4
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+R_Cascini (ars)         14      9
+C_Arano (riv)           12      8
+J_Bosingwa (ban)        12      8
+Steelix (alb)           13      8
+Gino_Peruzzi (new)      14      8
+Pablo_Piatti (col)      14      8
+A_Papu_Gomez (col)      14      8
+Davor_Suker (boc)        8      7
+W_Samuel (boc)           8      7
+C_D_Ledesma (col)       11      7
+W_Shoojho (arg)         11      7
+D_Passarella (riv)      14      7
+N_Otamendi (vel)         9      6
+J_Insaurralde (boc)     10      6
+Ivan_Piris (gim)        10      6
+

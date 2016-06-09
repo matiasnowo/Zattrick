@@ -1,0 +1,135 @@
+
+
+Injuries:
+---------
+
+H_Ibarra (boc) el medico del equipo le ha dado permiso para jugar el siguiente partido sin riesgos
+
+
+
+Suspensions:
+------------
+
+Bruno_Cortez (spa) no podrá jugar el siguiente partido por sanción
+W_Renteria (mil) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+C_Traverso (boc) Tk aumenta su media gracias al skills
+P_Ledesma (boc) Tk aumenta su media gracias al skills
+Lucas_Moura (boc) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          5  (DFs - 0, DMs - 0, MFs - 0, AMs - 1, FWs - 4)
+Assists:        3  (DFs - 0, DMs - 0, MFs - 3, AMs - 0, FWs - 0)
+Yellow cards:   8
+Red cards:      2
+Injuries:       1
+
+Top performers:
+
+G_Lorenzetti (udc)    34
+P_H_Ganso (spa)       29
+Rodrigo_Caio (spa)    28
+E_Gutierrez (udc)     21
+Nelson_Ramos (mil)    21
+Lúcio (spa)           20
+J_E_Ortiz (mil)       19
+Denílson (spa)        16
+L_Civelli (udc)       15
+Jh_Herrera (udc)      15
+Fredy_Montero (mil)   14
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)             4      9
+Charizard (alb)          2      8
+Juan_M_Iturbe (ind)      4      6
+Luís_Fabiano (arg)       4      6
+D_Trezeguet (riv)        4      6
+M_Zarate (vel)           3      5
+Nico_Blandi (boc)        4      5
+RV_Nistelrooy (ban)      4      5
+Berni_Romeo (slo)        3      4
+E_Fuertes (fer)          4      4
+F_Morientes (riv)        4      4
+A_Chavez (new)           4      4
+Carlos_Duré (ars)        2      3
+E_Zelaya (ars)           3      3
+C_Fabbiani (ald)         4      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         3    184
+M_N_Cano (uai)           4    159
+Zapdos (alb)             4    130
+Luís_Fabiano (arg)       4    121
+Franck_Ribéry (ind)      4    118
+T_Svenssen (alb)         4    117
+H_Fredes (ind)           4    114
+Charizard (alb)          2    111
+J_I_Sills (uni)          4    109
+John_A_Riise (alb)       4    101
+M_Albela (new)           4    100
+S_Staunton (alb)         4    100
+A_Panenka (new)          3     97
+L_Pusineri (slo)         4     97
+Hitmonlee (alb)          4     97
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         3      9
+A_Panenka (new)          3      3
+Ruud_Gullit (arg)        4      3
+L_Pusineri (slo)         4      3
+S_Staunton (alb)         4      3
+John_A_Riise (alb)       4      3
+H_Fredes (ind)           4      3
+Pablo_Guiñazú (tig)      3      2
+Diego_Villar (ars)       3      2
+El_Misha (riv)           4      2
+Espeon (riv)             4      2
+Kun_Aguero (ind)         4      2
+I_Velez (ind)            4      2
+F_Rijkaard (uni)         4      2
+A_Fernandez (vel)        4      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+C_D_Ledesma (col)        2      4
+Gino_Peruzzi (new)       3      4
+R_Cascini (ars)          4      4
+Angel_Carreño (gim)      0      3
+L_Rodriguez (slo)        2      3
+M_Martinez (rac)         3      3
+Eric_Gerets (boc)        3      3
+Wailord (alb)            3      3
+Matias_Diaz (fer)        4      3
+W_Samuel (boc)           4      3
+J_Insaurralde (boc)      4      3
+N_Otamendi (vel)         2      2
+Gilbert_Silva (ars)      3      2
+J_Bosingwa (ban)         3      2
+A_Papu_Gomez (col)       4      2
+

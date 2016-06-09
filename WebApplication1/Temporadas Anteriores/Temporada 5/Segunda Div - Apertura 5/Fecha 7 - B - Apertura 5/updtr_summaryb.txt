@@ -1,0 +1,188 @@
+
+
+Injuries:
+---------
+
+J_Sanguinetti (rce) Ya está listo para jugar despues de su lesión
+Gaston_Silva (uai) Ya está listo para jugar despues de su lesión
+Diego_Villar (ars) ino podra jugar los siguientes 3 partidos por una inflamacion de la rodilla
+Berni_Romeo (slo) se mantendra alejado de los terrenos por 2 partidos debido a tener el tabique nasal roto
+Raul_Estevez (slo) solo se quedo en un susto y estara apto para el siguiente partido
+Seba_Saja (rac) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+M_Alustiza (qui) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+E_Gonzalez (gim) tras la exploracion medica realizada no se han encontrado impedimentos para que pueda jugar el siguiente partido
+
+
+
+Suspensions:
+------------
+
+R_Cascini (ars) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+F_Galetto (qui) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+F_Coloccini (slo) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+L_Pusineri (slo) tras cumplir su sancion estara disponible para su entrenador el siguiente partido
+Gilbert_Silva (ars) no podrá jugar el siguiente partido por sanción
+Oscar_Ruggeri (slo) no podrá jugar el siguiente partido por sanción
+J_P_Francia (rce) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+J_Gandolfi (ars) Tk aumenta su media gracias al skills
+J_Gandolfi (ars) Sh aumenta su media gracias al skills
+J_Yacuzzi (ars) Ps aumenta su media gracias al skills
+Ronald_D_Boer (ars) Sh aumenta su media gracias al skills
+D_Manusovich (slo) Tk aumenta su media gracias al skills
+H_Ameli (slo) Tk aumenta su media gracias al skills
+N_Ortigoza (slo) Ps aumenta su media gracias al skills
+A_Machuca (tig) Tk aumenta su media gracias al skills
+Y_Adno (new) Tk aumenta su media gracias al skills
+Shizuo_H (gim) Tk aumenta su media gracias al skills
+M_Yepes (est) Ps aumenta su media gracias al skills
+P_Vidal (est) Sh aumenta su media gracias al skills
+E_Ryodsamn (est) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:         13  (DFs - 0, DMs - 0, MFs - 1, AMs - 0, FWs - 12)
+Assists:        8  (DFs - 2, DMs - 2, MFs - 3, AMs - 0, FWs - 1)
+Yellow cards:  15
+Red cards:      1
+Injuries:       6
+
+Top performers:
+
+Ronald_D_Boer (ars)   49
+E_Fuertes (fer)       43
+Ed_Retamoso (fer)     37
+P_Gancedo_Jr (est)    35
+Laucha_Acosta (gim)   32
+M_N_Cano (uai)        30
+G_B_Leschuk (ars)     30
+JR_Riquelme (new)     29
+O_Barsottini (gim)    29
+M_Martinez (rac)      24
+A_Isyowj (rce)        24
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Arsenal                 8    4   2   2     8    5    3    14
+3    Aldosivi                6    4   1   1    12    4    8    13
+4    Independiente           6    3   2   1     7    4    3    11
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             8    1   5   2     4    5   -1     8
+7    Estudiantes de La Plata   2    2   0   0     5    0    5     6
+8    Banfield                6    1   2   3     1    5   -4     5
+9    Ferro                   2    1   1   0     4    3    1     4
+10   River Plate             5    1   1   3     4    6   -2     4
+11   Colon de Santa Fe       2    1   0   1     8    4    4     3
+12   Union de Santa Fe       1    1   0   0     5    2    3     3
+13   Argentinos              6    1   0   5     5   13   -8     3
+14   Quilmes                 2    0   2   0     0    0    0     2
+15   Newell's Old Boys       2    0   2   0     0    0    0     2
+16   River PLate             1    0   1   0     1    1    0     1
+17   Rosario Central         1    0   1   0     0    0    0     1
+18   Tigre                   1    0   1   0     0    0    0     1
+19   Racing                  2    0   1   1     0    2   -2     1
+20   UAI Urquiza             2    0   1   1     0    3   -3     1
+21   Boca Juniors            6    0   1   5     4   14  -10     1
+22   Gimnasia y Esgrima de La Plata   2    0   0   2     4   12   -8     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+E_Fuertes (fer)          7      8
+F_Guerrero (gim)         6      5
+Berni_Romeo (slo)        4      4
+A_Sánchez (gim)          5      4
+E_Zelaya (ars)           5      4
+Pablo_Piatti (col)       7      4
+L_Castroman (new)        7      4
+A_Chavez (new)           7      4
+Carlos_Duré (ars)        2      3
+P_Gancedo_Jr (est)       6      3
+A_Papu_Gomez (col)       7      3
+Diego_Jara (gim)         1      2
+T_Henry (gim)            1      2
+E_Terzaghi (gim)         2      2
+E_Ryodsamn (est)         5      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+M_N_Cano (uai)           7    240
+Ed_Retamoso (fer)        7    152
+M_Albela (new)           7    122
+Cris_Gonzalez (uai)      7    112
+Pablo_Piatti (col)       7    111
+Edgar_Davids (new)       7    111
+F_Guerrero (gim)         6    110
+Pablo_Guiñazú (tig)      6    110
+E_Fuertes (fer)          7    106
+L_Pusineri (slo)         6    103
+A_Panenka (new)          4    101
+Martin_Ortiz (uai)       6    100
+E_Brunyobt (col)         7     99
+J_Datolo (gim)           6     98
+F_Segovia (tig)          7     96
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+A_Panenka (new)          4      3
+L_Pusineri (slo)         6      3
+J_Datolo (gim)           6      3
+Ed_Retamoso (fer)        7      3
+Gabriel_Roth (fer)       4      2
+Pablo_Guiñazú (tig)      6      2
+Diego_Villar (ars)       6      2
+M_Albela (new)           7      2
+H_Ameli (slo)            7      2
+Wacali (rce)             1      1
+Angel_Carreño (gim)      1      1
+D_Akerman (qui)          1      1
+Nico_Cabrera (gim)       1      1
+T_Vuvroapr (new)         2      1
+G_Contrera (est)         2      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+R_Cascini (ars)          5      7
+C_D_Ledesma (col)        5      5
+Oscar_Ruggeri (slo)      7      5
+F_Galetto (qui)          1      4
+L_Rodriguez (slo)        3      4
+Matias_Diaz (fer)        6      4
+Gino_Peruzzi (new)       6      4
+Angel_Carreño (gim)      1      3
+Gilbert_Silva (ars)      4      3
+F_Coloccini (slo)        6      3
+L_Pusineri (slo)         6      3
+M_Martinez (rac)         6      3
+J_P_Francia (rce)        7      3
+J_M_Calvo (rac)          3      2
+Javier_Lux (rac)         4      2
+

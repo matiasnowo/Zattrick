@@ -1,0 +1,162 @@
+Home                           Away
+----                           ----
+
+Quilmes                        Ferro                         
+
+GK  D_Vega                     GK  M_Preud'homme             
+DFL Gonzalo_Bazan              DFR F_Roncaglia               
+DFR J_Botinelli                DFC Ricardo_Gomes             
+DFC Ivan_Cordoba               DFC Smaug                     
+DFC G_Mendez                   DFL Bofur                     
+MFR R_Faeck                    DMC M_Schwarzer               
+DMC Jacobo_Urso                MFL Jorge_Vila                
+DMC R_Albretch                 MFR E_Stewart                 
+MFL F_Galetto                  FWC Il_Cavalieri              
+FWR J_Sanfilippo               FWR Legolas                   
+FWL Lobo_Fischer               FWL Leonardo                  
+
+4-2-2-2 Normal                 4-1-2-3 Passing                
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  7 :(qui) R_Albretch se anticipa a su marcador!
+          ...  Creo que lo ha empujado!
+          ...  "Sigan!" Dice el arbitro  
+          ...  Smaug llega como un tren y corta el ataque lanzándose al suelo
+Min.  8 :(fer) F_Roncaglia dispara en carrera!
+          ...  El defensa mete la pierna
+          ...  sale rebotada hacia Legolas!
+          ...  Legolas se deshace de su marcador ! 
+          ...  Buen movimiento! Y dispara!
+          ...  Se estrella en el larguero!! 
+          ...  Controla el rebote con el pecho 
+          ...  OHHHHHHHH !! 
+          ...  Un defensa ha estado más rápido y ha enviado el balón fuera
+Min. 12 :(qui) Gonzalo_Bazan se lleva la mano al muslo!
+          ...  Hace que no con la cabeza! Se ha roto!
+Min. 12 :(qui) G_Rodriguez va a entrar por Gonzalo_Bazan. Apostaría a que juega de DFL. Sí!
+Min. 37 :(fer) Jorge_Vila hace una pared con un compañero y mete de primeras para Leonardo
+          ...  Pero pisa un charco y cae al suelo!
+          ...  Ivan_Cordoba recoge el balón. Menudo marcaje le está haciendo!
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 53 :(fer) F_Roncaglia evita la dura entrada de su marcador
+          ...  Ivan_Cordoba se anticipa a la jugada y se apodera del balón
+Min. 56 :(qui) Lobo_Fischer se anticipa a su marcador!
+          ...  Menuda explosividad!
+          ...  Lobo_Fischer le pega con dureza 
+         ...  No ha precisado demasiado !
+          ...  el portero cubre su ángulo 
+          ...  El balón hace un extraño!
+          ...  el portero ha quedado descolocado 
+          ...  Pero sale desviada !!
+Min. 57 :(qui) R_Albretch envía largo para J_Sanfilippo
+          ...  M_Schwarzer se anticipa a la jugada y se apodera del balón
+Min. 71 :(qui) Lobo_Fischer se levanta
+          ...  Pero el dolor es insoportable
+           ...  Malas noticias! Pide el cambio!
+Min. 71 :(qui) G_Gonzalez se despoja del chándal. Entrará por Lobo_Fischer y se ubicará de FWL
+Min. 75 :(fer) M_Schwarzer mira a la derecha
+          ...  Y cruza a la izquierda para Leonardo. Eso lo hacía Laudrup!
+          ...  Leonardo chuta!
+          ...  Al lateral de la red
+          ...  Parte del estadio cantó gol!!!!
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+Min. 91 :(fer) Leonardo gana metros
+          ...  Leonardo toca la pelota de primeras!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  GOOOOOL !!
+          ...  qui 0-1 fer ...
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : qui  1 fer 2
+tiros a puerta       : qui  0 fer 1
+
+Marcador             : qui  0 fer 1
+
+
+<<< Estadisticas de los jugadores del Quilmes >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+D_Vega         GK   L 18  3  3  3 59 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Gonzalo_Bazan DFL  RL  2 17  6  4 51 |  11   0   0   0   0   0   0   0   0   1   0   0   0   0  96
+J_Botinelli   DFR   R  3 17  8  8 68 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  78
+Ivan_Cordoba  DFC RLC  2 19  5  5 73 |  90   0   2   0   0   0   0   0   0   0   0 144   0   0  80
+G_Mendez      DFC   C  2 16  4  5 34 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  59
+R_Faeck       MFR   R  2  4 15  4 36 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  60
+Jacobo_Urso   DMC   C  2 12 10  5 72 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  81
+R_Albretch    DMC   C  2 12  5  5 45 |  90   0   0   1   0   0   0   0   0   0   0   0  28   0  66
+F_Galetto     MFL   L  2  4 13  5 66 |  90   0   0   0   0   0   0   0   0   0   0 -20 -20 -20  79
+J_Sanfilippo  FWR   R  2  5  6 16 47 |  90   0   0   0   0   0   0   0   0   0   0 -20 -20 -20  72
+Lobo_Fischer  FWL   L  2  5  5 16 57 |  70   0   0   0   0   1   0   0   0   1   0   0   0  11  80
+B_Buticce      GK   L 13  2  2  2 51 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Rodriguez   DFL   R  2 13  4  5 56 |  79   0   0   0   0   0   0   0   0   0   0   0   0   0  76
+Ruben_Insua   MFC   L  2  4 11  5 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Ledesma     MFC  RC  3  7 13  6 34 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Pipo_Gorosito MFC   C  2  4 11 11 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Gonzalez    FWL  LC  2  5  5 12 38 |  20   0   0   0   0   0   0   0   0   0   0   0   0   0  93
+G_Oberman     FWC  RC  3  6  6 14 66 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   2   1   0   1   0   0   0   2
+
+
+<<< Estadisticas de los jugadores del Ferro >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+M_Preud'homme  GK RLC 24  3  3  3 32 |  90   0   0   0   0   0   0   0   0   0  48   0   0   0 100
+F_Roncaglia   DFR   R  5 18  9 10 72 |  90   0   0   1   0   0   0   0   0   0   0   0  28   0  79
+Ricardo_Gomes DFC   C  3 21  5  4 46 |  90   0   0   0   0   0   0   0   0   0   0  78  78  78  70
+Smaug         DFC RLC  2 17  4  6 51 |  90   0   1   0   0   0   0   0   0   0   0  72   0   0  71
+Bofur         DFL   L  2 15  5  5 39 |  90   0   0   0   0   0   0   0   0   0   0 126  78  78  63
+M_Schwarzer   DMC  LC  3 15 15  6 37 |  90   0   1   1   0   0   0   0   0   0   0  72  28   0  64
+Jorge_Vila    MFL   L  3  7 18  7 59 |  90   0   0   1   0   0   0   0   0   0   0   0  28   0  77
+E_Stewart     MFR  RC  3  6 13 12 43 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  67
+Il_Cavalieri  FWC  LC  3  5  7 16 44 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  66
+Legolas       FWR  RL  2  5  5 16 57 |  90   0   0   0   0   1   0   0   0   0   0   0   0  11  77
+Leonardo      FWL   L  2  5  5 16 43 |  90   0   0   0   0   2   1   0   0   0   0   0   0  93  69
+G_Burgos       GK   C 16  3  3  3 74 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Jose_Dirceu   DFC   R  3 16  5  7 46 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Ozow        MFC   C  2  4 13  4 32 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Thorin        DFC   R  2 15  5  5 52 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+El_Caldo      MFC RLC  2  4 13  5 30 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Peregrin_Tuk  FWC  RC  2  5  4 14 54 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Tulkas        FWC RLC  2  5  6 15 35 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  0   2   3   0   3   1   0   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+qui     0     94.07    53.28    44.08
+fer     0     90.06    73.17    61.37
+qui    10     91.64    51.82    42.95
+fer    10     87.59    71.22    59.82
+qui    20     82.45    48.79    41.58
+fer    20     84.66    68.93    57.88
+qui    30     79.98    47.38    40.42
+fer    30     82.03    66.66    55.95
+qui    40     77.22    45.68    38.98
+fer    40     79.25    64.55    54.09
+qui    50     74.40    44.09    37.54
+fer    50     76.11    62.03    52.18
+qui    60     72.12    42.44    36.34
+fer    60     73.08    59.66    50.19
+qui    70     69.72    41.02    35.23
+fer    70     70.37    57.41    48.07
+qui    80     67.72    39.74    33.19
+fer    80     67.42    55.14    46.22
+qui    90     65.27    38.32    31.99
+fer    90     64.53    53.03    44.27
+
+
+1340330827

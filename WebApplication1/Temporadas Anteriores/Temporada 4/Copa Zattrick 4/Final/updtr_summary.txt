@@ -1,0 +1,150 @@
+
+
+Injuries:
+---------
+
+Steelix (alb) estara de baja una semana por una micro-rotura
+Hitmonlee (alb) estara de baja durante 2 partidos por una fractura en el brazo
+Satanas_Paez (ald) tendra que guardar reposo una semana por molestias en el muslo
+W_Samuel (boc) estara de baja una semana por una micro-rotura
+
+
+
+Suspensions:
+------------
+
+J_Lujambio (ban) no podrá jugar el siguiente partido por sanción
+C_Alvarez (ald) ha sido suspendido por 3 partidos
+W_Samuel (boc) no podrá jugar el siguiente partido por sanción
+Z_Boban (boc) ha sido suspendido por 3 partidos
+
+
+
+Skill changes:
+--------------
+
+Wailord (alb) Ps aumenta su media gracias al skills
+M_Materazzi (ban) Tk aumenta su media gracias al skills
+M_Materazzi (ban) Sh aumenta su media gracias al skills
+Edgar_Davids (ban) Ps aumenta su media gracias al skills
+L_Álvarez (ban) Ps aumenta su media gracias al skills
+Nwankwo_Kanu (ban) Ps aumenta su media gracias al skills
+Ray_Wilkins (ban) Ps aumenta su media gracias al skills
+J_Lujambio (ban) Sh aumenta su media gracias al skills
+H_Castellano (ald) St aumenta su media gracias al skills
+C_Alvarez (ald) Ps aumenta su media gracias al skills
+C_L_Diaz (ald) Tk aumenta su media gracias al skills
+Mati_Brad (boc) Ps aumenta su media gracias al skills
+P_Iarley (boc) Sh aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   8
+Red cards:      2
+Injuries:       4
+
+Top performers:
+
+Erik_Lamela (ban)     0
+Chipi_Barijho (ban)   0
+H_Castellano (ald)    0
+C_L_Diaz (ald)        0
+JP_Sorin (ald)        0
+Satanas_Paez (ald)    0
+M_Almada (ald)        0
+Oliver_Atom (ald)     0
+S_Escudero (ald)      0
+David_Beckham (ald)   0
+C_Fabbiani (ald)      0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)            18     30
+Nico_Blandi (boc)       14     25
+J_Lujambio (ban)        16     21
+C_Fabbiani (ald)        19     18
+F_Morientes (riv)       17     15
+Charizard (alb)         17     14
+M_Klose (arg)            9     13
+M_Zarate (vel)          12     13
+S_Kun_Aguero (arg)      16     12
+Nico_Martinez (ind)     14     11
+D_Trezeguet (riv)       11     10
+R_Funes_Mori (uni)      13     10
+F_Estoyanoff (vel)      14     10
+Kurapika (uni)          17     10
+Pablo_Piatti (col)      17     10
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Mono_Navarro (tig)      17    633
+O_Ibsi (gim)            10    510
+Zapdos (alb)            18    470
+H_Castellano (ald)      19    414
+F_Vargas (uni)          19    398
+L_Matthaus (alb)        13    369
+Hitmonlee (alb)         14    358
+Kun_Aguero (ind)        17    347
+J_I_Sills (uni)         18    335
+A_Fernandez (vel)       14    333
+S_Sosa (new)            19    330
+S_Kun_Aguero (arg)      16    326
+Charizard (alb)         17    326
+Nico_Blandi (boc)       14    325
+Ruud_Gullit (arg)       16    322
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+Hitmonlee (alb)         14      7
+S_Staunton (alb)        16      7
+R_Monserrat (ald)       17      7
+M_Moralez (vel)         12      6
+L_Matthaus (alb)        13      6
+John_A_Riise (alb)      16      6
+P_Ledesma (boc)         16      6
+Enzito_C (vel)           9      5
+Hasan_Sas (est)         13      5
+Espeon (riv)            15      5
+Ray_Wilkins (ban)       16      5
+Kun_Aguero (ind)        17      5
+Nwankwo_Kanu (ban)      18      5
+F_Vargas (uni)          19      5
+Oscar (arg)              8      4
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+V_Píriz_Alves (rac)     11      9
+C_Alvarez (ald)         13      9
+Z_Boban (boc)           14      9
+Éric_Cantona (boc)      14      9
+N_Ortigoza (slo)        17      9
+G_B_Leschuk (ars)        8      8
+Angel_Carreño (fer)     14      8
+M_Brau (ars)             6      7
+Steelix (alb)           11      7
+C_Arano (riv)           14      7
+A_Chari (tig)           15      7
+E_Fuertes (fer)         16      7
+RV_Nistelrooy (ban)     16      7
+H_Ameli (slo)           16      7
+Placente (uni)          16      7
+

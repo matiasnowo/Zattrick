@@ -1,0 +1,130 @@
+
+
+Suspensions:
+------------
+
+Éric_Cantona (boc) ha sido suspendido por 2 partidos
+Davor_Suker (boc) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+C_Traverso (boc) Tk aumenta su media gracias al skills
+B_Lizarazu (boc) Ps aumenta su media gracias al skills
+Nico_Blandi (boc) Sh aumenta su media gracias al skills
+D_Passarella (riv) Tk aumenta su media gracias al skills
+L_Astrada (riv) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   3
+Red cards:      2
+Injuries:       0
+
+Top performers:
+
+Chelo_Delgado (boc)   0
+F_Eji (riv)           0
+C_Arano (riv)         0
+C_Ayala (riv)         0
+Mati_Jdm (riv)        0
+D_Passarella (riv)    0
+El_Misha (riv)        0
+L_Astrada (riv)       0
+E_Carolo (riv)        0
+H_Crespo (riv)        0
+Lev_Yashin (riv)      0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        8     16
+Nico_Martinez (ind)      6     12
+Charizard (alb)          7     10
+Zapdos (alb)             7      8
+H_Crespo (riv)           8      6
+Santi_Anselmo (rac)      6      5
+S_Kun_Aguero (arg)       7      5
+C_Fabbiani (ald)         7      5
+Chelo_Delgado (boc)      2      4
+S_Biglieri (rce)         5      4
+D_Montenegro (ind)       7      4
+F_Cavenaghi (fer)        4      3
+L_Monje (rce)            5      3
+A_Otroory (rac)          6      3
+F_Morientes (riv)        6      3
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         7    264
+S_Staunton (alb)         7    217
+Charizard (alb)          7    214
+Nico_Blandi (boc)        8    206
+Hitmonlee (alb)          7    189
+Zapdos (alb)             7    181
+M_Laudrup (alb)          7    179
+H_Castellano (ald)       7    177
+Mono_Navarro (tig)       7    174
+John_A_Riise (alb)       7    160
+E_Carolo (riv)           8    149
+P_Ledesma (boc)          8    145
+Nico_Martinez (ind)      6    142
+Mati_Brad (boc)          8    140
+T_Svenssen (alb)         7    135
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         7      6
+S_Staunton (alb)         7      6
+P_Ledesma (boc)          8      5
+H_Fredes (ind)           6      4
+Aaron_Lennon (rce)       5      3
+M_Ricci (oli)            7      3
+John_A_Riise (alb)       7      3
+E_Carolo (riv)           8      3
+Mati_Brad (boc)          8      3
+P_Toranzo (rac)          5      2
+Oliver_Atom (ald)        5      2
+Espeon (riv)             6      2
+P_Vidal (ind)            6      2
+M_Albela (ban)           6      2
+Ruud_Gullit (arg)        7      2
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+Gonzalo_Bazan (qui)      5      7
+Éric_Cantona (boc)       8      7
+C_Arano (riv)            6      6
+Jota_Eme (vel)           4      5
+M_Mea_Vitali (ban)       6      5
+Nacho_Decarli (rac)      4      4
+P_Mannara (oli)          5      4
+Gio_Moreno (rce)         7      4
+O_Ardiles (riv)          0      3
+Alakazam (rce)           0      3
+C_Ansaldi (vel)          0      3
+L_Castroman (vel)        1      3
+Q_Uka (rac)              2      3
+G_Rodriguez (qui)        4      3
+Abidal (tig)             4      3
+

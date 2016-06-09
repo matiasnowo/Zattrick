@@ -1,0 +1,646 @@
+Home                           Away
+----                           ----
+
+Argentinos                     Gimnasia y Esgrima de La Plata
+
+GK  F_Mondragón                GK  O_Ibsi                    
+DFR K_Elotya                   DFC Juan_Forlin               
+DFC Pateatraseros              DFC J_C_Blengio               
+DFC L_Mareque                  DFC O_Barsottini              
+DFL N_Odruska                  DFC Lucas_Licht               
+DMC Ariel_Seltzer              MFC M_Ballack                 
+AMR Oscar                      MFC L_Sapetti                 
+AMC Ruud_Gullit                MFC Choy_Gonzalez             
+AML D_Manso                    MFC Nico_Cabrera              
+FWC M_Klose                    FWC E_Terzaghi                
+FWC F_Guerrero                 FWC G_Higuain                 
+
+4-1-0-3-2 Attacking            4-4-2 Normal                   
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min.  1 :(arg) D_Manso con un pase de tiralíneas para M_Klose
+          ...  M_Klose no va a llegar. Sí, mete el pie...!
+          ...  Pero O_Ibsi hace una gran parada
+          ...  Uau! Estuvo cerca! 
+          ...  Tuvo que emplearse a fondo para evitar el gol!
+Min.  2 :(arg) Pateatraseros con el regate
+          ...  Oportunidad clarísima
+          ...  Pateatraseros mira fijamente al marco!
+          ...  Dispara!
+          ...  Pero O_Ibsi bloca el remate con mucha seguridad
+Min.  3 :(arg) Ariel_Seltzer se la pone a F_Guerrero en el pie
+          ...  F_Guerrero se saca una terrible volea!
+          ...  O_Ibsi llega con la punta de los dedos al balón 
+          ...  y sale rozando el palo!! 
+          ...  Qué gran intervención!
+Min.  4 :(arg) Ruud_Gullit pisa campo contrario. Mete un pase entre los centrales para Pateatraseros
+          ...  Pateatraseros suelta un disparo muy débil !
+          ...  O_Ibsi despeja... con la cabeza!!!
+          ...  Estaba despistado! Su entrenador se está comiendo el banquillo
+Min.  5 :(arg) Ariel_Seltzer pasa largo con el interior hacia M_Klose
+          ...  Pero O_Barsottini está más atento y corta el balón
+Min.  6 :(arg) Oscar ubica el balón a la espalda de la defensa. M_Klose busca el desmarque
+          ...  O_Barsottini lo envía al césped
+          ...  Los aficionados reclaman penalti!
+          ...  Pero el arbitro  se desentiende de la jugada!
+Min.  7 :(arg) Oscar envía largo para M_Klose
+          ...  M_Klose se saca una tijera! Qué bello!
+          ...  Ha batido a el portero 
+          ...  Pero se va fuera !!
+Min.  8 :(arg) Ruud_Gullit centra desde la banda, encuentra a Oscar en el área
+          ...  O_Barsottini envía el balón suelto a las nubues. Cuidado con los pájaros!
+Min.  9 :(arg) Ruud_Gullit mete un balón interior para F_Guerrero
+          ...  F_Guerrero con la red entre ceja y ceja!
+          ...  O_Ibsi para sin demasiadas dificultades
+Min. 10 :(arg) Ariel_Seltzer cuelga de primeras para M_Klose
+          ...  M_Klose toca la pelota de primeras!
+          ...  O_Ibsi lo para cómodamente
+          ...  El disparo nunca llevó peligro real
+Min. 11 :(arg) N_Odruska para F_Guerrero
+          ...  F_Guerrero dispara un verdadero obús !
+          ...  O_Ibsi hinca la rodilla en el suelo y despeja
+          ...  Ei! Eso es estilo argentino!
+Min. 12 :(arg) D_Manso tiene campo por delante
+          ...  Pasa a M_Klose
+          ...  M_Klose mete la cabeza con valentía !
+          ...  el portero no va a llegar!
+          ...  OH!  Se va fuera! 
+          ...  el portero sonríe
+          ...  Habría llegado al balón?
+Min. 13 :(arg) K_Elotya se mete en diagonal a través de los defensas
+          ...  Se va del central que le sale al paso!
+          ...  El extremo se cuela por la espalda del lateral
+          ...  Envía el pase a M_Klose
+          ...  M_Klose busca el disparo !
+          ...  Pero le pegó rematadamente mal!
+Min. 14 :(arg) L_Mareque va en carrera
+          ...  L_Mareque se precipita en su remate!
+          ...  Pero O_Ibsi bloca el remate con mucha seguridad
+Min. 15 :(arg) Ruud_Gullit se cuela con potencia entre los centrales
+          ...  Lucas_Licht agarra a su rival en el área
+          ...  El delantero pide penalti desesperdamente!
+          ...  Pero el arbitro  hace que 'no' con la cabeza!!!
+Min. 16 :(arg) D_Manso supera al defensor
+          ...  D_Manso mete el interior del pie con mucha intención!
+          ...  Fuera!
+          ...  De qué sirve tanta potencia si el disparo va fuera???
+Min. 17 :(arg) Ariel_Seltzer se cuela hasta la línea de fondo
+          ...  Centra al segundo palo
+          ...  M_Klose entra el remate
+          ...  M_Klose controla el balón, amaga y... dispara! Oh!
+          ...  OOOOHHHHH!!!! 
+          ...  Fuera!
+          ...  Tenía una posición clara!
+          ...  El entrenador le está abroncando!
+Min. 18 :(arg) Ruud_Gullit le gana la espalda a su mrcador
+          ...  Ei, se ha despistado!
+          ...  Ruud_Gullit mira al portero!
+          ...  Trata de superarlo por el palo largo!
+          ...  O_Ibsi lo para cómodamente
+          ...  El disparo nunca llevó peligro real
+Min. 19 :(arg) Ruud_Gullit corre metros
+          ...  La defensa rival se ha despistado, hay hueco!!
+          ...  Pone un peligroso balón sobre la entrada de M_Klose
+          ...  M_Klose con un sorprendente remate !
+          ...  el portero no va a llegar!
+          ...  OH!  Se pierde por encima del larguero! 
+          ...  el portero sonríe
+          ...  Sabía que iba fuera? No se, no se...
+Min. 20 :(arg) L_Mareque está cerrado por tres contrarios
+          ...  Se saca el balón de encima
+          ...  le cae a M_Klose! Suerte o calidad?
+          ...  Suelta un latigazo con su pierna izquierda!
+          ...  Rebota en el palo!! 
+          ...  Se anticipa al defensa para el rebote 
+          ...  Tiene la portería para él solo !! 
+          ...  NOOOOOOOO! La ha tirado fuera! Imposible! No me lo creo!
+Min. 20 :(gim) G_Higuain salta sobre su oponente y lo derriba!!
+          ...  Reglamento en mano, esto es falta!!
+          ...  el arbitro  le hace señas. Esto no pinta bien
+          ...  el arbitro  charla acaloradamente con él
+          ...  AMARILLA!!
+Min. 21 :(arg) Ruud_Gullit se abre a la banda y cambie el juego hacia F_Guerrero
+          ...  F_Guerrero llega forzado al remate !
+          ...  Dispara excesivamente alto!
+          ...  Está horrorizado por lo que falló!
+          ...  No es para menos!
+Min. 22 :(arg) D_Manso se va de uno, de dos, de tres!
+          ...  Mira a un lado... y pasa hacia F_Guerrero al otro lado! OH!
+          ...  F_Guerrero salta con potencia por encima de la defensa !
+          ...  Golpea en el larguero 
+          ...  Bota hacia abajo 
+          ...  el portero la atrapa 
+          ...  Evitó el gol! 
+          ...  Parte de la grada reclama el tanto!!!
+Min. 23 :(arg) M_Klose Pisa el balón hacia la izquierda
+          ...  Y se le vuelve a cambiar de pierna! Vaya regate!
+          ...  M_Klose se escapa! Cuidado!
+          ...  GOOOOOL !!
+          ...  Buscó el disparo raso y ajustado al palo!
+          ...  Se quita la camiseta! Y las aficionadas enloquecen!
+          ...  arg 1-0 gim ...
+Min. 24 :(arg) N_Odruska conduce por la línea de medios
+          ...  Pasa hacia F_Guerrero
+          ...  Corte finísimo de Juan_Forlin
+          ...  Y evita el córner! Está en un momento dulce!
+Min. 24 :(arg) ... oooooh! Que entrada más dura de F_Guerrero 
+          ...  No hay espacio en Zattrick para este tipo de acciones!!!
+          ...  AMARILLA!!
+          ...  Tendrá que medir un pocos sus acciones desde este momento
+Min. 25 :(arg) Ariel_Seltzer recupera el balón
+          ...  Levanta la cabeza!
+          ...  Ve el desmarque de su compañero
+          ...  M_Klose recibe un pase increíble
+          ...  Se marcha!
+          ...  M_Klose busca una de las dos escuadras!
+          ...  O_Ibsi despeja... con la cabeza!!!
+          ...  Estaba despistado! Su entrenador se está comiendo el banquillo
+Min. 26 :(arg) Ruud_Gullit baja el balón con un cabezazo hacia Ariel_Seltzer
+          ...  Ariel_Seltzer empalma el balon con una rabona! Qué frivolidad!!
+          ...  O_Ibsi se anticipa al remate y lo atrapa con sencillez
+Min. 27 :(arg) A ver qué inventa Ariel_Seltzer ahora. Pase de interior hacia M_Klose
+          ...  M_Klose cruza la línea de medios, avanza, mira al portero y chuta!
+          ...  GOOOOOL !! 
+          ...  Los seguidores del el equipo local lo celebran efusivamente!
+          ...  arg 2-0 gim ...
+Min. 28 :(arg) N_Odruska Con un pase demasiado fuerte. K_Elotya va a llegar!
+          ...  K_Elotya salta y pica el balón perfectamente de cabeza !
+          ...  O_Ibsi mete el cuerpo!! 
+          ...  El balón rebota hacia arriba 
+          ...  Pero arg se incorpora velozmente y lo atrapa!!
+Min. 29 :(arg) Ruud_Gullit para el balón con la planta del pie
+          ...  Qué calidad, tiene un guante en el pie!
+          ...  Se revuelve! Engaña a su par
+          ...  y cruza al balón sobre la llegada de F_Guerrero
+          ...  F_Guerrero remata forzado... con la cabeza !
+          ...  Dispara precipitadamente
+          ...  Fuera! No pudo precisar el remate
+Min. 30 :(arg) Oscar hace la pared con M_Klose
+          ...  M_Klose busca el palo largo !
+          ...  O_Ibsi palmea a córner 
+          ...  el arbitro  pita saque de puerta 
+          ...  Increíble!
+Min. 31 :(arg) Ruud_Gullit se acerca al área
+          ...  Ve a M_Klose desmarcarse 
+          ...  Le tira un pase medido
+          ...  M_Klose prueba suerte con un disparo raso!
+          ...  el portero está batido! 
+          ...  Cruje el larguero!!
+          ...  Y a la grada
+Min. 32 :(arg) M_Klose en una demostración de potencia y velocidad!
+          ...  M_Klose otea la posición del portero !
+          ...  Dispara!
+          ...  el portero está sorprendido!
+          ...  Lo ha pillado fuera de posición!
+          ...  OH! Impacta en las vallas publicitarias 
+          ...  Gran disparo!
+          ...  Merecía el gol
+Min. 33 :(arg) Oscar pasa hacia M_Klose
+          ...  M_Klose le pega 'mordida'!
+          ...  El balón va haciendo extraños en el aire
+          ...  Roza el palo!
+          ...  Y fuera
+          ...  Buen disparo, mala suerte!
+Min. 34 :(arg) D_Manso está desmarcado! Controla la pelota!
+          ...  D_Manso vuela con bravura para rematar en plancha!
+          ...  Impacta en la parte interior del palo!!! 
+          ...  el portero trata de evitar que entre!
+          ...  Pero el balón acaba en la red!
+          ...  GOOOOOL !!
+          ...  Creo que el portero pudo hacer algo más!
+          ...  arg 3-0 gim ...
+Min. 35 :(arg) M_Klose frena el contraataque y espera algún apoyo
+          ...  La doblan por la derecha
+          ...  Y él aprovecha para colarse por la izquierda!!
+          ...  M_Klose empalma el balon con una rabona! Qué frivolidad!!
+          ...  GOOOOOL !! 
+          ...  el portero recoge el balón de la red con parsimonia
+          ...  arg 4-0 gim ...
+Min. 36 :(arg) M_Klose con una croqueta a lo Laudrup
+          ...  Menuda calidad!
+          ...  Pero E_Terzaghi cabecea el balón hacia el portero
+Min. 37 :(arg) Ruud_Gullit busca opciones
+          ...  Su compañero se deshace del marcador!
+          ... F_Guerrero recibe un pase medido
+          ...  F_Guerrero remata forzado... con la rodilla!
+          ...  O_Ibsi llega con la punta de los dedos al balón
+Min. 37 :(arg) Ruud_Gullit entra con los tacos por delante 
+          ...  Ufff!! Lleva la marca de la bota impresa en el muslo!!
+          ...  Se marcha con una simple amonestación
+          ...  Se habrá dejado las targetas en el vestuario???
+Min. 38 :(arg) F_Guerrero al primer toque para Ruud_Gullit
+          ...  Ruud_Gullit duerme el balón con el pecho y lo empalma de primeras!
+          ...  OOOOHHHHH!!!! 
+          ...  Increible!!! 
+          ...  Se ha ido fuera
+Min. 39 :(arg) L_Mareque suelta un cañonazo! Al larguero!
+          ...  Ruud_Gullit recoge el rebote
+          ...  Ruud_Gullit impacta la pelota en un alarde de calidad !
+          ...  O_Ibsi despeja con problemas
+          ...  El líbero mete la cabeza y aleja la pelota
+Min. 40 :(arg) D_Manso envía largo para N_Odruska
+          ...  N_Odruska trata de sorprender al portero con una inesperada vaselina !
+          ...  O_Ibsi se las apaña para meter los guantes
+Min. 41 :(arg) Ruud_Gullit pisa campo contrario. Mete un pase entre los centrales para M_Klose
+          ...  M_Klose le pega con la zurda!
+          ...  M_Klose no va a llegar! 
+          ...  Impacta en el palo!
+          ...  GOOOOOL !!
+          ...  Imparable!!
+          ...  arg 5-0 gim ...
+Min. 42 :(arg) Oscar pisa campo contrario. Mete un pase entre los centrales para Ruud_Gullit
+          ...  Ruud_Gullit chuta con la izquierda!
+          ...  Se estrella en el larguero!! 
+          ...  Controla el rebote con el pecho 
+          ...  OHHHHHHHH !! 
+          ...  Un defensa ha estado más rápido y ha enviado el balón fuera
+Min. 43 :(arg) Oscar cambia el juego hacia M_Klose 
+          ...  M_Klose prueba suerte!
+          ...  el portero no va a llegar!
+          ...  El esférico se estrella en el palo!
+          ...  Y fuera!
+Min. 44 :(arg) D_Manso regatea y se cuela en el área
+          ...  D_Manso con un toque de maestro!
+          ...  Su disparo es rechazado por el portero
+          ...  Se hace con el rebote!
+          ...  Y dispara fuera!
+          ...  Se precipitó!
+Min. 45 :(arg) Ariel_Seltzer corre metros
+          ...  La defensa rival se ha despistado, hay hueco!!
+          ...  Pone un peligroso balón sobre la entrada de L_Mareque
+          ...  L_Mareque chuta!
+          ...  O_Ibsi mete la mano y alcanza el balón con la punta de los dedos 
+          ...  córner, marca el arbitro   
+          ...  Pero el asistente lo corrige! Eso es asistir?
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+Min. 46 :(arg) M_Klose golpea el balón al hueco. L_Mareque aparece de la nada
+          ...  L_Mareque con un tremendo cabezazo !
+          ...  el portero detiene el balón con una mano!! 
+          ...  El rebote cae al centro, limpio para el delantero 
+          ...  Remata !!
+          ...  FUERA! Qué fallo! Está desesperado!
+Min. 47 :(arg) Oscar envía largo para M_Klose
+          ...  Lucas_Licht llega como un tren y arrolla a delantero y balón
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 46 :(arg) F_Guerrero pasa hacia M_Klose
+          ...  M_Klose busca la escuadra derecha !
+          ...  Al lateral de la red
+Min. 47 :(arg) N_Odruska se mete en diagonal a través de los defensas
+          ...  Se va del central que le sale al paso!
+          ...  El extremo se cuela por la espalda del lateral
+          ...  Envía el pase a F_Guerrero
+          ...  Potente chut de F_Guerrero !
+          ...  el portero ve como el balón se pierde lejos de su marco
+Min. 48 :(arg) Ruud_Gullit espera a que alguien le acompañe en ataque
+          ...  Levanta los brazos, nadie se desmarca!
+          ...  Busca la individual! Prepara el disparo!
+          ...  Rebota en un defensa y cae a pies de M_Klose
+          ...  M_Klose empalma el balon con una rabona! Qué frivolidad!!
+          ...  O_Ibsi pone los puños. El balón sale hacia arriba
+          ...  arg salta y lo atrapa con seguridad!
+          ...  Reaccionó rápidamente!
+Min. 49 :(arg) Ruud_Gullit se cuela por la banda
+          ...  Centra hacia Ariel_Seltzer
+          ...  Ariel_Seltzer con un sutil toque de puntera!
+          ...  Pero O_Ibsi alcanza la pelota con el puño 
+          ...  Ha demostrado mucha valentía en esa acción
+Min. 50 :(arg) L_Mareque encuentra el pasadizo
+          ...  Por ahí no pasaba ni un alfiler!
+          ...  L_Mareque se escapa! Cuidado!
+          ...  O_Ibsi hace una gran parada
+Min. 51 :(arg) F_Guerrero se cambia el balón de pierna
+          ...  Regatea al defensa
+          ...  Vaya pieza de museo!
+          ...  F_Guerrero prueba suerte con un disparo raso!
+          ...  Coloca el cuerpo y suelta un terrible disparo!! 
+          ...  GOOOOOL !!
+          ...  La clavó en la escuadra! Qué golazo!
+          ...  Pero ha sido anulado. Hubo falta previa sobre el defensa. Bien visto
+Min. 52 :(arg) Ariel_Seltzer está cerrado por tres contrarios
+          ...  Pisa el balón dos veces y los deja sentados!
+          ...  OH! Qué calse! Ahora mete el pase a Oscar
+          ...  Oscar con una preciosa vaselina!
+          ...  O_Ibsi mete la mano y alcanza el balón con la punta de los dedos
+Min. 53 :(arg) D_Manso avanza con el balón controlado
+          ...  Ve el desmarque de un compañero!
+          ...  Cruza el pase!
+          ...  M_Klose con un control facilísimo
+          ...  M_Klose hace una diagonal
+          ...  Y suelta un sorprendente disparo!
+          ...  Chuta con muy poca precisión
+          ...  El balón se pierde lejos del marco!
+Min. 54 :(arg) K_Elotya con el regate
+          ...  Peligro!
+          ...  K_Elotya suelta un terrible disparo por debajo de las piernas de su marcador !
+          ...  la pelota sale disparado!
+          ...  el portero salta ante el tremendo disparo!
+          ...  Llegará?
+          ...  No!
+          ...  Pero se estrella en palo!!
+          ...  Y va fuera!
+Min. 55 :(arg) Oscar se cuela por la banda
+          ...  Centra hacia F_Guerrero
+          ...  F_Guerrero golpea el balón a bote pronto !
+          ...  El disparo rebota en un defensa y se desvía
+          ...  GOOOOOL !!
+          ...  Qué mala suerte para el portero!
+          ...  arg 6-0 gim ...
+Min. 56 :(arg) L_Mareque hace una bicicleta y cambia el juego hacia M_Klose
+          ...  M_Klose controla el balón, amaga y... dispara! Oh!
+          ...  El balón le bota antes de disparar 
+          ...  Y se va a la grada. Hay risas en algunos sectores del campo
+Min. 57 :(arg) Ruud_Gullit hace una doble pared con Pateatraseros
+          ...  Gran volea de Pateatraseros !
+          ...  O_Ibsi despeja con problemas
+Min. 58 :(arg) K_Elotya con un pase de 50 metros M_Klose
+          ...  El lanzamiento rebota en el muslo de M_Klose y se encamina a puerta !
+          ...  El balón le bota antes de disparar 
+          ...  Y se va a la grada. Hay risas en algunos sectores del campo
+Min. 59 :(arg) F_Guerrero se va de uno
+          ...  Regatea a otro!
+          ...  A otro! Parece Maradona contra Inglaterra!
+          ...  Puede marcar! El gol del siglo!
+          ...  F_Guerrero remacha el balón a ras de suelo!
+          ...  Dispara defectuosamente 
+          ...  Tenía muy poco espacio para maniobrar
+Min. 60 :(arg) Oscar cuelga arriba sobre M_Klose
+          ...  M_Klose busca la escuadra !
+          ...  O_Ibsi pone el cuerpo detrás del balón y lo para
+          ...  Normás básicas de cómo parar!
+Min. 60 :(arg) J_Munh se despoja del chándal. Entrará por K_Elotya 
+          ...  Jugará de DFR 
+          ...  El entrenador reza para que el cambio de sus frutos
+Min. 61 :(arg) Ruud_Gullit asiste a F_Guerrero dentro del área
+          ...  F_Guerrero con un verdadero obús !
+          ...  GOOOOOL !! 
+          ...  Lo celebra corriendo hacia el banquillo 
+          ...  Y se abraza a un eufórico el entrenador
+          ...  NO! ANULADO!. Estaba en fuera de juego claramente
+Min. 62 :(arg) D_Manso pone el balón a la espalda de los centrales
+          ...  F_Guerrero se cuela desde atrás!
+          ...  F_Guerrero tiene el disparo a punto!
+          ...  Los aficionados se levantan de sus asientos!
+          ...  Pero el balón se va por encima del larguero !!
+Min. 63 :(arg) Ariel_Seltzer con un pase largo M_Klose
+          ...  M_Klose chuta sin mirar al portero !
+          ...  Pero el balón se pierde inofensivamente por encima del larguero
+Min. 64 :(arg) Ruud_Gullit con el saque de banda
+          ...  Ve a un compañero sólo!
+          ...  El balón vuela hacia M_Klose
+          ...  M_Klose ve al portero adelantado !
+          ...  A las nubes!
+          ...  Dejó el cuerpo atrás y no controló bien el disparo!
+Min. 65 :(arg) Ariel_Seltzer esquiva una entrada asesina
+          ...  Va directo a puerta!
+          ...  Ariel_Seltzer prueba suerte desde la lejanía !
+          ...  El disparo se le escurre a el portero de las manos
+          ... rueda lentamente hacia el marco!
+          ...  Pero sale a centímetros del palo!
+Min. 65 :(arg) La grada ruge cuando S_Kun_Aguero substituye a F_Guerrero para jugar de FWC
+Min. 65 :(arg) El ayudante del entrenador llama a B_Braksoc
+          ...  D_Manso va a ser sustituído
+          ...  El técnico le indica que juegue de MFL
+Min. 66 :(arg) Ruud_Gullit Con un pase demasiado fuerte. S_Kun_Aguero va a llegar!
+          ...  S_Kun_Aguero busca desequilibrar el partido!
+          ...  Coloca el balón suavemente lejos del alcance del portero!! 
+          ...  Pero sale rozando el palo !!
+          ...  el portero estaba vendido!
+Min. 67 :(arg) J_Munh avanza en diagonal
+          ...  Espléndido taconazo para M_Klose
+          ...  M_Klose regatea a su marcador y busca el gol !
+          ...  Ay va! Ha tirado a metros de la portería
+          ...  Creo que el míster lo va a poner a patear toda la semana como castigo!!
+Min. 68 :(arg) Ruud_Gullit regatea a un rival
+          ...  A otro! Esté en racha!
+          ...  Y mete el pase hacia M_Klose
+          ...  Espectacular remate de M_Klose !
+          ...  O_Ibsi para el lanzamiento
+          ...  Y aleja la pelota!
+Min. 69 :(arg) B_Braksoc regatea a su marcador
+          ...  Va a disparar!
+          ...  No! Pasa hacia S_Kun_Aguero! Ha engañado a todos
+          ...  S_Kun_Aguero le pega con la zurda!
+          ...  Pero dispara muy abierto
+          ...  Sabrá que el objetivo del fútbol es meter el balón en la portería?
+Min. 70 :(arg) Peligroso centro de Ariel_Seltzer a S_Kun_Aguero
+          ...  S_Kun_Aguero recibe el balón de espaldas ! ...  Oh! Se ha sacado una tijereta!
+          ...  Roza el larguero
+          ...  Y se pierde por la línea de fondo
+          ...  Ese disparo llevaba veneno!
+Min. 71 :(arg) B_Braksoc con el lanzamiento de la falta
+          ...  Ojo que la defensa está mal colocada!
+          ...  Vuela directa hacia J_Munh
+          ...  J_Munh impacta la pelota al primer toque!
+          ...  Podría haberla parado!
+          ...  Se estrella en el larguero!! 
+          ...  Controla el rebote con el pecho 
+          ...  OHHHHHHHH !! 
+          ...  Un defensa ha estado más rápido y ha enviado el balón fuera
+Min. 72 :(arg) Ariel_Seltzer volea la pelota. Va directo hacia M_Klose
+          ...  M_Klose empalma el balón a la perfección!
+          ...  Chuta con el exterior!
+          ...  Uhhhhh! Ha salido a metros del marco
+Min. 73 :(arg) S_Kun_Aguero de taco hacia M_Klose. Gran pase!
+          ...  El lanzamiento rebota en el muslo de M_Klose y se encamina a puerta !
+          ...  Pega en el palo
+          ...  Y en la espalda del portero !!
+          ...  GOOOOOL !!
+          ...  Los jugadores del el equipo visitante miran desolados a su portero!
+          ...  arg 7-0 gim ...
+Min. 74 :(arg) B_Braksoc se interna por la banda
+          ...  Pone un medido centro sobre Oscar
+          ...  Oscar suelta un terrible disparo por debajo de las piernas de su marcador !
+          ...  Pero O_Ibsi desvía el lanzamiento 
+          ...  el arbitro  da saque de puerta 
+          ...  Algún oculista en la grada??? Es urgente!!!
+Min. 75 :(arg) B_Braksoc ve el desmarque de Oscar
+          ...  Juan_Forlin se anticipa la acción 
+          ...  Vaya pedazo de defensa!
+          ...  Los aficionados corean su nombre
+Min. 76 :(arg) M_Klose encara al defensa
+          ...  M_Klose tiene tiempo y espacio!
+          ...  Chuta!
+          ...  O_Ibsi despeja... con la cabeza!!!
+          ...  Estaba despistado! Su entrenador se está comiendo el banquillo
+Min. 77 :(arg) S_Kun_Aguero se interna por una banda
+          ...  Túnel al defensa! Oh! Lo han visto?
+          ...  Quiebra al lateral! Qué jugada!
+          ...  N_Odruska tira el desmarque en el centro
+          ...  Le pone una pase medido!
+          ...  N_Odruska acomoda el balón!
+          ...  Y le pega!
+          ...  O_Ibsi palmea a córner 
+          ...  el arbitro  pita saque de puerta 
+          ...  Increíble!
+Min. 78 :(arg) B_Braksoc hace un regate digno de 'O rei' Pelé
+          ...  B_Braksoc con un toque de maestro!
+          ...  el portero está sorprendido!
+          ...  Lo ha pillado fuera de posición!
+          ...  OH! Impacta en las vallas publicitarias 
+          ...  Gran disparo!
+          ...  Merecía el gol
+Min. 79 :(arg) M_Klose hace una rápida pared con un compañero
+          ...  Tiene un defensa delante
+          ...  Le hace una bicicleta y mira al portero!
+          ...  M_Klose con un disparo a ras de suelo!
+          ...  El disparo coge un efecto envenenado
+          ...  Fuera !!
+          ...  Si llega a ir a puerta...
+Min. 80 :(arg) S_Kun_Aguero se va de su marcador 
+          ...  Lo está desquiciando!
+          ...  Pero Lucas_Licht aparece de la nada y corta el balón
+Min. 81 :(arg) Oscar con un pase muy fuerte para S_Kun_Aguero
+          ...  Pero pisa un charco y cae al suelo!
+          ...  E_Terzaghi recoge el balón. Menudo marcaje le está haciendo!
+Min. 82 :(arg) Pateatraseros se va en un arranque de genio
+          ...  Pateatraseros chuta con el interior!
+          ...  OOOOHHHHH!!!! 
+          ...  Fuera!
+          ...  Tenía una posición clara!
+          ...  El entrenador le está abroncando!
+Min. 82 :(gim) ... oooooh! Que entrada más dura de Juan_Forlin 
+          ...  el arbitro  lo llama inmediatamente
+          ...  El colegiado le muestra la cartulina AMARILLA!!
+          ...  Chico, frena que te vas a la calle
+Min. 83 :(arg) Ariel_Seltzer golpea el balón hacia M_Klose
+          ...  M_Klose suelta un chut con un efecto endiablado !
+          ...  Se va fuera
+Min. 84 :(arg) Ruud_Gullit sale a la contra. Mete un pase medido a S_Kun_Aguero
+          ...  S_Kun_Aguero suelta un cañonazo! Uou! Ni Oliver y Benji hacían eso!
+          ...  O_Ibsi despeja con problemas
+          ...  El líbero mete la cabeza y aleja la pelota
+Min. 85 :(arg) B_Braksoc llega primero al balón que ha quedado muerto
+          ...  Ve a su compañero entrando desde atrás!
+          ... J_Munh controla en carrera
+          ...  J_C_Blengio se hace con el balón
+          ...  Y lo manda hacia arriba
+Min. 86 :(arg) S_Kun_Aguero se anticipa a su marcador!
+          ...  Creo que lo ha empujado!
+          ...  "Sigan!" Dice el arbitro  
+          ...  S_Kun_Aguero se va de su defensor, mete el pie!
+          ...  Pero se las arregla para fallar
+          ...  No ha estado nada fino
+Min. 87 :(arg) N_Odruska con un pase impresionante hacia M_Klose
+          ...  M_Klose con la red entre ceja y ceja!
+          ...  Dispara excesivamente alto!
+          ...  Está horrorizado por lo que falló!
+          ...  No es para menos!
+Min. 88 :(arg) S_Kun_Aguero con un pase largo M_Klose
+          ...  M_Klose con el disparo!
+          ...  Dispara fuera
+Min. 89 :(arg) L_Mareque sale del regate y mete un pase hacia M_Klose
+          ...  M_Klose trata de sorprender al portero con una inesperada vaselina !
+          ...  Pero el balón se pierde inofensivamente por encima del larguero
+Min. 90 :(arg) M_Klose se anticipa a su marcador!
+          ...  Corte finísimo y preciso de J_C_Blengio
+          ...  Podría haber cometido la falta perfectamente si no hubiera estado tan fino
+
+El arbitro añadira 2 min. al tiempo reglamentario
+
+Min. 91 :(arg) B_Braksoc para el balón con el pecho
+          ...  Lo pisa, levanta la cabeza y pasa!
+          ...  Madre mía, eso es de manual!
+          ...  N_Odruska recibe un pase medido
+          ...  Ojo que tiene espacio!
+          ...  N_Odruska trata de sorprender a al portero ! 
+          ...  el portero no va a llegar!
+          ...  OH!  Sale rozando el larguero! 
+          ...  el portero sonríe
+          ...  El que ríe último...
+Min. 92 :(arg) S_Kun_Aguero busca opciones
+          ...  Nadie le sale al apoyo!
+          ...  Se saca el balón de encima. Va hacia M_Klose
+          ...  Logra meter la plaanta del pie M_Klose !
+          ...  Sale fuera y será saque de puerta
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : arg 45 gim 0
+tiros a puerta       : arg 37 gim 0
+
+Marcador             : arg  7 gim 0
+
+
+<<< Estadisticas de los jugadores del Argentinos >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+F_Mondragón    GK   C 20  5  3  3 66 |  90   0   0   0   0   0   0   0   0   0  82   0   0   0 100
+K_Elotya      DFR  RC  3 21  6  7 46 |  59   0   0   2   0   2   0   0   0   0   0   0  42  20  78
+Pateatraseros DFC RLC  3 29  7  6 77 |  90   0   0   0   0   4   0   0   0   0   0   0   0  46  61
+L_Mareque     DFC  LC  3 24  9  6 55 |  90   0   0   4   0   4   0   0   0   0   0   0  84  46  35
+N_Odruska     DFL  LC  4 20 11  9 59 |  90   0   0   5   0   3   0   0   0   0   0  35 105  33  37
+Ariel_Seltzer DMC   L  1 17 15 10 51 |  90   0   0  12   1   3   0   0   0   0   0   0 287  33  72
+Oscar         AMR RLC  1  4 24 18 61 |  90   0   0  10   1   2   0   0   0   0   0   0 245  26  41
+Ruud_Gullit   AMC  RC  3  6 22 15 55 |  90   0   0  18   1   4   0   0   0   0   0   0 413  40  53
+D_Manso       AML   L  3  6 16 13 65 |  64   0   0   6   0   3   1   0   0   0   0   0 126  77  68
+M_Klose       FWC   C  5  6 10 33 57 |  90   0   0   1   0  37   5   0   0   0   0   0  21 587  57
+F_Guerrero    FWC   R  5  8  6 20 68 |  64   0   0   2   0  13   1   1   0   0   0   1  43 184  71
+I_Uza          GK   R 18  3  4  4 53 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Bortu       DFC   C  4 17  8  5 48 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+J_Munh        DFR   R  4 19  7  9 67 |  31   0   0   1   0   1   0   0   0   0   0   0  21   7  92
+B_Braksoc     MFL   L  4  6 16 11 37 |  26   0   0   6   0   1   0   0   0   0   0   0 126   7  90
+Sorpresa      MFC  LC  4  8 19 11 43 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0  90
+Y_Indoe       FWC   R  5  8 16  8 46 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+S_Kun_Aguero  FWC   L  3  7 12 24 78 |  26   0   0   4   1   5   0   0   0   0   0  47 166  88  94
+-- Total --                                  0   0  71   4  82   7   1   0   0
+
+
+<<< Estadisticas de los jugadores del Gimnasia y Esgrima de La Plata >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+O_Ibsi         GK   R 16  3  4  5 43 |  90  28   0   0   0   0   0   0   0   0 224   0   0   0 100
+Juan_Forlin   DFC   C  2 21  9  2 43 |  90   0   2   0   0   0   0   1   0   0   0 121   1   1  10
+J_C_Blengio   DFC   R  2 17  4  5 63 |  90   0   2   0   0   0   0   0   0   0   0 120   0   0  49
+O_Barsottini  DFC  LC  2 17  6  5 43 |  90   0   3   0   0   0   0   0   0   0   0 180   0   0  10
+Lucas_Licht   DFC   R  2 14  5  6 71 |  90   0   3   0   0   0   0   0   0   0   0 180   0   0  52
+M_Ballack     MFC   C  3 14 22  6 51 |  90   0   0   0   0   0   0   0   0   0   0  23  23  23  20
+L_Sapetti     MFC   L  2  6 17  4 46 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  19
+Choy_Gonzalez MFC   C  2  6 15  5 30 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+Nico_Cabrera  MFC   R  2  4 17  4 29 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  10
+E_Terzaghi    FWC   L  4  9  9 18 69 |  90   0   2   0   0   0   0   0   0   0   0 120   0   0  55
+G_Higuain     FWC   L  3  6  7 16 66 |  90   0   0   0   0   0   0   1   0   0   0  24  24  24  49
+F_Monetti      GK   L 13  2  2  2 61 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+F_Oreja       DFC   R  2 14  6  5 47 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+J_Chaves      MFC   R  2  5 15  5 43 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Piarrou     DFC  RC  2 13  5  5 38 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+N_F_Silva     FWC   C  2  4  5 14 42 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+E_Mendez      MFC   C  2  6 14  5 43 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+N_Sanguinetti DFC   R  2 11  6  6 73 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                 28  12   0   0   0   0   2   0   0
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+arg     0     78.41    70.37   115.65
+gim     0     31.38    27.52    22.44
+arg    10     75.65    68.16   112.60
+gim    10     29.86    25.51    21.70
+arg    20     72.88    65.80   108.62
+gim    20     27.81    23.25    20.71
+arg    30     70.43    63.56   105.14
+gim    30     26.32    21.46    20.00
+arg    40     68.08    61.56   101.56
+gim    40     24.81    19.61    19.31
+arg    50     64.39    58.32    96.76
+gim    50     22.52    17.85    18.52
+arg    60     61.68    55.84    93.21
+gim    60     20.97    16.65    17.83
+arg    70     61.63    56.07    93.62
+gim    70     19.36    15.34    17.05
+arg    80     59.08    53.69    90.20
+gim    80     17.55    13.91    16.31
+arg    90     56.57    51.35    86.33
+gim    90     16.70    12.71    15.46
+
+
+1360895887

@@ -1,0 +1,133 @@
+
+
+Suspensions:
+------------
+
+Davor_Suker (boc) ha sido suspendido por 2 partidos
+M_Dos_Santos (ban) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+J_Insaurralde (boc) Tk aumenta su media gracias al skills
+Éric_Cantona (boc) Ps aumenta su media gracias al skills
+Lucas_Moura (boc) Sh aumenta su media gracias al skills
+Nico_Blandi (boc) Sh aumenta su media gracias al skills
+M_Materazzi (ban) Tk aumenta su media gracias al skills
+M_Materazzi (ban) Ps aumenta su media gracias al skills
+M_Mea_Vitali (ban) Tk aumenta su media gracias al skills
+K_Kamamoto (ban) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   1
+Red cards:      2
+Injuries:       0
+
+Top performers:
+
+M_Palermo (boc)       0
+B_Leyenda (ban)       0
+Arruabarrena (ban)    0
+M_Mea_Vitali (ban)    0
+L_Álvarez (ban)       0
+Erik_Lamela (ban)     0
+Nwankwo_Kanu (ban)    0
+K_Kamamoto (ban)      0
+J_Lujambio (ban)      0
+RV_Nistelrooy (ban)   0
+G_Lux_Jr (ban)        0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Zapdos (alb)             9     18
+Charizard (alb)          7     15
+E_Fuertes (fer)         11     13
+Luís_Fabiano (arg)       9     12
+M_Zarate (vel)           8     10
+D_Trezeguet (riv)        9      9
+F_Morientes (riv)        8      8
+R_Falcao_G (est)         8      8
+RV_Nistelrooy (ban)      9      8
+Franck_Ribéry (ind)      9      8
+A_Papu_Gomez (col)      11      8
+Juan_M_Iturbe (ind)      9      7
+A_Sánchez (gim)          9      7
+Nico_Blandi (boc)        6      6
+Nico_Martinez (ind)      9      6
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+L_Matthaus (alb)         8    348
+M_N_Cano (uai)          11    327
+H_Fredes (ind)           9    259
+Franck_Ribéry (ind)      9    258
+Luís_Fabiano (arg)       9    257
+Zapdos (alb)             9    252
+H_Castellano (ald)       9    249
+Ed_Retamoso (fer)       10    230
+Charizard (alb)          7    229
+J_Fabbro (fer)          10    213
+G_Gigliaza (est)        11    209
+Iker_Casillas (slo)     11    207
+M_Zarate (vel)           8    191
+E_Fuertes (fer)         11    190
+J_I_Sills (uni)          9    189
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+L_Matthaus (alb)         8     13
+S_Staunton (alb)         9      6
+H_Fredes (ind)           9      5
+Kun_Aguero (ind)         9      5
+JS_Veron (est)           6      4
+A_Panenka (new)          7      4
+El_Misha (riv)           7      4
+M_Moralez (vel)          7      4
+Ruud_Gullit (arg)        8      4
+John_A_Riise (alb)       9      4
+Lucas_Moura (boc)        9      4
+J_Fabbro (fer)          10      4
+G_Gigliaza (est)        11      4
+Gabriel_Roth (fer)       6      3
+Gareth_Bale (riv)        8      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+R_Cascini (ars)          9      8
+Gino_Peruzzi (new)       8      7
+Pablo_Piatti (col)      10      7
+D_Macaluso (qui)         7      6
+J_Bosingwa (ban)         7      6
+C_D_Ledesma (col)        8      6
+Davor_Suker (boc)        8      6
+F_Galetto (qui)          3      5
+Iván_Alonso (uni)        5      5
+J_Insaurralde (boc)      7      5
+C_Arano (riv)            7      5
+Oscar_Ruggeri (slo)     10      5
+Matias_Diaz (fer)       10      5
+A_Dominguez (riv)        1      4
+L_Rodriguez (slo)        5      4
+

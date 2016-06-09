@@ -1,0 +1,98 @@
+1.
+
+Arsenal - Olimpo
+San Lorenzo - Rosario Central
+Racing - Quilmes
+Argentinos - Ferro
+
+2.
+
+San Lorenzo - Arsenal
+Olimpo - Racing
+Rosario Central - Argentinos
+Quilmes - Ferro
+
+3.
+
+Arsenal - Racing
+Argentinos - San Lorenzo
+Ferro - Olimpo
+Quilmes - Rosario Central
+
+4.
+
+Argentinos - Arsenal
+Racing - Ferro
+San Lorenzo - Quilmes
+Olimpo - Rosario Central
+
+5.
+
+Arsenal - Ferro
+Quilmes - Argentinos
+Rosario Central - Racing
+Olimpo - San Lorenzo
+
+6.
+
+Quilmes - Arsenal
+Ferro - Rosario Central
+Argentinos - Olimpo
+Racing - San Lorenzo
+
+7.
+
+Arsenal - Rosario Central
+Olimpo - Quilmes
+San Lorenzo - Ferro
+Racing - Argentinos
+
+8.
+
+Olimpo - Arsenal
+Rosario Central - San Lorenzo
+Quilmes - Racing
+Ferro - Argentinos
+
+9.
+
+Arsenal - San Lorenzo
+Racing - Olimpo
+Argentinos - Rosario Central
+Ferro - Quilmes
+
+10.
+
+Racing - Arsenal
+San Lorenzo - Argentinos
+Olimpo - Ferro
+Rosario Central - Quilmes
+
+11.
+
+Arsenal - Argentinos
+Ferro - Racing
+Quilmes - San Lorenzo
+Rosario Central - Olimpo
+
+12.
+
+Ferro - Arsenal
+Argentinos - Quilmes
+Racing - Rosario Central
+San Lorenzo - Olimpo
+
+13.
+
+Arsenal - Quilmes
+Rosario Central - Ferro
+Olimpo - Argentinos
+San Lorenzo - Racing
+
+14.
+
+Rosario Central - Arsenal
+Quilmes - Olimpo
+Ferro - San Lorenzo
+Argentinos - Racing
+

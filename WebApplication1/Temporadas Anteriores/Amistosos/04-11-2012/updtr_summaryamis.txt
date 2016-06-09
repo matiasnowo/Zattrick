@@ -1,0 +1,120 @@
+
+
+Skill changes:
+--------------
+
+Sergi (riv) Tk aumenta su media gracias al skills
+D_Trezeguet (riv) Sh aumenta su media gracias al skills
+E_Lavezzi (arg) Ps aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   0
+Red cards:      0
+Injuries:       0
+
+Top performers:
+
+E_Odno (arg)          0
+E_Broedn (arg)        0
+K_Elotya (arg)        0
+P_Rotchen (arg)       0
+Y_Adno (arg)          0
+Turco_Grecco (arg)    0
+B_Braksoc (arg)       0
+E_Lavezzi (arg)       0
+D_Manso (arg)         0
+G_Higuain (arg)       0
+Il_F_Marelli (arg)    0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        3      7
+C_Fabbiani (ald)         3      7
+F_Estoyanoff (vel)       3      6
+Carlos_Duré (ars)        3      4
+J_Lujambio (ban)         3      4
+Zapdos (alb)             3      3
+Charizard (alb)          3      3
+M_Zarate (vel)           2      2
+Kazu_Miura (qui)         3      2
+Angel_Romano (est)       3      2
+S_Kun_Aguero (arg)       3      2
+Jackson_Mrtnz (ald)      3      2
+Berni_Romeo (slo)        3      2
+F_Morientes (riv)        3      2
+M_Palermo (boc)          3      2
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Mono_Navarro (tig)       3    105
+A_Fernandez (vel)        3    103
+F_Estoyanoff (vel)       3    102
+R_Monserrat (ald)        3     88
+M_Moralez (vel)          3     85
+C_Fabbiani (ald)         3     83
+Nico_Blandi (boc)        3     82
+Carlos_Duré (ars)        3     79
+JP_Carrizo (alb)         3     72
+J_Yacuzzi (ars)          3     71
+S_Escudero (ald)         3     63
+P_Ledesma (boc)          3     62
+B_Lizarazu (boc)         3     61
+J_Lujambio (ban)         3     61
+A_Carrizo (col)          3     60
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+R_Monserrat (ald)        3      4
+Enzito_C (vel)           1      2
+Juan_J_Jayo_L (boc)      2      2
+M_Moralez (vel)          3      2
+S_Staunton (alb)         3      2
+P_Ledesma (boc)          3      2
+Darío_Larrosa (fer)      3      2
+R_Alvarez (vel)          3      2
+Hasan_Sas (est)          3      2
+V_Cuesta (ald)           1      1
+P_Larraquy (vel)         1      1
+F_Mec (ban)              1      1
+Brno_Zuculini (rac)      1      1
+E_Berizzo (vel)          2      1
+R_Saa (qui)              2      1
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+M_Brau (ars)             3      7
+C_Alvarez (ald)          1      4
+Leo_da_Silva (ind)       1      4
+N_Odruska (arg)          2      4
+N_Ortigoza (slo)         3      4
+Lobo_Cordone (oli)       0      3
+K_Elotya (arg)           1      3
+Pablo_Lima (rac)         2      3
+N_Nicolay (rce)          2      3
+R_Palacio (tig)          2      3
+B_Urribarri (col)        3      3
+S_Kun_Aguero (arg)       3      3
+E_Fuertes (fer)          3      3
+J_Basualdo (tig)         3      2
+Steelix (alb)            3      2
+

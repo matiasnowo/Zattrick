@@ -1,0 +1,189 @@
+Home                           Away
+----                           ----
+
+tig                            rac                           
+
+GK  H_Navarro                  GK  C_Kletnicki               
+DFL A_Chari                    DFR I_Sekagya                 
+DFC L_Zaifrani                 DFC M_Martinez                
+DFC C_Barriga                  DFC M_Caceres                 
+DFR M_Posniak                  DFL M_Cahais                  
+MFL J_Manteca                  DMC A_Pelletieri              
+DMC P_Nicolini                 MFL V_Viola                   
+MFR G_Gigliaza                 MFC P_Toranzo                 
+AMC M_Andrizzi                 AMR Gio_Moreno                
+FWC F_Manteca                  FWC P_Luguercio               
+FWC Gino_Clara                 FWL Pancho_Abba               
+
+4-1-2-1-2 Normal               4-1-2-1-2 Counter Attack       
+
+
+*************  COMIENZA EL PARTIDO  *****************
+Min. 14 :(tig) Gino_Clara con el lanzamiento de la falta
+          ...  Observa el desmarque de su compañero
+          ...  F_Manteca se ha zafado de su marcador
+          ...  F_Manteca no va a llegar. Sí, mete el pie...!
+          ...  Pero se las arregla para fallar
+          ...  Pone cara de mala leche. Menudo fallo!
+Min. 15 :(rac) Pancho_Abba con el regate
+          ...  Oportunidad clarísima
+          ...  Pancho_Abba mira fijamente al marco!
+          ...  Dispara!
+          ...  Es incapaz de chutar a puerta!
+          ...  Ha tardado una eternidad!
+          ...  Será el efecto Matrix????
+Min. 17 :(rac) Pancho_Abba agarra al defensa de la camiseta y se lleva el balón
+          ...  Qué vivo ha estado, el árbitro no pudo ver nada
+          ...  Pancho_Abba se saca una terrible volea!
+          ...  H_Navarro llega con la punta de los dedos al balón 
+          ...  y sale rozando el palo!! 
+          ...  Qué gran intervención!
+Min. 21 :(tig) M_Andrizzi de taco hacia F_Manteca. Gran pase!
+          ...  I_Sekagya entra a ras de suelo
+          ...  El delantero no tiene más remedio que saltar por encima
+          ...  Se ha jugado el físico! Qué tío!
+Min. 22 :(rac) Pancho_Abba cae en mala posición. Se ha lesionado!
+Min. 22 :(rac) G_Hauche va a tener su oportunidad en este partido
+          ...  Pancho_Abba  se va del campo
+          ...  Le niega el saludo a su mánager. Vaya cabreo! 
+          ...  Su sustituto jugará de FWL
+Min. 43 :(rac) Gio_Moreno en carrera con su marcador. Mete el hombro
+          ...  Lo aparta dla pelota!
+          ...  Continúa avanzando
+          ...  Balón para la entrada de G_Hauche
+          ...  A_Chari chuta la pelota hacia las vallas. Ui! Le ha dado a un pobre fotógrafo!
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+Min. 46 :(tig) J_Manteca recupera el balón y pasa largo hacia F_Manteca. Ha pillado a la defensa descolocada!
+          ...  F_Manteca se saca una tijera! Qué bello!
+          ...  Pero C_Kletnicki manda el balón a córner 
+          ...  el arbitro  indicará córner 
+          ...  No! Marca saque de puerta! Madre mía!
+
+*************  NOS VAMOS AL DESCANSO  ****************
+
+Min. 59 :(rac) I_Sekagya se lanza al corte 
+          ...  el arbitro  lo llama inmediatamente
+          ...  El colegiado le muestra la cartulina AMARILLA!!
+          ...  Chico, frena que te vas a la calle
+Min. 61 :(tig) J_Manteca mete un balón medido para F_Manteca
+          ...  F_Manteca cruza la línea de medios, avanza, mira al portero y chuta!
+          ...  Dispara precipitadamente
+          ...  Fuera! No pudo precisar el remate
+Min. 64 :(tig) G_Gigliaza acelera por la banda izquierda
+          ...  Juega para P_Nicolini
+          ...  P_Nicolini ve al portero adelantado !
+          ...  C_Kletnicki hace una parada sencillita 
+          ...  Todo lo que hace parece sencillo. Qué classe!
+Min. 70 :(tig) G_Gigliaza pasa hacia M_Andrizzi
+          ...  M_Andrizzi mete la cabeza con valentía !
+          ...  C_Kletnicki vuela sobre la línea de gol
+          ...  Y realiza una espectacular parada! Está enchufado!
+Min. 73 :(tig) G_Gigliaza se deshace de su marcador
+          ...  Con qué facilidad lo hizo!
+          ...  P_Toranzo intercepta el pase
+Min. 75 :(tig) La grada ruge cuando R_Palacio substituye a F_Manteca para jugar de FWC
+Min. 82 :(rac) V_Viola se cuela hasta la línea de fondo
+          ... Amaga el centro
+          ...  Pasa raso atrás hacia P_Luguercio
+          ...  P_Luguercio dispara un verdadero obús !
+          ...  Demasiado alta!
+Min. 86 :(rac) V_Viola cede atrás para Gio_Moreno
+          ...  A_Chari corta con claridad
+          ...  Midió a la perfección! Su entrenador aplaude
+Min. 88 :(tig) R_Palacio se cuela con potencia entre los centrales
+          ...  Suelta un latigazo con su pierna izquierda!
+          ...  C_Kletnicki flota sobre la línea de meta
+          ...  Mete la mano
+          ...  Córner? No! Se equivocó!
+
+El arbitro añadira 1 min. al tiempo reglamentario
+
+
+*************  FINAL DEL PARTIDO  ****************
+
+
+
+tiros fuera          : tig  2 rac 2
+tiros a puerta       : tig  4 rac 1
+
+Marcador             : tig  0 rac 0
+
+
+<<< Estadisticas de los jugadores del tig >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+H_Navarro      GK   C 16  3  3  3 58 |  90   1   0   0   0   0   0   0   0   0 153   0   0   0 100
+A_Chari       DFL   L  3 14  6  4 67 |  90   0   2   0   0   0   0   0   0   0   0 240   0   0  77
+L_Zaifrani    DFC RLC  2 12  4  5 28 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  55
+C_Barriga     DFC   C  2 13  5  4 31 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  64
+M_Posniak     DFR   R  2 12  4  5 47 |  90   0   0   0   0   0   0   0   0   0   0 120   0   0  71
+J_Manteca     MFL   L  2  4 14  5 51 |  90   0   0   2   0   0   0   0   0   0   0   0 194   0  71
+P_Nicolini    DMC  RC  2  9  9  5 57 |  90   0   0   0   0   1   0   0   0   0   0   0   0  37  74
+G_Gigliaza    MFR RLC  2  5 15  4 60 |  90   0   0   2   0   0   0   0   0   0   0   0 194   0  74
+M_Andrizzi    AMC   L  3  7 11 12 50 |  90   0   0   1   0   1   0   0   0   0   0   0  97  37  71
+F_Manteca     FWC   C  2  6  5 14 31 |  74   0   0   0   0   3   0   0   0   0   0   0   0  81  69
+Gino_Clara    FWC   C  3  8  7 15 72 |  90   0   0   1   0   0   0   0   0   0   0   0  97   0  79
+F_Lugo         GK   L 13  2  2  2 71 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Mastronardi DFC   L  2 12  5  4 30 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+S_Condal      MFR   R  2  7  8  5 74 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+T_Rollan      MFR  RC  2  6 12  6 46 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+D_Coronado    MFL   L  2  6 13  5 41 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+R_Palacio     FWC  LC  3  7  4 14 62 |  16   0   0   0   0   1   0   0   0   0   0   0   0  37  95
+A_Rangugni    FWC   C  2  4  5 11 39 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+-- Total --                                  1   2   6   0   6   0   0   0   0
+
+
+<<< Estadisticas de los jugadores del rac >>>
+
+Name          Pos Prs St Tk Ps Sh Sm | Min Sav Ktk Kps Ass Sht Gls Yel Red Inj KAb TAb PAb SAb Fit
+--------------------------------------------------------------------------------------------------
+C_Kletnicki    GK   R 16  2  2  2 49 |  90   4   0   0   0   0   0   0   0   0 252   0   0   0 100
+I_Sekagya     DFR   R  2 12  4  5 31 |  90   0   1   0   0   0   0   1   0   0   0 105 -15 -15  62
+M_Martinez    DFC   C  2 14  4  5 51 |  90   0   0   0   0   0   0   0   0   0   0 120   0   0  73
+M_Caceres     DFC RLC  2 12  5  4 62 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+M_Cahais      DFL   L  2 12  4  4 32 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  63
+A_Pelletieri  DMC   C  2  9 11  5 52 |  90   0   0   0   0   0   0   0   0   0   0   0   0   0  71
+V_Viola       MFL   L  2  4 12  5 37 |  90   0   0   2   0   0   0   0   0   0   0   0 194   0  64
+P_Toranzo     MFC  RC  2  5 14  4 49 |  90   0   1   0   0   0   0   0   0   0   0 120   0   0  68
+Gio_Moreno    AMR   R  2  5 11 11 57 |  90   0   0   1   0   0   0   0   0   0   0   0  97   0  73
+P_Luguercio   FWC   C  2  5  6 12 51 |  90   0   0   0   0   1   0   0   0   0   0   0   0  22  71
+Pancho_Abba   FWL   R  3  4  6 13 57 |  21   0   0   0   0   2   0   0   0   1   0   0   0  59  94
+R_J_Fernandez  GK  RL 14  2  2  2 49 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Licht       DFC  RL  2 12  5  6 43 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Umbreon       MFC   R  2  5 12  5 31 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+P_Aveldaño    DFC   C  2 10  4  5 67 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+C_Yacob       MFC   C  2  5 12  6 26 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+Luis_Fariña   MFC   C  2  4 11  4 57 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100
+G_Hauche      FWL   L  2  4  6 12 35 |  69   0   0   0   0   0   0   0   0   0   0   0   0   0  74
+-- Total --                                  4   2   3   0   3   0   1   0   1
+
+
+Team totals
+Team  Min        Tk       Ps       Sh
+-------------------------------------
+tig     0     65.91    55.52    45.97
+rac     0     65.66    48.11    29.04
+tig    10     63.99    53.99    44.68
+rac    10     63.91    46.92    28.39
+tig    20     61.91    52.34    43.42
+rac    20     61.43    45.17    27.44
+tig    30     59.70    50.62    41.88
+rac    30     59.69    44.16    28.54
+tig    40     57.75    49.20    40.42
+rac    40     57.28    42.49    27.48
+tig    50     55.21    47.23    38.84
+rac    50     54.76    40.66    26.38
+tig    60     53.02    45.44    37.32
+rac    60     52.57    39.01    25.27
+tig    70     50.75    43.81    35.79
+rac    70     50.34    37.37    24.19
+tig    80     49.53    42.39    38.86
+rac    80     48.25    35.82    23.33
+tig    90     47.50    40.79    37.71
+rac    90     46.10    34.14    22.31
+
+
+1323395237

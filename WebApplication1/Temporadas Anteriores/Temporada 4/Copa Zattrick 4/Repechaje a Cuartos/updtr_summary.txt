@@ -1,0 +1,138 @@
+
+
+Injuries:
+---------
+
+L_Mareque (arg) una molestia en el tobillo le mantendra el siguiente partido guardando reposo
+
+
+
+Suspensions:
+------------
+
+L_Ocampos (rce) no podrá jugar el siguiente partido por sanción
+
+
+
+Skill changes:
+--------------
+
+C_Lucchetti (ban) St aumenta su media gracias al skills
+Matias_Diaz (ban) Ps aumenta su media gracias al skills
+L_Mareque (arg) Ps aumenta su media gracias al skills
+R_Cascini (ars) Ps aumenta su media gracias al skills
+Diego_Villar (ars) Ps aumenta su media gracias al skills
+Javi_Morales (ars) Ps aumenta su media gracias al skills
+M_Bustamante (rce) Tk aumenta su media gracias al skills
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   7
+Red cards:      0
+Injuries:       1
+
+Top performers:
+
+E_Zelaya (ars)        0
+C_Mosca (ars)         0
+G_Esmerado (ars)      0
+C_Trombetta (ars)     0
+I_Vurst (ars)         0
+A_Limia (ars)         0
+Franco_Jara (ars)     0
+Javi_Morales (ars)    0
+Diego_Villar (ars)    0
+R_Cascini (ars)       0
+Ronald_D_Boer (ars)   0
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Nico_Blandi (boc)        8     17
+Zapdos (alb)             8     13
+C_Fabbiani (ald)         9     13
+J_Lujambio (ban)         8     12
+F_Morientes (riv)        9     10
+F_Estoyanoff (vel)       8      9
+Charizard (alb)          7      7
+Kurapika (uni)           9      7
+M_Palermo (boc)          9      7
+Nico_Martinez (ind)      9      7
+G_B_Leschuk (ars)        7      5
+Jackson_Mrtnz (ald)      8      5
+RV_Nistelrooy (ban)      8      5
+Kazu_Miura (qui)         9      5
+S_Kun_Aguero (arg)       9      5
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+Mono_Navarro (tig)       9    399
+Zapdos (alb)             8    216
+Nico_Blandi (boc)        8    214
+Espeon (riv)             9    202
+J_Lujambio (ban)         8    194
+F_Morientes (riv)        9    193
+F_Estoyanoff (vel)       8    192
+Hitmonlee (alb)          8    192
+Kun_Aguero (ind)         9    191
+A_Fernandez (vel)        8    179
+M_Moralez (vel)          8    178
+Placente (uni)           8    177
+P_Ledesma (boc)          9    173
+JP_Carrizo (alb)         8    171
+C_Fabbiani (ald)         9    171
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+R_Monserrat (ald)        8      6
+S_Staunton (alb)         7      4
+R_Pereyra (riv)          8      4
+Hitmonlee (alb)          8      4
+M_Moralez (vel)          8      4
+Espeon (riv)             9      4
+Ray_Wilkins (ban)        9      4
+Kun_Aguero (ind)         9      4
+P_Ledesma (boc)          9      4
+Enzito_C (vel)           4      3
+Javi_Morales (ars)       4      3
+Z_Boban (boc)            5      3
+Hasan_Sas (est)          6      3
+Brno_Zuculini (rac)      7      3
+David_Beckham (ald)      8      3
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+G_B_Leschuk (ars)        7      8
+M_Brau (ars)             6      7
+V_Píriz_Alves (rac)      7      7
+Éric_Cantona (boc)       8      7
+J_Sanguinetti (rce)      4      6
+Leo_da_Silva (ind)       4      6
+A_Chari (tig)            7      6
+H_Ameli (slo)            9      6
+C_Alvarez (ald)          5      5
+N_Odruska (arg)          7      5
+Jackson_Mrtnz (ald)      8      5
+Angel_Carreño (fer)      8      5
+N_Ortigoza (slo)         9      5
+Lobo_Cordone (oli)       0      4
+G_Funes_Mori (riv)       0      4
+

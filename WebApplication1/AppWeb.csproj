@@ -153,6 +153,7 @@
     <Content Include="Content\stadium-icon.png" />
     <Content Include="Content\users_people.png" />
     <Content Include="Entrenamiento.aspx" />
+    <Content Include="Public\Partido.aspx" />
     <Content Include="Public\PartidosDe.aspx" />
     <Content Include="Public\PerfilEquipo.aspx" />
     <Content Include="Partidos.aspx" />
@@ -323,6 +324,13 @@
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Public\Partido.aspx.cs">
+      <DependentUpon>Partido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Public\Partido.aspx.designer.cs">
+      <DependentUpon>Partido.aspx</DependentUpon>
     </Compile>
     <Compile Include="Public\PartidosDe.aspx.cs">
       <DependentUpon>PartidosDe.aspx</DependentUpon>

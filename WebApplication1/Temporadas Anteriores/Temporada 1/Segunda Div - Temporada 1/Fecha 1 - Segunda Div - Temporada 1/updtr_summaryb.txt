@@ -1,0 +1,148 @@
+
+
+Injuries:
+---------
+
+Thorin (fer) tendra que guardar reposo una semana por molestias en el muslo
+Nori (fer) solo se quedo en un susto y estara apto para el siguiente partido
+
+
+
+Skill changes:
+--------------
+
+Legolas (fer) Sh aumenta
+
+
+
+-----------------
+  Round summary
+-----------------
+
+Goals:          1  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 1)
+Assists:        0  (DFs - 0, DMs - 0, MFs - 0, AMs - 0, FWs - 0)
+Yellow cards:   4
+Red cards:      0
+Injuries:       2
+
+Top performers:
+
+Jacobo_Urso (qui)     20
+J_Botinelli (qui)     20
+Pipo_Gorosito (qui)   13
+Legolas (fer)         13
+Beorn (fer)           12
+D_Vega (qui)          12
+Smaug (fer)           10
+Bofur (fer)           10
+U_Uclu (fer)          10
+W_Montillo (qui)      8
+Kíli (fer)            8
+
+
+
+Table:
+------
+
+Pl   Team                    P    W   D   L    GF   GA   GD   Pts
+-----------------------------------------------------------------
+1    Velez                   6    5   1   0    12    4    8    16
+2    Aldosivi                6    4   1   1    12    4    8    13
+3    Independiente           6    3   2   1     7    4    3    11
+4    Arsenal                 6    3   1   2     5    5    0    10
+5    All Boys                5    2   3   0     4    1    3     9
+6    San Lorenzo             6    1   3   2     4    5   -1     6
+7    Banfield                6    1   2   3     1    5   -4     5
+8    River Plate             5    1   1   3     4    6   -2     4
+9    Ferro                   1    1   0   0     1    0    1     3
+10   Argentinos              5    1   0   4     3    8   -5     3
+11   River PLate             1    0   1   0     1    1    0     1
+12   Boca Juniors            6    0   1   5     4   14  -10     1
+13   Quilmes                 1    0   0   1     0    1   -1     0
+
+
+
+
+Scorers:
+
+Name                 Games    Gls
+---------------------------------
+Legolas (fer)            1      1
+U_Uclu (fer)             8      1
+G_Rodriguez (qui)        0      0
+Sapo_Villar (qui)        0      0
+R_Albretch (qui)         0      0
+B_Buticce (qui)          0      0
+Aldo_paredes (qui)       0      0
+Aragon (fer)             0      0
+P_Zabaleta (qui)         0      0
+Tom_Bombadil (fer)       0      0
+Elrond (fer)             0      0
+C_Ozow (fer)             0      0
+Toscano_Rendo (qui)      0      0
+B_Rivero (qui)           0      0
+Bilbo_Bolsón (fer)       0      0
+
+
+Performers:
+
+Name                 Games    Pts
+---------------------------------
+U_Uclu (fer)             8     73
+R_Faeck (qui)            8     55
+J_Botinelli (qui)        1     20
+Jacobo_Urso (qui)        1     20
+Pipo_Gorosito (qui)      1     13
+Legolas (fer)            1     13
+D_Vega (qui)             1     12
+Beorn (fer)              1     12
+B_Schelotto (fer)        3     12
+Smaug (fer)              1     10
+Bofur (fer)              1     10
+Kíli (fer)               1      8
+Lobo_Fischer (qui)       1      8
+W_Montillo (qui)         1      8
+Ivan_Cordoba (qui)       1      7
+
+
+Assisters:
+
+Name                 Games    Ass
+---------------------------------
+B_Buticce (qui)          0      0
+Aldo_paredes (qui)       0      0
+G_Rodriguez (qui)        0      0
+Aragon (fer)             0      0
+P_Zabaleta (qui)         0      0
+Tom_Bombadil (fer)       0      0
+Elrond (fer)             0      0
+C_Ozow (fer)             0      0
+Toscano_Rendo (qui)      0      0
+Sapo_Villar (qui)        0      0
+B_Rivero (qui)           0      0
+R_Albretch (qui)         0      0
+G_Lux (fer)              0      0
+Khazad_dûm (fer)         0      0
+Gandalf (fer)            0      0
+
+
+Disciplinary points:
+
+Name                 Games    DPs
+---------------------------------
+U_Uclu (fer)             8      3
+J_Sanfilippo (qui)       1      1
+Thranduil (fer)          1      1
+Bofur (fer)              1      1
+Gonzalo_Bazan (qui)      1      1
+R_Faeck (qui)            8      1
+B_Buticce (qui)          0      0
+Aldo_paredes (qui)       0      0
+G_Rodriguez (qui)        0      0
+Aragon (fer)             0      0
+P_Zabaleta (qui)         0      0
+Bilbo_Bolsón (fer)       0      0
+Gringo_Scotta (qui)      0      0
+Gandalf (fer)            0      0
+Tom_Bombadil (fer)       0      0
+
