@@ -67,7 +67,7 @@ namespace AppWeb.Public
             for (int v = 0; v < GridViewLocal.Rows.Count; v++)
             {
 
-                string hay = GridViewLocal.Rows[v].Cells[0].Text;
+                string hay = ((HyperLink)GridViewLocal.Rows[v].Cells[0].Controls[0]).Text;
 
                 if (SUPLENTE6L == 1 && hay == "Suplente6")
                 {
@@ -92,7 +92,7 @@ namespace AppWeb.Public
                     rowlocal++;
 
                     if (rowlocal > 11) {
-                        GridViewLocal.Rows[v].BackColor = Color.FromName("#FFFF99");
+                        GridViewLocal.Rows[v].BackColor = Color.FromName("#FFFFCC");
                     }
                 }
 
@@ -119,7 +119,7 @@ namespace AppWeb.Public
             for (int v = 0; v < GridViewVisitante.Rows.Count; v++)
             {
 
-                string hay = GridViewVisitante.Rows[v].Cells[0].Text;
+                string hay = ((HyperLink)GridViewVisitante.Rows[v].Cells[0].Controls[0]).Text;
 
                 if (SUPLENTE6V == 1 && hay == "Suplente6")
                 {
@@ -147,7 +147,7 @@ namespace AppWeb.Public
 
                     if (rowvisita > 11)
                     {
-                        GridViewVisitante.Rows[v].BackColor = Color.FromName("#FFFF99");
+                        GridViewVisitante.Rows[v].BackColor = Color.FromName("#FFFFCC");
                     }
                 }
 
@@ -168,7 +168,30 @@ namespace AppWeb.Public
                 
             }
 
-          
+            EquipoLocal.Text = TraemosPartido.EquipoLocal;
+            ResultadoLocal.Text = TraemosPartido.ResultadoLocal + "";
+            ResultadoVisitante.Text = TraemosPartido.ResultadoVisitante + "";
+            EquipoVisiitante.Text = TraemosPartido.EquipoVisitante;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
