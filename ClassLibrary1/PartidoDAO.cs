@@ -17,6 +17,8 @@ namespace DataAcces
         public Partido GetPartidoPorID(int ID)
         {
 
+            string query2 = "SELECT * FROM RendimientoEnPartido WHERE ID_Partido = " + ID;
+            OleDbDataReader dr2 = new ConnectionDAO().consulta(query2);
             string query = "SELECT * FROM Partidos WHERE ID = " + ID ;
             OleDbDataReader dr = new ConnectionDAO().consulta(query);
             Partido Partidazo = new Partido();
@@ -24,6 +26,9 @@ namespace DataAcces
             List<JugadorEnPartido> LJEP2 = new List<JugadorEnPartido>();
             List<JugadorEnPartido> LJEP3 = new List<JugadorEnPartido>();
             List<JugadorEnPartido> LJEP4 = new List<JugadorEnPartido>();
+            List<RendimientoDeEquipoEnPartido> LREN1 = new List<RendimientoDeEquipoEnPartido>();
+            List<RendimientoDeEquipoEnPartido> LREN2 = new List<RendimientoDeEquipoEnPartido>();
+
             for (int a = 0; a < 11; a++)
             {
                 JugadorEnPartido JEP = new JugadorEnPartido();
@@ -45,6 +50,22 @@ namespace DataAcces
                 JugadorEnPartido JEP4 = new JugadorEnPartido();
                 LJEP4.Add(JEP4);
             }
+
+            for (int a = 0; a < 10; a++)
+            {
+                RendimientoDeEquipoEnPartido REN1 = new RendimientoDeEquipoEnPartido();
+                LREN1.Add(REN1);
+            }
+            for (int a = 0; a < 10; a++)
+            {
+                RendimientoDeEquipoEnPartido REN2 = new RendimientoDeEquipoEnPartido();
+                LREN2.Add(REN2);
+            }
+
+            Partidazo.RendimientoLocal = LREN1;
+            Partidazo.RendimientoVisitante = LREN2;
+
+
             Partidazo.LocalTitulares = LJEP;
             Partidazo.LocalSuplentes = LJEP2;
 
@@ -104,9 +125,58 @@ namespace DataAcces
                 Partidazo.VisitanteSuplentes.ElementAt(5).Name = (string)dr["SuplenteVisitante6"];
                 Partidazo.VisitanteSuplentes.ElementAt(6).Name = (string)dr["SuplenteVisitante7"];
 
+                Partidazo.LocalFormacionUsada = (string)dr["FormacionLocal"];
+                Partidazo.LocalTacticaUsada = (string)dr["TacticaLocal"];
+                Partidazo.VisitanteFormacionUsada = (string)dr["FormacionVisistante"];
+                Partidazo.VisitanteTacticaUsada = (string)dr["TacticaVisitante"];
+
+
+                Partidazo.TirosPuertaLocal = (int)dr["TirosPuertaLocal"];
+                Partidazo.TirosPuertaVisitante = (int)dr["TirosPuertaVisitante"];
+                Partidazo.TirosFueraLocal = (int)dr["TirosFueraLocal"];
+                Partidazo.TirosFueraVisitante = (int)dr["TirosFueraVisitante"];
+
+
+
+
 
             }
+
             dr.Close();
+
+            int klocal = 0;
+            int kvisita = 0;
+            while (dr2.Read())
+            {
+
+                if ((Boolean)dr2["Equipo"] == true)
+                {
+
+                    
+                    Partidazo.RendimientoLocal.ElementAt(klocal).Min = (int)dr2["Minuto"];
+                    Partidazo.RendimientoLocal.ElementAt(klocal).Tk = (string)dr2["RendimientoTk"];
+                    Partidazo.RendimientoLocal.ElementAt(klocal).Ps = (string)dr2["RendimientoPs"];
+                    Partidazo.RendimientoLocal.ElementAt(klocal).Sh = (string)dr2["RendimientoSh"];
+                    klocal++;
+                
+                }
+                if ((Boolean)dr2["Equipo"] == false) { 
+
+                
+
+
+                    Partidazo.RendimientoVisitante.ElementAt(kvisita).Min = (int)dr2["Minuto"];
+                Partidazo.RendimientoVisitante.ElementAt(kvisita).Tk = (string)dr2["RendimientoTk"];
+                Partidazo.RendimientoVisitante.ElementAt(kvisita).Ps = (string)dr2["RendimientoPs"];
+                Partidazo.RendimientoVisitante.ElementAt(kvisita).Sh = (string)dr2["RendimientoSh"];
+                        kvisita++;
+                    
+                }
+
+            }
+            dr2.Close();
+
+
 
             return Partidazo;
         }
@@ -635,7 +705,7 @@ namespace DataAcces
 
 
                             RendimientoDeEquipoEnPartido Rendimiento = new RendimientoDeEquipoEnPartido();
-                            Rendimiento.Min = rowsplit2.ElementAt(1);
+                            Rendimiento.Min = Int32.Parse(rowsplit2.ElementAt(1)); //Aca cambie el tipo de variable en Min, OJO
                             Rendimiento.Tk = rowsplit2.ElementAt(2);
                             Rendimiento.Ps = rowsplit2.ElementAt(3);
                             Rendimiento.Sh = rowsplit2.ElementAt(4);

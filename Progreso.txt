@@ -1,11 +1,11 @@
-FASE 1 (40,16%):
+FASE 1 (40,41%):
 
 Interfaz Grafica y Funcionalidad Basica:
 
 Plantilla/Equipo -> 80%
 Jugador -> 60%
 Tacticas -> 80%
-Partidos -> 62%
+Partidos -> 65%
 Inferiores -> 60%
 Instalaciones de Entrenamiento -> 60%
 Estadio -> 80%

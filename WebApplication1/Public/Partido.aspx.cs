@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 using DataAcces;
 using Model;
 using System.Drawing;
+using System.Collections;
 
 namespace AppWeb.Public
 {
@@ -67,7 +68,7 @@ namespace AppWeb.Public
             for (int v = 0; v < GridViewLocal.Rows.Count; v++)
             {
 
-                string hay = ((HyperLink)GridViewLocal.Rows[v].Cells[0].Controls[0]).Text;
+                string hay = ((HyperLink)GridViewLocal.Rows[v].Cells[1].Controls[0]).Text;
 
                 if (SUPLENTE6L == 1 && hay == "Suplente6")
                 {
@@ -119,7 +120,7 @@ namespace AppWeb.Public
             for (int v = 0; v < GridViewVisitante.Rows.Count; v++)
             {
 
-                string hay = ((HyperLink)GridViewVisitante.Rows[v].Cells[0].Controls[0]).Text;
+                string hay = ((HyperLink)GridViewVisitante.Rows[v].Cells[1].Controls[0]).Text;
 
                 if (SUPLENTE6V == 1 && hay == "Suplente6")
                 {
@@ -168,26 +169,48 @@ namespace AppWeb.Public
                 
             }
 
-            EquipoLocal.Text = TraemosPartido.EquipoLocal;
+
+            EquipoLocal.Text = "<a href ='/Public/PerfilEquipo.aspx?name=" + TraemosPartido.EquipoLocal + "' >" + TraemosPartido.EquipoLocal + "</a>";
             ResultadoLocal.Text = TraemosPartido.ResultadoLocal + "";
             ResultadoVisitante.Text = TraemosPartido.ResultadoVisitante + "";
-            EquipoVisiitante.Text = TraemosPartido.EquipoVisitante;
+            EquipoVisiitante.Text = "<a href ='/Public/PerfilEquipo.aspx?name=" + TraemosPartido.EquipoVisitante + "' >" + TraemosPartido.EquipoVisitante + "</a>";
 
 
 
+            FormacionLocal.Text = TraemosPartido.LocalFormacionUsada;
+            TacticaLocal.Text = TraemosPartido.LocalTacticaUsada;
+            FormacionVisitante.Text = TraemosPartido.VisitanteFormacionUsada;
+            TacticaVisitante.Text = TraemosPartido.VisitanteTacticaUsada;
+
+            TotalDisparosLocal.Text = (TraemosPartido.TirosFueraLocal + TraemosPartido.TirosPuertaLocal) + "";
+            TotalDisparosVisitante.Text = (TraemosPartido.TirosFueraVisitante + TraemosPartido.TirosPuertaVisitante) + "";
+            ApuertaLocal.Text = TraemosPartido.TirosPuertaLocal + "";
+            ApuertaVisitante.Text = TraemosPartido.TirosPuertaVisitante + "";
+
+            List<double> ListaRendiLocal = new List<double>();
+            List<double> ListaRendiVisitante = new List<double>();
+            for (int a = 0; a < 10; a++)
+            {
+
+                double g = Convert.ToInt64(Convert.ToDouble(TraemosPartido.RendimientoLocal[a].Ps));
+                double h = Convert.ToInt64(Convert.ToDouble(TraemosPartido.RendimientoVisitante[a].Ps));
+                ListaRendiLocal.Add(g);
+                ListaRendiVisitante.Add(h);
+
+            }
+
+            double promedioloc = ListaRendiLocal[0] + ListaRendiLocal[1] + ListaRendiLocal[2] + ListaRendiLocal[3] + ListaRendiLocal[4] + ListaRendiLocal[5] + ListaRendiLocal[6] + ListaRendiLocal[7] + ListaRendiLocal[8] + ListaRendiLocal[9];
+            double promediovis = ListaRendiVisitante[0] + ListaRendiVisitante[1] + ListaRendiVisitante[2] + ListaRendiVisitante[3] + ListaRendiVisitante[4] + ListaRendiVisitante[5] + ListaRendiVisitante[6] + ListaRendiVisitante[7] + ListaRendiVisitante[8] + ListaRendiVisitante[9];
+
+            double ValorLocal = promedioloc / 10;
+            double ValorVisita = promediovis / 10;
+
+            double TOTAL = ValorVisita + ValorLocal;
 
 
 
-
-
-
-
-
-
-
-
-
-
+            PosesionLocal.Text = Math.Round((ValorLocal*100)/TOTAL, 2) + "%";
+            PosesionVisitante.Text = Math.Round((ValorVisita*100)/TOTAL, 2) + "%";
 
 
 
