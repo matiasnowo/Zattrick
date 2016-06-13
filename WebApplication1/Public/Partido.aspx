@@ -4,12 +4,16 @@
 
 <%@ Register assembly="Microsoft.ReportViewer.WebForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" namespace="Microsoft.Reporting.WebForms" tagprefix="rsweb" %>
 
+
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
+    
 
     <section class="Partido">
         <header>
+                   
             <asp:Panel ID="EstadisticasLocal" runat="server" CssClass="float-left" Width="330px">
-                <asp:GridView ID="GridViewLocal" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4" HorizontalAlign="Center">
+                  <asp:Panel ID="Panel2" runat="server" Height="350px" ScrollBars="Auto" CssClass="classforpanel">
+                      <asp:GridView ID="GridViewLocal" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" BackColor="White" BorderColor="#3366CC" BorderStyle="None"  GridLines="None" BorderWidth="1px" CellPadding="4" HorizontalAlign="Center">
                     <Columns>
                <asp:BoundField DataField="Posicion" HeaderText="Pos" SortExpression="Posicion" />
                          <asp:HyperLinkField DataTextField="Jugador" HeaderText="Jugador" SortExpression="Jugador" DataNavigateUrlFields="Jugador" DataNavigateUrlFormatString="/Public/Jugador.aspx?name={0}" >
@@ -32,6 +36,8 @@
                     <SortedDescendingCellStyle BackColor="#D6DFDF" />
                     <SortedDescendingHeaderStyle BackColor="#002876" />
                 </asp:GridView>
+                      </asp:Panel>
+                  <br />
                  <asp:GridView ID="RendimientoLocal" runat="server" AutoGenerateColumns="False" CellPadding="4" DataSourceID="SqlDataSource2" ForeColor="#333333" GridLines="None" HorizontalAlign="Center">
                     <AlternatingRowStyle BackColor="White" />
                     <Columns>
@@ -99,35 +105,55 @@
                 <br />
                 <br />
 
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+
+                <br />
+
+                
+                <asp:Label ID="Informe" runat="server" Text="Informe: "></asp:Label>
+
                 
                 <br />
+           
+                <asp:Panel ID="Panel3" runat="server" HorizontalAlign="Center" ScrollBars="Auto" Width="300px">
+                    <asp:ListBox ID="RelatoBox" runat="server" Enabled="True" Font-Bold="True" Font-Size="8pt" Rows="25" style="margin-top: 0px"></asp:ListBox>
+                </asp:Panel>
+                &nbsp;<br />
                  </asp:Panel>
             
             <asp:Panel ID="EstadisticasVisitante" runat="server" Width="330px" CssClass="float-left">
-                <asp:GridView ID="GridViewVisitante" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4" HorizontalAlign="Center">
-                    <Columns>
-                        
-               <asp:BoundField DataField="Posicion" HeaderText="Pos" SortExpression="Posicion" />
-                 <asp:HyperLinkField DataTextField="Jugador" HeaderText="Jugador" SortExpression="Jugador" DataNavigateUrlFields="Jugador" DataNavigateUrlFormatString="/Public/Jugador.aspx?name={0}" >
-                <ItemStyle Font-Bold="True" />
-                </asp:HyperLinkField>
-                        <asp:BoundField DataField="Ass" HeaderText="Ass" SortExpression="Ass" HeaderImageUrl="~/Content/1501-200.png" />
-                        <asp:BoundField DataField="Gls" HeaderText="Gls" SortExpression="Gls" HeaderImageUrl="~/Content/minifootball.png" />
-                        <asp:BoundField DataField="Yel" HeaderText="Yel" SortExpression="Yel" HeaderImageUrl="~/Content/amarilla.jpg" />
-                        <asp:BoundField DataField="Red" HeaderText="Red" SortExpression="Red" HeaderImageUrl="~/Content/roja.png" />
-                        <asp:BoundField DataField="Inj" HeaderText="Inj" SortExpression="Inj" HeaderImageUrl="~/Content/1282.png" />
-                        <asp:BoundField DataField="Fit" HeaderText="Fit" SortExpression="Fit" />
-                    </Columns>
-                    <FooterStyle BackColor="#99CCCC" ForeColor="#003399" />
-                    <HeaderStyle BackColor="#003399" Font-Bold="True" ForeColor="#CCCCFF" />
-                    <PagerStyle BackColor="#99CCCC" ForeColor="#003399" HorizontalAlign="Left" />
-                    <RowStyle BackColor="#CCFFCC" ForeColor="#003399" />
-                    <SelectedRowStyle BackColor="#009999" Font-Bold="True" ForeColor="#CCFF99" />
-                    <SortedAscendingCellStyle BackColor="#EDF6F6" />
-                    <SortedAscendingHeaderStyle BackColor="#0D4AC4" />
-                    <SortedDescendingCellStyle BackColor="#D6DFDF" />
-                    <SortedDescendingHeaderStyle BackColor="#002876" />
-                </asp:GridView>
+                <asp:Panel ID="Panel1" runat="server" Height="350px" ScrollBars="Auto" CssClass="classforpanel">
+                    <asp:GridView ID="GridViewVisitante" runat="server" AutoGenerateColumns="False" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4" DataSourceID="SqlDataSource1" GridLines="None" HorizontalAlign="Center">
+                        <Columns>
+                            <asp:BoundField DataField="Posicion" HeaderText="Pos" SortExpression="Posicion" />
+                            <asp:HyperLinkField DataNavigateUrlFields="Jugador" DataNavigateUrlFormatString="/Public/Jugador.aspx?name={0}" DataTextField="Jugador" HeaderText="Jugador" SortExpression="Jugador">
+                            <ItemStyle Font-Bold="True" />
+                            </asp:HyperLinkField>
+                            <asp:BoundField DataField="Ass" HeaderImageUrl="~/Content/1501-200.png" HeaderText="Ass" SortExpression="Ass" />
+                            <asp:BoundField DataField="Gls" HeaderImageUrl="~/Content/minifootball.png" HeaderText="Gls" SortExpression="Gls" />
+                            <asp:BoundField DataField="Yel" HeaderImageUrl="~/Content/amarilla.jpg" HeaderText="Yel" SortExpression="Yel" />
+                            <asp:BoundField DataField="Red" HeaderImageUrl="~/Content/roja.png" HeaderText="Red" SortExpression="Red" />
+                            <asp:BoundField DataField="Inj" HeaderImageUrl="~/Content/1282.png" HeaderText="Inj" SortExpression="Inj" />
+                            <asp:BoundField DataField="Fit" HeaderText="Fit" SortExpression="Fit" />
+                        </Columns>
+                        <FooterStyle BackColor="#99CCCC" ForeColor="#003399" />
+                        <HeaderStyle BackColor="#003399" Font-Bold="True" ForeColor="#CCCCFF" />
+                        <PagerStyle BackColor="#99CCCC" ForeColor="#003399" HorizontalAlign="Left" />
+                        <RowStyle BackColor="#CCFFCC" ForeColor="#003399" />
+                        <SelectedRowStyle BackColor="#009999" Font-Bold="True" ForeColor="#CCFF99" />
+                        <SortedAscendingCellStyle BackColor="#EDF6F6" />
+                        <SortedAscendingHeaderStyle BackColor="#0D4AC4" />
+                        <SortedDescendingCellStyle BackColor="#D6DFDF" />
+                        <SortedDescendingHeaderStyle BackColor="#002876" />
+                    </asp:GridView>
+                   
+
+                </asp:Panel>
+                  <br />
                   <asp:GridView ID="RendimientoVisitante" runat="server" AutoGenerateColumns="False" CellPadding="4" DataSourceID="SqlDataSource3" ForeColor="#333333" GridLines="None" HorizontalAlign="Center">
                     <AlternatingRowStyle BackColor="White" />
                     <Columns>

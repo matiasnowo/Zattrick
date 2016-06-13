@@ -8,6 +8,7 @@ using DataAcces;
 using Model;
 using System.Drawing;
 using System.Collections;
+using System.Data.OleDb;
 
 namespace AppWeb.Public
 {
@@ -212,14 +213,28 @@ namespace AppWeb.Public
             PosesionLocal.Text = Math.Round((ValorLocal*100)/TOTAL, 2) + "%";
             PosesionVisitante.Text = Math.Round((ValorVisita*100)/TOTAL, 2) + "%";
 
+            string relatofinal = "";
+
+            for (int a = 0; a < TraemosPartido.Relato.Count; a++) {
 
 
+                ListItem li = new ListItem();
+                relatofinal = relatofinal + System.Environment.NewLine + TraemosPartido.Relato.ElementAt(a);
+                li.Text = TraemosPartido.Relato.ElementAt(a);
+
+                RelatoBox.Items.Add(li);
+                li.Attributes.Add("style", "color:snow;background-color:seagreen;");
+            }
 
 
+            
 
 
 
         }
-        }
 
+       
+
+
+    }
 }

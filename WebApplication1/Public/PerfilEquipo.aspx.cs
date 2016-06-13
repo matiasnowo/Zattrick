@@ -53,13 +53,13 @@ namespace AppWeb.Public
             LabelFundacion.Text = Equipazo.Fundacion + "";
             LabelRival.Text = Equipazo.Rival;
 
-        //    GridViewTodoslosPartidos.DataBind();
+            GridViewTodoslosPartidos.DataBind();
             for (int v = 0; v < GridViewTodoslosPartidos.Rows.Count; v++)
             {
                 int A = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewTodoslosPartidos.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewTodoslosPartidos.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {
@@ -130,8 +130,8 @@ namespace AppWeb.Public
             {
                 int A = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[3].Text);
                 int B = Int32.Parse(GridViewTodoslosPartidos.Rows[v].Cells[4].Text);
-                string EquipoA = GridViewTodoslosPartidos.Rows[v].Cells[2].Text;
-                string EquipoB = GridViewTodoslosPartidos.Rows[v].Cells[5].Text;
+                string EquipoA = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[2].Controls[0]).Text;
+                string EquipoB = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[5].Controls[0]).Text;
 
                 if (A == B)
                 {

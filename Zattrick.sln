@@ -16,6 +16,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentacion", "Documentacion", "{B6CB905A-D7A7-4C85-8461-CD46845A8BE4}"
 	ProjectSection(SolutionItems) = preProject
 		Detalle de Implementacion Fase 3.txt = Detalle de Implementacion Fase 3.txt
+		Errores.txt = Errores.txt
 		Funcionalidad.txt = Funcionalidad.txt
 		Progreso.txt = Progreso.txt
 		Recordatorio.txt = Recordatorio.txt

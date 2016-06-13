@@ -91,8 +91,8 @@
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">
                 </asp:ImageField>
                 <asp:BoundField DataField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
-                <asp:BoundField DataField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
-                <asp:BoundField DataField="ResultadoLocal" HeaderText="-" SortExpression="ResultadoLocal" >
+              <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
+                   <asp:BoundField DataField="ResultadoLocal" HeaderText="-" SortExpression="ResultadoLocal" >
                 <ItemStyle Font-Bold="True" />
                 </asp:BoundField>
                 <asp:BoundField DataField="ResultadoVisitante" HeaderText="-" SortExpression="ResultadoVisitante" >
@@ -100,8 +100,8 @@
                 <ItemStyle Font-Bold="True" />
                 </asp:BoundField>
 
-                <asp:BoundField DataField="EquipoVisitante" HeaderText="Visitante" SortExpression="EquipoVisitante" />
-                <asp:BoundField DataField="Competencia" HeaderText="Competencia" SortExpression="Competencia" >
+                 <asp:HyperLinkField DataNavigateUrlFields="EquipoVisitante" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoVisitante" HeaderText="Visitante" SortExpression="EquipoVisitante" />
+                 <asp:BoundField DataField="Competencia" HeaderText="Competencia" SortExpression="Competencia" >
                                 </asp:BoundField>
             </Columns>
             <FooterStyle BackColor="#99CCCC" ForeColor="#003399" />

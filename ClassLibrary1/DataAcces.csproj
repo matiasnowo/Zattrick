@@ -43,6 +43,7 @@
     <Compile Include="Autenticacion\UsuarioDAO.cs" />
     <Compile Include="EntrenadorDAO.cs" />
     <Compile Include="EntrenamientoEspecialDAO.cs" />
+    <Compile Include="JugadorEnPartidoDAO.cs" />
     <Compile Include="PartidoDAO.cs" />
     <Compile Include="InferioresDAO.cs" />
     <Compile Include="EstadioDAO.cs" />

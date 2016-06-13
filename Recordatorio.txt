@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------------------
-AGREGAR TODOS LOS EQUIPOS A LA DB!
+Poner Calificacion de Jugador en los Partidos.
 
 -----------------------------------------------------------------------------------------------
 Si tenes ganas/queres, me vendria bien que agarres lo que habiamos hablado de Registracion, Pedido de equipos etc.

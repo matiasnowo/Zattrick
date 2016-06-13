@@ -1,0 +1,4 @@
+Partidos y PartidosDe:
+
+Problemas al pasar de pagina (Errores, y no muestra bien el link de la fecha al partido especifico)
+Revisar bien porque Partidos tiene menos errores que PartidosDe

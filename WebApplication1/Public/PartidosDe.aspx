@@ -10,17 +10,17 @@
     </p>
     <p>
         Partidos<p>
-            <strong __designer:mapid="221" >Temporada Actual:</strong>                
+            <strong __designer:mapid="221" >Temporada Actual:</strong>                        
             
             <asp:Panel ID="PanelDePartidos" runat="server" CssClass="float-right" style="margin-right:30px" Width="400px" Height="700px" ScrollBars="Auto" BorderStyle="Dashed">
         <strong>Partidos de</strong>
         <asp:Label ID="Liga" runat="server" Text="Liga" Font-Bold="True"></asp:Label>
-        :<asp:GridView ID="GridViewLiga"  runat="server" AllowPaging="True"  HorizontalAlign="Center" style="text-align: center" AutoGenerateColumns="False" DataSourceID="SqlDataSource2" PageSize="8" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4">
+        :<asp:GridView ID="GridViewLiga"  runat="server" AllowPaging="True"  HorizontalAlign="Center"    style="text-align: center" AutoGenerateColumns="False" DataSourceID="SqlDataSource2" PageSize="8" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4">
             <Columns>
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">
                 </asp:ImageField>
-                <asp:BoundField DataField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
-                 <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
+              <asp:HyperLinkField DataNavigateUrlFields="Fecha" DataNavigateUrlFormatString="/Public/Partido.aspx?partidos={0}" DataTextField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
+                  <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
                  <asp:BoundField DataField="ResultadoLocal" HeaderText="-" SortExpression="ResultadoLocal" >
                 <ItemStyle Font-Bold="True" />
                 </asp:BoundField>
@@ -43,12 +43,12 @@
 
             <strong>Partidos de </strong>
         <asp:Label ID="Copa" runat="server" Text="Copa" Font-Bold="True"></asp:Label>
-        :<asp:GridView ID="GridViewCopa" runat="server" AllowPaging="True" AutoGenerateColumns="False" DataSourceID="SqlDataSource3"  HorizontalAlign="Center" style="text-align: center" PageSize="8" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4">
+        :<asp:GridView ID="GridViewCopa" runat="server" AllowPaging="True"    AutoGenerateColumns="False" DataSourceID="SqlDataSource3"  HorizontalAlign="Center" style="text-align: center" PageSize="8" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4">
             <Columns>
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">
                 </asp:ImageField>
-                <asp:BoundField DataField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
-             <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
+              <asp:HyperLinkField DataNavigateUrlFields="Fecha" DataNavigateUrlFormatString="/Public/Partido.aspx?partidos={0}" DataTextField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
+                <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
                    <asp:BoundField DataField="ResultadoLocal" HeaderText="-" SortExpression="ResultadoLocal" >
                 <ItemStyle Font-Bold="True" />
                 </asp:BoundField>
@@ -69,12 +69,12 @@
         </asp:GridView>
 
                   <asp:Label ID="Amistosos" runat="server" Text="Amistosos" Font-Bold="True"></asp:Label>
-        :<asp:GridView ID="GridViewAmistosos"  runat="server" AllowPaging="True" AutoGenerateColumns="False"  HorizontalAlign="Center" style="text-align: center" DataSourceID="SqlDataSource4" PageSize="8" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4">
+        :<asp:GridView ID="GridViewAmistosos"  runat="server" AllowPaging="True"    AutoGenerateColumns="False"  HorizontalAlign="Center" style="text-align: center" DataSourceID="SqlDataSource4" PageSize="8" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4">
             <Columns>
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">
                 </asp:ImageField>
-                <asp:BoundField DataField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
-              <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
+             <asp:HyperLinkField DataNavigateUrlFields="Fecha" DataNavigateUrlFormatString="/Public/Partido.aspx?partidos={0}" DataTextField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
+                  <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
                  <asp:BoundField DataField="ResultadoLocal" HeaderText="-" SortExpression="ResultadoLocal" >
                 <ItemStyle Font-Bold="True" />
                 </asp:BoundField>
@@ -96,11 +96,16 @@
         </asp:Panel>
             
             <asp:Panel ID="TodosLosPartidos" runat="server" Width="500px" Height="700px" BorderStyle="Dashed" ScrollBars="Auto">
-        <strong >Todos los Partidos:</strong><asp:GridView ID="GridViewTodoslosPartidos"  runat="server" AllowPaging="True" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" PageSize="30" HorizontalAlign="Center" style="text-align: center" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4">
+        <strong >Todos los Partidos:</strong><asp:GridView ID="GridViewTodoslosPartidos"      runat="server" AllowPaging="True" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" PageSize="30" HorizontalAlign="Center" style="text-align: center" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4">
             <Columns>
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">
                 </asp:ImageField>
-                <asp:BoundField DataField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
+               
+                
+                 <asp:HyperLinkField DataNavigateUrlFields="Fecha" DataNavigateUrlFormatString="/Public/Partido.aspx?partidos={0}" DataTextField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
+               
+                
+
                 <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
                 <asp:BoundField DataField="ResultadoLocal" HeaderText="-" SortExpression="ResultadoLocal">
                 <ItemStyle Font-Bold="True" />
@@ -137,7 +142,7 @@
     <br />
     <br />
     <br />
-            <strong __designer:mapid="221" >Temporadas Anteriores:adas Anteriores::</strong><br />
+            <strong __designer:mapid="221" >Temporadas Anteriores:adas Anteriores:::</strong><br />
     <asp:Panel ID="Panel4" runat="server" CssClass="float-left" Width="333px">
         
         <br />

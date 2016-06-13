@@ -8,6 +8,7 @@ using DataAcces;
 using System.Data.OleDb;
 using System.IO;
 using System.Windows.Forms;
+using System.Globalization;
 
 namespace DataAcces
 {
@@ -28,6 +29,7 @@ namespace DataAcces
             List<JugadorEnPartido> LJEP4 = new List<JugadorEnPartido>();
             List<RendimientoDeEquipoEnPartido> LREN1 = new List<RendimientoDeEquipoEnPartido>();
             List<RendimientoDeEquipoEnPartido> LREN2 = new List<RendimientoDeEquipoEnPartido>();
+            List<string> REL = new List<string>();
 
             for (int a = 0; a < 11; a++)
             {
@@ -71,6 +73,7 @@ namespace DataAcces
 
             Partidazo.VisitanteTitulares = LJEP3;
             Partidazo.VisitanteSuplentes = LJEP4;
+            Partidazo.Relato = REL;
 
             while (dr.Read())
             {
@@ -136,8 +139,19 @@ namespace DataAcces
                 Partidazo.TirosFueraLocal = (int)dr["TirosFueraLocal"];
                 Partidazo.TirosFueraVisitante = (int)dr["TirosFueraVisitante"];
 
+                
+                string relatando = (string)dr["Relato"];
 
 
+                Char delimiter = '|';
+                string [] relatnado2 = relatando.Split(delimiter);
+                
+                for (int a = 0; a < relatnado2.Length; a++)
+                {
+                    if (relatnado2[a] != "") { 
+                    Partidazo.Relato.Add(relatnado2.ElementAt(a));
+                    }
+                }
 
 
             }
@@ -181,6 +195,79 @@ namespace DataAcces
             return Partidazo;
         }
 
+
+        public Partido GetIDdePartidoPorLocalVisitanteFechaCompetencia(string Local, string Visitante, string Fecha, string Competencia)
+        {
+
+
+            Fecha = Fecha.Substring(0, 9).Trim();
+
+            Fecha = DateTime.Parse(Fecha, CultureInfo.GetCultureInfo("en-us")).ToString();
+
+            Fecha = Fecha.Substring(0, 9).Trim();
+
+
+            string query = "SELECT ID FROM Partidos WHERE EquipoLocal = '" + Local + "' AND EquipoVisitante = '" + Visitante + "' AND Fecha = #" + Fecha + "# AND Competencia LIKE '" + Competencia + "'";
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
+            Partido Partidazo = new Partido();
+            while (dr.Read())
+            {
+
+ 
+                Partidazo.IDUnico = (int)dr["ID"];
+
+
+            }
+            dr.Close();
+
+            return Partidazo;
+        }
+
+
+
+
+        public List<string> GetRelatodePartidoPorID(int ID)
+        {
+
+       
+            string query = "SELECT * FROM Partidos WHERE ID = " + ID;
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
+                   List<string> REL = new List<string>();
+                   Partido Partidazo = new Partido();
+       
+
+            Partidazo.Relato = REL;
+
+            while (dr.Read())
+            {
+
+
+
+                string relatando = (string)dr["Relato"];
+
+
+                Char delimiter = '|';
+                string[] relatnado2 = relatando.Split(delimiter);
+
+                for (int a = 0; a < relatnado2.Length; a++)
+                {
+                    if (relatnado2[a] != "")
+                    {
+                        Partidazo.Relato.Add(relatnado2.ElementAt(a));
+                    }
+                }
+
+
+            }
+
+            dr.Close();
+
+          
+
+
+
+            return Partidazo.Relato;
+        }
         public Partido GetPartidoPorLocal(string Nombre)
         {
 

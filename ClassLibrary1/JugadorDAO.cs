@@ -12,6 +12,8 @@ namespace DataAcces
     public class JugadorDAO
     {
 
+      
+
         public Jugador TraerJugador(string NombreDeJugador)
         {
 
