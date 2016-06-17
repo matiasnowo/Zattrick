@@ -30,6 +30,9 @@ namespace AppWeb.Public
             //            Response.Redirect("/Inicio.aspx");
             //        }
 
+
+            Title = "Equipo - " + name;
+
             EstadioDAO ESD = new EstadioDAO();
 
 
@@ -91,7 +94,7 @@ namespace AppWeb.Public
                     GridViewTodoslosPartidos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
 
-                GridViewTodoslosPartidos.Rows[v].Cells[1].Text = GridViewTodoslosPartidos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
 
 
             }
@@ -163,7 +166,7 @@ namespace AppWeb.Public
                     GridViewTodoslosPartidos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
 
-                GridViewTodoslosPartidos.Rows[v].Cells[1].Text = GridViewTodoslosPartidos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
 
 
             }

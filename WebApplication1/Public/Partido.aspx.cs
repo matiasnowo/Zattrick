@@ -41,6 +41,10 @@ namespace AppWeb.Public
             List<string> JugadoresLocales = new List<string>();
             List<string> JugadoresVisitantes = new List<string>();
 
+            LabelCompetencia.Text = TraemosPartido.Competencia;
+
+            Title = "Partido - " + TraemosPartido.EquipoLocal + " " + TraemosPartido.ResultadoLocal + " - " + TraemosPartido.ResultadoVisitante + " " + TraemosPartido.EquipoVisitante;
+
 
             int SUPLENTE6L = 0;
             int SUPLENTE7L = 0;
@@ -113,10 +117,84 @@ namespace AppWeb.Public
 
                 }
 
+                for (int celda = 2; celda < 7; celda++) { 
+               if (Convert.ToInt32(GridViewLocal.Rows[v].Cells[celda].Text) > 0)
+                {
+
+                        GridViewLocal.Rows[v].Cells[celda].Font.Bold = true;
+
+                        GridViewLocal.Rows[v].Cells[celda].ForeColor = Color.Red;
+
+                    }
+
+                 
+
+
+                }
+
+                int Asist = (Convert.ToInt32(GridViewLocal.Rows[v].Cells[2].Text));
+                int Gols = (Convert.ToInt32(GridViewLocal.Rows[v].Cells[3].Text));
+                int Ams = (Convert.ToInt32(GridViewLocal.Rows[v].Cells[4].Text));
+                int Rjs = (Convert.ToInt32(GridViewLocal.Rows[v].Cells[5].Text));
+                int salv = (Convert.ToInt32(GridViewLocal.Rows[v].Cells[9].Text));
+                int ktk = (Convert.ToInt32(GridViewLocal.Rows[v].Cells[10].Text));
+                int kps = (Convert.ToInt32(GridViewLocal.Rows[v].Cells[11].Text));
+                int sht = (Convert.ToInt32(GridViewLocal.Rows[v].Cells[12].Text));
+                int minu = (Convert.ToInt32(GridViewLocal.Rows[v].Cells[13].Text));
+                double result = 0.00;
+
                 
+
+                if (GridViewLocal.Rows[v].Cells[0].Text == "GK") {
+                    result = (6.00 + (0.18 * salv) - (0.25 * Ams) - (1 * Rjs) - (0.2 * TraemosPartido.ResultadoVisitante));
+                    GridViewLocal.Rows[v].Cells[8].Text = String.Format("{0:0.00}", result);
+                }
+
+
+                if (GridViewLocal.Rows[v].Cells[0].Text.Contains("DF"))
+                {
+
+                    result = (6.00 + (0.21 * ktk) + (0.18 * kps) + (0.36 * Asist) + (0.18 * sht) + (0.82 * Gols) - (0.25 * Ams) - (1 * Rjs) - (0.15 * TraemosPartido.ResultadoVisitante));
+
+                    GridViewLocal.Rows[v].Cells[8].Text = String.Format("{0:0.00}", result);
+                }
+
+                if (GridViewLocal.Rows[v].Cells[0].Text.Contains("MF") || GridViewLocal.Rows[v].Cells[0].Text.Contains("DM") || GridViewLocal.Rows[v].Cells[0].Text.Contains("AM"))
+                {
+
+                    result = (6.00 + (0.23 * ktk) + (0.23 * kps) + (0.32 * Asist) + (0.21 * sht) + (0.82 * Gols) - (0.25 * Ams) - (1 * Rjs));
+
+                    GridViewLocal.Rows[v].Cells[8].Text = String.Format("{0:0.00}", result);
+                }
+
+                if (GridViewLocal.Rows[v].Cells[0].Text.Contains("FW"))
+                {
+
+                    result = (6.00 + (0.42 * ktk) + (0.18 * kps) + (0.36 * Asist) + (0.26 * sht) + (0.67 * Gols) - (0.25 * Ams) - (1 * Rjs));
+
+
+                    GridViewLocal.Rows[v].Cells[8].Text = String.Format("{0:0.00}", result);
+
+                      
+                }
+
+                if (Convert.ToDouble(GridViewLocal.Rows[v].Cells[8].Text) > 10)
+                {
+
+                    GridViewLocal.Rows[v].Cells[8].Text = 10 + "";
+
+                }
+
+                if (minu < 16)
+                {
+                    GridViewLocal.Rows[v].Cells[8].Text = "-";
+
+                }
+
 
 
             }
+
 
             for (int v = 0; v < GridViewVisitante.Rows.Count; v++)
             {
@@ -166,8 +244,80 @@ namespace AppWeb.Public
                     SUPLENTE7V = 1;
 
                 }
-                
-                
+
+                for (int celda = 2; celda < 7; celda++)
+                {
+                    if (Convert.ToInt32(GridViewVisitante.Rows[v].Cells[celda].Text) > 0)
+                    {
+
+                        GridViewVisitante.Rows[v].Cells[celda].Font.Bold = true;
+                        GridViewVisitante.Rows[v].Cells[celda].ForeColor = Color.Red;
+
+                    }
+
+                }
+
+
+                int Asist = (Convert.ToInt32(GridViewVisitante.Rows[v].Cells[2].Text));
+                int Gols = (Convert.ToInt32(GridViewVisitante.Rows[v].Cells[3].Text));
+                int Ams = (Convert.ToInt32(GridViewVisitante.Rows[v].Cells[4].Text));
+                int Rjs = (Convert.ToInt32(GridViewVisitante.Rows[v].Cells[5].Text));
+                int salv = (Convert.ToInt32(GridViewVisitante.Rows[v].Cells[9].Text));
+                int ktk = (Convert.ToInt32(GridViewVisitante.Rows[v].Cells[10].Text));
+                int kps = (Convert.ToInt32(GridViewVisitante.Rows[v].Cells[11].Text));
+                int sht = (Convert.ToInt32(GridViewVisitante.Rows[v].Cells[12].Text));
+                int minu = (Convert.ToInt32(GridViewVisitante.Rows[v].Cells[13].Text));
+                double result = 0.00;
+
+
+
+                if (GridViewVisitante.Rows[v].Cells[0].Text == "GK")
+                {
+                    result = (6.00 + (0.18 * salv) - (0.25 * Ams) - (1 * Rjs) - (0.2 * TraemosPartido.ResultadoLocal));
+                    GridViewVisitante.Rows[v].Cells[8].Text = String.Format("{0:0.00}", result);
+                }
+
+
+                if (GridViewVisitante.Rows[v].Cells[0].Text.Contains("DF"))
+                {
+
+                    result = (6.00 + (0.21 * ktk) + (0.18 * kps) + (0.36 * Asist) + (0.18 * sht) + (0.82 * Gols) - (0.25 * Ams) - (1 * Rjs) - (0.15 * TraemosPartido.ResultadoLocal));
+
+                    GridViewVisitante.Rows[v].Cells[8].Text = String.Format("{0:0.00}", result);
+                }
+
+                if (GridViewVisitante.Rows[v].Cells[0].Text.Contains("MF") || GridViewVisitante.Rows[v].Cells[0].Text.Contains("DM") || GridViewVisitante.Rows[v].Cells[0].Text.Contains("AM"))
+                {
+
+                    result = (6.00 + (0.23 * ktk) + (0.23 * kps) + (0.32 * Asist) + (0.21 * sht) + (0.82 * Gols) - (0.25 * Ams) - (1 * Rjs));
+
+                    GridViewVisitante.Rows[v].Cells[8].Text = String.Format("{0:0.00}", result);
+                }
+
+                if (GridViewVisitante.Rows[v].Cells[0].Text.Contains("FW"))
+                {
+
+                    result = (6.00 + (0.42 * ktk) + (0.18 * kps) + (0.36 * Asist) + (0.26 * sht) + (0.67 * Gols) - (0.25 * Ams) - (1 * Rjs));
+
+
+                    GridViewVisitante.Rows[v].Cells[8].Text = String.Format("{0:0.00}", result);
+
+
+                }
+
+
+                if (Convert.ToDouble(GridViewVisitante.Rows[v].Cells[8].Text) > 10){
+
+                    GridViewVisitante.Rows[v].Cells[8].Text = 10 + "";
+
+            }
+                if (minu < 16)
+                {
+                    GridViewVisitante.Rows[v].Cells[8].Text = "-";
+
+                }
+
+
             }
 
 
@@ -227,7 +377,7 @@ namespace AppWeb.Public
             }
 
 
-            
+
 
 
 

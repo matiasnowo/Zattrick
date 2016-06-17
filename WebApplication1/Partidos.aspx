@@ -10,7 +10,7 @@
     </p>
     <p>
         Partidos<p>
-            <strong __designer:mapid="221" >Temporada Actual:</strong>            
+            <strong __designer:mapid="221" >Temporada Actual:</strong>              
             
             <asp:Panel ID="PanelDePartidos" runat="server" CssClass="float-right" style="margin-right:30px" Width="400px" Height="700px" ScrollBars="Auto" BorderStyle="Dashed">
         <strong>Partidos de</strong>
@@ -19,8 +19,8 @@
             <Columns>
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">
                 </asp:ImageField>
-                <asp:BoundField DataField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
-                  <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
+              <asp:HyperLinkField DataNavigateUrlFields="ID" DataNavigateUrlFormatString="/Public/Partido.aspx?partido={0}" DataTextField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
+                   <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
                <asp:BoundField DataField="ResultadoLocal" HeaderText="-" SortExpression="ResultadoLocal" >
                 <ItemStyle Font-Bold="True" />
                 </asp:BoundField>
@@ -47,8 +47,8 @@
             <Columns>
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">
                 </asp:ImageField>
-                <asp:BoundField DataField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
-                 <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
+              <asp:HyperLinkField DataNavigateUrlFields="ID" DataNavigateUrlFormatString="/Public/Partido.aspx?partido={0}" DataTextField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
+                    <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
                   <asp:BoundField DataField="ResultadoLocal" HeaderText="-" SortExpression="ResultadoLocal" >
                 <ItemStyle Font-Bold="True" />
                 </asp:BoundField>
@@ -73,8 +73,8 @@
             <Columns>
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">
                 </asp:ImageField>
-                <asp:BoundField DataField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
-                 <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
+          <asp:HyperLinkField DataNavigateUrlFields="ID" DataNavigateUrlFormatString="/Public/Partido.aspx?partido={0}" DataTextField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
+                       <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
                <asp:BoundField DataField="ResultadoLocal" HeaderText="-" SortExpression="ResultadoLocal" >
                 <ItemStyle Font-Bold="True" />
                 </asp:BoundField>
@@ -100,7 +100,7 @@
             <Columns>
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">
                 </asp:ImageField>
-                <asp:BoundField DataField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
+               <asp:HyperLinkField DataNavigateUrlFields="ID" DataNavigateUrlFormatString="/Public/Partido.aspx?partido={0}" DataTextField="Fecha" HeaderText="Fecha" SortExpression="Fecha" />
                <asp:HyperLinkField DataNavigateUrlFields="EquipoLocal" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoLocal" HeaderText="Local" SortExpression="EquipoLocal" />
                   <asp:BoundField DataField="ResultadoLocal" HeaderText="-" SortExpression="ResultadoLocal" >
                 <ItemStyle Font-Bold="True" />
@@ -124,7 +124,7 @@
             <SortedDescendingCellStyle BackColor="#D6DFDF" />
             <SortedDescendingHeaderStyle BackColor="#002876" />
         </asp:GridView>
-        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE (([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)) ORDER BY [Fecha] DESC">
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT [ID], [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE (([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)) ORDER BY [Fecha] DESC">
             <SelectParameters>
                 <asp:SessionParameter Name="EquipoLocal" SessionField="Equipo" Type="String" />
                 <asp:SessionParameter Name="EquipoVisitante" SessionField="Equipo" Type="String" />
@@ -139,7 +139,7 @@
     <br />
     <br />
     <br />
-            <strong __designer:mapid="221" >Temporadas Anteriores:adas Anteriores:</strong><br />
+            <strong __designer:mapid="221" >Temporadas Anteriores::</strong><br />
     <asp:Panel ID="Panel4" runat="server" CssClass="float-left" Width="333px">
         
         <br />

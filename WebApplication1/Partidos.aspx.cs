@@ -31,17 +31,17 @@ namespace AppWeb
 
             Liga.Text = Equipazo.Categoria;
 
-            
+            Title = "Partidos - " + Equipazo.Nombre;
             
 
             
             
             
-            SqlDataSource2.SelectCommand = "SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = '" + Equipazo.Categoria + "' AND (([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)) ORDER BY [Fecha] DESC";
+            SqlDataSource2.SelectCommand = "SELECT [ID], [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = '" + Equipazo.Categoria + "' AND (([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)) ORDER BY [Fecha] DESC";
 
-            SqlDataSource3.SelectCommand = "SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] LIKE 'Copa*' AND (([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)) ORDER BY [Fecha] DESC";
+            SqlDataSource3.SelectCommand = "SELECT [ID], [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] LIKE 'Copa%' AND (([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)) ORDER BY [Fecha] DESC";
 
-            SqlDataSource4.SelectCommand = "SELECT [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = 'Amistoso' AND (([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)) ORDER BY [Fecha] DESC";
+            SqlDataSource4.SelectCommand = "SELECT [ID], [Fecha], [EquipoLocal], [ResultadoLocal], [ResultadoVisitante], [EquipoVisitante], [Competencia] FROM [Partidos] WHERE [Competencia] = 'Amistoso' AND (([EquipoLocal] = ?) OR ([EquipoVisitante] = ?)) ORDER BY [Fecha] DESC";
 
 
 
@@ -84,7 +84,7 @@ namespace AppWeb
                     GridViewTodoslosPartidos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
 
-                GridViewTodoslosPartidos.Rows[v].Cells[1].Text = GridViewTodoslosPartidos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
 
 
             }
@@ -126,7 +126,7 @@ namespace AppWeb
 
                     GridViewLiga.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewLiga.Rows[v].Cells[1].Text = GridViewLiga.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewLiga.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewLiga.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
 
@@ -168,7 +168,7 @@ namespace AppWeb
 
                     GridViewCopa.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewCopa.Rows[v].Cells[1].Text = GridViewCopa.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewCopa.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewCopa.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
             GridViewAmistosos.DataBind();
@@ -208,24 +208,11 @@ namespace AppWeb
 
                     GridViewAmistosos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewAmistosos.Rows[v].Cells[1].Text = GridViewAmistosos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewAmistosos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewAmistosos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
 
-            //    for (int a = 0; a < Prueba.Count; a++)
-            //   {
 
-
-            //   DataList1.DataSource = Prueba;
-            //     DataList1.DataBind();
-
-
-            //    }
-
-
-
-
-            //     ListView1.Items.Add("List item text");
         }
 
 
@@ -276,7 +263,7 @@ namespace AppWeb
                     GridViewTodoslosPartidos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
 
-                GridViewTodoslosPartidos.Rows[v].Cells[1].Text = GridViewTodoslosPartidos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
 
 
             }
@@ -318,7 +305,7 @@ namespace AppWeb
 
                     GridViewLiga.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewLiga.Rows[v].Cells[1].Text = GridViewLiga.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewLiga.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewLiga.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
 
@@ -360,7 +347,7 @@ namespace AppWeb
 
                     GridViewCopa.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewCopa.Rows[v].Cells[1].Text = GridViewCopa.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewCopa.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewCopa.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
      //       GridViewAmistosos.DataBind();
@@ -400,7 +387,7 @@ namespace AppWeb
 
                     GridViewAmistosos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewAmistosos.Rows[v].Cells[1].Text = GridViewAmistosos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewAmistosos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewAmistosos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
 
@@ -450,7 +437,7 @@ namespace AppWeb
                     GridViewTodoslosPartidos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
 
-                GridViewTodoslosPartidos.Rows[v].Cells[1].Text = GridViewTodoslosPartidos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
 
 
             }
@@ -492,7 +479,7 @@ namespace AppWeb
 
                     GridViewLiga.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewLiga.Rows[v].Cells[1].Text = GridViewLiga.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewLiga.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewLiga.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
 
@@ -534,7 +521,7 @@ namespace AppWeb
 
                     GridViewCopa.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewCopa.Rows[v].Cells[1].Text = GridViewCopa.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewCopa.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewCopa.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
             //       GridViewAmistosos.DataBind();
@@ -574,7 +561,7 @@ namespace AppWeb
 
                     GridViewAmistosos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewAmistosos.Rows[v].Cells[1].Text = GridViewAmistosos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewAmistosos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewAmistosos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
 
@@ -623,7 +610,7 @@ namespace AppWeb
                     GridViewTodoslosPartidos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
 
-                GridViewTodoslosPartidos.Rows[v].Cells[1].Text = GridViewTodoslosPartidos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
 
 
             }
@@ -665,7 +652,7 @@ namespace AppWeb
 
                     GridViewLiga.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewLiga.Rows[v].Cells[1].Text = GridViewLiga.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewLiga.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewLiga.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
 
@@ -707,7 +694,7 @@ namespace AppWeb
 
                     GridViewCopa.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewCopa.Rows[v].Cells[1].Text = GridViewCopa.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewCopa.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewCopa.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
             //       GridViewAmistosos.DataBind();
@@ -747,7 +734,7 @@ namespace AppWeb
 
                     GridViewAmistosos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewAmistosos.Rows[v].Cells[1].Text = GridViewAmistosos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewAmistosos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewAmistosos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
         }
@@ -795,7 +782,7 @@ namespace AppWeb
                     GridViewTodoslosPartidos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
 
-                GridViewTodoslosPartidos.Rows[v].Cells[1].Text = GridViewTodoslosPartidos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewTodoslosPartidos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
 
 
             }
@@ -837,7 +824,7 @@ namespace AppWeb
 
                     GridViewLiga.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewLiga.Rows[v].Cells[1].Text = GridViewLiga.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewLiga.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewLiga.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
 
@@ -879,7 +866,7 @@ namespace AppWeb
 
                     GridViewCopa.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewCopa.Rows[v].Cells[1].Text = GridViewCopa.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewCopa.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewCopa.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
       //      GridViewAmistosos.DataBind();
@@ -919,7 +906,7 @@ namespace AppWeb
 
                     GridViewAmistosos.Rows[v].Cells[0].Text = "<IMG SRC=/Content/circulo-rojo-icono-9411-16.png>";
                 }
-                GridViewAmistosos.Rows[v].Cells[1].Text = GridViewAmistosos.Rows[v].Cells[1].Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "").Replace(" 00:00:00", "");
+                ((HyperLink)GridViewAmistosos.Rows[v].Cells[1].Controls[0]).Text = ((HyperLink)GridViewAmistosos.Rows[v].Cells[1].Controls[0]).Text.Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             }
 
 

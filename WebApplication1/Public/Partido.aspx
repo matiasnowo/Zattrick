@@ -15,7 +15,9 @@
                   <asp:Panel ID="Panel2" runat="server" Height="350px" ScrollBars="Auto" CssClass="classforpanel">
                       <asp:GridView ID="GridViewLocal" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" BackColor="White" BorderColor="#3366CC" BorderStyle="None"  GridLines="None" BorderWidth="1px" CellPadding="4" HorizontalAlign="Center">
                     <Columns>
-               <asp:BoundField DataField="Posicion" HeaderText="Pos" SortExpression="Posicion" />
+               <asp:BoundField DataField="Posicion" HeaderText="Ps" SortExpression="Posicion" >
+                         <ItemStyle Font-Bold="True" Font-Size="Small" />
+                        </asp:BoundField>
                          <asp:HyperLinkField DataTextField="Jugador" HeaderText="Jugador" SortExpression="Jugador" DataNavigateUrlFields="Jugador" DataNavigateUrlFormatString="/Public/Jugador.aspx?name={0}" >
                 <ItemStyle Font-Bold="True" />
                 </asp:HyperLinkField>
@@ -24,7 +26,17 @@
                         <asp:BoundField DataField="Yel" HeaderText="Yel" SortExpression="Yel" HeaderImageUrl="~/Content/amarilla.jpg" />
                         <asp:BoundField DataField="Red" HeaderText="Red" SortExpression="Red" HeaderImageUrl="~/Content/roja.png" />
                         <asp:BoundField DataField="Inj" HeaderText="Inj" SortExpression="Inj" HeaderImageUrl="~/Content/1282.png" />
-                        <asp:BoundField DataField="Fit" HeaderText="Fit" SortExpression="Fit" />
+                        <asp:BoundField DataField="Fit" HeaderText="Fit" SortExpression="Fit" >
+                        <ItemStyle Font-Bold="False" Font-Size="Small" />
+                        </asp:BoundField>
+                        <asp:TemplateField HeaderText="Cal" SortExpression="Cal" ValidateRequestMode="Disabled">
+                            <ItemStyle Font-Bold="True" />
+                        </asp:TemplateField>
+                        <asp:BoundField DataField="Sav" HeaderText="Sav"  ValidateRequestMode="Disabled" />
+                        <asp:BoundField DataField="Ktk" HeaderText="Ktk"  ValidateRequestMode="Disabled"/>
+                        <asp:BoundField DataField="Kps" HeaderText="Kps"  ValidateRequestMode="Disabled"/>
+                        <asp:BoundField DataField="Sht" HeaderText="Sht" ValidateRequestMode="Disabled"/>
+                        <asp:BoundField DataField="Min" HeaderText="Min" ValidateRequestMode="Disabled"/>
                     </Columns>
                     <FooterStyle BackColor="#99CCCC" ForeColor="#003399" />
                     <HeaderStyle BackColor= "#003399" Font-Bold="True" ForeColor="#CCCCFF" />
@@ -90,6 +102,9 @@
                 <br />
                 <br />
                 <br />
+                <asp:Label ID="LabelCompetencia" runat="server" Font-Bold="True" Font-Size="Medium" Text="LabelCompetencia" ForeColor="#3366FF"></asp:Label>
+                <br />
+                <br />
                 <asp:Label ID="TotalDisparosLocal" runat="server" Font-Bold="True" Font-Size="Large" Text="Label"></asp:Label>
                 &nbsp;Disparos
                 <asp:Label ID="TotalDisparosVisitante" runat="server" Font-Bold="True" Font-Size="Large" Text="Label"></asp:Label>
@@ -101,10 +116,6 @@
                 <asp:Label ID="PosesionLocal" runat="server" Font-Bold="True" Font-Size="Large" Text="Label"></asp:Label>
                 &nbsp;Posesión
                 <asp:Label ID="PosesionVisitante" runat="server" Font-Bold="True" Font-Size="Large" Text="Label"></asp:Label>
-                <br />
-                <br />
-                <br />
-
                 <br />
                 <br />
                 <br />
@@ -129,8 +140,9 @@
                 <asp:Panel ID="Panel1" runat="server" Height="350px" ScrollBars="Auto" CssClass="classforpanel">
                     <asp:GridView ID="GridViewVisitante" runat="server" AutoGenerateColumns="False" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4" DataSourceID="SqlDataSource1" GridLines="None" HorizontalAlign="Center">
                         <Columns>
-                            <asp:BoundField DataField="Posicion" HeaderText="Pos" SortExpression="Posicion" />
-                            <asp:HyperLinkField DataNavigateUrlFields="Jugador" DataNavigateUrlFormatString="/Public/Jugador.aspx?name={0}" DataTextField="Jugador" HeaderText="Jugador" SortExpression="Jugador">
+                           <asp:BoundField DataField="Posicion" HeaderText="Ps" SortExpression="Posicion" >
+                         <ItemStyle Font-Bold="True" Font-Size="Small" />
+                        </asp:BoundField> <asp:HyperLinkField DataNavigateUrlFields="Jugador" DataNavigateUrlFormatString="/Public/Jugador.aspx?name={0}" DataTextField="Jugador" HeaderText="Jugador" SortExpression="Jugador">
                             <ItemStyle Font-Bold="True" />
                             </asp:HyperLinkField>
                             <asp:BoundField DataField="Ass" HeaderImageUrl="~/Content/1501-200.png" HeaderText="Ass" SortExpression="Ass" />
@@ -138,7 +150,18 @@
                             <asp:BoundField DataField="Yel" HeaderImageUrl="~/Content/amarilla.jpg" HeaderText="Yel" SortExpression="Yel" />
                             <asp:BoundField DataField="Red" HeaderImageUrl="~/Content/roja.png" HeaderText="Red" SortExpression="Red" />
                             <asp:BoundField DataField="Inj" HeaderImageUrl="~/Content/1282.png" HeaderText="Inj" SortExpression="Inj" />
-                            <asp:BoundField DataField="Fit" HeaderText="Fit" SortExpression="Fit" />
+                            <asp:BoundField DataField="Fit" HeaderText="Fit" SortExpression="Fit" >
+                        <ItemStyle Font-Bold="False" Font-Size="Small" />
+                        </asp:BoundField>
+                        <asp:TemplateField HeaderText="Cal" SortExpression="Cal" ValidateRequestMode="Disabled">
+                            <ItemStyle Font-Bold="True" />
+                        </asp:TemplateField>
+                        <asp:BoundField DataField="Sav" HeaderText="Sav"  ValidateRequestMode="Disabled" />
+                        <asp:BoundField DataField="Ktk" HeaderText="Ktk"  ValidateRequestMode="Disabled"/>
+                        <asp:BoundField DataField="Kps" HeaderText="Kps"  ValidateRequestMode="Disabled"/>
+                        <asp:BoundField DataField="Sht" HeaderText="Sht" ValidateRequestMode="Disabled"/>
+                            
+                        <asp:BoundField DataField="Min" HeaderText="Min" ValidateRequestMode="Disabled"/>
                         </Columns>
                         <FooterStyle BackColor="#99CCCC" ForeColor="#003399" />
                         <HeaderStyle BackColor="#003399" Font-Bold="True" ForeColor="#CCCCFF" />
@@ -186,7 +209,7 @@
            
            
             <asp:Panel ID="ResultadoEInfo0" runat="server" Width="320px" CssClass="float-left">
-                <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT JugadorEnPartido.Posicion, JugadorEnPartido.Jugador, JugadorEnPartido.ID_Partido, JugadorEnPartido.Ass, JugadorEnPartido.Gls, JugadorEnPartido.Yel, JugadorEnPartido.Red, JugadorEnPartido.Inj, JugadorEnPartido.Fit FROM (Partidos INNER JOIN JugadorEnPartido ON Partidos.Id = JugadorEnPartido.ID_Partido) WHERE (Partidos.Id = ?)">
+                <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT  JugadorEnPartido.Posicion, JugadorEnPartido.Jugador, JugadorEnPartido.ID_Partido, JugadorEnPartido.Ass, JugadorEnPartido.Gls, JugadorEnPartido.Yel, JugadorEnPartido.Red, JugadorEnPartido.Inj, JugadorEnPartido.Fit, JugadorEnPartido.Sav,  JugadorEnPartido.Ktk,  JugadorEnPartido.Kps,  JugadorEnPartido.Sht, JugadorEnPartido.Min FROM (Partidos INNER JOIN JugadorEnPartido ON Partidos.Id = JugadorEnPartido.ID_Partido) WHERE (Partidos.Id = ?)">
                     <SelectParameters>
                         <asp:QueryStringParameter Name="Id" QueryStringField="Partido" Type="Int32" />
                     </SelectParameters>

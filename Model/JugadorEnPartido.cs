@@ -34,6 +34,7 @@ namespace Model
         public int Red { get; set; }
         public int Inj { get; set; }
         public int Fit { get; set; }
+        public int Cal { get; set; }
 
 
 
