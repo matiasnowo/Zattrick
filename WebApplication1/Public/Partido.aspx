@@ -104,7 +104,8 @@
                 <br />
                 <asp:Label ID="LabelCompetencia" runat="server" Font-Bold="True" Font-Size="Medium" Text="LabelCompetencia" ForeColor="#3366FF"></asp:Label>
                 <br />
-                <br />
+                <asp:Label ID="FechaPartido" runat="server"  Font-Bold="True" Text="FechaPartido" Font-Size="Medium" ForeColor="#3366FF" ></asp:Label>
+                <br /><br />
                 <asp:Label ID="TotalDisparosLocal" runat="server" Font-Bold="True" Font-Size="Large" Text="Label"></asp:Label>
                 &nbsp;Disparos
                 <asp:Label ID="TotalDisparosVisitante" runat="server" Font-Bold="True" Font-Size="Large" Text="Label"></asp:Label>
@@ -122,7 +123,7 @@
                 <br />
                 <br />
 
-                <br />
+
 
                 
                 <asp:Label ID="Informe" runat="server" Text="Informe: "></asp:Label>

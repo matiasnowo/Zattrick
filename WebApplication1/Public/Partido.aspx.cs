@@ -42,7 +42,7 @@ namespace AppWeb.Public
             List<string> JugadoresVisitantes = new List<string>();
 
             LabelCompetencia.Text = TraemosPartido.Competencia;
-
+            FechaPartido.Text = TraemosPartido.Fecha.ToString().Replace(" 12:00:00 a. m.", "").Replace(" 00:00:00", "");
             Title = "Partido - " + TraemosPartido.EquipoLocal + " " + TraemosPartido.ResultadoLocal + " - " + TraemosPartido.ResultadoVisitante + " " + TraemosPartido.EquipoVisitante;
 
 
