@@ -37,6 +37,8 @@ namespace Model
         public int Sus { get; set; }
         public int Fit { get; set; }
 
+        public double ValorStar { get; set; }
+
 
 
 

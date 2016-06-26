@@ -54,7 +54,7 @@ namespace AppWeb.Public
 
             if (JugadorEnWeb.Prs != null)
             {
-                {
+                
                     int bandas = JugadorEnWeb.Prs.Count();
 
                     if (maximumNumber == JugadorEnWeb.St)
@@ -66,7 +66,7 @@ namespace AppWeb.Public
                     {
                         LabelPosicion.Text = "Defensor";
 
-                        ValorStar = (JugadorEnWeb.Tk + (bandas * 10) + (JugadorEnWeb.Ps * 0.4) + (JugadorEnWeb.Sh * 0.2) + (JugadorEnWeb.Sm * 0.2)) / 2.2;
+                        ValorStar = (JugadorEnWeb.Tk + (bandas * 5) + (JugadorEnWeb.Ps * 0.4) + (JugadorEnWeb.Sh * 0.2) + (JugadorEnWeb.Sm * 0.2)) / 2.1;
 
 
                     }
@@ -74,14 +74,14 @@ namespace AppWeb.Public
                     {
                         LabelPosicion.Text = "Volante";
 
-                        ValorStar = (JugadorEnWeb.Ps + (bandas * 10) + (JugadorEnWeb.Tk * 0.4) + (JugadorEnWeb.Sh * 0.4) + (JugadorEnWeb.Sm * 0.2)) / 2.4;
+                        ValorStar = (JugadorEnWeb.Ps + (bandas * 5) + (JugadorEnWeb.Tk * 0.4) + (JugadorEnWeb.Sh * 0.4) + (JugadorEnWeb.Sm * 0.2)) / 2.3;
 
                     }
                     if (maximumNumber == JugadorEnWeb.Sh)
                     {
                         LabelPosicion.Text = "Delantero";
 
-                        ValorStar = (JugadorEnWeb.Sh + (bandas * 10) + (JugadorEnWeb.Tk * 0.2) + (JugadorEnWeb.Ps * 0.75) + (JugadorEnWeb.Sm * 0.4)) / 2.95;
+                        ValorStar = (JugadorEnWeb.Sh + (bandas * 5) + (JugadorEnWeb.Tk * 0.2) + (JugadorEnWeb.Ps * 0.4) + (JugadorEnWeb.Sm * 0.4)) / 2.5;
 
                     }
                     
@@ -178,34 +178,14 @@ namespace AppWeb.Public
                         Star5.ImageUrl = "~/Content/star-4.png";
                     }
 
-                }
+                
+                    if (JugadorEnWeb.Equipo == Session["Equipo"].ToString()) { 
+
 
                 St.Text = JugadorEnWeb.St + "";
                 Tk.Text = JugadorEnWeb.Tk + "";
                 Ps.Text = JugadorEnWeb.Ps + "";
                 Sh.Text = JugadorEnWeb.Sh + "";
-                Sm.Text = JugadorEnWeb.Sm + "";
-                Ag.Text = JugadorEnWeb.Ag + "";
-                Fit.Text = JugadorEnWeb.Fit + "";
-                Kab.Text = JugadorEnWeb.Kab + "";
-                Tab.Text = JugadorEnWeb.Tab + "";
-                Pab.Text = JugadorEnWeb.Pab + "";
-                Sab.Text = JugadorEnWeb.Sab + "";
-                Gam.Text = JugadorEnWeb.Gam + "";
-                Sav.Text = JugadorEnWeb.Sav + "";
-                Ktk.Text = JugadorEnWeb.Ktk + "";
-                Kps.Text = JugadorEnWeb.Kps + "";
-                Sht.Text = JugadorEnWeb.Sht + "";
-                Gls.Text = JugadorEnWeb.Gls + "";
-                Ass.Text = JugadorEnWeb.Ass + "";
-                DP.Text = JugadorEnWeb.DP + "";
-                Inj.Text = JugadorEnWeb.Inj + "";
-                Sus.Text = JugadorEnWeb.Sus + "";
-
-
-
-
-
 
 
 
@@ -287,6 +267,31 @@ namespace AppWeb.Public
                     Fit.BackColor = System.Drawing.Color.Red;
                     Sh.Font.Bold = true;
                 }
+
+
+
+
+                }
+
+
+
+                Sm.Text = JugadorEnWeb.Sm + "";
+                Ag.Text = JugadorEnWeb.Ag + "";
+                Fit.Text = JugadorEnWeb.Fit + "";
+                Kab.Text = JugadorEnWeb.Kab + "";
+                Tab.Text = JugadorEnWeb.Tab + "";
+                Pab.Text = JugadorEnWeb.Pab + "";
+                Sab.Text = JugadorEnWeb.Sab + "";
+                Gam.Text = JugadorEnWeb.Gam + "";
+                Sav.Text = JugadorEnWeb.Sav + "";
+                Ktk.Text = JugadorEnWeb.Ktk + "";
+                Kps.Text = JugadorEnWeb.Kps + "";
+                Sht.Text = JugadorEnWeb.Sht + "";
+                Gls.Text = JugadorEnWeb.Gls + "";
+                Ass.Text = JugadorEnWeb.Ass + "";
+                DP.Text = JugadorEnWeb.DP + "";
+                Inj.Text = JugadorEnWeb.Inj + "";
+                Sus.Text = JugadorEnWeb.Sus + "";
 
 
             }

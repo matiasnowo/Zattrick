@@ -352,6 +352,7 @@
     <Content Include="Entrenamiento.aspx" />
     <Content Include="Public\Partido.aspx" />
     <Content Include="Public\PartidosDe.aspx" />
+    <Content Include="Public\Plantilla.aspx" />
     <Content Include="Public\PerfilEquipo.aspx" />
     <Content Include="Partidos.aspx" />
     <Content Include="Tactica.aspx" />
@@ -535,6 +536,13 @@
     </Compile>
     <Compile Include="Public\PartidosDe.aspx.designer.cs">
       <DependentUpon>PartidosDe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Public\Plantilla.aspx.cs">
+      <DependentUpon>Plantilla.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Public\Plantilla.aspx.designer.cs">
+      <DependentUpon>Plantilla.aspx</DependentUpon>
     </Compile>
     <Compile Include="Public\PerfilEquipo.aspx.cs">
       <DependentUpon>PerfilEquipo.aspx</DependentUpon>

@@ -19,7 +19,7 @@ namespace AppWeb.Public
 
 
             string name = Request.QueryString["name"];
-            
+
             Session.Add("name", name);
 
             Titulo.Text = name;
@@ -41,7 +41,7 @@ namespace AppWeb.Public
             Hinchada.Text = ESD.TraerHinchadaDe(Titulo.Text);
             PopuActual.Text = ESD.TraerPopuActualDe(Titulo.Text);
             VHistorico.Text = ESD.TraerValorHistoricoDe(Titulo.Text);
-                       
+
 
 
             EquipoDAO ED = new EquipoDAO();
@@ -98,11 +98,82 @@ namespace AppWeb.Public
 
 
             }
-           
 
-           
+            //    MejoresJugadores.Sort("Valor", SortDirection.Descending);
 
-            
+
+            if (!IsPostBack)
+            {
+                for (int r = 0; r < MejoresJugadores.Rows.Count; r++)
+                {
+                   
+
+                    if (Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) >= 0 && Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) <= 5)
+                    {
+                        MejoresJugadores.Rows[r].Cells[1].Text = " <img src=\"/Content/ministar-2.png\">";
+                        continue;
+
+                    }
+                    if (Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) > 5 && Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) <= 10)
+                    {
+                        MejoresJugadores.Rows[r].Cells[1].Text = " <img src=\"/Content/ministar-4.png\">";
+                        continue;
+                    }
+                    if (Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) > 10 && Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) <= 15)
+                    {
+
+                        MejoresJugadores.Rows[r].Cells[1].Text = " <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-2.png\">";
+                        continue;
+                    }
+                    if (Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) > 15 && Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) <= 20)
+                    {
+
+                        MejoresJugadores.Rows[r].Cells[1].Text = " <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\">";
+                        continue;
+                    }
+                    if (Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) > 20 && Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) <= 25)
+                    {
+
+                        MejoresJugadores.Rows[r].Cells[1].Text = " <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-2.png\">";
+                        continue;
+                    }
+                    if (Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) > 25 && Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) <= 30)
+                    {
+
+
+                        MejoresJugadores.Rows[r].Cells[1].Text = " <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\">";
+                        continue;
+                    }
+                    if (Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) > 30 && Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) <= 35)
+                    {
+                        MejoresJugadores.Rows[r].Cells[1].Text = " <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-2.png\">";
+                        continue;
+                    }
+                    if (Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) > 35 && Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) <= 40)
+                    {
+
+
+                        MejoresJugadores.Rows[r].Cells[1].Text = " <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\">";
+                        continue;
+                    }
+                    if (Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) > 40 && Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) <= 45)
+                    {
+
+
+                        MejoresJugadores.Rows[r].Cells[1].Text = " <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-2.png\">";
+                        continue;
+                    }
+                    if (Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) > 45 && Convert.ToDouble(MejoresJugadores.Rows[r].Cells[1].Text) <= 50)
+                    {
+                        MejoresJugadores.Rows[r].Cells[1].Text = " <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\"> <img src=\"/Content/ministar-4.png\">";
+                        continue;
+                    }
+
+                    
+
+                }
+            }
+        }
 
 
             //    for (int a = 0; a < Prueba.Count; a++)
@@ -119,7 +190,7 @@ namespace AppWeb.Public
 
 
             //     ListView1.Items.Add("List item text");
-        }
+        
 
 
 
@@ -190,6 +261,12 @@ namespace AppWeb.Public
             Response.Redirect("/Public/PartidosDe.aspx?name=" + Titulo.Text);
 
 
+        }
+
+        protected void Plantilla_Click(object sender, EventArgs e)
+        {
+
+            Response.Redirect("/Public/Plantilla.aspx?name=" + Titulo.Text);
         }
     }
 }

@@ -116,19 +116,19 @@
                     <asp:Table ID="TableHabilidades" runat="server" HorizontalAlign="Center">
                     <asp:TableRow runat="server">
                             <asp:TableCell runat="server">Arquero: </asp:TableCell>
-                            <asp:TableCell runat="server"><asp:Label ID="St" runat="server" Font-Bold="True" Text="Label"></asp:Label></asp:TableCell>
+                            <asp:TableCell runat="server"><asp:Label ID="St" runat="server" Font-Bold="True" Text="-"></asp:Label></asp:TableCell>
                         </asp:TableRow>
                         <asp:TableRow runat="server">
                             <asp:TableCell runat="server">Defensor:</asp:TableCell>
-                            <asp:TableCell runat="server"><asp:Label ID="Tk" runat="server" Font-Bold="True" Text="Label"></asp:Label></asp:TableCell>
+                            <asp:TableCell runat="server"><asp:Label ID="Tk" runat="server" Font-Bold="True" Text="-"></asp:Label></asp:TableCell>
                         </asp:TableRow>
                         <asp:TableRow runat="server">
                             <asp:TableCell runat="server">Volante:</asp:TableCell>
-                            <asp:TableCell runat="server"><asp:Label ID="Ps" runat="server" Font-Bold="True" Text="Label"></asp:Label></asp:TableCell>
+                            <asp:TableCell runat="server"><asp:Label ID="Ps" runat="server" Font-Bold="True" Text="-"></asp:Label></asp:TableCell>
                         </asp:TableRow>
                         <asp:TableRow runat="server">
                             <asp:TableCell runat="server">Delantero:</asp:TableCell>
-                            <asp:TableCell runat="server"><asp:Label ID="Sh" runat="server" Font-Bold="True" Text="Label"></asp:Label></asp:TableCell>
+                            <asp:TableCell runat="server"><asp:Label ID="Sh" runat="server" Font-Bold="True" Text="-"></asp:Label></asp:TableCell>
                         </asp:TableRow>
                         <asp:TableRow runat="server">
                             <asp:TableCell runat="server">Stamina:</asp:TableCell>
@@ -201,54 +201,13 @@
             <p>
                 &nbsp;</p>
             <p>
-                Datos Actuales:</p>
-            <p>
-                <asp:GridView ID="GridPlayer" runat="server" AutoGenerateColumns="False" DataKeyNames="Name" DataSourceID="SqlDataSource1" Width="500px" Visible="False">
-                    <Columns>
-                        <asp:BoundField DataField="St" HeaderText="St" SortExpression="St" />
-                        <asp:BoundField DataField="Tk" HeaderText="Tk" SortExpression="Tk" />
-                        <asp:BoundField DataField="Ps" HeaderText="Ps" SortExpression="Ps" />
-                        <asp:BoundField DataField="Sh" HeaderText="Sh" SortExpression="Sh" />
-                        <asp:BoundField DataField="Sm" HeaderText="Sm" SortExpression="Sm" />
-                        <asp:BoundField DataField="Ag" HeaderText="Ag" SortExpression="Ag" />
-                        <asp:BoundField DataField="Kab" HeaderText="Kab" SortExpression="Kab" />
-                        <asp:BoundField DataField="Tab" HeaderText="Tab" SortExpression="Tab" />
-                        <asp:BoundField DataField="Pab" HeaderText="Pab" SortExpression="Pab" />
-                        <asp:BoundField DataField="Sab" HeaderText="Sab" SortExpression="Sab" />
-                        <asp:BoundField DataField="Gam" HeaderText="Gm" SortExpression="Gam" />
-                        <asp:BoundField DataField="Sav" HeaderText="Sav" SortExpression="Sav" />
-                        <asp:BoundField DataField="Ktk" HeaderText="Ktk" SortExpression="Ktk" />
-                        <asp:BoundField DataField="Kps" HeaderText="Kps" SortExpression="Kps" />
-                        <asp:BoundField DataField="Sht" HeaderText="Sht" SortExpression="Sht" />
-                        <asp:BoundField DataField="Gls" HeaderText="Gls" SortExpression="Gls" />
-                        <asp:BoundField DataField="Ass" HeaderText="Ass" SortExpression="Ass" />
-                        <asp:BoundField DataField="DP" HeaderText="DP" SortExpression="DP" />
-                        <asp:BoundField DataField="Inj" HeaderText="Inj" SortExpression="Inj" />
-                        <asp:BoundField DataField="Sus" HeaderText="Sus" SortExpression="Sus" />
-                        <asp:BoundField DataField="Fit" HeaderText="Fit" SortExpression="Fit" />
-                    </Columns>
-                    <EditRowStyle BorderColor="Black" />
-                    <HeaderStyle Font-Bold="False" />
-                    <RowStyle Font-Bold="True" HorizontalAlign="Center" />
-            <SortedAscendingHeaderStyle BackColor="#99CCFF" />
-            <SortedDescendingHeaderStyle BackColor="#99CCFF" />
-                </asp:GridView>
-                <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ZattrickConnectionStringAccDB %>" ProviderName="<%$ ConnectionStrings:ZattrickConnectionStringAccDB.ProviderName %>" SelectCommand="SELECT * FROM [Jugadores] WHERE ([Name] = ?)">
-                    <SelectParameters>
-                        <asp:QueryStringParameter Name="Name" QueryStringField="name" Type="String" />
-                    </SelectParameters>
-                </asp:SqlDataSource>
-            </p>
-            <p>
-                &nbsp;</p>
-            <p>
                 Datos Historicos:</p>
             <p>
-                &nbsp;</p>
+                -</p>
             <p>
                 Historial de traspasos:</p>
             <p>
-                &nbsp;</p>
+                -</p>
         </header>
     </section>
 </asp:Content>

@@ -402,6 +402,110 @@ namespace DataAcces
 
 
 
+        public List<Jugador> MejoresJugadoresDeEquipo(string Equipo)
+        {
+
+            Jugador JugadorTraido = new Jugador();
+            List<Jugador> ListaDeJugadores = new List<Jugador>();
+            string query = string.Format("SELECT * FROM jugadores WHERE Equipo = '" + Equipo + "'");
+
+
+            // Name         Age Nat Prs St Tk Ps Sh Sm Ag KAb TAb PAb SAb Gam Sav Ktk Kps Sht Gls Ass  DP Inj Sus Fit
+
+
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
+
+            while (dr.Read())
+            {
+
+
+                Jugador JugadorA = new Jugador() { Name = (string)dr["Name"], Age = (int)dr["Age"], Equipo = (string)dr["Equipo"], Nat = (string)dr["Nat"], Prs = (string)dr["Prs"], St = (int)dr["St"], Tk = (int)dr["Tk"], Ps = (int)dr["Ps"], Sh = (int)dr["Sh"], Sm = (int)dr["Sm"], Ag = (int)dr["Ag"], Kab = (int)dr["Kab"], Tab = (int)dr["Tab"], Pab = (int)dr["Pab"], Sab = (int)dr["Sab"], Gam = (int)dr["Gam"], Sav = (int)dr["Sav"], Ktk = (int)dr["Ktk"], Kps = (int)dr["Kps"], Sht = (int)dr["Sht"], Gls = (int)dr["Gls"], Ass = (int)dr["Ass"], DP = (int)dr["DP"], Inj = (int)dr["Inj"], Sus = (int)dr["Sus"], Fit = (int)dr["Fit"] };
+
+                int[] numbers = new int[] { JugadorA.St, JugadorA.Tk, JugadorA.Ps, JugadorA.Sh };
+                int maximumNumber = numbers.Max();
+                Double ValorStar = 0;
+
+                int bandas = JugadorA.Prs.Count();
+
+                if (maximumNumber == JugadorA.St)
+                {
+                    ValorStar = JugadorA.St;
+                }
+                if (maximumNumber == JugadorA.Tk)
+                {
+
+                    ValorStar = (JugadorA.Tk + (bandas * 5) + (JugadorA.Ps * 0.4) + (JugadorA.Sh * 0.2) + (JugadorA.Sm * 0.2)) / 2.1;
+
+
+                }
+                if (maximumNumber == JugadorA.Ps)
+                {
+
+                    ValorStar = (JugadorA.Ps + (bandas * 5) + (JugadorA.Tk * 0.4) + (JugadorA.Sh * 0.4) + (JugadorA.Sm * 0.2)) / 2.3;
+
+                }
+                if (maximumNumber == JugadorA.Sh)
+                {
+
+                    ValorStar = (JugadorA.Sh + (bandas * 5) + (JugadorA.Tk * 0.2) + (JugadorA.Ps * 0.4) + (JugadorA.Sm * 0.4)) / 2.5;
+
+                }
+
+
+
+
+                JugadorA.ValorStar = ValorStar;
+              
+
+                ListaDeJugadores.Add(JugadorA);
+
+             
+
+            }
+
+            ListaDeJugadores = SortedObjects(ListaDeJugadores);
+
+            dr.Close();
+
+
+
+            return ListaDeJugadores;
+        }
+
+
+
+
+        public static List<Jugador> SortedObjects(List<Jugador> myList)
+        {
+
+
+            SortedList<double, Jugador> sortedList = new SortedList<double, Jugador>();
+            foreach (Jugador Juega in myList) {
+
+                if (sortedList.Keys.Contains(Juega.ValorStar)){
+
+                sortedList.Add(Juega.ValorStar + 0.0000000001, Juega);
+
+                }else { 
+                sortedList.Add(Juega.ValorStar, Juega);
+                }
+
+
+
+              
+            }
+
+            int cantidaddejugadores = sortedList.Count;
+
+            for (int asd = 5; asd < cantidaddejugadores; asd++)
+            {
+
+                sortedList.RemoveAt(0);
+            }
+
+
+            return new List<Jugador>(sortedList.Values.Reverse());
+        }
 
 
 
@@ -410,12 +514,7 @@ namespace DataAcces
 
 
 
-
-
-
-
-
-}
+    }
 
                    }
 
