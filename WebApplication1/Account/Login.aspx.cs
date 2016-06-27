@@ -3,6 +3,7 @@ using System.Web.UI.WebControls;
 using System.Web.Security;
 using System.Windows.Forms;
 using Negocio.Autenticacion;
+using DataAcces;
 
 namespace AppWeb.Account
 {
@@ -17,10 +18,12 @@ namespace AppWeb.Account
         {
             if (new UsuarioBLL().Autenticar(LoginForm.UserName, LoginForm.Password))
             {
+                TemporadaActualDAO TA = new TemporadaActualDAO();
                 FormsAuthentication.RedirectFromLoginPage(LoginForm.UserName, LoginForm.RememberMeSet);
                 Session["User"] = LoginForm.UserName;
                 Session["role"] = new UsuarioBLL().GetUsuarioPorNombre(LoginForm.UserName).Role;
                 Session["Equipo"] = new UsuarioBLL().GetUsuarioPorNombre(LoginForm.UserName).Equipo;
+                Session["TemporadaActual"] = TA.GetTemporadaActual();
                 Response.Redirect("/Inicio.aspx");
             }
             else

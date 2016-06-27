@@ -400,6 +400,24 @@ namespace AppWeb.Public {
         protected global::System.Web.UI.WebControls.Table TableExp;
         
         /// <summary>
+        /// Control progressokab.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel progressokab;
+        
+        /// <summary>
+        /// Control progressokabinterno.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel progressokabinterno;
+        
+        /// <summary>
         /// Control Kab.
         /// </summary>
         /// <remarks>
@@ -407,6 +425,24 @@ namespace AppWeb.Public {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Kab;
+        
+        /// <summary>
+        /// Control progressotab.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel progressotab;
+        
+        /// <summary>
+        /// Control progressotabinterno.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel progressotabinterno;
         
         /// <summary>
         /// Control Tab.
@@ -418,6 +454,24 @@ namespace AppWeb.Public {
         protected global::System.Web.UI.WebControls.Label Tab;
         
         /// <summary>
+        /// Control progressopab.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel progressopab;
+        
+        /// <summary>
+        /// Control progressopabinterno.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel progressopabinterno;
+        
+        /// <summary>
         /// Control Pab.
         /// </summary>
         /// <remarks>
@@ -425,6 +479,24 @@ namespace AppWeb.Public {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Pab;
+        
+        /// <summary>
+        /// Control progressosab.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel progressosab;
+        
+        /// <summary>
+        /// Control progressosabinterno.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel progressosabinterno;
         
         /// <summary>
         /// Control Sab.

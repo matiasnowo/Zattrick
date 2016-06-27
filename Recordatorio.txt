@@ -1,6 +1,5 @@
 -----------------------------------------------------------------------------------------------
-Poner Calificacion de Jugador en los Partidos.
-
+Haciendo Pagina de Competencia, verificar variables entrantes
 -----------------------------------------------------------------------------------------------
 Si tenes ganas/queres, me vendria bien que agarres lo que habiamos hablado de Registracion, Pedido de equipos etc.
 - Si tienen el string clave para elegir equipo de una, que les vaya a una pantalla de elegir y arrancan a jugar

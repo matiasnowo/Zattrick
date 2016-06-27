@@ -72,7 +72,7 @@ namespace AppWeb
             if (Session["User"] == null)
             {
                 PedirEquipo.Visible = true;
-                MenuPrincipal.Visible = false;
+                MenudePrueba.Visible = false;
                 MenuConectado.Visible = false;
                 MenuNoConectado.Visible = true;
 
@@ -80,7 +80,7 @@ namespace AppWeb
             else
             {
                 PedirEquipo.Visible = false;
-                MenuPrincipal.Visible = true;
+                MenudePrueba.Visible = true;
                 MenuConectado.Visible = true;
                 MenuNoConectado.Visible = false;
             }

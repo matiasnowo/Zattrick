@@ -178,7 +178,7 @@ namespace AppWeb.Public
                         Star5.ImageUrl = "~/Content/star-4.png";
                     }
 
-                
+                if (Session["Equipo"] != null) { 
                     if (JugadorEnWeb.Equipo == Session["Equipo"].ToString()) { 
 
 
@@ -272,16 +272,16 @@ namespace AppWeb.Public
 
 
                 }
-
+                }
 
 
                 Sm.Text = JugadorEnWeb.Sm + "";
                 Ag.Text = JugadorEnWeb.Ag + "";
                 Fit.Text = JugadorEnWeb.Fit + "";
-                Kab.Text = JugadorEnWeb.Kab + "";
-                Tab.Text = JugadorEnWeb.Tab + "";
-                Pab.Text = JugadorEnWeb.Pab + "";
-                Sab.Text = JugadorEnWeb.Sab + "";
+                Kab.Text = JugadorEnWeb.Kab / 10 + "%";
+                Tab.Text = JugadorEnWeb.Tab / 10 + "%";
+                Pab.Text = JugadorEnWeb.Pab / 10 + "%";
+                Sab.Text = JugadorEnWeb.Sab / 10 + "%";
                 Gam.Text = JugadorEnWeb.Gam + "";
                 Sav.Text = JugadorEnWeb.Sav + "";
                 Ktk.Text = JugadorEnWeb.Ktk + "";
@@ -293,6 +293,64 @@ namespace AppWeb.Public
                 Inj.Text = JugadorEnWeb.Inj + "";
                 Sus.Text = JugadorEnWeb.Sus + "";
 
+                progressokab.Style["width"] = (JugadorEnWeb.Kab / 10) + "%";
+                progressotab.Style["width"] = (JugadorEnWeb.Tab / 10) + "%";
+                progressopab.Style["width"] = (JugadorEnWeb.Pab / 10) + "%";
+                progressosab.Style["width"] = (JugadorEnWeb.Sab / 10) + "%";
+
+                if (JugadorEnWeb.Kab > 600)
+                {
+ Kab.Style["Color"] = "#e28e08";
+
+
+                }
+                if (JugadorEnWeb.Tab > 600)
+                {
+                    Tab.Style["Color"] = "#e28e08";
+
+
+                }
+                if (JugadorEnWeb.Pab > 600)
+                {
+                    Pab.Style["Color"] = "#e28e08";
+
+
+                }
+                if (JugadorEnWeb.Sab > 600)
+                {
+                    Sab.Style["Color"] = "#e28e08";
+
+
+                }
+
+
+                if (JugadorEnWeb.Kab > 850)
+                {
+
+                    Kab.Style["Color"] = "#c9302c";
+
+                }
+                if (JugadorEnWeb.Tab > 850)
+                {
+
+                    Tab.Style["Color"] = "#c9302c";
+
+                }
+                if (JugadorEnWeb.Pab > 850)
+                {
+
+                    Pab.Style["Color"] = "#c9302c";
+
+                }
+                if (JugadorEnWeb.Sab > 850)
+                {
+
+                    Sab.Style["Color"] = "#c9302c";
+
+
+                }
+
+
 
             }
 
@@ -301,3 +359,4 @@ namespace AppWeb.Public
     }
 
 }
+ 

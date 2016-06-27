@@ -1,5 +1,11 @@
 ﻿<%@ Page Title="Jugador" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Jugador.aspx.cs" Inherits="AppWeb.Public.Jugador" %>
 
+
+
+<%@ Register assembly="Obout.Ajax.UI" namespace="Obout.Ajax.UI.SmartImage" tagprefix="obout" %>
+
+<%@ Register assembly="obout_AJAXPage" namespace="OboutInc" tagprefix="oajax" %>
+
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
 
     <section class="Jugador">
@@ -153,30 +159,104 @@
                 <asp:Panel ID="PanelEstadisticas" runat="server" Width="200px" CssClass="float-left">
                    
                    
-                 
               
 
-                    <asp:Table ID="TableExp" runat="server" HorizontalAlign="Center">
+                    <asp:Table ID="TableExp" runat="server" HorizontalAlign="Center" Height="86px">
                         <asp:TableRow runat="server">
                             <asp:TableCell runat="server">Exp. Arquero:</asp:TableCell>
-                            <asp:TableCell runat="server"><asp:Label ID="Kab" runat="server" Font-Bold="True" Text="Label"></asp:Label></asp:TableCell>
+                            <asp:TableCell runat="server">
+                               
+                                 <div class="totalkab" style="width:80px">
+                                  
+   
+                  <asp:Panel runat="server" id="progressokab" style="width:100%; text-align:right" BorderStyle="Solid" BorderWidth="1" BorderColor="White">
+                        <asp:Panel runat="server" id="progressokabinterno"    
+         style=" 
+  background-image:-webkit-linear-gradient(top, #9eddef 0%, #54c0e0 100%);
+  background-image:      -o-linear-gradient(top, #9eddef 0%, #54c0e0 100%); 
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#9eddef), to (#54c0e0));
+  background-image:         linear-gradient(to bottom, #9eddef 0%, #54c0e0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff31b0d5', GradientType=0);
+  background-repeat: repeat-x;">
+  <strong>     <span class="sr-only" style="color:#000000"><asp:Label ID="Kab" runat="server" Font-Bold="True" Text="100%" ></asp:Label></span></strong>
+              
+  </asp:Panel>    </asp:Panel>
+</div>
+                                
+
+                            </asp:TableCell>
                         </asp:TableRow>
                         <asp:TableRow runat="server">
                             <asp:TableCell runat="server">Exp. Defensor:</asp:TableCell>
-                            <asp:TableCell runat="server"><asp:Label ID="Tab" runat="server" Font-Bold="True" Text="Label"></asp:Label></asp:TableCell>
+                            <asp:TableCell runat="server"><div class="totaltab" style="width:80px">
+                                  
+   
+                  <asp:Panel runat="server" id="progressotab" style="width:100%; text-align:right" BorderStyle="Solid" BorderWidth="1" BorderColor="White">
+                        <asp:Panel runat="server" id="progressotabinterno"    
+         style=" 
+  background-image:-webkit-linear-gradient(top, #9eddef 0%, #54c0e0 100%);
+  background-image:      -o-linear-gradient(top, #9eddef 0%, #54c0e0 100%); 
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#9eddef), to (#54c0e0));
+  background-image:         linear-gradient(to bottom, #9eddef 0%, #54c0e0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff31b0d5', GradientType=0);
+  background-repeat: repeat-x;">
+  <strong>     <span class="sr-only" style="color:#000000"><asp:Label ID="Tab" runat="server" Font-Bold="True" Text="100%" ></asp:Label></span></strong>
+              
+  </asp:Panel>    </asp:Panel>
+</div></asp:TableCell>
                         </asp:TableRow>
                         <asp:TableRow runat="server">
                             <asp:TableCell runat="server">Exp. Volante:</asp:TableCell>
-                            <asp:TableCell runat="server"><asp:Label ID="Pab" runat="server" Font-Bold="True" Text="Label"></asp:Label></asp:TableCell>
+                            <asp:TableCell runat="server"><div class="totalpab" style="width:80px">
+                                  
+   
+                  <asp:Panel runat="server" id="progressopab" style="width:100%; text-align:right" BorderStyle="Solid" BorderWidth="1" BorderColor="White">
+                        <asp:Panel runat="server" id="progressopabinterno"    
+         style=" 
+  background-image:-webkit-linear-gradient(top, #9eddef 0%, #54c0e0 100%);
+  background-image:      -o-linear-gradient(top, #9eddef 0%, #54c0e0 100%); 
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#9eddef), to (#54c0e0));
+  background-image:         linear-gradient(to bottom, #9eddef 0%, #54c0e0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff31b0d5', GradientType=0);
+  background-repeat: repeat-x;">
+  <strong>     <span class="sr-only" style="color:#000000" ><asp:Label ID="Pab" runat="server" Font-Bold="True" Text="100%" ></asp:Label></span></strong>
+              
+  </asp:Panel>    </asp:Panel>
+</div></asp:TableCell>
                         </asp:TableRow>
                         <asp:TableRow runat="server">
                             <asp:TableCell runat="server">Exp. Delantero:</asp:TableCell>
-                            <asp:TableCell runat="server"><asp:Label ID="Sab" runat="server" Font-Bold="True" Text="Label"></asp:Label></asp:TableCell>
+                            <asp:TableCell runat="server"><div class="totalsab" style="width:80px">
+                                  
+   
+                  <asp:Panel runat="server" id="progressosab" style="width:100%; text-align:right" BorderStyle="Solid" BorderWidth="1" BorderColor="White">
+                        <asp:Panel runat="server" id="progressosabinterno"    
+         style=" 
+  background-image:-webkit-linear-gradient(top, #9eddef 0%, #53b2ce 100%);
+  background-image:      -o-linear-gradient(top, #9eddef 0%, #53b2ce 100%); 
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#9eddef), to (#53b2ce));
+  background-image:         linear-gradient(to bottom, #9eddef 0%, #53b2ce 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff31b0d5', GradientType=0);
+  background-repeat: repeat-x;">
+  <strong>     <span class="sr-only" style="color:#000000" ><asp:Label ID="Sab" runat="server" Font-Bold="True" Text="100%"></asp:Label></span></strong>
+              
+  </asp:Panel>    </asp:Panel>
+</div></asp:TableCell>
                         </asp:TableRow>
                     </asp:Table>
+                    
+                    
+                    <br />
+                    <br />
 
+                    <br />
+                    <br />
+                  
+<script src="../bootstrap-3.3.6-dist/js/npm.js"></script>
+                    <script src="../bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+                 <link href="../bootstrap-3.3.6-dist/css/bootstrap-theme.css" rel="stylesheet" />
+<script src="../bootstrap-3.3.6-dist/js/bootstrap.js"></script>
                   </asp:Panel>
-
 
             </asp:Panel>
             
