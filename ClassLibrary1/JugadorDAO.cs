@@ -35,7 +35,7 @@ namespace DataAcces
                 JugadorTraido = JugadorA;
 
             }
-            dr.Close();
+            dr.Close(); dr.Dispose();
 
             
 
@@ -63,7 +63,7 @@ namespace DataAcces
                 JugadorTraido = JugadorA;
 
             }
-            dr.Close();
+            dr.Close(); dr.Dispose();
 
 
 
@@ -118,17 +118,11 @@ namespace DataAcces
 
 
             }
- dr.Close();
+ dr.Close(); dr.Dispose();
   return Jugadores;
         }
 
-
-
-
-
-
-
-
+        
 
         public List<string> ListanombresJugadores(){
 
@@ -224,7 +218,6 @@ namespace DataAcces
                 file.Close();
             }
         }
-
 
 
 
@@ -328,7 +321,6 @@ namespace DataAcces
         }
 
 
-
         public string ArmarLinea(Jugador Player){
 
 
@@ -366,39 +358,6 @@ namespace DataAcces
                                             NuevaLinea = Name + Age + Nat + Prs + St + Tk + Ps + Sh + Sm + Ag + Kab + Tab + Pab + Sab + Gam + Sav + Ktk + Kps + Sht + Gls + Ass + DP + Inj + Sus + Fit;
             return NuevaLinea;
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -455,17 +414,17 @@ namespace DataAcces
 
 
                 JugadorA.ValorStar = ValorStar;
-              
+
 
                 ListaDeJugadores.Add(JugadorA);
 
-             
+
 
             }
 
-            ListaDeJugadores = SortedObjects(ListaDeJugadores);
+            ListaDeJugadores = Sorted5Objects(ListaDeJugadores);
 
-            dr.Close();
+            dr.Close(); dr.Dispose();
 
 
 
@@ -473,20 +432,245 @@ namespace DataAcces
         }
 
 
-
-
-        public static List<Jugador> SortedObjects(List<Jugador> myList)
+        public List<Jugador> MejoresJugadoresDeCompetencia(string Competencia)
         {
 
+            Jugador JugadorTraido = new Jugador();
+            List<Jugador> ListaDeJugadores = new List<Jugador>();
+            string query = string.Format("SELECT * FROM jugadores, Equipos WHERE Categoria = '" + Competencia + "'  AND Jugadores.Equipo = Equipos.Nombre");
 
+
+            // Name         Age Nat Prs St Tk Ps Sh Sm Ag KAb TAb PAb SAb Gam Sav Ktk Kps Sht Gls Ass  DP Inj Sus Fit
+
+
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
+
+            while (dr.Read())
+            {
+
+
+                Jugador JugadorA = new Jugador() { Name = (string)dr["Name"], Age = (int)dr["Age"], Equipo = (string)dr["Equipo"], Nat = (string)dr["Nat"], Prs = (string)dr["Prs"], St = (int)dr["St"], Tk = (int)dr["Tk"], Ps = (int)dr["Ps"], Sh = (int)dr["Sh"], Sm = (int)dr["Sm"], Ag = (int)dr["Ag"], Kab = (int)dr["Kab"], Tab = (int)dr["Tab"], Pab = (int)dr["Pab"], Sab = (int)dr["Sab"], Gam = (int)dr["Gam"], Sav = (int)dr["Sav"], Ktk = (int)dr["Ktk"], Kps = (int)dr["Kps"], Sht = (int)dr["Sht"], Gls = (int)dr["Gls"], Ass = (int)dr["Ass"], DP = (int)dr["DP"], Inj = (int)dr["Inj"], Sus = (int)dr["Sus"], Fit = (int)dr["Fit"] };
+
+                int[] numbers = new int[] { JugadorA.St, JugadorA.Tk, JugadorA.Ps, JugadorA.Sh };
+                int maximumNumber = numbers.Max();
+                Double ValorStar = 0;
+
+                int bandas = JugadorA.Prs.Count();
+
+                if (maximumNumber == JugadorA.St)
+                {
+                    ValorStar = JugadorA.St;
+                }
+                if (maximumNumber == JugadorA.Tk)
+                {
+
+                    ValorStar = (JugadorA.Tk + (bandas * 5) + (JugadorA.Ps * 0.4) + (JugadorA.Sh * 0.2) + (JugadorA.Sm * 0.2)) / 2.1;
+
+
+                }
+                if (maximumNumber == JugadorA.Ps)
+                {
+
+                    ValorStar = (JugadorA.Ps + (bandas * 5) + (JugadorA.Tk * 0.4) + (JugadorA.Sh * 0.4) + (JugadorA.Sm * 0.2)) / 2.3;
+
+                }
+                if (maximumNumber == JugadorA.Sh)
+                {
+
+                    ValorStar = (JugadorA.Sh + (bandas * 5) + (JugadorA.Tk * 0.2) + (JugadorA.Ps * 0.4) + (JugadorA.Sm * 0.4)) / 2.5;
+
+                }
+
+
+
+
+                JugadorA.ValorStar = ValorStar;
+
+
+                ListaDeJugadores.Add(JugadorA);
+
+
+
+            }
+
+            ListaDeJugadores = Sorted10Objects(ListaDeJugadores);
+
+            dr.Close(); dr.Dispose();
+
+
+            return ListaDeJugadores;
+        }
+
+            public List<Jugador> GoleadoresDeCompetencia(string Competencia, int Temporada, string Fase)
+            {
+
+                Jugador JugadorTraido = new Jugador();
+                List<Jugador> ListaDeJugadores = new List<Jugador>();
+                string query = string.Format("SELECT Jugadores.Equipo, JugadorEnPartido.Jugador, JugadorEnPartido.Gls FROM (Partidos INNER JOIN JugadorEnPartido ON Partidos.Id = JugadorEnPartido.ID_Partido), Jugadores, Equipos WHERE (Equipos.Nombre = Jugadores.Equipo AND Jugadores.Name = JugadorEnPartido.Jugador AND Partidos.fase = '" + Fase + "' AND Partidos.TEMPORADA = " + Temporada + " AND Partidos.Competencia = '" + Competencia + "')");
+           
+             
+                                OleDbDataReader dr = new ConnectionDAO().consulta(query);
+
+                while (dr.Read())
+                {
+
+
+                    Jugador JugadorA = new Jugador() { Name = (string)dr["Jugador"], Gls = (int)dr["Gls"], Equipo = (string)dr["Equipo"]};
+
+                  ListaDeJugadores.Add(JugadorA);
+
+
+
+                }
+
+                ListaDeJugadores = SortGoleadores(ListaDeJugadores);
+
+                dr.Close(); dr.Dispose();
+
+
+
+                return ListaDeJugadores;
+            }
+
+
+            public static List<Jugador> SortGoleadores(List<Jugador> myList)
+            {
+
+                List<Jugador> sortedList = new List<Jugador>();
+
+                foreach (Jugador Juega in myList)
+                {
+                    bool agrego = true;
+ if (sortedList.Count > 0) {
+     for (int a = 0; a < sortedList.Count; a++) { 
+                  if (sortedList[a].Name == Juega.Name)
+         {
+             sortedList[a].Gls = sortedList[a].Gls + Juega.Gls;
+             agrego = false;
+             continue;
+                  }
+
+                    }
+ }
+
+ if (agrego == true) { 
+                        sortedList.Add(Juega);
+ }
+                
+                }
+
+              List<Jugador> postasortedList = new  List<Jugador> ();
+
+                sortedList.Sort(delegate(Jugador x, Jugador y)
+                {
+                    return y.Gls.CompareTo(x.Gls);
+                });
+
+
+
+
+                for (int asd = 0; asd < 9; asd++)
+            {
+
+                postasortedList.Add(sortedList[asd]);
+            }
+            return new List<Jugador>(postasortedList);
+            }
+
+            public List<Jugador> AsistidoresDeCompetencia(string Competencia, int Temporada, string Fase)
+            {
+
+                Jugador JugadorTraido = new Jugador();
+                List<Jugador> ListaDeJugadores = new List<Jugador>();
+                string query = string.Format("SELECT Jugadores.Equipo, JugadorEnPartido.Jugador, JugadorEnPartido.Ass FROM (Partidos INNER JOIN JugadorEnPartido ON Partidos.Id = JugadorEnPartido.ID_Partido), Jugadores, Equipos WHERE (Equipos.Nombre = Jugadores.Equipo AND Jugadores.Name = JugadorEnPartido.Jugador AND Partidos.fase = '" + Fase + "' AND Partidos.TEMPORADA = " + Temporada + " AND Partidos.Competencia = '" + Competencia + "')");
+
+
+                OleDbDataReader dr = new ConnectionDAO().consulta(query);
+
+                while (dr.Read())
+                {
+
+
+                    Jugador JugadorA = new Jugador() { Name = (string)dr["Jugador"], Ass = (int)dr["Ass"], Equipo = (string)dr["Equipo"] };
+
+                    ListaDeJugadores.Add(JugadorA);
+
+
+
+                }
+
+                ListaDeJugadores = SortAsistidores(ListaDeJugadores);
+
+                dr.Close(); dr.Dispose();
+
+
+
+                return ListaDeJugadores;
+            }
+
+
+            public static List<Jugador> SortAsistidores(List<Jugador> myList)
+            {
+
+                List<Jugador> sortedList = new List<Jugador>();
+
+                foreach (Jugador Juega in myList)
+                {
+                    bool agrego = true;
+                    if (sortedList.Count > 0)
+                    {
+                        for (int a = 0; a < sortedList.Count; a++)
+                        {
+                            if (sortedList[a].Name == Juega.Name)
+                            {
+                                sortedList[a].Gls = sortedList[a].Ass + Juega.Ass;
+                                agrego = false;
+                                continue;
+                            }
+
+                        }
+                    }
+
+                    if (agrego == true)
+                    {
+                        sortedList.Add(Juega);
+                    }
+
+                }
+
+                List<Jugador> postasortedList = new List<Jugador>();
+
+                sortedList.Sort(delegate(Jugador x, Jugador y)
+                {
+                    return y.Ass.CompareTo(x.Ass);
+                });
+
+
+
+
+                for (int asd = 0; asd < 9; asd++)
+                {
+
+                    postasortedList.Add(sortedList[asd]);
+                }
+                return new List<Jugador>(postasortedList);
+            }
+
+        
+
+        public static List<Jugador> Sorted5Objects(List<Jugador> myList)
+        {
+
+            double cambiante = 0.0000000001;
             SortedList<double, Jugador> sortedList = new SortedList<double, Jugador>();
             foreach (Jugador Juega in myList) {
 
                 if (sortedList.Keys.Contains(Juega.ValorStar)){
 
-                sortedList.Add(Juega.ValorStar + 0.0000000001, Juega);
-
-                }else { 
+                sortedList.Add(Juega.ValorStar + cambiante, Juega);
+                    cambiante = cambiante + 0.0000000001;
+                }
+                else { 
                 sortedList.Add(Juega.ValorStar, Juega);
                 }
 
@@ -508,6 +692,41 @@ namespace DataAcces
         }
 
 
+        public static List<Jugador> Sorted10Objects(List<Jugador> myList)
+        {
+
+            double cambiante = 0.0000000001;
+            SortedList<double, Jugador> sortedList = new SortedList<double, Jugador>();
+            foreach (Jugador Juega in myList)
+            {
+
+                if (sortedList.Keys.Contains(Juega.ValorStar))
+                {
+
+                    sortedList.Add(Juega.ValorStar + cambiante, Juega);
+                    cambiante = cambiante + 0.0000000001;
+                }
+                else
+                {
+                    sortedList.Add(Juega.ValorStar, Juega);
+                }
+
+
+
+
+            }
+
+            int cantidaddejugadores = sortedList.Count;
+
+            for (int asd = 10; asd < cantidaddejugadores; asd++)
+            {
+
+                sortedList.RemoveAt(0);
+            }
+
+
+            return new List<Jugador>(sortedList.Values.Reverse());
+        }
 
 
 
@@ -516,7 +735,7 @@ namespace DataAcces
 
     }
 
-                   }
+}
 
 
 

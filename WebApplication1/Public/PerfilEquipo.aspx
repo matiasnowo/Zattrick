@@ -16,10 +16,10 @@
         <p>
             Pais:
             <asp:Label ID="LabelPais" runat="server" Font-Bold="True" Text="-"></asp:Label>
-          </p>  <p>
-                Categoria:
-                <asp:Label ID="LabelCategoria" runat="server" Font-Bold="True" Text="-"></asp:Label>
-              </p>  
+          </p>  
+        <p>
+            Categoria:<asp:Button ID="ButtCategoria" runat="server" Font-Bold="True" Font-Underline="True" ForeColor="#0000CC"  BorderStyle="None" OnClick="Categoria1_Click" Text="-" />
+        </p>
                 <p>
                     Año de Fundacion:
                     <asp:Label ID="LabelFundacion" runat="server" Font-Bold="True" Text="-"></asp:Label>
@@ -70,8 +70,8 @@
                 </asp:BoundField>
 
                  <asp:HyperLinkField DataNavigateUrlFields="EquipoVisitante" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoVisitante" HeaderText="Visitante" SortExpression="EquipoVisitante" />
-                 <asp:BoundField DataField="Competencia" HeaderText="Competencia" SortExpression="Competencia" >
-                                </asp:BoundField>
+                  <asp:HyperLinkField DataNavigateUrlFields="Competencia" DataNavigateUrlFormatString="/Public/Competencia.aspx?name={0}" DataTextField="Competencia" HeaderText="Competencia" SortExpression="Competencia" />
+             
             </Columns>
             <FooterStyle BackColor="#99CCCC" ForeColor="#003399" />
             <HeaderStyle BackColor="#003399" Font-Bold="True" ForeColor="#CCCCFF" />

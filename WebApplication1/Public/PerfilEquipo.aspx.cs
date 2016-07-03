@@ -52,7 +52,7 @@ namespace AppWeb.Public
 
             LabelPais.Text = Equipazo.Pais;
             LabelApodo.Text = Equipazo.Apodo;
-            LabelCategoria.Text = Equipazo.Categoria;
+            ButtCategoria.Text = Equipazo.Categoria;
             LabelFundacion.Text = Equipazo.Fundacion + "";
             LabelRival.Text = Equipazo.Rival;
 
@@ -267,6 +267,16 @@ namespace AppWeb.Public
         {
 
             Response.Redirect("/Public/Plantilla.aspx?name=" + Titulo.Text);
+        }
+
+        protected void Categoria1_Click(object sender, EventArgs e)
+        {
+
+
+
+            Response.Redirect("/Public/Competencia.aspx?name=" + ButtCategoria.Text);
+
+
         }
     }
 }

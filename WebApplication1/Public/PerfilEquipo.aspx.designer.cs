@@ -49,13 +49,13 @@ namespace AppWeb.Public {
         protected global::System.Web.UI.WebControls.Label LabelPais;
         
         /// <summary>
-        /// Control LabelCategoria.
+        /// Control ButtCategoria.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelCategoria;
+        protected global::System.Web.UI.WebControls.Button ButtCategoria;
         
         /// <summary>
         /// Control LabelFundacion.

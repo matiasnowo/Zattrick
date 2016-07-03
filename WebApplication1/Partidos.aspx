@@ -10,7 +10,7 @@
     </p>
     <p>
         Partidos<p>
-            <strong __designer:mapid="221" >Temporada Actual:</strong>              
+            <strong __designer:mapid="221" >Temporada Actual:</strong>               
             
             <asp:Panel ID="PanelDePartidos" runat="server" CssClass="float-right" style="margin-right:30px" Width="400px" Height="700px" ScrollBars="Auto" BorderStyle="Dashed">
         <strong>Partidos de</strong>
@@ -95,7 +95,7 @@
         </asp:GridView>
         </asp:Panel>
             
-            <asp:Panel ID="TodosLosPartidos" runat="server" Width="470px" Height="700px" BorderStyle="Dashed" ScrollBars="Auto">
+            <asp:Panel ID="TodosLosPartidos" runat="server" Width="500px" Height="700px" BorderStyle="Dashed" ScrollBars="Auto">
         <strong >Todos los Partidos:</strong><asp:GridView ID="GridViewTodoslosPartidos" OnRowDataBound="GridViewTodoslosPartidos_RowDataBound" runat="server" AllowPaging="True" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" PageSize="30" HorizontalAlign="Center" style="text-align: center" BackColor="White" BorderColor="#3366CC" BorderStyle="None" BorderWidth="1px" CellPadding="4">
             <Columns>
                 <asp:ImageField HeaderImageUrl="~/Content/circulo-azul-icono-3849-16.png">
@@ -111,8 +111,9 @@
                 </asp:BoundField>
 
                <asp:HyperLinkField DataNavigateUrlFields="EquipoVisitante" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="EquipoVisitante" HeaderText="Visitante" SortExpression="EquipoVisitante" />
-                 <asp:BoundField DataField="Competencia" HeaderText="Competencia" SortExpression="Competencia" >
-                                </asp:BoundField>
+               <asp:HyperLinkField DataNavigateUrlFields="Competencia" DataNavigateUrlFormatString="/Public/Competencia.aspx?name={0}" DataTextField="Competencia" HeaderText="Competencia" SortExpression="Competencia" />
+             
+                
             </Columns>
             <FooterStyle BackColor="#99CCCC" ForeColor="#003399" />
             <HeaderStyle BackColor="#003399" Font-Bold="True" ForeColor="#CCCCFF" />
@@ -139,7 +140,7 @@
     <br />
     <br />
     <br />
-            <strong __designer:mapid="221" >Temporadas Anteriores::</strong><br />
+            <strong __designer:mapid="221" >Temporadas Anteriores:::</strong><br />
     <asp:Panel ID="Panel4" runat="server" CssClass="float-left" Width="333px">
         
         <br />

@@ -37,5 +37,57 @@ namespace DataAcces
             return temp;
         }
 
+        public string GetFaseActualPrimera()
+        {
+
+            string query = "SELECT Texto FROM Variables WHERE Variable = 'FaseActualPrimera'";
+            string temp = "";
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
+
+            while (dr.Read())
+            {
+
+
+                temp = (string)dr["Texto"];
+
+
+
+
+            }
+
+            dr.Close();
+
+
+
+
+            return temp;
+        }
+
+        public string GetSubFaseActualPrimera()
+        {
+
+            string query = "SELECT Texto FROM Variables WHERE Variable = 'SubFaseActualPrimera'";
+            string temp = "";
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
+
+            while (dr.Read())
+            {
+
+
+                temp = (string)dr["Texto"];
+
+
+
+
+            }
+
+            dr.Close();
+
+
+
+
+            return temp;
+        }
+
     }
 }

@@ -99,6 +99,7 @@ namespace DataAcces
                 Equipazo.Fundacion = (int)dr["Fundacion"];
                 Equipazo.Apodo = (string)dr["Apodo"];
                 Equipazo.Rival = (string)dr["Rival"];
+                Equipazo.Logo = (string)dr["Logo"];
 
 
             }

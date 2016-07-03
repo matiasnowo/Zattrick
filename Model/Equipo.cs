@@ -27,6 +27,7 @@ namespace Model
         public int Fundacion { get; set; }
         public string Apodo { get; set; }
         public string Rival { get; set; }
+        public string Logo { get; set; }
 
 
 
