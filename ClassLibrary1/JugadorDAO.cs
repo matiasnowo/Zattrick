@@ -506,10 +506,25 @@ namespace DataAcces
 
                 Jugador JugadorTraido = new Jugador();
                 List<Jugador> ListaDeJugadores = new List<Jugador>();
-                string query = string.Format("SELECT Jugadores.Equipo, JugadorEnPartido.Jugador, JugadorEnPartido.Gls FROM (Partidos INNER JOIN JugadorEnPartido ON Partidos.Id = JugadorEnPartido.ID_Partido), Jugadores, Equipos WHERE (Equipos.Nombre = Jugadores.Equipo AND Jugadores.Name = JugadorEnPartido.Jugador AND Partidos.fase = '" + Fase + "' AND Partidos.TEMPORADA = " + Temporada + " AND Partidos.Competencia = '" + Competencia + "')");
-           
-             
-                                OleDbDataReader dr = new ConnectionDAO().consulta(query);
+            if (Temporada == 0)
+            {
+
+                TemporadaActualDAO TA = new TemporadaActualDAO();
+                Temporada = TA.GetTemporadaActual();
+            }
+            string query = "";
+
+            if (Fase == null) {
+                query = string.Format("SELECT Jugadores.Equipo, JugadorEnPartido.Jugador, JugadorEnPartido.Gls FROM (Partidos INNER JOIN JugadorEnPartido ON Partidos.Id = JugadorEnPartido.ID_Partido), Jugadores, Equipos WHERE (Equipos.Nombre = Jugadores.Equipo AND Jugadores.Name = JugadorEnPartido.Jugador AND Partidos.TEMPORADA = " + Temporada + " AND Partidos.Competencia = '" + Competencia + "')");
+
+            }
+
+            if (Fase != null)
+            {
+                query = string.Format("SELECT Jugadores.Equipo, JugadorEnPartido.Jugador, JugadorEnPartido.Gls FROM (Partidos INNER JOIN JugadorEnPartido ON Partidos.Id = JugadorEnPartido.ID_Partido), Jugadores, Equipos WHERE (Equipos.Nombre = Jugadores.Equipo AND Jugadores.Name = JugadorEnPartido.Jugador AND Partidos.fase = '" + Fase + "' AND Partidos.TEMPORADA = " + Temporada + " AND Partidos.Competencia = '" + Competencia + "')");
+            }
+
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
 
                 while (dr.Read())
                 {
@@ -582,10 +597,24 @@ namespace DataAcces
 
                 Jugador JugadorTraido = new Jugador();
                 List<Jugador> ListaDeJugadores = new List<Jugador>();
-                string query = string.Format("SELECT Jugadores.Equipo, JugadorEnPartido.Jugador, JugadorEnPartido.Ass FROM (Partidos INNER JOIN JugadorEnPartido ON Partidos.Id = JugadorEnPartido.ID_Partido), Jugadores, Equipos WHERE (Equipos.Nombre = Jugadores.Equipo AND Jugadores.Name = JugadorEnPartido.Jugador AND Partidos.fase = '" + Fase + "' AND Partidos.TEMPORADA = " + Temporada + " AND Partidos.Competencia = '" + Competencia + "')");
+            string query = "";
+            if (Temporada == 0)
+            {
+
+                TemporadaActualDAO TA = new TemporadaActualDAO();
+                Temporada = TA.GetTemporadaActual();
+            }
 
 
-                OleDbDataReader dr = new ConnectionDAO().consulta(query);
+            if (Fase == null)
+            {
+                query = string.Format("SELECT Jugadores.Equipo, JugadorEnPartido.Jugador, JugadorEnPartido.Ass FROM (Partidos INNER JOIN JugadorEnPartido ON Partidos.Id = JugadorEnPartido.ID_Partido), Jugadores, Equipos WHERE (Equipos.Nombre = Jugadores.Equipo AND Jugadores.Name = JugadorEnPartido.Jugador AND Partidos.TEMPORADA = " + Temporada + " AND Partidos.Competencia = '" + Competencia + "')");
+            }
+            if (Fase != null)
+            {
+                query = string.Format("SELECT Jugadores.Equipo, JugadorEnPartido.Jugador, JugadorEnPartido.Ass FROM (Partidos INNER JOIN JugadorEnPartido ON Partidos.Id = JugadorEnPartido.ID_Partido), Jugadores, Equipos WHERE (Equipos.Nombre = Jugadores.Equipo AND Jugadores.Name = JugadorEnPartido.Jugador AND Partidos.fase = '" + Fase + "' AND Partidos.TEMPORADA = " + Temporada + " AND Partidos.Competencia = '" + Competencia + "')");
+            }
+            OleDbDataReader dr = new ConnectionDAO().consulta(query);
 
                 while (dr.Read())
                 {

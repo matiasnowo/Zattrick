@@ -115,7 +115,7 @@ namespace DataAcces
             OleDbDataReader dr = new ConnectionDAO().consulta(query);
             while (dr.Read())
             {
-                Equipo equipo = new Equipo() { Nombre = (string)dr["Nombre"], Archivo = (string)dr["Archivo"] };
+                Equipo equipo = new Equipo() { Nombre = (string)dr["Nombre"], Archivo = (string)dr["Archivo"], Logo = (string)dr["Logo"] };
                 equipos.Add(equipo);
             }
             dr.Close();

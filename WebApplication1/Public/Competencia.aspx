@@ -184,9 +184,10 @@
                      <asp:BoundField DataField="Temporada" HeaderText="Año" SortExpression="Temporada" />
                      <asp:BoundField DataField="Fase" HeaderText="Fase" SortExpression="Fase" />
                  <asp:HyperLinkField HeaderText="Campeon" DataNavigateUrlFields="Campeon" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="Campeon" />
-                            
-                            <asp:BoundField DataField="SegundoPuesto" HeaderText="Segundo" SortExpression="SegundoPuesto" />
-                     <asp:BoundField DataField="TercerPuesto" HeaderText="Tercer" SortExpression="TercerPuesto" />
+                  <asp:HyperLinkField HeaderText="Segundo" DataNavigateUrlFields="SegundoPuesto" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="SegundoPuesto" />
+                 <asp:HyperLinkField HeaderText="Tercero" DataNavigateUrlFields="TercerPuesto" DataNavigateUrlFormatString="/Public/PerfilEquipo.aspx?name={0}" DataTextField="TercerPuesto" />
+                           
+                         
                  </Columns>
                  <FooterStyle BackColor="White" ForeColor="#333333" />
                  <HeaderStyle BackColor="#336666" Font-Bold="True" ForeColor="White" />
